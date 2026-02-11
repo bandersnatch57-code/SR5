@@ -1,0 +1,58 @@
+BEGIN CAMPAIGN DOSSIER — B3c1 (Patch Notes Archive: Act 1)
+====================================================================
+Complete chronological record of Sessions 4-5.
+Canonical historical document.
+
+════════════════════════════════════════════════════════════════════
+
+=== SESSION PATCH NOTES [SESSION 4 — KO.BUN.MARU HEIST / PART 2] ===
+[Legacy Retained: Prior GM classified as Session 4 (Part 2). Maintain sequence to preserve narrative continuity.]
+────────────────────────────────
+UPDATED_LINES:
+- VITALS: Karma 28 -> 37. Nuyen 28,405¥ -> 132,405¥. Condition 4S persists.
+- REPUTATION: Notoriety 0. Street Cred 0 -> 4. Public Awareness 0.
+- GEAR: ADDED - Ares Light Fire 70, Transys NodeLink Chips (20), Renraku Sensi Components (2 crates), Sealed Pelican Case, Kobune Maru TRUE MANIFEST Chip, Wright-Fisher Protocol File, Kaito Suzuki Blackmail Dossier, Captain's Audio Recordings, Navigation Plot.
+- THREADS: #10 WYRM-SIGN [ACTIVE/ACTIONABLE] -> [RESOLVED/ASSET ACQUIRED]. ADDED #14 "The Ledger's Debt" [ACTIVE/LEVERAGE]. ADDED #15 "Yamatetsu Archive Theta" [ACTIVE/OPPORTUNITY]. ADDED #16 "Secondary Payload" [ACTIVE/MYSTERY].
+- THREATS: UPDATED - WYRM-SIGN (MEDIUM -> HIGH/AGGRESSED). UPDATED - Shotozumi-gumi (LOW -> MEDIUM). NEW - Kobune Maru Captain (LOW/COERCED).
+- TIMERS: GRACE PERIOD (Rook's Clinic) ~6h -> ~4h. WYRM-SIGN Delivery @23:00 -> [MISSED/INTERCEPTED]. Silencers Heist @02:00 -> [IMMINENT].
+- NARRATIVE MASS: Pact with Stormbreak reinforced. Acquired significant leverage over Yakuza lieutenant. Gained coerced asset (Ship Captain). **Catalogued as Stabilizing Forces.**
+
+--- RESUME GAME HERE ---
+**TIME:** ~16:30. **LOCATION:** GMC Bulldog, moving south from Everett.
+**SCENE:** The van is heavy with stolen goods. Stormbreak drives. You have the Shard, blackmail files, and the terrifying knowledge that the place The Silencers are hitting in a few hours is a vault for things just like it—and possibly things far worse. Rook's clinic and the nearly-finished scrambler are ~4 hours away. The Helios Wing heist is ~10 hours away. You have a van full of hot cargo that multiple powerful factions now desperately want back.
+**What do you do?**
+
+════════════════════════════════════════════════════════════════════
+
+=== SESSION PATCH NOTES [SESSION 5 — THE HELIOS WING GAMBIT] ===
+[Legacy Note: Following Session 4: Ko.Bun.Maru Heist. Maintains narrative and temporal continuity.]
+────────────────────────────────
+UPDATED_LINES:
+- VITALS: Karma 37 -> 45. Nuyen 132,405¥ -> 137,405¥. Condition: Full Health (0P, 0S).
+- REPUTATION MATRIX:
+  * Shiawase Corporation: Enemy (-4) -> Focused Enemy (-5).
+  * The Silencers: Lethal (-5) -> [NEUTRALIZED].
+  * Charter Protocol: Unknown (?) -> Active Adversary (-4).
+  * NEW: The Spikers: Contractual Ally (+2).
+- GEAR: ADDED - 2x Ares Sigma-3 Assault Rifles w/ gas grenade launchers, 4x spare gas grenade mags, 3x high-capacity power cells, 1x Silencer armored suit (worn), 1x Hardened Extraction Case (contains Sunspot Core), 1x Resonance Stabilizer - Theta Class, 1x R6 Maglock Passkey, 1x R5 Directional Jammer, 1x Hardened Tool Kit (R6), Silencer Commlink & Datachips (encrypted), Charter Protocol Server Node (partially decrypted).
+- THREADS:
+  * #1 The Ghost in the Machine [ACTIVE/CRITICAL] -> [IMMINENT DECISION].
+  * #11 The Silencers [ACTIVE/IMMINENT] -> [RESOLVED/NEUTRALIZED].
+  * NEW #17: [CHARTER'S CURATOR] [ACTIVE/AGGRESSIVE].
+  * NEW #18: [THE SUNSPIRE SEEDLING] [ACTIVE/ENTROPIC].
+  * NEW #19: [THE SPIKER PACT] [ACTIVE/STABILIZING].
+- TIMERS:
+  * Scrambler Completion: [COMPLETE/READY].
+  * The Silencers Heist: [RESOLVED/FAILED (FOR THEM)].
+  * Rent Due: 26 days.
+  * Spiker Contract: 14 days remaining.
+
+NARRATIVE_SUMMARY:
+Anchor and Stormbreak executed a near-flawless counter-heist against The Silencers at the Shiawase Atrium's Helios Wing, securing the Sunspot Core and a Resonance Stabilizer. In a defining act of mercy, Anchor chose not to purge a contained metaphysical entity (Project Sunspire 'Seedling'), allowing it to breach. The team escaped utilizing the newly contracted Spiker gang, forging them into a capable asset. The Silencers are neutralized; Charter Protocol designates Anchor BLACK STAR.
+
+THEMATIC SYNTHESIS:
+Anchor has crossed from a fragmented individual to a conscious actor shaping reality. The choice to spare the Seedling was an act of sacred identification. He has accumulated responsibilities and titles. The story is no longer about finding a self, but about deciding what the self he has forged will do. The soul's fate is now a strategic decision.
+
+════════════════════════════════════════════════════════════════════
+
+END OF B3c1
