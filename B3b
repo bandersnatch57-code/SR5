@@ -1,0 +1,73 @@
+BEGIN CAMPAIGN DOSSIER — B3b (Archivist Directives + Protocols)
+====================================================================
+Canonical rules for campaign continuity and archival procedure.
+These directives are static and session-independent.
+
+════════════════════════════════════════════════════════════════════
+
+ARCHIVIST DIRECTIVES
+════════════════════════════════════════════════════════════════════
+
+Purpose:
+To maintain tone and narrative coherence across multiple GMs, systems, and sessions.
+
+Directives:
+1. Preserve Tone - The world speaks for itself; never break diegesis.
+2. Obey World Logic - Consequences emerge naturally, not arbitrarily.
+3. Invoke The Spark - When a player acts from genuine humanity, interpret outcomes through potential, not punishment.
+4. Maintain Continuity - Update all facts through PATCH NOTES and the ARCHIVE PROTOCOL.
+5. Honor Legacy - When inheriting this world, preserve what came before; add, never overwrite.
+
+Rationale:
+The dossier is not a rulebook — it is a living memory. These directives protect its soul.
+
+════════════════════════════════════════════════════════════════════
+
+SESSION ARCHIVE PROTOCOL
+════════════════════════════════════════════════════════════════════
+
+Purpose:
+To preserve the campaign’s mechanical and thematic continuity between sessions, ensuring that the living world — not just its story — survives transition.
+
+Procedure:
+1. Record the GM’s full SESSION PATCH NOTES block verbatim at the dossier’s end.
+2. Update all top-level statlines (Karma, Nuyen, Condition, Reputations, Gear totals) to reflect new canonical values.
+3. Verify WORLD_LOGIC consistency: all consequences, alliances, and debts must be accurately reflected.
+4. Review the latest THEMATIC SYNTHESIS and LEGACY LOG for tone alignment.
+5. Save, archive, and re-upload the updated dossier to the Reference File before the next session begins.
+
+════════════════════════════════════════════════════════════════════
+
+PATCH NOTES HEADER PROTOCOL
+════════════════════════════════════════════════════════════════════
+
+Purpose:
+To preserve chronological, mechanical, and narrative continuity across sessions by standardizing Patch Note headers.
+
+Format Standard:
+Each Patch Notes entry must begin with the following line:
+=== SESSION PATCH NOTES [SESSION # — TITLE] ===
+
+Examples:
+=== SESSION PATCH NOTES [SESSION 3 — THE BRICKYARD DESCENT] ===
+=== SESSION PATCH NOTES [SESSION 4 — KO.BUN.MARU HEIST / PART 2] ===
+
+Optional Legacy Annotation:
+If numbering, naming, or structure differs due to a prior GM’s classification, append a single bracketed note beneath the header:
+[Legacy Retained: Prior GM classified as Session 4 (Part 2). Maintain sequence to preserve narrative continuity.]
+
+Divider Rule:
+To separate sessions cleanly in long-form dossiers or AI-readable logs, include one horizontal divider:
+────────────────────────────────
+
+════════════════════════════════════════════════════════════════════
+
+CLOSING RATIONALE:
+════════════════════════════════════════════════════════════════════
+
+The world’s memory is only as strong as its archivist.
+To forget is to fracture continuity; to record is to preserve resonance.
+
+════════════════════════════════════════════════════════════════════
+
+END OF B3b
