@@ -1,0 +1,126 @@
+BEGIN CAMPAIGN DOSSIER — B2d (Leverage & Intelligence)
+====================================================================
+Tracks non-physical assets: secrets, codes, dossiers, and influence.
+All entries are canonical as of Session 8.
+
+════════════════════════════════════════════════════════════════════
+
+ASSET: Catalog's Legacy: Three Soft Targets
+  Type: Material / Intelligence
+  Leverage: Moderate
+  Risk: Variable
+  Threads: [THE CATALOG'S LEGACY]
+  Notes: 1) "The Vault" (Belltown, MCT stash), 2) "The Silk Suite" (Downtown, Shiawase blackmail hub), 3) "The Garage" (Puyallup, Yakuza smugglers cache).
+
+ASSET: Charter Nexus Location
+  Type: Strategic / Tactical
+  Leverage: High
+  Risk: High
+  Threads: [CHARTER'S NEXUS]
+  Notes: Co-opted section within Yamatetsu Archive Theta, Tacoma Docks (Dock 7, Sub-level C). Local storage/transfer node for metaphysical artifacts.
+
+ASSET: Charter Protocol Server Node (Partial)
+  Type: Strategic
+  Leverage: Extreme
+  Risk: Extreme
+  Threads: [CHARTER'S CURATOR], [CHARTER'S NEXUS], [THE PROTOCOL'S HANDLERS]
+  Notes: Reveals handler CURATOR, BLACK STAR designation, and Charter council roles (ARCHIVIST, CURATOR, SURGEON, JANITOR).
+
+ASSET: Echo-Keeper Commlink Specifications
+  Type: Technical Advantage
+  Leverage: Low
+  Risk: Low
+  Notes: Custom R6 commlink. +2 dice resist hacking, +1 dice resist resonance-based detection, Memory-Lattice auto backup.
+
+ASSET: Kaito Suzuki Blackmail Dossier
+  Type: Political / Financial
+  Leverage: Extreme
+  Risk: Catastrophic if revealed
+  Threads: [THE LEDGER'S DEBT]
+  Notes: Tier 2 (Financial + Treason). Contains mistress's address, gambling debts to MCT, skimming records. Paired with Teahouse Chip.
+
+ASSET: Kobune Maru as Covert Asset (Pending)
+  Type: Naval / Logistics
+  Leverage: Medium
+  Risk: Medium
+  Threads: [CAPTAIN'S CROSSING]
+  Notes: Captain's fate is now tied to Anchor. Ship is a potential mobile asset. Awaiting orders.
+
+ASSET: Kobune Maru True Manifest
+  Type: Trade / Legal
+  Leverage: Moderate
+  Risk: High (Traceable)
+  Notes: Air-gapped original. Contains real bills of lading and Yakuza contracts.
+
+ASSET: Resonance Stabilizer - Theta Class
+  Type: Technical / Personal
+  Leverage: High
+  Risk: High
+  Threads: [The Ghost in the Machine]
+  Notes: Device for calming/focusing metaphysical resonance. Used in soul integration ritual.
+
+ASSET: Site Hydra Data Core
+  Type: Corporate Blackmail / Intelligence
+  Leverage: High
+  Risk: High
+  Threads: [MOTH'S WEB]
+  Notes: Complete project logs on Moth/J. Voss, Schmidt-Krupp financials, and meta-fragment research. Recovered Session 7.
+
+ASSET: Stabilized Echo
+  Type: Metaphysical
+  Leverage: Unknown
+  Risk: Unknown
+  Threads: [THE SOVEREIGN ANCHOR], [THE SUNSPIRE SEEDLING]
+  Notes: A coherent, inert meta-fragment anchored to Anchor via Sovereign Pact. Created Session 7.
+
+ASSET: Sunspot Core
+  Type: Metaphysical / Blackmail
+  Leverage: Immeasurable
+  Risk: Catastrophic
+  Threads: [CHARTER'S CURATOR], [THE SUNSPIRE SEEDLING]
+  Notes: Primary ECHO BREACH successor project data. Field-tested via Sovereign Pact (Session 7). Revealed Sunspire's Cradle (Annex 12-B).
+
+ASSET: Sunspot Secondary Site (Sunspire's Cradle)
+  Type: Intelligence
+  Leverage: High
+  Risk: Medium
+  Threads: [SUNSPIRE'S CRADLE]
+  Notes: Shiawase Bio-Sciences Campus, Renton (Annex 12-B). Likely contains early-stage research and donor records.
+
+ASSET: Tacoma Dock 7-Alpha Full Security Schematic
+  Type: Tactical
+  Leverage: High
+  Risk: Low
+  Notes: Complete patrol patterns, blind spots, and system vulnerabilities. Acquired Session 8.
+
+ASSET: The Protocol's Handlers
+  Type: Strategic
+  Leverage: High
+  Risk: Extreme
+  Threads: [THE PROTOCOL'S HANDLERS]
+  Notes: Charter council identified: ARCHIVIST, CURATOR (Anchor's handler), SURGEON (seeks Sunspot Core), JANITOR.
+
+ASSET: The Teahouse Chip
+  Type: Political / Treason
+  Leverage: Extreme
+  Risk: Catastrophic
+  Threads: [THE LEDGER'S DEBT]
+  Notes: Visual evidence of Lt. Kaito Suzuki in unauthorized meeting with Shiawase personnel. Tier 2 leverage.
+
+ASSET: Waking Stone Dossier
+  Type: Metaphysical / Historical
+  Leverage: High
+  Risk: Medium
+  Threads: [THE WAKING STONE]
+  Notes: Yamatetsu logs. Recovered from "spontaneous resonance event" in Denver PCC, 12 years ago. Classified as "dormant but cognitively active." No tests could wake it.
+
+ASSET: Wright-Fisher Protocol
+  Type: Corporate Procedure
+  Leverage: High (Technical / Blackmail)
+  Risk: Medium
+  Threads: [Yamatetsu Archive Theta]
+  Notes: Corporate safety procedures for containing "metasapient artifacts." Details Type-4 Null-Field Chambers. Revealed Yamatetsu Archive Theta and Helios Wing locations.
+
+════════════════════════════════════════════════════════════════════
+
+END OF B2d
