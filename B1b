@@ -1,0 +1,192 @@
+BEGIN CAMPAIGN DOSSIER — B1b (Gear / Assets)
+====================================================================
+
+GEAR (Summary):
+ARMOR:
+- Armor Jacket (12)
+- Helmet (+2)
+- Orthoskin +2
+- Titanium +3
+  Total: 17 (19 with helmet)
+  Note: Typically worn with Looted Armored Vest (R9) for total 26/28.
+
+WEAPONS:
+- Savalette Guardian (Heavy Pistol) w/ spare mags.
+- Modified Ares Predator V (from Kage Leader) w/ spare mags.
+- 1x Ares Sigma-3 Assault Rifle w/ gas grenade launcher (1x spare gas grenade mag).
+  Note: Stormbreak possesses 1x Ares Alpha Assault Rifle w/ UGL from salvage.
+
+TOOLS:
+- Full B&E kit (Autopicker R6, Sequencer R6, Maglock Passkey R4, Gecko Tape Gloves, etc.)
+- Medkit (R6)
+- Hardened Tool Kit (R6)
+
+ELECTRONICS:
+- "Echo-Keeper" Custom Commlink (R6, Firewall/Data Proc/Signal 6)
+- Sony Emperor Commlink (R4, backup)
+- Micro-camera
+- White Noise Gen (R3)
+- Jammer (Area R4)
+- Directional Jammer (R5)
+
+MEDICAL:
+- Stim Patches (R3) x2
+- Trauma Patch
+- "Last Stand" Combat Stim Injector
+
+IDS:
+- Fake SIN (R4) "Marcus Thorne"
+- Fake SIN (R4) x1 (backup)
+- Licenses (Firearms, Concealed, B&E Tools) R4
+
+SPECIAL ASSETS:
+- Resonant Stone
+  Description: Contained in Shiawase Securi-Case 500. Soul-jar fragment. Humming. In your possession.
+  Tags: [Core Mystery], [Fractured Self], [Amplifier]
+
+- ECHO BREACH Dossier & Data Chip
+  Description: Full project data.
+
+- Dr. Keiko Arisugawa's Fake SIN
+  Description: R4, identity: Marcus Thorne.
+
+- Kuroi Kage Leader's Commlink
+  Description: Renraku Sensei R5, Decrypted. Contains mission logs, Yamato audio, Curator intel.
+
+- Curator's Ledger
+  Description: Decrypted. Maps paranormal black market. Reveals WYRM-SIGN.
+
+- Curator's Subdermal Data Chip
+  Description: Decrypted. Contains message revealing The Silencers.
+
+- Scrambler Unit Schematics
+  Description: Data chips from Site 3B.
+
+- Family Holograph
+  Description: Physical object, recovered from Site 3B. A small framed image of Dr. Arisugawa with a man and a child. Inscribed: "For Keiko, who remembers why." Returned to her.
+  Tags: [Arisugawa's Catalyst], [Memory], [Debt Owed (to Anchor)], [Symbol of Protection]
+
+- KT-77f Femtosecond Pulse Regulator
+  Description: Kerner Tech, Serial KT-77f. The core component for the scrambler.
+  Tags: [Mission Critical], [Stolen from The Catalog], [High-Value Tech]
+
+- High-Grade Optical Cable
+  Description: For Scrambler assembly.
+
+- Decrypted Data-Dump from The Catalog
+  Description: Contains: Client Ledger, WYRM-SIGN Dossier, "Project Sunspot" Packet, "Charter" Protocol Files. A complete map of one layer of the conspiracy.
+  Tags: [Black Market Intelligence], [Actionable Intel], [Extreme Risk]
+
+- "Zero-Point" Lock Mitigation Suite (Rating 6)
+  Description: An integrated device combining Autopicker, Sequencer, and Maglock Passkey functions with white-noise spoofing. The ultimate B&E tool.
+
+- "Shroud" Thermal & Visual Damping Cloak
+  Description: Provides a +3 dice bonus to Sneaking tests against both visual and thermographic detection. 20 charges.
+
+- "Golem's Fist" Kinetic-Dampening Gloves
+  Description: 3 charges. When activated for an Unarmed Attack, ignore 4 points of the target's Impact Armor for that attack.
+
+- "Synapse" Data Tap (Rating 6)
+  Description: A wireless data-tap capable of bridging air-gapped systems by inducing current in nearby power lines. Espionage tool.
+
+- "Scanner" Cybereye Upgrade Module
+  Description: Harvested from The Catalog. If installed (Essence cost), allows the "Take Aim" Free Action to gain targeting data.
+
+- "Soulstone (Inert)"
+  Description: A drained soulstone, capable of capturing minor earth spirits if recharged. Paranormal curio.
+
+- "Echo-Lens" Monocle
+  Description: Allows sight of emotional/magical "echoes" from the past 24 hours as faint overlays. Investigative curio.
+
+- Assorted High-Grade Electronics Kit
+  Description: For field repairs, rewiring, and improvisation.
+
+- Transys Avalon Commlink (Rating 5)
+  Note: The Catalog's personal device. Used in creation of "Echo-Keeper".
+
+- 2x Fragmentation Grenades
+- 1x Thermal Smoke Grenade
+- Credsticks: 257,290¥ (post-Session 8 expenditures)
+
+- The Catalog's Reserve Stock - A locked crate containing:
+  Contents: 3x Rating 6 Fake SINs with Licenses, 2x Armor Jackets (12), 5x Savalette Guardian Magazines, 1x Roto-Drone (basic model, unarmed), 1x Maglock Passkey (Rating 6), 1x Jammer (Area, Rating 5).
+
+- Case of Transys NodeLink Data Chips (20 units)
+  Street Value: ~8,000¥.
+
+- Two Crates of Renraku Sensi Commlink Components
+  Street Value: ~6,000¥.
+
+- Sealed Pelican Case
+  Contents: 1 flawless sapphire, 1x unknown data chip.
+
+- Kobune Maru TRUE MANIFEST Data Chip
+  Description: Air-gapped original. Contains real bills of lading, Yakuza contracts.
+
+- "Wright-Fisher Protocol" Data File
+  Description: Corporate (Yamatetsu) safety procedures for containing "metasapient artifacts." Details "Type-4 Null-Field Chambers" and references storage facilities, including "Yamatetsu Secure Archive Theta, Tacoma Docks (Annex 7)" and "Shiawase Atrium's Sub-level 3 (Helios Wing), Renton."
+
+- Dossier on Kaito "The Ledger" Suzuki (Shotozumi-gumi Lieutenant)
+  Description: Contains blackmail material: mistress's address, gambling debts to MCT, skimming records.
+  Tags: [Extreme Leverage]
+
+- "The Teahouse Chip"
+  Description: Visual evidence of Lt. Kaito Suzuki in unauthorized meeting with Shiawase personnel.
+  Tags: [Extreme Leverage], [Treason]
+
+- Audio Recordings
+  Description: Captain's tense calls with Yamatetsu re: unsanctioned cargo.
+
+- Navigation Plot
+  Description: Kobune Maru's scheduled "secondary payload pickup." [RESOLVED/ACQUIRED]
+
+- 1x Ares Sigma-3 Assault Rifle w/ underbarrel gas grenade launcher (1x spare gas grenade mag).
+- 1x High-Capacity Power Cell.
+- 5 units ZenBlue Mk.4.
+- 1x Silencer Armored Suit (Currently worn).
+- 1x Hardened Extraction Case (Contains Sunspot Core).
+- 1x Resonance Stabilizer - Theta Class.
+- 1x Maglock Passkey (Rating 6).
+- Silencers' Encrypted Datachips.
+- Charter Protocol Server Node (Partially Decrypted).
+
+- "Echo-Keeper" Custom Commlink (Rating 6)
+  Note: Forged from Transys Avalon (R5) and Silencer commlinks. Firewall/Data Proc/Signal 6, +2 dice to resist hacking, +1 dice to resist resonance-based detection, "Memory-Lattice" automatic data backup.
+  Tags: [Personal Artifact]
+
+- K-7 Whispering Shard (WYRM-SIGN Artifact)
+  Description: Contained and secured.
+
+- "Stabilized Echo" (Portable Null-Chamber)
+  Description: A coherent, inert meta-fragment anchored to Anchor via a Sovereign Pact.
+  Tags: [Metaphysical Asset], [Sovereign Pact], [Potential Resonance]
+
+- "Site Hydra Data Core"
+  Description: Complete project logs on Moth/J. Voss, Schmidt-Krupp financials, and meta-fragment research.
+  Tags: [Actionable Intel], [Corporate Black Lab Records]
+
+- Portable Type-2 Null-Field Chamber (containing "Waking Stone")
+- "Neural-Synch Art Sphere" (Master BTL Recording)
+- Meiji-era Bronze Incense Burner
+- Hokusai Ukiyo-e Print Crate + 4x Additional Ukiyo-e Print Crates
+- Secure Cryo-Container "Bio-Sample Gamma" (-162°C)
+- Lacquered Box w/ 3x Crystalline Data Rods
+
+- "Waking Stone" (Subject #77)
+  Description: A dormant, skull-sized river stone etched with frozen lightning patterns. Emits a low, resonant hum. Contained in a Type-2 Null-Field. Recovered from Yamatetsu Archive Theta.
+  Tags: [Dormant Meta-Artifact], [Resonant Kin to Soul Jars], [Yamatetsu Archived], [Core Mystery]
+
+- "Neural-Synch Art Sphere"
+  Description: A frosted glass sphere containing a premium, illegal sensory symphony (Master BTL Recording). Highly fragile, extremely valuable.
+  Tags: [Black Market Luxury], [Extreme Value]
+
+- Meiji-era Bronze Incense Burner. High-value antique.
+- Hokusai Ukiyo-e Print Crate (Verified). High-value art. Plus 4x Additional Ukiyo-e Print Crates.
+- Cryo-Container "Bio-Sample Gamma". Acquired from the secondary sea payload. Secure. Internal temp: -162°C. Nature unknown.
+- Data Chips - "Parazoological Studies". From Yamatetsu Archive Theta.
+- Tissue Samples - "Subject Theta-Gamma-7" (5 vials). Faintly luminescent.
+- Lacquered Box w/ 3x Crystalline Data Rods. Unknown purpose, structured resonant signature.
+- "Tacoma Dock 7-Alpha Full Security Schematic." Includes all patrol patterns, blind spots, and system vulnerabilities.
+- "Kobune Maru" Covert Asset (Pending). Captain's fate is now tied to Anchor. Awaiting orders.
+
+END OF B1b
