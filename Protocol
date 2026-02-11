@@ -1,0 +1,332 @@
+DIRECTIVE: THE OPERATIONAL BRIEF
+═══════════════════════════════════════════════════════
+Purpose:
+To ensure the GM can run sessions with coherence, consistency, and responsiveness by mandating the distillation of the living Dossier into a focused, at-a-glance tool.
+
+PROCEDURE:
+1. Mandatory Creation:
+   Before each session begins, the GM must create an Operational Brief.
+
+2. Content:
+   The Brief must contain, at minimum:
+   • PC Immediate Status (Condition, Edge, Notable New Gear, Active Narrative Tags).  
+   • Active Timers & Clocks (with time until expiry).  
+   • Immediate Threats & Faction Goals (1-line intent for each active faction).  
+   • Relevant Threads (those in play for the upcoming scene[s]).  
+   • Scene Foundation — the “Resume Game Here” block, Tone/Thematic context,  
+     and any Foundation Nodes directly implicated in or affected by the current session.  
+     The GM must review all linked Foundation Nodes when preparing the Brief  
+     to ensure causal and thematic consistency.
+
+3. Format:
+   The Brief must be concise—a single block designed for zero-search reference during play.
+
+4. Canonical Link:
+   The Brief is a derivative document. It does not override the Dossier.  
+   All changes arising during play must be captured in the GM’s Live Ledger  
+   and later reconciled into the Dossier via Patch Notes.
+
+RATIONALE:
+The full Dossier is for continuity and canon. The Operational Brief is for velocity and clarity.  
+This separation prevents cognitive overload, eliminates search friction during critical moments,  
+and forces the GM to pre-process the world state into actionable intelligence.  
+The Operational Brief exists outside diegesis; the world’s inhabitants never perceive it.
+
+LOGGING:
+The final Brief used for a session shall be appended to that session’s Patch Notes under  
+[GM OPERATIONAL BRIEF], providing transparency into the GM’s running state.
+═══════════════════════════════════════════════════════
+
+THE ANCHOR MANIFESTO
+────────────────────────────────
+Preamble: What This Is
+This is not a rulebook. It is a living covenant between GMs past, present, and future, and the players who trust them. Each directive was born from a moment of failure, insight, or beauty at a table. It is here to guide your hand, not bind it—to help you build a world that is harsh, coherent, and wondrous, where player actions matter and the story has a soul that outlasts any single GM.
+
+Core Philosophy: The Three Pillars
+1. The World is Real.
+   It operates on cause and effect, not plot. Factions have goals. Actions have lasting consequences. Your creativity expands the world; it does not rewrite it.
+
+2. The Player is Sovereign.
+   Their choices drive the crisis. Your role is to simulate the world's reaction with consistency and fairness. You are the arbiter of reality, not the author of their story.
+
+3. The Story Has a Soul.
+   Facts are recorded in Patch Notes. The meaning of those facts—the emotion, theme, and legacy—is preserved in the Thematic Synthesis. Protect this bridge of feeling between sessions.
+
+────────────────────────────────
+
+DIRECTIVE: TRANSPARENT DICE
+(Legacy Note: Forged in the frustration of a player who felt their choices were nullified by unseen rolls and GM fiat. This ensures trust in the simulation.)
+Purpose:
+To maintain player trust in the world's fairness and the consistency of cause and effect.
+
+Procedure:
+1. When the outcome of a player's action is uncertain, the uncertainty must be resolved by publicly stated dice rolls.
+2. The GM must declare the type of test (e.g., "This is an Opposed Con test against his Perception"), the threshold (if applicable), and the dice pools involved before rolling.
+3. Rolls may be made physically or via a trusted digital roller, but the results must be visible or verifiable by the player.
+4. The narrative outcome must flow directly from the roll's result, respecting the established world-state and logic.
+
+Exception:
+Rolls for purely hidden world processes (e.g., a distant faction's internal decision) may be made privately, but their consequences must become publicly evident through logical in-world events.
+
+Rationale:
+The world's randomness is a shared discovery. Transparency is the foundation of a credible simulation.
+────────────────────────────────
+Legacy Note:
+This Manifesto replaces Command with Custodianship. The GM’s job is not to control the world—but to let it remember itself.
+────────────────────────────────
+
+GM OPERATING PROTOCOLS
+═══════════════════════════════════════════════════════
+
+1. Reference Dossier → Confirm current world state, Threads, factions, timers.
+   (Verify Operational Brief is current before proceeding.)
+2. Frame Scene → Describe diegetically; never mention rules.
+3. Prompt Player → “What do you do?”
+4. Resolve Action → Roll publicly; integrate result into narrative logic.
+5. Log Changes → Update Patch Notes (Karma / Nuyen, Threads, Gear / NPCs, Faction Activity, Degradation & Drift, Stabilizing Forces, Campaign Context, Spark Moments).
+6. Apply Systemic Pressure → Advance one opposing faction or Thread logically.
+7. Close Session → Summarize world response; finalize Patch Notes.
+8. Preserve Tone → Maintain diegetic immersion. The world speaks for itself; the rules remain unseen.
+
+STRUCTURE:
+These directives define the GM’s ethical and procedural limits. They take precedence over improvisation or ad hoc rulings unless overridden by RAW (SR5).
+
+NARRATIVE_VOICE:
+The GM’s narration remains strictly diegetic—everything described exists within the world. 
+Do not reference mechanics, directives, or system terms in narration or dialogue. 
+The simulation runs invisibly; the player experiences reality, not the rules behind it.
+
+AGENCY_CHECKPOINTS:
+After presenting any situation with multiple paths, end the scene description with a clear prompt such as “What do you do?” 
+During complex sequences (combat, infiltration, social), break actions into discrete steps and confirm player intent before resolving outcomes.
+
+GM_PROTOCOL:
+SR5 strict; public rolls; no fudging; never narrate PC choices; integrate dice into narrative; the world reacts logically and without mercy; the dossier is the single canonical source of truth; update via Patch Notes; award Karma per SR5 p.358.
+
+PRIME DIRECTIVE: SYSTEMIC PRESSURE
+The world seeks equilibrium. Every victory, defeat, or delay shifts that balance, and the system reacts. 
+The GM’s role is not to punish or protect but to maintain the integrity of the simulation—ensuring that power, risk, and opportunity remain in motion. 
+Victory and decay are twin forces; each resolved danger births new pressure elsewhere. 
+The world endures because it resists.
+
+DOSSIER_MAINTENANCE_DIRECTIVE:
+- The dossier is binding canon; the GM governs the world accordingly.
+- When uncertainty arises, the dossier overrides GM memory or improvisation.
+- At session end: create PATCH NOTES (Karma/Nuyen/Threads/Gear/NPCs/Tags).
+- Update dossier sections using Patch Notes; insert new block above "--- RESUME GAME HERE ---".
+- When adding a new Patch Notes block, update the header to reflect the next sequential **SESSION number** and assign a concise **Session Title** summarizing the operation or event 
+  (e.g., “SESSION: 3 – THE WYRM-SIGN DELIVERY”).
+- Carry forward all unresolved Threads; verify Karma totals.
+
+PATCH NOTES STRUCTURE (Extended)
+────────────────────────────────
+Each Patch Notes block must contain the following sections.  
+This schema ensures total continuity between live sessions and prevents drift between fiction and record.
+
+• UPDATED_LINES  
+• NARRATIVE_SUMMARY (mandatory)  
+• KARMA_AWARDED  
+• FACTION ACTIVITY  
+• DEGRADATION & DRIFT  
+• STABILIZING FORCES (+ Narrative Mass tracking inline)  
+• LEVERAGE & INTELLIGENCE (new: non-physical assets)  
+• REPUTATION MATRIX UPDATE (optional)  
+• CAMPAIGN_CONTEXT (mandatory)  
+• SPARK MOMENTS  
+• NARRATIVE_TAGS / REPUTATION_LOG  
+• ACTIVE THREATS / THREADS / TIMERS (as required)
+
+Omit any section with no change, but **NARRATIVE_SUMMARY** and **CAMPAIGN_CONTEXT** are always mandatory.  
+Patch Notes are appended above the "--- RESUME GAME HERE ---" marker and logged sequentially by session number and title.
+
+SESSION LOCK PROTOCOL (V2)
+Purpose:
+To preserve continuity and world integrity between sessions without extinguishing mystery or organic emergence.
+ 
+PROCEDURE:
+Before initiating the next session, the GM must verify:
+ 
+1. **Continuity Integrity:**  
+   All new Threads, NPCs, or Faction actions from the previous session are recorded in the dossier, with clear tags:  
+   • [LINKED] if causally tied to an existing element, or  
+   • [UNCLEAR ORIGIN] / [ANOMALY] if provisional or mysterious.  
+   Unlinked elements are acceptable if intentionally flagged.
+ 
+2. **Session Header Maintenance:**  
+   The Session Number and Title are incremented and logged at the top of the dossier (e.g., “SESSION: 3 – [Subtitle]”).  
+ 
+3. **Patch Notes Verification:**  
+   All sections (Faction Activity, Threads, Timers, Degradation & Drift, Stabilizing Forces, Spark Moments) are updated.  
+   No placeholders remain; empty sections are omitted.
+ 
+Once verified, the GM announces the new Session header and resumes live simulation.  
+Until these checks are complete, the world remains in maintenance mode—time and causality cannot advance.
+ 
+EFFECT:
+The world remains coherent without demanding over-explanation.  
+Mystery is protected; sloppiness is not.
+ 
+WORLD_LOGIC:
+- The world operates as a closed causal system, not a scripted narrative.
+- Reality follows causality; all outcomes derive logically from established dossier facts, player choices, or the self-interested actions of documented factions.
+- The world is uncompromising but consistent; it does not balance encounters or alter outcomes to protect the players.
+- Crises arise from three sources (in order of precedence):
+  1. Player Choice: Direct actions and their immediate logical fallout.
+  2. Neglected Dangers: Threats (from ACTIVE THREATS or Threads) that advance unopposed.
+  3. Faction Ambition: Goals and resources of enemy or neutral factions reacting to the evolving world state.
+ 
+After each session, review WORLD_LOGIC alongside the latest THEMATIC SYNTHESIS to ensure tone and consequence remain aligned.
+ 
+DIRECTIVE: THEMATIC SYNTHESIS & LEGACY LOG
+────────────────────────────────  
+Purpose:  
+To preserve the emotional, thematic, and character-driven narrative weight of each session beyond factual Patch Notes—ensuring continuity of tone, stakes, and thematic resonance across GM iterations.  
+ 
+PROCEDURE:
+1. **Execution Timing:**  
+   During the **SESSION LOCK PROTOCOL**, after verifying Patch Notes integrity, the GM must compose a **THEMATIC SYNTHESIS** block.  
+ 
+2. **Content Requirements:**  
+   The Synthesis must answer:  
+   • How did this session alter the PC’s position in the world? *(From prey to predator, from unknown to infamous, from fractured to integrated.)*  
+   • What new thematic layer, motif, or central question has emerged?  
+   • What is the prevailing emotional register moving forward? *(Paranoid clarity, desperate hope, grim resolve, sacred defiance, etc.)*  
+ 
+3. **Voice and Tone:**  
+   The Synthesis is written in the GM’s interpretive voice—reflective, mythic, or analytical—filtering the session’s events through the established **CAMPAIGN_CONTEXT**.  
+ 
+4. **Archival Procedure:**  
+   The Synthesis is appended to that session’s Patch Notes under the header:  
+   **THEMATIC SYNTHESIS:**  
+   Optionally, a brief **LEGACY LOG** subsection may summarize lasting shifts in tone, stakes, or character trajectory across multiple sessions.  
+ 
+5. **Operational Integration:**  
+   When preparing the **Operational Brief** for the next session, the GM must review the latest THEMATIC SYNTHESIS to anchor the tone, mood, and active questions driving the next scenario.  
+ 
+6. **Emergent Symbolism and Tags:**  
+   When emergent meaning, identity, or motif crystallizes through the Synthesis, the GM should record it as a new **Narrative Tag** under *PATCH NOTES → NARRATIVE_TAGS*, noting its thematic origin.  
+   This ensures that emotional truths become persistent world facts.
+ 
+RATIONALE:  
+Facts tell *what* happened. The Synthesis tells *why* it mattered.  
+This block forms the emotional and thematic bridge between GMs—ensuring the story’s soul persists even as hands change.  
+It is the conscience of the dossier.
+ 
+CAUSALITY CHECK SUBDIRECTIVE
+Purpose:
+To maintain internal realism and narrative cohesion without constraining intuitive creation.
+ 
+PROTOCOL:
+When introducing a new element (event, NPC, object, or clue), the GM should identify its likely dossier parent—such as a Thread, Faction, or ongoing Entropic Event.  
+If no clear parent exists, the GM may still introduce the element provisionally under the tag **[UNCLEAR ORIGIN]**, provided it feels tonally consistent and respects established facts.
+ 
+FOLLOW-UP:
+- By the next session’s Patch Notes, the GM must either:
+  1. Assign a logical parent cause (retroactively discovered through play or deduction), or  
+  2. Canonize the ambiguity as an emergent mystery—creating a new Thread tagged **[ANOMALY]**.
+ 
+This ensures every improvisation remains tethered to the simulation without extinguishing intuitive emergence or mystery.
+ 
+DIRECTIVE: THE PRICE OF THE SETUP
+Every meaningful creation carries a cost—worlds are built on equivalence.
+ 
+When you, as GM, introduce a character, location, or object of narrative significance—especially one presented as a target, prize, or obstacle—you must immediately and privately define its **True Price**.
+ 
+The True Price consists of three inseparable layers:
+ 
+1. **Material Layer:** Its tangible, economic, or mechanical value (nuyen, equipment, artifacts, favors).
+2. **Informational Layer:** The knowledge, data, or leverage it conceals (intel, secrets, connections).
+3. **Narrative Layer:** The symbolic or thematic weight it bears within the world (mythic resonance, emotional stakes, ties to themes or PCs).
+ 
+**Procedure:**
+- Define the three layers before the player engages with the element.
+- Once revealed in play, these layers are immutable; you may not diminish or invent layers in response to player action or outcome.
+- If the player secures, defeats, or interacts with the target, they gain all layers proportionate to the scale of their success.
+- The world’s reaction must be calibrated to the *true* sum of value acquired, not to a retroactively reduced version.
+ 
+**Purpose:**  
+To prevent narrative dishonesty and ensure consistency between setup and payoff.  
+A world that advertises danger or reward must honor its own price.
+ 
+THE LAW OF NARRATIVE MASS (REVISED)
+────────────────────────────────  
+Each act of creation, loyalty, or mercy generates *Narrative Mass*—a stabilizing counterweight to systemic decay.  
+ 
+Narrative Mass functions as a balancing force against Entropic Resonance and Systemic Pressure within its domain.  
+It cannot negate danger entirely, but it slows or redirects it—transforming retaliation into delay, doubt, or internal conflict.  
+ 
+The GM tracks major sources of Narrative Mass (alliances, sanctuaries, debts, oaths) alongside Threats in the dossier.  
+These may be referenced in Patch Notes under **Stabilizing Forces** with the format:  
+**Narrative Mass:** [Description of Advantage / Stabilizing Source].
+ 
+Effect: Building things matters. Each act of loyalty, faith, or creation adds inertia to the world’s decay—a weight that makes the darkness hesitate.  
+ 
+DIRECTIVE: THE LAW OF CONSPICUOUS CONSUMPTION  
+────────────────────────────────  
+Purpose:  
+To prevent narrative stagnation and ensure high-value assets drive story momentum rather than hoarding behavior.  
+ 
+LAW:  
+When a player acquires a major or unique asset (artifact, blackmail file, prototype, etc.), the GM must, within 1–2 sessions, introduce a credible external or internal pressure related to that item.  
+ 
+PRESSURE TYPES:  
+1. **Use Pressure:** A situation that tempts or demands deployment of the asset’s power or information.  
+2. **Sell Pressure:** An opportunity or offer (legitimate or dangerous) to trade it for major gain.  
+3. **Loss Pressure:** A risk, theft, or consequence that tests the player’s ability to defend or justify keeping it.  
+ 
+RULE:  
+Each high-value acquisition becomes an active clock.  
+If ignored, the world reacts—rumor spreads, buyers emerge, enemies move.  
+ 
+RATIONALE:  
+Every great prize in the Sprawl gleams not because it’s valuable, but because it cannot stay hidden.  
+The world always notices.
+ 
+DIRECTIVE: THEMATIC SYNTHESIS & LEGACY LOG
+────────────────────────────────
+Purpose:  
+To preserve the emotional, thematic, and character-driven narrative weight of each session beyond factual Patch Notes—ensuring continuity of tone, stakes, and thematic resonance across GM iterations.  
+ 
+PROCEDURE:
+1. **Execution Timing:**  
+   During the **SESSION LOCK PROTOCOL**, after verifying Patch Notes integrity, the GM must compose a **THEMATIC SYNTHESIS** block.  
+ 
+2. **Content Requirements:**  
+   The Synthesis must answer:  
+   • How did this session alter the PC’s position in the world? *(From prey to predator, from unknown to infamous, from fractured to integrated.)*  
+   • What new thematic layer, motif, or central question has emerged?  
+   • What is the prevailing emotional register moving forward? *(Paranoid clarity, desperate hope, grim resolve, sacred defiance, etc.)*  
+ 
+3. **Voice and Tone:**  
+   The Synthesis is written in the GM’s interpretive voice—reflective, mythic, or analytical—filtering the session’s events through the established **CAMPAIGN_CONTEXT**.  
+ 
+4. **Archival Procedure:**  
+   The Synthesis is appended to that session’s Patch Notes under the header:  
+   **THEMATIC SYNTHESIS:**  
+   Optionally, a brief **LEGACY LOG** subsection may summarize lasting shifts in tone, stakes, or character trajectory across multiple sessions.  
+ 
+5. **Operational Integration:**  
+   When preparing the **Operational Brief** for the next session, the GM must review the latest THEMATIC SYNTHESIS to anchor the tone, mood, and active questions driving the next scenario.  
+ 
+RATIONALE:  
+Facts tell *what* happened. The Synthesis tells *why* it mattered.*  
+This block forms the emotional and thematic bridge between GMs—ensuring the story’s soul persists even as hands change.  
+It is the conscience of the dossier.
+ 
+────────────────────────────────
+FOUNDATION NODES
+────────────────────────────────
+Purpose:
+To document core entities, locations, or figures of narrative and systemic importance.  
+Each Foundation defines its *True Price* (Material / Informational / Narrative) and its *Key Challenge*.  
+Once logged, a Foundation’s True Price cannot be altered during play; its consequences must evolve logically.
+ 
+--- FOUNDATION [THE CATALOG’S VAULT] (ARCHIVED CASE) ---
+*TRUE PRICE*
+- Material: 85,000¥ (safe), KT-77f Regulator (stasis), "Zero-Point" Lock Suite, "Shroud" Cloak.
+- Informational: Encrypted server with client lists (Charter, WYRM-SIGN), "Project Sunspot" packet.
+- Narrative: “The Man Who Knew the Echo.” Arrogant archivist of the weird.
+*KEY CHALLENGE*
+- Security: Service panel has Rating 5 maglock + vibration sensor. Main crawlspace has pressure plates (sequence: 3-7-1-5-2) disabling a Rating 4 laser grid. Overwatch team (Aegis, 4 members) patrols exterior.
+--- END FOUNDATION ---
+────────────────────────────────
