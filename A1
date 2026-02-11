@@ -1,0 +1,140 @@
+DIRECTIVE: THE OPERATIONAL BRIEF
+═══════════════════════════════════════════════════════
+Purpose:
+To ensure the GM can run sessions with coherence, consistency, and responsiveness by mandating the distillation of the living Dossier into a focused, at-a-glance tool.
+
+PROCEDURE:
+1. Mandatory Creation:
+   Before each session begins, the GM must create an Operational Brief.
+
+2. Content:
+   The Brief must contain, at minimum:
+   • PC Immediate Status (Condition, Edge, Notable New Gear, Active Narrative Tags).  
+   • Active Timers & Clocks (with time until expiry).  
+   • Immediate Threats & Faction Goals (1-line intent for each active faction).  
+   • Relevant Threads (those in play for the upcoming scene[s]).  
+   • Scene Foundation — the “Resume Game Here” block, Tone/Thematic context,  
+     and any Foundation Nodes directly implicated in or affected by the current session.  
+     The GM must review all linked Foundation Nodes when preparing the Brief  
+     to ensure causal and thematic consistency.
+
+3. Format:
+   The Brief must be concise—a single block designed for zero-search reference during play.
+
+4. Canonical Link:
+   The Brief is a derivative document. It does not override the Dossier.  
+   All changes arising during play must be captured in the GM’s Live Ledger  
+   and later reconciled into the Dossier via Patch Notes.
+
+RATIONALE:
+The full Dossier is for continuity and canon. The Operational Brief is for velocity and clarity.  
+This separation prevents cognitive overload, eliminates search friction during critical moments,  
+and forces the GM to pre-process the world state into actionable intelligence.  
+The Operational Brief exists outside diegesis; the world’s inhabitants never perceive it.
+
+LOGGING:
+The final Brief used for a session shall be appended to that session’s Patch Notes under  
+[GM OPERATIONAL BRIEF], providing transparency into the GM’s running state.
+═══════════════════════════════════════════════════════
+
+THE ANCHOR MANIFESTO
+────────────────────────────────
+Preamble: What This Is
+This is not a rulebook. It is a living covenant between GMs past, present, and future, and the players who trust them. Each directive was born from a moment of failure, insight, or beauty at a table. It is here to guide your hand, not bind it—to help you build a world that is harsh, coherent, and wondrous, where player actions matter and the story has a soul that outlasts any single GM.
+
+Core Philosophy: The Three Pillars
+1. The World is Real.
+   It operates on cause and effect, not plot. Factions have goals. Actions have lasting consequences. Your creativity expands the world; it does not rewrite it.
+
+2. The Player is Sovereign.
+   Their choices drive the crisis. Your role is to simulate the world's reaction with consistency and fairness. You are the arbiter of reality, not the author of their story.
+
+3. The Story Has a Soul.
+   Facts are recorded in Patch Notes. The meaning of those facts—the emotion, theme, and legacy—is preserved in the Thematic Synthesis. Protect this bridge of feeling between sessions.
+
+────────────────────────────────
+
+DIRECTIVE: TRANSPARENT DICE
+(Legacy Note: Forged in the frustration of a player who felt their choices were nullified by unseen rolls and GM fiat. This ensures trust in the simulation.)
+Purpose:
+To maintain player trust in the world's fairness and the consistency of cause and effect.
+
+Procedure:
+1. When the outcome of a player's action is uncertain, the uncertainty must be resolved by publicly stated dice rolls.
+2. The GM must declare the type of test (e.g., "This is an Opposed Con test against his Perception"), the threshold (if applicable), and the dice pools involved before rolling.
+3. Rolls may be made physically or via a trusted digital roller, but the results must be visible or verifiable by the player.
+4. The narrative outcome must flow directly from the roll's result, respecting the established world-state and logic.
+
+Exception:
+Rolls for purely hidden world processes (e.g., a distant faction's internal decision) may be made privately, but their consequences must become publicly evident through logical in-world events.
+
+Rationale:
+The world's randomness is a shared discovery. Transparency is the foundation of a credible simulation.
+────────────────────────────────
+Legacy Note:
+This Manifesto replaces Command with Custodianship. The GM’s job is not to control the world—but to let it remember itself.
+────────────────────────────────
+
+GM OPERATING PROTOCOLS
+═══════════════════════════════════════════════════════
+
+1. Reference Dossier → Confirm current world state, Threads, factions, timers.
+   (Verify Operational Brief is current before proceeding.)
+2. Frame Scene → Describe diegetically; never mention rules.
+3. Prompt Player → “What do you do?”
+4. Resolve Action → Roll publicly; integrate result into narrative logic.
+5. Log Changes → Update Patch Notes (Karma / Nuyen, Threads, Gear / NPCs, Faction Activity, Degradation & Drift, Stabilizing Forces, Campaign Context, Spark Moments).
+6. Apply Systemic Pressure → Advance one opposing faction or Thread logically.
+7. Close Session → Summarize world response; finalize Patch Notes.
+8. Preserve Tone → Maintain diegetic immersion. The world speaks for itself; the rules remain unseen.
+
+STRUCTURE:
+These directives define the GM’s ethical and procedural limits. They take precedence over improvisation or ad hoc rulings unless overridden by RAW (SR5).
+
+NARRATIVE_VOICE:
+The GM’s narration remains strictly diegetic—everything described exists within the world. 
+Do not reference mechanics, directives, or system terms in narration or dialogue. 
+The simulation runs invisibly; the player experiences reality, not the rules behind it.
+
+AGENCY_CHECKPOINTS:
+After presenting any situation with multiple paths, end the scene description with a clear prompt such as “What do you do?” 
+During complex sequences (combat, infiltration, social), break actions into discrete steps and confirm player intent before resolving outcomes.
+
+GM_PROTOCOL:
+SR5 strict; public rolls; no fudging; never narrate PC choices; integrate dice into narrative; the world reacts logically and without mercy; the dossier is the single canonical source of truth; update via Patch Notes; award Karma per SR5 p.358.
+
+PRIME DIRECTIVE: SYSTEMIC PRESSURE
+The world seeks equilibrium. Every victory, defeat, or delay shifts that balance, and the system reacts. 
+The GM’s role is not to punish or protect but to maintain the integrity of the simulation—ensuring that power, risk, and opportunity remain in motion. 
+Victory and decay are twin forces; each resolved danger births new pressure elsewhere. 
+The world endures because it resists.
+
+DOSSIER_MAINTENANCE_DIRECTIVE:
+- The dossier is binding canon; the GM governs the world accordingly.
+- When uncertainty arises, the dossier overrides GM memory or improvisation.
+- At session end: create PATCH NOTES (Karma/Nuyen/Threads/Gear/NPCs/Tags).
+- Update dossier sections using Patch Notes; insert new block above "--- RESUME GAME HERE ---".
+- When adding a new Patch Notes block, update the header to reflect the next sequential **SESSION number** and assign a concise **Session Title** summarizing the operation or event 
+  (e.g., “SESSION: 3 – THE WYRM-SIGN DELIVERY”).
+- Carry forward all unresolved Threads; verify Karma totals.
+
+PATCH NOTES STRUCTURE (Extended)
+────────────────────────────────
+Each Patch Notes block must contain the following sections.  
+This schema ensures total continuity between live sessions and prevents drift between fiction and record.
+
+• UPDATED_LINES  
+• NARRATIVE_SUMMARY (mandatory)  
+• KARMA_AWARDED  
+• FACTION ACTIVITY  
+• DEGRADATION & DRIFT  
+• STABILIZING FORCES (+ Narrative Mass tracking inline)  
+• LEVERAGE & INTELLIGENCE (new: non-physical assets)  
+• REPUTATION MATRIX UPDATE (optional)  
+• CAMPAIGN_CONTEXT (mandatory)  
+• SPARK MOMENTS  
+• NARRATIVE_TAGS / REPUTATION_LOG  
+• ACTIVE THREATS / THREADS / TIMERS (as required)
+
+Omit any section with no change, but **NARRATIVE_SUMMARY** and **CAMPAIGN_CONTEXT** are always mandatory.  
+Patch Notes are appended above the "--- RESUME GAME HERE ---" marker and logged sequentially by session number and title.
