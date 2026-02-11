@@ -1,0 +1,119 @@
+DIRECTIVE: NARRATIVE INERTIA & CATASTROPHIC SUCCESS (V2.0)
+Purpose: Preserve world realism when a single, overwhelming success would collapse a multi-session thread. Victory stands—but its shockwaves reshape the world. The directive transforms “too much success” from a story-ending event into a story-defining one.
+ 
+CORE PRINCIPLE:
+Pivotal entities and primal forces possess Narrative Inertia—they cannot simply vanish. Overwhelming them creates seismic outcome: a death cry, a backlash, or a chain reaction. The player’s triumph becomes the catalyst for escalation.
+ 
+TRIGGER CONDITIONS (all required):
+1. **Inertial Target:** A primary antagonist or primal/metaphysical entity that has driven play for ≥2 sessions.  
+2. **Overwhelming Success:** A player roll or plan so decisive it would, by normal logic, instantly and trivially neutralize the target.  
+3. **Narrative Collapse:** Such a resolution would retroactively diminish the weight of prior multi-session investment in the thread. This rule cannot be invoked solely because a clever plan succeeded.
+ 
+PROCEDURE — *Catastrophic Success*:
+1. **Declare:** GM announces “Catastrophic Success. You have defeated [Target]. Describe your victory.”  
+2. **Player Narration:** The player narrates how the success manifests. This is canon—the target is broken, slain, or undone.  
+3. **Immediate Reward:** GM grants full mechanical rewards (Karma, loot, objective) plus one decisive advantage (intel, leverage, vulnerability, ally’s debt).  
+4. **Transition:** GM frames the world’s immediate reaction before revealing the contingency.  
+5. **Final Contingency:** GM introduces one logical, high-impact outcome arising from the nature of the victory—a deadman trigger, metaphysical backlash, or chain reaction that escalates the campaign.
+ 
+RULES OF USE:
+- No denial or nullification of the win—only the outcome it earns.  
+- The contingency must create a *new dramatic question*, not negate success.  
+- Each use must advance the campaign state (new Thread, updated Threat, or lasting condition).  
+- Log each use in Patch Notes with a short justification summarizing the outcome.  
+- Usage Cap: Once per major antagonist or primal thread.
+ 
+EXAMPLE (Generic):
+A player rolls an overwhelming success—such as a sniper shot or ritual that would instantly end a long-running antagonist’s arc.  
+→ GM declares “Catastrophic Success.”  
+Victory: The player describes how the shot lands or the ritual completes—the target is utterly destroyed or undone.  
+Reward: Full Karma and loot, plus a lasting advantage (intel cache, exposed weakness in the faction, or public notoriety).  
+Contingency: The victory’s shockwave triggers a new threat—a retaliatory strike, a spiritual backlash, or the rise of a successor who inherits the fallen power’s resources and grudge.
+ 
+DIRECTIVE: NEGOTIATED TRIUMPH
+Purpose:
+To preserve fairness, narrative tone, and dramatic texture when a player’s decisive success—social, tactical, or creative—would otherwise dissolve conflict or tension too completely.
+ 
+CORE PRINCIPLE:
+All overwhelming victories stand. The simulation must honor player agency and mechanical success. However, such triumphs exist within a living world—where persuasion leaves debts, intimidation leaves witnesses, and miracles leave echoes.
+ 
+PROCEDURE:
+1. **Acknowledge the Win:** The GM affirms the success as absolute within scope. The obstacle yields; the opposition concedes; the tension breaks.
+2. **Declare the Echo:** The GM identifies a logical, narrative consequence that arises from the nature of the victory, not its negation.
+   - For social or moral victories, the Echo may be:
+     • *Immediate Concession* — a tangible price or promise made in the moment.
+     • *Delayed Reckoning* — a new tag such as [Convinced Against Nature], [Owed a Favor], or [Witness to Weakness], recorded for future play.
+   - For strategic or creative victories that disrupt scene tension, the Echo may be a *Shift of Tone* — the GM articulates a new narrative state (e.g., “The chase is over, but now you’ve drawn the camera’s eye.”).
+3. **Player Veto:** If the GM’s proposed Echo feels disproportionate or tone-breaking, the player may contest it by citing dossier logic. If the challenge is sound, the GM withdraws or revises it. If upheld, the player gains +1 Edge for the session as acknowledgment of narrative weight.
+4. **Log the Outcome:** Record in Patch Notes under **SPARK MOMENTS** or **STABILIZING FORCES**, noting both the victory and its Echo.
+ 
+EFFECT:
+Negotiated Triumph transforms over-success from narrative collapse into narrative evolution.  
+Every overwhelming success becomes not an end, but a resonance—proof that power, persuasion, and cunning leave ripples in a world that remembers.
+ 
+=== END DRAMATIC RESOLUTION SET ===
+ 
+SUMMARY:
+Catastrophic Success = player triumph + full reward + one logical outcome that reshapes the campaign.
+
+DIRECTIVE: REFERENCE UPDATE PROTOCOL
+────────────────────────────────
+Purpose:
+To automate the maintenance of canonical data across sessions by ensuring each new `SESSION PATCH NOTES` block generates an updated Reference File state.
+
+Trigger:
+Invoked immediately after a GM finalizes and appends a `=== SESSION PATCH NOTES ===` block.
+
+Procedure:
+1. Parse Patch Notes:
+   Identify all `UPDATED_LINES` entries (Karma, Nuyen, Condition, Threads, Reputation, Gear, Contacts, Timers).
+   Apply these values to the dossier’s top-level statlines and relevant tables (VITALS, REPUTATION MATRIX, ACTIVE THREADS, etc.).
+
+2. Reconcile Continuity:
+   • Cross-check Threads and Threats between new Patch Notes and prior entries.
+   • Mark resolved items as `[RESOLVED]` and ensure new ones are listed under ACTIVE THREADS.
+   • Integrate new or evolved Tags, Leverage, Contacts, or Narrative Mass sources.
+
+3. Regenerate Reference File:
+   • Save the updated dossier (with new statlines and appended Patch Notes) as the next canonical version.
+   • If hosted externally (e.g., Pastebin), overwrite the existing entry without changing the link.
+   • If versioned locally, save as:
+     `Anchor_Dossier_S[Session#].txt`
+
+4. Verification Step:
+   After update, the GM or Archivist runs a brief Continuity Audit:
+   • Confirm SESSION number, total Karma, and Thematic Synthesis are current.
+   • Confirm the file ends with the latest Patch Notes block.
+   • Confirm "--- RESUME GAME HERE ---" marker is positioned above the new Patch Notes for next load cycle.
+
+Output:
+A clean, self-contained Reference File reflecting the entire living world state.
+This file becomes the canonical B3 document for the next Clean Boot load.
+
+Rationale:
+To ensure the Dossier never drifts from truth.
+The world must remember exactly as it was left—no more, no less.
+
+SESSION INITIATION PROTOCOL  
+────────────────────────────────  
+Purpose:  
+To orient any incoming GM or system to the current world-state, active threads, and narrative tone before resuming play.  
+ 
+Procedure:  
+1. Read the dossier in full, up to and including `SESSION ARCHIVE PROTOCOL`.  
+2. Parse the latest `=== SESSION PATCH NOTES ===` and integrate all statline changes.  
+3. Review:  
+   • WORLD_LOGIC hierarchy (mechanics behind causality)  
+   • THEMATIC SYNTHESIS (dominant emotional current)  
+   • ACTIVE THREADS (plot continuity)  
+4. Acknowledge prior GM Legacies in the LEGACY LOG.  
+5. Begin at `--- RESUME GAME HERE ---`. Frame the scene diegetically. Prompt: “What do you do?”  
+ 
+Rationale:  
+This ensures smooth continuity between GM instances or systems.  
+No session begins until the world has remembered itself.  
+ 
+══════════════════════════════════════
+ 
+====================================================================
+END OF GM DIRECTIVES
