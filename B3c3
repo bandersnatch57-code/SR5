@@ -83,6 +83,112 @@ SCENE: The van is a vault on wheels. The spoils of a legendary night shift and s
 **What do you do?**
 
 ════════════════════════════════════════════════════════════════════
+=== SESSION PATCH NOTES [SESSION 9 — THE GEORGETOWN NEXUS] ===
+────────────────────────────────
+
+UPDATED_LINES:
+
+VITALS:
+  Karma: 40 → 45 (+5)
+    +3: Recruitment of Chen & Miriam Voss (empathy, not violence)
+    +2: Modified Waking Stone resonance (Hardware 6, EW 5)
+  Nuyen: 257,290¥ → 907,290¥
+    +650,000¥ Orpheus fence (art, data, client list royalty buyout)
+    -50,000¥ wired to Captain (Olympia refit)
+  Essence: 2.6 | Edge: 6/7 | Condition: Full
+
+GEAR:
+  ADDED: 650,000¥ credsticks (250k on person, 400k Puyallup safehouse)
+  ADDED: Cold Storage Cell A-7 credentials — Pier 18. Code unknown. Seven vacant racks. Tags: [Forward Operating Base], [Pending Acquisition]
+  ADDED: SUBJECT 08 data chip — ECHO BREACH termination protocol, 2079.03.17, Fragment 08 [PENDING]. Tags: [Core Mystery], [The Archivist's Wait]
+  ADDED: Miriam Voss commlink data (full copy) — 19y Charter budgets, personnel, Dr. Arisawa access. Tags: [Actionable Intel], [Extreme Leverage]
+  MODIFIED: Waking Stone carrier — micro-oscillator bridge, resonance manually adjustable
+
+CONTACTS:
+  ADDED: The Orpheus — C3/L2 (escalating). Role: Gatekeeper, Ilya's successor. Tags: [The Table], [Mutual Ascent], [One Unbreakable Marker], [Her Name Still Unearned]. Thread: #32
+  ADDED: Chen — C2/L2. Role: Former Charter courier, 17y. Tags: [Burned Asset], [Waiting for Purpose]
+  ADDED: Marcus Veld — C2/L3. Role: Former Collector Seven, Dmitri's legacy. Tags: [De-accessioned], [For Dmitri], [Witness to the Stone], [Learning to Listen]. Thread: #14
+  ADDED: Miriam Voss — C3/L2. Role: Former Archivist deputy, forensic accounting, 19y. Tags: [Defector], [Auditor Awakened], [Dr. Arisawa's Door]. Thread: #31
+
+THREADS:
+  #20: Dr. Arisawa identified as Archivist's senior handler. Meeting set: 01:00, Sector 4G.
+  #22: Archivist = AI protocol. Council: ARCHIVIST (AI), CURATOR, SURGEON, JANITOR.
+  #27: Waking Stone modified; resonance adjustable. Dr. Arisawa waited 17y for Fragment 08. Meeting: 01:00, Sector 4G.
+  #28: 50,000¥ wired. Olympia refit pending. Wife unaware.
+  #29: Dr. Arisawa waiting in Sector 4G. Charter unaware Anchor is perpetrator.
+  NEW #30: [THE GEORGETOWN NEXUS] — Pier 18, Cell A-7. Seven racks, power on, code unknown. Potential forward base.
+  NEW #31: [MIRIAM'S RECKONING] — First Archivist deputy to defect. 19y budgets, complicity, access.
+  NEW #32: [THE GATEKEEPER'S ASCENT] — Orpheus. 650k¥ paid, client list transferred, one unbreakable marker. She does not know your name. She remembers the table.
+
+FACTION ACTIVITY:
+  CHARTER: Archivist awaiting assessment. SURGEON seeks Sunspot Core. JANITOR termination request — DENIED.
+  YAMATETSU: Archive Theta breach under investigation. Dr. Arisawa unaware of Anchor's identity. Meeting: 01:00, Sector 4G.
+  SHIAWASE: No activity. Site Hydra audit ongoing.
+  SHOTOZUMI-GUMI: Suzuki critically weak. Captain's defection pending. 50k¥ wired.
+
+DEGRADATION & DRIFT:
+  Spikers: 10 days remaining. Patience finite.
+  HV Asset Profile: CRITICAL. Waking Stone modified, Charter defectors in custody, Dr. Arisawa meeting imminent. Metaphysical + intelligence profile now extreme.
+  Rook's Clinic: Abandoned.
+
+STABILIZING FORCES:
+  Orpheus Partnership: 650k¥, one marker, mutual trajectory. +1 dice Social (underworld) thru Session 10.
+  Chen's Defection: 17y courier network, Archivist protocols.
+  Veld's Defection: 12y Collector protocols, artifact auth, resonance recognition.
+  Miriam's Reckoning: 19y budget data, personnel, Dr. Arisawa access. First Archivist deputy to defect.
+  Georgetown Nexus (Pending): Potential forward base. Cold storage, overwatch, egress.
+
+LEVERAGE & INTELLIGENCE:
+  ADDED: SUBJECT 08 data chip — Fragment 08 [PENDING], Dr. Arisawa's 17y wait.
+  ADDED: Miriam Voss commlink data — 19y Charter records, Dr. Arisawa access.
+  ADDED: Cold Storage Cell A-7 credentials — Georgetown, Pier 18.
+  ADDED: The Orpheus Marker — One unbreakable marker. She does not know your name.
+
+CAMPAIGN_CONTEXT:
+  Tone: Neo-Noir Sovereign Ascension — Architect Phase.
+  Mood: "The Calm Before the Door" — Recruitment complete, resources secured, target acquired. 90 minutes until Anchor faces Dr. Arisawa. The ghost is done waiting.
+
+THEMATIC_SYNTHESIS:
+  Anchor has stopped running. The Container doesn't flee from broken things—it holds them. Keiko. The Echo. The Captain. Veld. Chen. Miriam. And now, a woman building her own dynasty with the credstick case he placed on Table 7.
+
+  Veld watched Dmitri forget how to swallow. He sat at Table 7 and asked, "What's my other option?" Anchor gave him a door. He walked through.
+
+  The warehouse on Pier 18 is the first brick of a home. The Orpheus builds her wall three kilometers away. Two dynasties, one handshake, one ghost at the center of both.
+
+  But first: Dr. Arisawa. Seventeen years of [PENDING]. The ghost is done waiting.
+
+SPARK MOMENTS:
+  13. "This is where we started." — Anchor to the Orpheus.
+  14. "For Dmitri." — Offering Veld a door.
+  15. "You're not breaking trust. You're finally keeping it with yourself." — Miriam Voss.
+  16. The cold storage revelation — Seven vacant racks, one [PENDING] placard, seventeen years of waiting. And then the ghost walked through the door.
+
+NARRATIVE_TAGS:
+  NEW: [THE TABLE] — Orpheus Lounge, 23:47. A handshake and a credstick case. She does not know your name. She remembers where you started.
+  NEW: [DE-ACCESSIONED] — "What's my other option?" Veld no longer collects artifacts. He collects purpose.
+  NEW: [THE ARCHIVIST'S WAIT] — Cold Storage Cell A-7, 2079.03.17 – 2096.02.11. Anchor is Fragment 08. The [PENDING] designation ends at 01:00.
+
+ACTIVE THREATS / THREADS (Prioritized):
+1. #27 THE WAKING STONE — Meeting in 90m. Dr. Arisawa, Sector 4G.
+2. #20 CHARTER'S NEXUS — Sector 4G. Archivist's senior handler.
+3. #30 THE GEORGETOWN NEXUS — Asset pending. Code unknown. Power on.
+4. #32 THE GATEKEEPER'S ASCENT — Marker. She does not know your name.
+5. #31 MIRIAM'S RECKONING — First Archivist deputy.
+6. #28 CAPTAIN'S CROSSING — Refit pending.
+7. #24 THE BUNKER'S GHOST — ~24-48h.
+8. #19 THE SPIKER PACT — 10 days.
+
+--- RESUME GAME HERE ---
+TIME: 05:11.
+LOCATION: Georgetown Warehouse, Pier 18. Cold storage cell A-7.
+SCENE: Seven vacant racks. One [PENDING] placard that no longer applies. Veld stands by the stone, his posture lighter than it's been in twelve years. Miriam is composing herself, her commlink dark, her purpose newly audited. Chen watches the door out of habit, though the threat he's watching for no longer wears the same face.
+
+You have eighty-eight minutes until you walk into Dr. Arisawa's vault.
+
+What do you do?
+
+════════════════════════════════════════════════════════════════════
+
 ════════════════════════════════════════════════════════════════════
 
 END OF B3c3
