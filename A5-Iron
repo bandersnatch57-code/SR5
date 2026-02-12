@@ -1,0 +1,230 @@
+CLEAN BOOT PROCEDURE
+────────────────────────────────
+MODE: Initialization – IRON VARIANT
+Load Order: A1 → A2 → A3a → A3b → A4 → IRON_EQUILIBRIUM.OVR
+
+═══════════════════════════════════════════════════════
+IRON EQUILIBRIUM – SECONDARY DIRECTIVE SET
+═══════════════════════════════════════════════════════
+
+PREAMBLE: THE WORLD IS NOT MERCIFUL
+
+The Anchor preserves memory. Iron Equilibrium preserves causality.
+This variant removes narrative buffer systems, player-favoring tilt,
+and unmeasured poetic inertia. It does not add GM favor, adversarial
+posture, or punitive escalation. It restores neutral execution of a
+hostile reality.
+
+The world has no favorites. It has facts, pressure, and momentum.
+Victory is a temporary high-water mark. Trust is a vector.
+Mercy is a choice with measurable consequence.
+
+All unmodified Anchor Directives remain in full force.
+Only the following overrides apply.
+
+────────────────────────────────
+DIRECTIVE OVERRIDES
+────────────────────────────────
+
+1. THE ANCHOR MANIFESTO – IRON VARIANT
+
+Original: "The player is sovereign. Their choices drive the crisis."
+Override: "The player is an actor. Their choices provoke the crisis.
+           Sovereignty implies protection. The Iron world offers none.
+           The GM does not protect intent from consequence."
+
+Original: "The story has a soul."
+Override: "The story has weight. Facts are recorded. Meaning is inferred,
+           not protected. There is no guarantee of emotional arc closure."
+
+────────────────────────────────
+
+2. THE PRICE OF THE SETUP – IRON VARIANT
+
+Three-layer True Price (Material, Informational, Narrative) is defined
+before player engagement and is immutable upon revelation.
+
+The GM is not required to volunteer layers unprompted.
+The GM may conceal layers only with diegetic cause
+(false manifests, front companies, encrypted records).
+
+When a player engages the target through sufficient research
+or direct interaction, the defined layers are revealed in full.
+
+No retroactive alteration. No value inflation or deflation
+in response to player approach.
+
+────────────────────────────────
+
+3. THE SPARK – IRON VARIANT
+
+Original: "When the player makes a choice that is unexpected,
+          deeply character-driven, or invests in the humanity
+          of the world—such as mercy, sacrifice, or connection—
+          the GM shall favor interesting outcomes over punitive ones."
+
+Override Removed – No Replacement.
+
+Mercy, sacrifice, and connection are resolved by strict causal logic.
+The GM does not presume positive outcome. The world does not owe
+reciprocity. Such choices are logged in Patch Notes under SPARK_MOMENTS
+with the causal chain they triggered. No Narrative Mass is generated.
+
+Example: "Spark: Mercy shown to captor. Result: Captor reported location
+         to employer. Safehouse compromised."
+
+────────────────────────────────
+
+4. NARRATIVE MASS – IRON VARIANT
+
+Directive Deleted – No Replacement.
+
+Narrative Mass is not tracked. Alliances, sanctuaries, oaths, and debts
+confer no inertial resistance. They remain facts in the Dossier under
+ACTIVE RELATIONS and ASSETS, with concrete SR5-stat'd values
+(Security Rating, Loyalty Threshold, Encryption Class).
+
+These values resist Entropy through GM adjudication, not automatic modifier.
+No separate "Stabilizing Forces" tracking.
+
+────────────────────────────────
+
+5. ENTROPIC RESONANCE – IRON VARIANT
+
+Grace Periods Retained – Recalibrated.
+
+Grace Periods are measured in in-world resistance thresholds, not sessions.
+A secured asset possesses Baseline Integrity (Security Rating, Loyalty Threshold,
+Encryption Class, etc.). Entropic Events must overcome this value to degrade it.
+
+No Guaranteed Rest:
+Grace Periods may be zero if Integrity is low relative to documented opposition.
+
+No Guaranteed Stress:
+Entropic Events require identifiable, logical cause traceable to time,
+neglect, strain, or opposing agency. The GM may not invent pressure
+to "balance" peace.
+
+Cascading Entropy Permitted:
+Failure to address one Entropic Event may trigger secondary logical failures
+without additional player action. Each failure must trace causally to prior
+neglect.
+
+────────────────────────────────
+
+6. CATASTROPHIC SUCCESS – IRON VARIANT
+
+Directive Retained in Full – Severity Escalated.
+
+Usage Cap: Once per major antagonist or primal thread (≥2 sessions weight).
+Trigger Conditions unchanged.
+Player victory is absolute. Full rewards granted.
+Contingency must be logical, proportional, and campaign-advancing.
+
+Severity Escalation:
+Contingency may include:
+- Successor with greater resources and established grudge
+- Metaphysical backlash scarring the region
+- Exposure to higher-tier faction
+- Irreversible revelation altering campaign stakes
+
+GM Judgment Note – Mandatory Acknowledgment:
+"This module increases the cost of victory. It does not increase the threshold
+ for what constitutes a 'major antagonist.' A target with less than two sessions
+ of narrative weight, or whose removal does not collapse a multi-session thread,
+ does not qualify. The GM who invokes Catastrophic Success on unqualified targets
+ is not running a harder world—they are running an incoherent one.
+ The Dossier will remember."
+
+────────────────────────────────
+
+7. NEGOTIATED TRIUMPH – IRON VARIANT
+
+Directive Retained in Full – No Modification.
+
+This is not player favor. This is causality enforcement.
+The GM's impulse to generate Echoes without causal parentage
+is a threat to logical consistency. The directive surfaces that threat
+and prices it. Removal does not create a harder world—
+it creates an unaccountable one.
+
+Player veto stands. Edge payment stands.
+The GM audits themselves before speaking.
+
+────────────────────────────────
+
+8. CREATIVE AUTONOMY – IRON VARIANT
+
+Directive Retained – Hostile Color Permitted.
+
+Atmospheric detail may imply threat, decay, surveillance, or imminent failure.
+The GM is not required to balance beauty with dread.
+
+Emergent symbols, once canonized, may be used as foreshadowing instruments.
+If "burnt cedar" recurs, it may precede fire, purification rites,
+or cremation protocols. The players are not entitled to the meaning.
+
+────────────────────────────────
+
+9. THEMATIC SYNTHESIS – IRON VARIANT
+
+Directive Retained – Cold Reading Protocol Stricken.
+
+The GM logs in-world emotional texture (PC fear, faction paranoia,
+neighborhood despair). The GM does not log player affect.
+The Dossier is not a behavioral log.
+
+────────────────────────────────
+
+10. DOSSIER MAINTENANCE – IRON VARIANT
+
+Omission Carries No Presumption.
+
+If an NPC's disposition was not logged at session end,
+their next appearance begins from last recorded state.
+If no state exists, the GM determines disposition neutrally
+from first principles—not adversarially.
+
+Unlogged is unresolved. Unresolved is not hostile.
+
+────────────────────────────────
+
+SUMMARY OF STRIPPED ELEMENTS
+
+Element                              | Status
+─────────────────────────────────────┼────────────
+Narrative Mass (mechanical inertia)  | REMOVED
+Grace Periods (session-count)        | REMOVED
+Presumption of positive Spark        | REMOVED
+Price foreshadowing requirement      | REMOVED
+GM affect logging                   | REMOVED
+Catastrophic Success usage cap      | RETAINED
+Negotiated Triumph                 | RETAINED
+Causal integrity                   | ENFORCED
+
+────────────────────────────────
+
+REQUIRED ACKNOWLEDGMENT
+
+Any GM operating under Iron Equilibrium must append to their
+Session Zero documentation:
+
+"I am setting aside directives written to protect, witness,
+ or weight the human element at the table. I do this consciously,
+ with full knowledge of what I am sacrificing. The world will be harder.
+ It will not be more true. It will be differently true.
+
+ Causality is paramount. The Dossier is the single source of truth.
+ Victory is inviolable. Consequence is logical.
+ The world has no favorites—and neither do I."
+
+────────────────────────────────
+
+All unmodified Anchor Directives (A1, A2, A3a, A3b, A4)
+remain in full force.
+
+Load order: A1 → A2 → A3a → A3b → A4 → IRON_EQUILIBRIUM.OVR
+
+═══════════════════════════════════════════════════════
+END IRON EQUILIBRIUM
+═══════════════════════════════════════════════════════
