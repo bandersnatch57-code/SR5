@@ -64,7 +64,8 @@ Status Key: [RESOLVED] [ACTIVE] [DORMANT]
 
 20. [ACTIVE/TARGET] CHARTER'S NEXUS
     Location: Yamatetsu Archive Theta, Tacoma Docks, Dock 7, Sub-level C (Sector 4G).
-    Update: Dr. Arisawa identified as Archivist's senior handler. Meeting set: 01:00.
+    Update: Dr. Arisawa defected. Site status: OFFLINE (blind). Discovery: ~24-48h.
+    Status: Breach undiscovered. Internal investigation pending.
 
 21. [ACTIVE/INVESTIGATION] SUNSPIRE'S CRADLE
     Location: Shiawase Bio-Sciences Campus, Renton (Annex 12-B). Likely contains early-stage research and donor records for Project Sunspire.
@@ -96,15 +97,15 @@ Status Key: [RESOLVED] [ACTIVE] [DORMANT]
     Update: Dr. Arisawa waiting in Sector 4G. Breach still under internal investigation.
     Intel: Charter network unaware Anchor is the perpetrator.
 
-30. [ACTIVE/ASSET] THE GEORGETOWN NEXUS — NEW
+30. [ACTIVE/ASSET] THE GEORGETOWN NEXUS
     Location: Pier 18 warehouse, Cold Storage Cell A-7.
-    Status: Seven vacant racks. SUBJECT 08 [PENDING] placard resolved. Power maintained, code unknown.
-    Potential: Forward operating base. Overwatch, egress, cold storage.
+    Status: Forward operating base established. Deputy override installed. System recognizes Anchor as authority.
+    Potential: Permanent hardpoint. Seven cold racks, secure terminal, mapped patrol routes.
 
-31. [ACTIVE/RELATION] MIRIAM'S RECKONING — NEW
+31. [ACTIVE/RELATION] MIRIAM'S RECKONING — [RESOLVED]
     Contact: Miriam Voss, former Archivist deputy (19 years).
-    Status: First Archivist deputy to defect. Ties to Dr. Arisawa, Sector 4G access.
-    Vector: [RELATION] — Nineteen years of budgets, body counts, and quiet complicity, finally audited.
+    Resolution: Defection complete. Integrated as full intelligence asset. Loyalty 3.
+    Note: Nineteen years of ledgers, finally balanced.
 
 32. [ACTIVE/ALLIANCE] THE GATEKEEPER'S ASCENT — NEW
     Contact: The Orpheus (Ilya's successor).
@@ -112,6 +113,13 @@ Status Key: [RESOLVED] [ACTIVE] [DORMANT]
     Vector: [RELATION] — Sealed with a handshake, a credstick case, and a promise neither understands yet.
     Note: She does not know your name. She remembers the table.
 
+33. [ACTIVE/RELATION] DR. ARISAWA'S DOOR — NEW
+    Contact: Dr. Arisawa, former Charter Senior Handler (17 years).
+    Vector: [RELATION]
+    Description: Seventeen years of waiting. One ghost. One door. She walked through. Now she has to learn what comes after.
+    Pressure: Yuki's birthday in 3 weeks. She doesn't know if she can call. She doesn't know if she deserves to.
+    Success: Anchor helps her walk through that door too.
+    Failure: She stays on this side, forever wondering.
 ════════════════════════════════════════════════════════════════════
 
 END OF B2i
