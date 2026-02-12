@@ -28,6 +28,27 @@ War Chest & Assets:
   Description: 257,290¥ liquid capital + unique artifacts.
   Effect: Unprecedented liquidity and tangible goods provide immense operational flexibility.
 
+The Orpheus Partnership:
+  Description: Silent principals in Ilya's successor's rise. 650,000¥ paid, client list transferred.
+  Effect: One unbreakable marker. Mutual trajectory. +1 dice Social (underworld) for 2 sessions.
+  Tags: [The Table], [Mutual Ascent]
+  Expires: End of Session 10 (temporary), marker permanent.
+
+Chen's Defection:
+  Description: 17-year Charter courier, burned asset.
+  Effect: Courier network knowledge, Archivist communication protocols.
+  Tags: [Burned Asset], [Waiting for Purpose]
+
+Marcus Veld's Defection:
+  Description: Former Collector Seven. Dmitri's legacy. 12 years service.
+  Effect: Collector protocols, artifact authentication, resonance signature recognition.
+  Tags: [De-accessioned], [For Dmitri], [Witness to the Stone], [Learning to Listen]
+
+Miriam's Reckoning:
+  Description: Former Archivist deputy, forensic accounting. 19 years service.
+  Effect: Budget data, personnel records, Dr. Arisawa access protocols. First Archivist deputy to defect.
+  Tags: [Defector], [Auditor Awakened], [Dr. Arisawa's Door]
+
 ════════════════════════════════════════════════════════════════════
 
 NARRATIVE MASS TRACKING:
@@ -47,7 +68,7 @@ NARRATIVE MASS TRACKING:
   Domain: Military / Territorial (Puyallup/Ork Underground)
   Effect: Provides armed security and local dominance for contract duration. Delays/redirects local street-level retaliation.
   Mass Rating: High
-  Timer: 11 days remaining
+  Timer: 10 days remaining
 
 • Source: Sovereign Clarity (Container of Fragments)
   Domain: Psychological / Metaphysical
@@ -75,6 +96,31 @@ NARRATIVE MASS TRACKING:
   Effect: Potential for a covert maritime asset and intelligence pipeline.
   Mass Rating: Medium
   Status: Awaiting Anchor's orders
+
+• Source: The Orpheus Partnership
+  Domain: Black Market / Mutual Ascent
+  Effect: 650,000¥ upfront. One unbreakable marker. +1 dice Social (underworld) for 2 sessions.
+  Mass Rating: High (escalating)
+  Expires: End of Session 10 (temporary), marker permanent.
+  Tags: [The Table], [Mutual Ascent]
+
+• Source: Chen's Defection
+  Domain: Charter Intelligence
+  Effect: 17 years courier network knowledge, Archivist communication protocols.
+  Mass Rating: Medium
+  Tags: [Burned Asset], [Waiting for Purpose]
+
+• Source: Marcus Veld's Defection
+  Domain: Charter Intelligence / Moral Awakening
+  Effect: 12 years Collector protocols, artifact authentication, resonance signature recognition.
+  Mass Rating: Medium → High
+  Tags: [De-accessioned], [For Dmitri], [Witness to the Stone], [Learning to Listen]
+
+• Source: Miriam's Reckoning
+  Domain: Charter Intelligence / Ethical Awakening
+  Effect: 19 years budget data, personnel records, Dr. Arisawa access. First Archivist deputy to defect.
+  Mass Rating: High
+  Tags: [Defector], [Auditor Awakened], [Dr. Arisawa's Door]
 
 ════════════════════════════════════════════════════════════════════
 
