@@ -5,18 +5,18 @@ FACTION ACTIVITY:
 ════════════════════════════════════════════════════════════════════
 
 SHOTOZUMI-GUMI:
-  Status: Internal turmoil. Lieutenant Lieutenant Suzuki's position critcally weak.
+  Status: Internal turmoil. Lieutenant Suzuki's position critcally weak.
   Situation: Lost major sea shipment and high-value art/BTL consignment from Tacoma dock.
   Intel: Captain's defection pending. Wife in Fife unaware. 50,000¥ wired for Olympia refit.
   Standing: Hostile (-5), HIGH threat.
 
 YAMATETSU:
-  Status: Archive Theta operational (offline). Breach undiscovered. Discovery ETA: 24-48 hours (when patrols return, logs fail to reconcile).
-  Response upon discovery: HIGH. Priority-7 asset (Waking Stone) confirmed stolen. Sector 4G handler (Dr. Arisawa) missing. Internal investigation will escalate to corporate security.
-  Situation: Archive Theta (Sector 4G) breached. Priority-7 asset "Waking Stone" stolen.
-  Intel: Dr. Arisawa unaware of Anchor's identity. Has been waiting 17 years for Fragment 08.
-  Standing: Hostile (-3), HIGH threat.
-  Update: Meeting set: 01:00, Sector 4G.
+  Status: Archive Theta offline. Breach undiscovered.
+  Discovery ETA: 24-48 hours (when patrols return, logs fail to reconcile).
+  Response upon discovery: HIGH. Priority-7 asset (Waking Stone) confirmed stolen.
+  Sector 4G handler (Dr. Arisawa): DEFECTED. Location unknown.
+  Internal investigation will escalate to corporate security.
+  Standing: Hostile (-3), HIGH threat (ESCALATING).
 
 SHIAWASE CORPORATION (via Schmidt-Krupp):
   Status: Damage control. Internal audit in progress.
@@ -34,7 +34,7 @@ CHARTER PROTOCOL:
   CURATOR: Status unknown.
   SURGEON: Actively seeking Sunspot Core. No known leads. 
   JANITOR: Termination request for Anchor (Site Hydra aftermath) submitted — DENIED by Archivist.
-  Status: Status: Unaware of Dr. Arisawa's defection. Unaware of Theta breach.
+  Status: Unaware of Dr. Arisawa's defection. Unaware of Theta breach.
 
 ════════════════════════════════════════════════════════════════════
 
