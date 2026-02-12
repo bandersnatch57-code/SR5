@@ -5,11 +5,13 @@ Threats are listed in descending order of severity.
 
 ════════════════════════════════════════════════════════════════════
 
-THREAT: Charter Protocol (CURATOR)
+THREAT: Charter Protocol (ARCHIVIST, CURATOR, SURGEON, JANITOR)
   Level: EXTREME
   Status: Active
-  Description: Shadowy black-ops bureau. Handler CURATOR active. Anchor designated BLACK STAR.
-  Objective: Control of emergent metaphysical threats. Contingency "Cleansing Fire" remains in effect.
+  Description: Shadowy black-ops bureau. Council confirmed: ARCHIVIST (AI), CURATOR, SURGEON, JANITOR. Anchor designated BLACK STAR.
+  Intel: Archivist awaiting senior assessment. CURATOR status unknown. SURGEON actively seeking Sunspot Core.
+  Update: JANITOR submitted termination request for Anchor (Site Hydra aftermath) — DENIED by Archivist.
+  Contingency: "Cleansing Fire" remains in effect.
 
 THREAT: Shiawase Corporation
   Level: EXTREME
@@ -20,10 +22,11 @@ THREAT: Shiawase Corporation
 
 THREAT: Yamatetsu
   Level: HIGH
-  Status: Active (NEW)
+  Status: Active
   Description: Megacorporation. Hostile (-3).
-  Losses: Archive Theta (Sector 4G) breached. Priority-7 asset "Waking Stone" stolen. Tissue samples and research data taken.
-  Action: Quiet but intense internal investigation underway. Looking for the digital ghost who bypassed a Keeper-9 maglock and scrubbed the logs.
+  Losses: Archive Theta (Sector 4G) breached. Priority-7 asset "Waking Stone" stolen.
+  Intel: Dr. Arisawa unaware of Anchor's identity. Has been waiting 17 years for Fragment 08.
+  Update: Meeting set: 01:00, Sector 4G. Charter network unaware Anchor is the perpetrator.
 
 THREAT: The Sunspire Seedling
   Level: HIGH / ENTROPIC
