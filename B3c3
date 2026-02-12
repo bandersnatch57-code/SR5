@@ -5,82 +5,28 @@ This file will grow with future sessions.
 
 ════════════════════════════════════════════════════════════════════
 
-=== SESSION PATCH NOTES [SESSION 8 — THE TACOMA TRIUMVIRATE] ===
-────────────────────────────────
-UPDATED_LINES:
-- VITALS: Karma 30 -> 40. Nuyen 262,290¥ -> 257,290¥ (safehouse rental, minor supplies).
-- GEAR:
-  * ADDED: "Waking Stone" (Yamatetsu Archive Theta, Subject #77). A dormant, skull-sized river stone etched with frozen lightning patterns. Emits a low, resonant hum. Contained in a Type-2 Null-Field until extraction. Tags: [Dormant Meta-Artifact], [Resonant Kin to Soul Jars], [Yamatetsu Archived].
-  * ADDED: "Neural-Synch Art Sphere" (Master BTL Recording). A frosted glass sphere containing a premium, illegal sensory symphony. Highly fragile, extremely valuable on black market.
-  * ADDED: Meiji-era Bronze Incense Burner (High-value antique).
-  * ADDED: Hokusai Ukiyo-e Print Crate (One verified variant, high-value).
-  * ADDED: 4x Additional Ukiyo-e Print Crates (Assumed high-value).
-  * ADDED: Cryo-Container "Bio-Sample Gamma" (Secondary Sea Payload). Secure. Internal temp: -162°C.
-  * ADDED: Data Chips - "Parazoological Studies" (Yamatetsu Archive Theta).
-  * ADDED: Tissue Samples - "Subject Theta-Gamma-7" (5 vials, faintly luminescent).
-  * ADDED: Lacquered Box w/ 3x Crystalline Data Rods (Unknown purpose, structured resonant signature).
-- THREADS:
-  * #16 [SECONDARY PAYLOAD] [ACTIVE/MYSTERY] -> [RESOLVED/ACQUIRED].
-  * NEW #27: [THE WAKING STONE] [ACTIVE/METAPHYSICAL] – A dormant meta-artifact recovered from a Yamatetsu archive. What is it, and what will it become when it wakes?
-  * NEW #28: [CAPTAIN'S CROSSING] [ACTIVE/LOGISTICS] – The coerced/extorted Captain of the Kobune Maru awaits relocation and a new purpose under Anchor's flag. His ship is a potential mobile asset.
-  * NEW #29: [YAMATETSU'S SLEEPING EYE] [ACTIVE/INVESTIGATION] – Yamatetsu Archive Theta (Sector 4G) in Tacoma was breached. Their logs are scrubbed, but they will notice the missing "Waking Stone" and tissue samples. A corporate mystery now has Anchor's scent.
-- TIMERS:
-  * Rent Due: 24 days.
-  * Spiker Contract: 11 days remaining.
-  * Bunker Investigation ("Lockbox"): ~24-48 hours.
-- REPUTATION MATRIX UPDATE:
-  * Shotozumi-gumi: -4 -> -5 (Major loss of face and assets from Tacoma dock heist).
-  * Yamatetsu: NEUTRAL (0) -> -3 (Breach of secure archive, theft of classified meta-asset).
-- NARRATIVE MASS:
-  * Source: Successful Sovereign Heist. Domain: Momentum/Reputation. Effect: +1 dice pool to Social tests (Leadership/Intimidation) with underworld contacts for next 2 sessions. The legend of the "Ghost" grows.
-  * Source: Captain's Defection (Pending). Domain: Naval/Logistics. Effect: Potential for a covert maritime asset and intelligence pipeline.
+=== SESSION 8 — THE TACOMA TRIUMVIRATE ===
 
 NARRATIVE_SUMMARY:
-Anchor turned a scheduled sea-payload interception into a legendary triple-score. After securing the coerced cooperation of the Kobune Maru's captain, he infiltrated the Shotozumi-gumi controlled Tacoma dock days early. There, he discovered and plundered not only the target (Hold 3's incoming cryo-payload) but also a high-value Yakuza art/BTL shipment (Hold 2) and a secret Yamatetsu meta-artifact archive (Hold 4). The "Waking Stone," a dormant kin to soul-jars, was extracted alongside priceless data and samples. The heist was executed with flawless silence and precision, loading the spoils into Stormbreak's van as the Captain's ship played its part. Anchor has massively enriched his war chest, acquired unique artifacts, and drawn the quiet ire of a second megacorporation, all while forging the nucleus of a sovereign operation.
+Anchor turned a sea-payload intercept into a legendary triple-score at Tacoma docks. With the coerced cooperation of the Kobune Maru's captain, he infiltrated Shotozumi-gumi territory and plundered three holds: the target cryo-payload (Bio-Sample Gamma), a Yakuza art/BTL shipment, and a secret Yamatetsu meta-artifact archive. The "Waking Stone"—a dormant kin to soul-jars—was extracted alongside priceless data and samples. The heist was silent, flawless, and complete.
 
-KARMA_AWARDED: +10 (Masterful planning and execution of a complex heist +5, Roleplaying the thief's high and sovereign ambition +3, Securing a major, unexpected meta-artifact +2).
+KARMA_AWARDED: +10 | Total: 40
 
-FACTION ACTIVITY:
-- SHOTOZUMI-GUMI: Will be in turmoil. Lost a major sea shipment and a high-value art/BTL consignment from their own dock. Internal audits and reprisals are certain. Lieutenant Kaito Suzuki's position is now critically weak.
-- YAMATETSU: Will initiate a quiet but intense internal investigation into the Archive Theta breach. The "Waking Stone" was a dormant but classified Priority-7 asset. They will be looking for the digital ghost who bypassed a Keeper-9 maglock and scrubbed the logs.
-- CHARTER PROTOCOL: No direct action, but the acquisition of another major meta-artifact may increase your "signal" to them.
-- MOTH PROPERTIES / J. VOSS: Unaware of the archive breach, but the loss of their Tacoma-connected payload is a secondary financial hit.
-
-DEGRADATION & DRIFT:
-- The Spikers: 11 days of paid security remains. Their loyalty is transactional; their patience for "waiting in vans" is not infinite.
-- High-Value Asset Profile: CRITICAL. Anchor is now transporting a collection of unique items that would make a corporate black lab drool. The combined metaphysical signature may become detectable to specialized trackers.
-
-STABILIZING FORCES:
-- The Sovereign's Confidence: A flawless heist reinforces Anchor's identity and capability.
-- Stormbreak's Loyalty: Cemented by successful, profitable operations and the promise of future vengeance.
-- War Chest & Assets: Unprecedented liquidity and tangible goods provide immense flexibility.
-
-LEVERAGE & INTELLIGENCE:
-- ADDED: "Waking Stone" Dossier – Yamatetsu logs. Recovered from Denver PCC, 12 years ago. "Dormant but cognitively active."
-- ADDED: "Kobune Maru" as a Covert Asset (Pending). Captain's fate is now tied to Anchor.
-- ADDED: "Tacoma Dock 7-Alpha Full Security Schematic." Patrol patterns, blind spots, vulnerabilities.
-
-CAMPAIGN_CONTEXT:
-Tone: Neo-Noir Sovereign Ascension. Thematic Axis: Custodianship, Power with Purpose, The Burden of Clarity.
-Dominant Mood: "The Calm After the Storm" – A moment of profound, quiet triumph. The world is heavier with treasure and consequence, but for a fleeting moment, the thief is not running. He is surveying his new kingdom from the back of a van. The paranoia will return, but this is a benchmark of success.
+KEY OUTCOMES:
+- Waking Stone acquired (dormant meta-artifact, Denver PCC origin)
+- Captain's Crossing initiated (50,000¥ wired, refit pending)
+- Yamatetsu investigation triggered (Sector 4G breach)
+- Reputation: Shotozumi-gumi -5, Yamatetsu -3
 
 THEMATIC SYNTHESIS:
-Anchor has transitioned from a reactive survivor to a proactive architect. This session was not about escaping a threat, but about deliberately constructing a future. The heist was an act of world-building: gathering resources (art, tech, nuyen), allies (the Captain), and mysteries (the Stone) as raw materials. The smile at the end was the key—it was the expression of a self that is no longer fragmented, but integrating its pieces (thief, warrior, custodian, leader) into a terrifyingly effective whole. The story's central question is shifting from "Who am I?" to "What will I build with what I've taken?"
+Anchor transitioned from survivor to architect. The heist was deliberate construction—resources, allies, and mysteries gathered as raw materials. The question shifts from "Who am I?" to "What will I build?"
 
 SPARK MOMENTS:
-1. The silent communion with the "Waking Stone"—recognizing it as kin, not just loot.
-2. Re-sorting the art in Hold 2—the thief's ritual of possession and perfection.
-3. The message to the Captain: "This is a beginning." The moment coercion was reframed as mutual salvation.
+1. Silent communion with the Waking Stone — kin, not loot.
+2. Re-sorting the art in Hold 2 — the thief's ritual of possession.
+3. "This is a beginning." — Coercion reframed as mutual salvation.
 
-NARRATIVE_TAGS:
-- [GHOST OF TACOMA]: Anchor has performed a world-class theft under the nose of a major syndicate and a megacorp without raising an immediate alarm. His legend for flawless, silent infiltration is now cemented. (+2 to related Social tests with syndicates/corps who have heard the rumor, +3 Notoriety with Shotozumi-gumi and Yamatetsu).
-- [SOVEREIGN CURATOR]: The acquisition of the "Waking Stone" and the BTL master demonstrates a move beyond mere survival looting. He is now collecting unique, world-changing artifacts. This will attract other collectors, scholars, and hunters of the rare.
-
---- RESUME GAME HERE ---
-TIME: 05:15. Dawn is a grey smear behind the rain.
-LOCATION: GMC Bulldog, moving south from Tacoma towards the Puyallup safehouse.
-SCENE: The van is a vault on wheels. The spoils of a legendary night shift and settle with every bump in the road. Stormbreak drives, a solid presence. Your commlink is silent. The Captain awaits his orders. The Waking Stone thrums in its bag, a sleeping heart. You have money, muscle, and momentum. The city is waking up, unaware that a new power just loaded its treasury and drove away.
-**What do you do?**
+════════════════════════════════════════════════════════════════════
 
 ════════════════════════════════════════════════════════════════════
 === SESSION PATCH NOTES [SESSION 9 — THE GEORGETOWN NEXUS] ===
