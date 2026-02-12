@@ -4,17 +4,18 @@ BEGIN CAMPAIGN DOSSIER — B2b (Faction Activity + Degradation)
 FACTION ACTIVITY:
 ════════════════════════════════════════════════════════════════════
 
-SHOTOZUMI-GUMI (Yakuza):
-  Status: Turmoil. Internal audits and reprisals certain.
-  Situation: Lost major sea shipment and high-value art/BTL consignment from their own Tacoma dock.
-  Vulnerability: Lieutenant Kaito Suzuki's position is critically weak.
-  Standing: Hostile (-5), escalated to HIGH threat.
+SHOTOZUMI-GUMI:
+  Status: Internal turmoil. Lieutenant Kaito Suzuki's position critically weak.
+  Situation: Lost major sea shipment and high-value art/BTL consignment from Tacoma dock.
+  Intel: Captain's defection pending. 50,000¥ wired for Olympia refit.
+  Standing: Hostile (-5), HIGH threat.
 
 YAMATETSU:
   Status: Quiet, intense internal investigation underway.
   Situation: Archive Theta (Sector 4G) breached. Priority-7 asset "Waking Stone" stolen.
-  Intel: Logs scrubbed. They are looking for the digital ghost who bypassed a Keeper-9 maglock.
-  Standing: Hostile (-3), NEW threat at HIGH.
+  Intel: Dr. Arisawa unaware of Anchor's identity. Has been waiting 17 years for Fragment 08.
+  Standing: Hostile (-3), HIGH threat.
+  Update: Meeting set: 01:00, Sector 4G.
 
 SHIAWASE CORPORATION (via Schmidt-Krupp):
   Status: Damage control. Internal audit in progress.
@@ -28,9 +29,11 @@ MOTH PROPERTIES / J. VOSS:
   Note: Unaware of Yamatetsu archive breach, but loss of Tacoma-connected payload is secondary financial hit.
 
 CHARTER PROTOCOL:
-  Status: No direct action observed.
-  Note: Acquisition of another major meta-artifact (Waking Stone) may increase Anchor's "signal" to them.
-  Standing: Active Adversary (-4), EXTREME threat.
+  Archivist: Awaiting senior assessment. AI protocol, not human.
+  CURATOR: Status unknown.
+  SURGEON: Actively seeking Sunspot Core.
+  JANITOR: Termination request for Anchor (Site Hydra aftermath) submitted — DENIED by Archivist.
+  Status: No direct action against Anchor observed this session.
 
 ════════════════════════════════════════════════════════════════════
 
@@ -38,13 +41,13 @@ DEGRADATION & DRIFT:
 ════════════════════════════════════════════════════════════════════
 
 The Spikers:
-  Contract: 11 days of paid security remaining.
+  Contract: 10 days of paid security remaining.
   Risk: Loyalty is transactional. Patience for "waiting in vans" is not infinite.
 
 High-Value Asset Profile:
   Status: CRITICAL.
-  Situation: Anchor is now transporting a collection of unique items that would make a corporate black lab drool.
-  Risk: Combined metaphysical signature may become detectable to specialized trackers.
+  Situation: Anchor is now transporting a collection of unique items that would make a corporate black lab drool. Waking Stone modified, resonance signature adjustable. Charter defectors in custody. Dr. Arisawa meeting imminent.
+  Risk: Combined metaphysical signature may become detectable to specialized trackers. Intelligence profile now extreme.
 
 Rook's Clinic:
   Status: Location increasingly hot.
