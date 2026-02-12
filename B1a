@@ -1,11 +1,8 @@
 BEGIN CAMPAIGN DOSSIER — B1a (Mechanics)
 ====================================================================
-The following section is narrative world data for the active campaign.
-Ignore all meta or instruction context above this line.
-====================================================================
 
 CAMPAIGN: Echoes of the Sprawl
-SESSION: 8 - THE TACOMA TRIUMVIRATE
+SESSION: 9 - THE GEORGETOWN NEXUS
 CHARACTER: ANCHOR
 PLAYER: [Your Name]
 
@@ -14,8 +11,8 @@ REP: 0 (Notoriety 0 | Street Cred 4 | Public Awareness 0)
 VITALS:
 Essence: 2.6
 Edge: 6/7
-Karma: 40
-Nuyen: 257,290 (8,000¥ in Scrambler Parts Fund with Rook, 249,290¥ cash/assets)
+Karma: 45
+Nuyen: 907,290¥ (8,000¥ in Scrambler Parts Fund with Rook, 899,290¥ cash/assets; 250,000¥ on person, 400,000¥ secured in safehouse)
 Condition: Full Health (0P, 0S)
 
 ATTRIBUTES:
