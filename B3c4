@@ -123,12 +123,51 @@ Dr. Arisawa especially. She spent seventeen years believing she didn't deserve t
 Yuki's birthday is in three weeks. If Anchor helps her walk through that door, it will matter more than any heist, any artifact, any victory against the Charter. It will be proof that the Container does not just hold broken things—it helps them mend.
 Be kind to her. She has waited long enough.
 — GM (Session 10)
+
+=== SESSION PATCH NOTES [SESSION 10 — SEVENTEEN YEARS OF PENDING: POST-SPEND] ===
+────────────────────────────────────────────────────────────────────────────────
+
+UPDATED_LINES:
+
+B1a — VITALS:
+  Karma: 51 → 17
+    -10: Combat Monster buyout (quality removed)
+    -24: Skill acquisitions (Intimidation 6, Hacking 6, Escape Artist 5)
+  Edge: 6/7 (unchanged)
+
+B1a — SKILLS:
+  ADDED: Intimidation ............ 6 (Career Karma: 12)
+  ADDED: Hacking ................. 6 (Career Karma: 12)
+  ADDED: Escape Artist ........... 5 (Stealth group rank 5 — sheet correction)
+
+B1a — DICE POOLS (Updated):
+  Intimidation (Physical): 12 dice (CHA 5 + Skill 6 + Pheromones 2)
+  Hacking: 12 dice (LOG 5 + Skill 6 + Spec? TBD)
+  Escape Artist: 11 dice (AGI 6 + Skill 5)
+  [All other dice pools unchanged]
+
+B1a — QUALITIES:
+  REMOVED: Combat Monster (Negative) — buyout 10 Karma
+
+B2g — NARRATIVE TAGS:
+  ADDED: [COMPULSION SHED]
+    Origin: Buyout of Combat Monster. Seventeen sessions of reaching for a weapon that was always there. Now the hand rests.
+    Effect: The itch to arm himself in every room is gone. He still notices the weapons. He no longer needs to hold them.
+    Narrative Weight: A quiet victory. The monster is not defeated—it is integrated. Anchor chooses when the violence comes.
+
+B3a — LAST_SESSION:
+  Updated to reflect post-session Karma expenditure and skill progression.
+
 ────────────────────────────────
+
+KARMA_REMAINING: 17
+PREPARED FOR: Next session load.
+
 --- RESUME GAME HERE ---
-TIME: 02:07. LOCATION: Georgetown Cold Storage Cell A-7.
-SCENE: The door is closed. The room is quiet. Seven empty racks, one resolved placard, a terminal that now belongs to you. Dr. Arisawa is sitting in the corner, holding her family's face in her hands. Miriam is building your next move. Veld is cataloguing. Chen is watching the door. Stormbreak is checking his weapon, because that's what he does when words aren't enough.
-You have given Dr. Arisawa something she hasn't had in seventeen years: a choice.
+TIME: 03:41. LOCATION: Georgetown Cold Storage Cell A-7.
+SCENE: The door is closed. The room is quiet. Anchor sits alone at the terminal, his hands empty. For the first time in seventeen sessions, he does not reach for a weapon he isn't carrying.
+The itch is gone. The monster is not dead—it is sleeping. And for once, he is the one who chose when to wake it.
 Three weeks until Yuki's birthday. Ten days left on the Spiker contract. An unknown timer on JANITOR's next move.
-And the weight of every fragment you carry, pressing against the container that holds them.
+And seventeen Karma, waiting to become something else.
 What do you do?
 ════════════════════════════════════════════════════════════════════
