@@ -7,10 +7,10 @@ Threats are listed in descending order of severity.
 
 THREAT: Charter Protocol (ARCHIVIST, CURATOR, SURGEON, JANITOR)
   Level: EXTREME
-  Status: Active
+  Status: Active — Dr. Arisawa Defection Undiscovered
   Description: Shadowy black-ops bureau. Council confirmed: ARCHIVIST (AI), CURATOR, SURGEON, JANITOR. Anchor designated BLACK STAR.
-  Intel: Archivist awaiting senior assessment. CURATOR status unknown. SURGEON actively seeking Sunspot Core.
-  Update: JANITOR submitted termination request for Anchor (Site Hydra aftermath) — DENIED by Archivist.
+  Intel: ARCHIVIST awaiting senior assessment of BLACK STAR designation. Timeline unknown. SURGEON actively hunting Sunspot Core. No known leads.
+  Update: JANITOR submitted termination request for Anchor (Site Hydra aftermath) — [DENIED – PENDING SENIOR ASSESSMENT]. Reason for denial unknown. May be strategic patience, resource allocation, or something else.
   Contingency: "Cleansing Fire" remains in effect.
 
 THREAT: Shiawase Corporation
@@ -21,12 +21,12 @@ THREAT: Shiawase Corporation
   Action: Active black-ops pursuit. Director Hideo Yamato is a named antagonist.
 
 THREAT: Yamatetsu
-  Level: HIGH
-  Status: Active
+  Level: HIGH (ESCALATING)
+  Status: Active — Breach Undiscovered
   Description: Megacorporation. Hostile (-3).
-  Losses: Archive Theta (Sector 4G) breached. Priority-7 asset "Waking Stone" stolen.
-  Intel: Dr. Arisawa unaware of Anchor's identity. Has been waiting 17 years for Fragment 08.
-  Update: Meeting set: 01:00, Sector 4G. Charter network unaware Anchor is the perpetrator.
+  Losses: Archive Theta (Sector 4G) breached. Priority-7 asset "Waking Stone" stolen. Sector 4G handler Dr. Arisawa defected.
+  Intel: Breach undiscovered. ETA to discovery: 24-48 hours.
+  Upon Discovery: Internal investigation → corporate security mobilization → asset recovery prioritization. Dr. Arisawa will be designated [DECEASED] or [TRAITOR]. No middle ground.
 
 THREAT: The Sunspire Seedling
   Level: HIGH / ENTROPIC
