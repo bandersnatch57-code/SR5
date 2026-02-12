@@ -76,25 +76,45 @@ CONTACT: The Orpheus — NEW
   Tags: [The Table], [Mutual Ascent], [One Unbreakable Marker], [Her Name Still Unearned]
   Thread: #32 — THE GATEKEEPER'S ASCENT
 
-CONTACT: Chen — NEW
-  Connection: 2
-  Loyalty: 2
-  Role: Former Charter courier, 17 years service.
-  Tags: [Burned Asset], [Waiting for Purpose]
-
-CONTACT: Marcus Veld — NEW
-  Connection: 2
-  Loyalty: 3
-  Role: Former Collector Seven. Dmitri's legacy.
-  Tags: [De-accessioned], [For Dmitri], [Witness to the Stone], [Learning to Listen]
-  Thread: #14 — THE LEDGER'S DEBT (UPDATED)
-
-CONTACT: Miriam Voss — NEW
+CONTACT: Dr. Arisawa — NEW
   Connection: 3
-  Loyalty: 2
-  Role: Former Archivist deputy, forensic accounting. 19 years service.
-  Tags: [Defector], [Auditor Awakened], [Dr. Arisawa's Door]
-  Thread: #31 — MIRIAM'S RECKONING
+  Loyalty: 2 (escalating)
+  Role: Former Charter Senior Handler (Yamatetsu liaison). ECHO BREACH successor projects archivist.
+  Expertise: Charter operational protocols, Yamatetsu corporate security, metaphysical asset classification, ECHO BREACH Subject Files 01-23.
+  Bond: Seventeen years of [PENDING] resolved. Anchor walked through her door and told her she could stop waiting. She doesn't know how to be free yet. She's learning.
+  Tags: [DEFECTOR], [MORAL WITNESS], [YUKI'S DOOR], [LEARNING TO STOP WAITING]
+  Thread: #33 DR. ARISAWA'S DOOR
+
+CONTACT: Miriam Voss — UPDATED
+  Connection: 3
+  Loyalty: 2 → 3
+  Role: Former Archivist Deputy (forensic accounting). Full defector.
+  Expertise: Charter budget architecture, personnel cost-tracking, Dr. Arisawa's access protocols, forensic audit trails.
+  Status: Nineteen years of ledgers, finally balanced. She doesn't flinch when you call her a freedom fighter. She's starting to believe it.
+  Tags: [DEFECTOR], [AUDITOR AWAKENED], [DR. ARISAWA'S DOOR], [WHAT DO WE DO NOW?]
+
+CONTACT: Marcus Veld — UPDATED
+  Connection: 2
+  Loyalty: 2 → 3
+  Role: Former Collector Seven. Dmitri's legacy.
+  Expertise: Artifact authentication, resonance signature recognition, Charter accession/de-accession protocols.
+  Status: Twelve years of collecting for people who never showed their faces. Now he's learning to listen. Dmitri would be proud.
+  Tags: [DE-ACCESSED], [FOR DMITRI], [WITNESS TO THE STONE], [LEARNING TO LISTEN]
+
+CONTACT: Chen — UPDATED
+  Connection: 2
+  Loyalty: 1 → 2
+  Role: Former Charter Courier (17 years). Burned asset.
+  Expertise: Courier network geography, delivery protocols, safehouse/drop point identification.
+  Status: Seventeen years of routes, all ending in rooms he was never supposed to see. He doesn't know what comes next. But he's not running.
+  Tags: [BURNED ASSET], [WAITING FOR PURPOSE]
+
+CONTACT: Stormbreak — UPDATED
+  Connection: 3
+  Loyalty: 3 (cemented)
+  Role: Troll mercenary. Vengeance pact.
+  Status: He trusted you to walk into Theta alone. He counted the seconds anyway. Not because he doubted you—because that's what people do when they've already lost everyone once.
+  Tags: [PACT OF VENGEANCE], [NINETY SECONDS], [STILL COUNTING]
 
 ════════════════════════════════════════════════════════════════════
 
