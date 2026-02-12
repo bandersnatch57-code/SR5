@@ -46,7 +46,7 @@ Hacking: 6
 (Note: Knowledge Skills, languages, and other skills are present in other dossier files as referenced; canonical list in full dossier.)
 
 DICE POOLS (Key Skills):
-Unarmed Combat (Krav Maga): 17 dice (Agility 6 + Skill 6 + Spec 2 + Combat Monster 2 + Reflex Recorder 1). Damage: 14P, AP -1.
+Unarmed Combat (Krav Maga): 17 dice (Agility 6 + Skill 6 + Spec 2 + Reflex Recorder 1). Damage: 14P, AP -1.
 Sneaking (Urban): 16 dice (Agility 6 + Skill 6 + Spec 2 + Catlike 2)
 Disguise: 13 dice (Agility 6 + Skill 5 + Catlike 2)
 Palming: 13 dice (Agility 6 + Skill 5 + Catlike 2)
@@ -59,8 +59,8 @@ Con: 12 dice (effective CHA 5 + Skill 5 + Pheromone 2)
 Dodge: 10 dice (Reaction 5 + Skill 5)
 First Aid: 7 dice (Logic 5 + Skill 2)
 Electronic Warfare: 10 dice (Logic 5 + Skill 5)
-Intimidation (Physical): 13 dice (CHA 5 + Skill 6 + Pheromones 2)
-Hacking: 12 dice (LOG 5 + Skill 6 + Spec? TBD)
+Intimidation: 13 dice (CHA 5 + Skill 6 + Pheromones 2)
+Hacking: 11 dice (LOG 5 + Skill 6)
 Escape Artist: 11 dice (AGI 6 + Skill 5)
 
 QUALITIES:
