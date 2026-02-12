@@ -5,13 +5,16 @@ BASE OF OPERATIONS:
 ════════════════════════════════════════════════════════════════════
 
 Primary Location: Georgetown Nexus, Pier 18 – Cold Storage Cell A-7
-  Status: SECURE. Deputy override installed. System recognizes Anchor.
-  Assets: Seven cold racks, secure terminal, patrol routes mapped. Code unknown.
-  Note: Location known to defectors. Risk if captured.
+  Status: SECURE. Deputy override installed. System recognizes Anchor as authority.
+  Assets: Seven cold racks, secure terminal, external patrol routes mapped. Code unknown (manual bypass).
+  Note: Physical location known to Miriam, Veld, Chen. If any are captured and interrogated, the Nexus is compromised.
 
 Secondary Location: GMC Bulldog (Stormbreak's vehicle)
   Status: Mobile base of operations. Currently laden with retained cargo and assets.
   Note: A vault on wheels.
+
+Tertiary Location: Puyallup Safehouse
+  Status: Active. 400,000¥ secured on premises.
 
 ════════════════════════════════════════════════════════════════════
 
@@ -21,8 +24,8 @@ TIMERS:
 Spiker Contract:                   10 days remaining
 Rent Due:                          23 days remaining
 Captain's Olympia Refit:           2-3 days
-Bunker Investigation ("Lockbox"): ~24-48 hours
-Yamatetsu Discovery:                ~24-48 hours (PENDING)
+Bunker Investigation ("Lockbox"):  ~24-48 hours
+Yamatetsu Discovery:               ~24-48 hours (PENDING)
 Yuki's Birthday:                   3 weeks
 
 [RESOLVED TIMERS]
@@ -30,7 +33,8 @@ Scrambler Completion:          COMPLETE / USED
 The Silencers Heist:           RESOLVED / FAILED
 Secondary Payload Rendezvous:  RESOLVED / ACQUIRED
 WYRM-SIGN Delivery:            MISSED / INTERCEPTED
-Doctor Arisawa Meeting:        RESOLVED
+Dr. Arisawa Meeting:           RESOLVED / DEFECTION COMPLETE
+
 ════════════════════════════════════════════════════════════════════
 
 LAST_SESSION:
@@ -40,31 +44,34 @@ Session:       10 — SEVENTEEN YEARS OF PENDING
 Time/Date:     Following Session 9, immediate continuity
 
 Summary:
-  Anchor executed a masterful recruitment operation without firing a shot.
-  At the Orpheus Lounge, he purchased a dynasty: 650,000¥ for client lists, art, and data—sealing a silent partnership with Ilya's successor.
-  At Georgetown warehouse, he opened doors: Veld, Chen, Miriam Voss. Each walked through.
-  In Cold Storage Cell A-7, he found seven vacant racks and one [PENDING] placard with his name on it.
-  Dr. Arisawa has been waiting seventeen years for Fragment 08 to come home.
-  The ghost is done waiting.
+  Anchor walked through Dr. Arisawa's door. Not as Subject 08, not as Fragment 08—as himself.
+  She asked if he brought the door or the ghost. He brought neither. He brought her a terminal and asked what she wanted to delete.
+  She chose everything. Termination logs. Surveillance archives. The entire digital architecture of her captivity. He made them ash and silence.
+  She asked him her daughter's name. He didn't know it. He asked her to say it anyway.
+  Yuki.
+  Seventeen years since she'd spoken it aloud. Seventeen years since she'd let herself believe she deserved to be a mother.
+  Anchor placed a commlink in her hands and told her it was a door. She held it for a long time. Then she asked him what came next.
+  He didn't have an answer. But he told her she didn't have to know yet.
 
 Assets Acquired:
-  • 650,000¥ (250,000¥ on person, 400,000¥ safehouse)
-  • Cold Storage Cell A-7 access credentials
-  • SUBJECT 08 Termination Protocol data chip
-  • Miriam Voss commlink data (full copy)
-  • Waking Stone carrier modified (resonance adjustable)
+  • Chrysalis Prototype Encephalon (R6)
+  • Shiawase i-Dorton "Morph" Cyberlimb Suite (full)
+  • "Eidolon" Resonance Damper (experimental)
+  • ECHO BREACH Subject Files 01-23 (complete)
+  • Yamatetsu Archive Theta – Complete Intelligence Cache
+  • Deputy-Level Charter Protocols
 
 Assets Gained (Personnel):
-  • The Orpheus — silent partner, one unbreakable marker
-  • Chen — burned courier, awaiting purpose
-  • Marcus Veld — de-accessioned Collector, witness
-  • Miriam Voss — defected deputy, auditor awakened
+  • Dr. Arisawa — former Senior Handler, defected. Learning to stop waiting.
 
 Intel Acquired:
-  • Archivist is an AI protocol, not human
-  • Dr. Arisawa is Archivist's senior handler (Yamatetsu)
-  • Charter council confirmed: ARCHIVIST, CURATOR, SURGEON, JANITOR
-  • JANITOR's termination request for Anchor was denied by Archivist
+  • Complete personnel manifests: Theta staff 2072-present, every deputy, Collector, courier.
+  • Charter acquisition chains, accession/de-accession protocols, [PENDING] criteria, termination hierarchy.
+  • Twenty-two other ECHO BREACH subjects. Their fragments may still exist.
+
+Phase Shift:
+  The ghost is done waiting. The Container holds one more fragment. Anchor is no longer defined by what was taken from him, but by what he chooses to hold.
+  He doesn't put it down. He builds around it.
 
 ════════════════════════════════════════════════════════════════════
 
