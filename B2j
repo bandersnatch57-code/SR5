@@ -56,11 +56,11 @@ CONTACT: Silas (Fixer)
 
 CONTACT: Stormbreak
   Connection: 3
-  Loyalty: 3
-  Role: Troll mercenary. Wields a salvaged Ares Alpha.
-  Summary: Professional alliance forged in fire, cemented by shared survival, payment, and shared spoils.
-  Status: Relationship strengthened by mutual pragmatism and proven loyalty.
-  Bond: Bound by a pact of future vengeance against "Charter" or whoever burned his squad.
+  Loyalty: 3 (cemented)
+  Role: Troll mercenary. Wields a salvaged Ares Alpha. Vengeance pact.
+  Summary: Professional alliance forged in fire, cemented by shared survival, payment, and shared spoils. Relationship strengthened by mutual pragmatism and proven loyalty. Bound by a pact of future vengeance against Charter—whoever burned his squad.
+  Status: He trusted you to walk into Theta alone. He counted the seconds anyway. Not because he doubted you—because that's what people do when they've already lost everyone once.  
+  Tags: [PACT OF VENGEANCE], [NINETY SECONDS], [STILL COUNTING] 
   Note: Narrative Mass. Currently driving the GMC Bulldog loaded with retained goods.
 
 CONTACT: Wisp (Info Broker)
@@ -108,13 +108,6 @@ CONTACT: Chen — UPDATED
   Expertise: Courier network geography, delivery protocols, safehouse/drop point identification.
   Status: Seventeen years of routes, all ending in rooms he was never supposed to see. He doesn't know what comes next. But he's not running.
   Tags: [BURNED ASSET], [WAITING FOR PURPOSE]
-
-CONTACT: Stormbreak — UPDATED
-  Connection: 3
-  Loyalty: 3 (cemented)
-  Role: Troll mercenary. Vengeance pact.
-  Status: He trusted you to walk into Theta alone. He counted the seconds anyway. Not because he doubted you—because that's what people do when they've already lost everyone once.
-  Tags: [PACT OF VENGEANCE], [NINETY SECONDS], [STILL COUNTING]
 
 ════════════════════════════════════════════════════════════════════
 
