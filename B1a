@@ -11,7 +11,7 @@ REP: 0 (Notoriety 0 | Street Cred 4 | Public Awareness 0)
 VITALS:
 Essence: 2.6
 Edge: 6/7
-Karma: 51
+Karma: 17
 Nuyen: 907,290¥ (8,000¥ in Scrambler Parts Fund with Rook, 899,290¥ cash/assets; 250,000¥ on person, 400,000¥ secured in safehouse)
 Condition: Full Health (0P, 0S)
 
@@ -30,6 +30,7 @@ Unarmed Combat (Krav Maga): 6 (+2 spec)
 Sneaking (Urban): 6 (+2 spec)
 Disguise: 5
 Palming: 5
+Escape Artist: 5
 Computer (Data Search): 6 (+2 spec)
 Hardware (Electronics): 6 (+2 spec)
 Locksmith (Maglocks): 5 (+2 spec)
@@ -40,6 +41,8 @@ Dodge: 5
 Electronic Warfare: 5
 Etiquette: 4
 First Aid: 2
+Intimidation: 6
+Hacking: 6
 (Note: Knowledge Skills, languages, and other skills are present in other dossier files as referenced; canonical list in full dossier.)
 
 DICE POOLS (Key Skills):
@@ -56,10 +59,13 @@ Con: 12 dice (effective CHA 5 + Skill 5 + Pheromone 2)
 Dodge: 10 dice (Reaction 5 + Skill 5)
 First Aid: 7 dice (Logic 5 + Skill 2)
 Electronic Warfare: 10 dice (Logic 5 + Skill 5)
+Intimidation (Physical): 13 dice (CHA 5 + Skill 6 + Pheromones 2)
+Hacking: 12 dice (LOG 5 + Skill 6 + Spec? TBD)
+Escape Artist: 11 dice (AGI 6 + Skill 5)
 
 QUALITIES:
 Positive: Astral Chameleon, Catlike
-Negative: Combat Monster, Insomnia (Mild), Creature of Comfort (Low), Earther
+Negative: Insomnia (Mild), Creature of Comfort (Low), Earther
 
 AUGMENTATION (Alpha Grade):
 - Cybereyes (Low-Light, Vision Magnification, Smartlink)
