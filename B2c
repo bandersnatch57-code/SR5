@@ -5,7 +5,7 @@ STABILIZING FORCES:
 ════════════════════════════════════════════════════════════════════
 
 The Spiker Pact:
-  Description: 11 days of professional armed security under Krawl.
+  Description: 10 days of professional armed security under Krawl.
   Effect: Primary tangible buffer against street-level retaliation.
 
 Sovereign Clarity:
@@ -25,7 +25,7 @@ The Sovereign's Confidence:
   Effect: Reinforces Anchor's identity and capability.
 
 War Chest & Assets:
-  Description: 257,290¥ liquid capital + unique artifacts.
+  Description: 907,290¥ liquid capital + unique artifacts.
   Effect: Unprecedented liquidity and tangible goods provide immense operational flexibility.
 
 The Orpheus Partnership:
@@ -54,18 +54,6 @@ Miriam's Reckoning:
   Effect: Loyalty 2 → 3. First Archivist deputy to defect. Full access to deputy-level protocols, personnel files, forensic accounting trails.
   Narrative Mass: HIGH → VERY HIGH
   Tags: [DEFECTOR], [AUDITOR AWAKENED], [DR. ARISAWA'S DOOR]
-
-Dr. Arisawa's Defection:
-  Domain: Moral / Intelligence
-  Effect: Seventeen years of Charter/Yamatetsu handler intelligence acquired. Dr. Arisawa's operational knowledge includes ARCHIVIST communication protocols, asset acquisition chains, and the full scope of ECHO BREACH's successor projects.
-  Narrative Mass: HIGH
-  Tags: [DEFECTOR], [MORAL WITNESS], [YUKI'S DOOR]
-
-The Georgetown Nexus:
-  Domain: Territorial / Operational
-  Effect: Permanent forward operating base with deputy override authority. System recognizes Anchor. Seven cold storage racks, secure terminal, external patrol routes mapped.
-  Narrative Mass: HIGH
-  Tags: [HARDPOINT], [OURS]
 
 ════════════════════════════════════════════════════════════════════
 
@@ -139,6 +127,18 @@ NARRATIVE MASS TRACKING:
   Effect: 19 years budget data, personnel records, Dr. Arisawa access. First Archivist deputy to defect.
   Mass Rating: High
   Tags: [Defector], [Auditor Awakened], [Dr. Arisawa's Door]
+
+• Source: Dr. Arisawa's Defection
+  Domain: Moral / Intelligence
+  Effect: Seventeen years of Charter/Yamatetsu handler intelligence acquired. ARCHIVIST communication protocols, asset acquisition chains, ECHO BREACH successor projects.
+  Mass Rating: High
+  Tags: [DEFECTOR], [MORAL WITNESS], [YUKI'S DOOR]
+
+• Source: The Georgetown Nexus
+  Domain: Territorial / Operational
+  Effect: Permanent forward operating base with deputy override authority. System recognizes Anchor. Seven cold racks, secure terminal, mapped patrol routes.
+  Mass Rating: High
+  Tags: [HARDPOINT], [OURS]
 
 ════════════════════════════════════════════════════════════════════
 
