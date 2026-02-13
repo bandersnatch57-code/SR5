@@ -1,6 +1,6 @@
 BEGIN CAMPAIGN DOSSIER — B2e (Reputation Matrix)
 ====================================================================
-Faction and individual standings. Updated through Session 10.
+Faction and individual standings. Updated through Session 11.
 
 ════════════════════════════════════════════════════════════════════
 
@@ -38,7 +38,7 @@ Faction: The Silencers
 
 Faction: The Spikers
   Standing: Contractual Ally (+2)
-  Notes: Armed security force. Contract: 10 days remaining.
+  Notes: Armed security force. Contract: 7 days remaining.
 
 Faction: WYRM-SIGN
   Standing: Aggressive (-3)
@@ -81,6 +81,11 @@ Contact: Dr. Arisawa
   Standing: Ally (+2, escalating)
   Notes: Former Charter Senior Handler, defected. Seventeen years of [PENDING] resolved. Learning to be free.
   Tags: [DEFECTOR], [MORAL WITNESS], [YUKI'S DOOR]
+
+Contact: Yoshiko
+  Standing: Connection 2, Loyalty 1 (rising)
+  Notes: Former Morita fixer, awakened security specialist. Anchor returned her focus and her file without condition. She is learning what trust feels like without leverage.
+  Tags: [Focus-Bound], [Learning to Trust], [Morita's Former Leverage], [The Window], [Shinto Adept]
 ════════════════════════════════════════════════════════════════════
 
 END OF B2e
