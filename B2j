@@ -1,6 +1,6 @@
 BEGIN CAMPAIGN DOSSIER — B2j (Contacts Master List)
 ====================================================================
-Complete contact list. Updated through Session 10.
+Complete contact list. Updated through Session 11.
 Contacts listed alphabetically.
 
 ════════════════════════════════════════════════════════════════════
@@ -36,7 +36,7 @@ CONTACT: Krawl & The Spikers
   Connection: 3
   Loyalty: 2
   Role: Gang leader and crew, contracted as armed security force.
-  Duration: Contract lasts 10 days.
+  Duration: Contract lasts 7 days.
   Relationship: Professional and transactional; cemented by weapons infusion and shared victory (Helios Wing, Tacoma).
   Note: Patience for "waiting in vans" is not infinite.
 
@@ -108,6 +108,15 @@ CONTACT: Chen — UPDATED
   Expertise: Courier network geography, delivery protocols, safehouse/drop point identification.
   Status: Seventeen years of routes, all ending in rooms he was never supposed to see. He doesn't know what comes next. But he's not running.
   Tags: [BURNED ASSET], [WAITING FOR PURPOSE]
+
+CONTACT: Yoshiko — NEW
+  Connection: 2
+  Loyalty: 1 (rising)
+  Role: Former Morita fixer, awakened security specialist (Shinto tradition).
+  Spells: Manabolt, Levitate, Influence, Physical Mask.
+  Bond: Anchor returned her focus and her file without condition. She is learning what trust feels like without leverage.
+  Tags: [Focus-Bound], [Learning to Trust], [Morita's Former Leverage], [The Window], [Shinto Adept]
+  Thread: #34 — YOSHIKO'S CHOICE
 
 ════════════════════════════════════════════════════════════════════
 
