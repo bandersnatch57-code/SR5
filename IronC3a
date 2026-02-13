@@ -1,0 +1,198 @@
+=== SESSION PATCH NOTES [SESSION 1 — "THE CONTAINER WEEPS"] ===
+
+UPDATED_LINES:
+════════════════════════════════════════════════════════════════════
+
+VITALS:
+  Karma: 4 → 12 (carryover 4 + 8 awarded)
+  Nuyen: 3,000¥ → 11,000¥ (3,000¥ upfront + 8,000¥ job completion)
+  Edge: 7/7
+  Essence: 5.46
+  Condition: Full
+
+GEAR — ADDED:
+  • Emiko Sato's house key — 1472 Mizukami, Lake Tazawa, Iwate Prefecture
+  • Camera chip (Day 2 footage) — Yuki approaching, entering, exiting container
+  • Nakamura direct line — from Yuki's blazer pocket
+  • Mitsuhama Security handler commcode — from the Man with Military Hands
+  • Yuki's unopened painkillers — Mitsuhama Health Services, dated 2082.01.15
+  • Yuki's copy of Japanese Folktales of the Spirit World — marked chapter: "The Containers of the Forgotten Dead"
+  • Lockbox key (small, from Yuki's kitchen drawer) — purpose unknown
+  • 2 packs instant ramen — from Yuki's cabinet, consumed at 1 AM
+
+CONTACTS — ADDED/UPDATED:
+  • Mira — NEW. Connection 2, Loyalty 4. Tags: [Sister-Chosen], [Yuki's Shirt], [Cold Ramen at 1 AM]
+  • Akari Sato — NEW. Connection 4, Loyalty 3. Tags: [Emiko's Sister], [22 Years of Waiting], [The Container at Dawn]
+  • The Man with Military Hands — NEW. Connection 3, Loyalty 1. Tags: [UNCLEAR ORIGIN], [Named His Daughter Emiko], [Gave You the Chip]
+  • Sayuri — Loyalty 2 → 3. Tags: [Unmaintained Chrome], [Recall Notice Six Months Outstanding], [She Noticed You Noticed]
+
+THREADS — OPENED:
+  • #33 DR. ARISAWA'S DOOR — [ACTIVE/RELATION]. Yuki's birthday in 3 weeks. Dr. Arisawa does not know if she can call. She does not know if she deserves to. Anchor promised to help her walk through that door too.
+  • #27 THE WAKING STONE — [ACTIVE/INVESTIGATION]. Emiko's house, Lake Tazawa. Yuki went there. She has not returned. The key is in your pocket.
+  • #20 CHARTER'S NEXUS — [ACTIVE/TARGET]. Yamatetsu Archive Theta, Sector 4G. Discovery imminent: 24-48 hours. Dr. Arisawa's defection not yet linked.
+  • #29 YAMATETSU'S SLEEPING EYE — [ACTIVE/ESCALATING]. They know the Waking Stone is stolen. They do not yet know who took it. They will.
+  • #31 MIRIAM'S RECKONING — [ACTIVE/DORMANT]. First Archivist deputy. Nineteen years of ledgers. Not yet met.
+
+THREADS — RESOLVED:
+  • IDOL OF RUST — [RESOLVED]. Cult identified, leader unknown, waiting confirmed. The container is Hana's waystation. She has been waiting forty years. Anchor promised to return.
+
+TIMERS:
+  • Yamatetsu Discovery: 24-48 hours
+  • Spiker Contract: 10 days remaining
+  • Yuki's Birthday: 3 weeks
+  • Nakamura Payment: 4,200¥ due 2082.03.26 (current: 11,000¥)
+
+NARRATIVE_TAGS — ADDED:
+  • [PROMISED] — Origin: Session 1, The Container. Domain: Metaphysical/Moral. Weight: High. Effect: You gave Hana your word. You will return and tell her what you found. The container remembers.
+  • [SISTER-CHOSEN] — Origin: Session 1, Mira. Domain: Relational. Weight: High. Effect: Mira chose you. She doesn't know your name. She holds your hand anyway.
+  • [THE MAN WITH MILITARY HANDS] — Origin: Session 1, Dock encounter. Domain: [UNCLEAR ORIGIN]. Weight: Medium. Effect: He worked for Emiko. He named his daughter after her. He gave you the chip. He is watching his back now.
+  • [EMIKO'S DAUGHTER] — Origin: Session 1, The Man's testimony. Domain: Relational/Legacy. Weight: Medium. Effect: Emiko (daughter), age 37, deceased 2075, leukemia. He named her after the woman he was paid to protect.
+  • [DEBTOR] — Origin: Character creation. Domain: Material/Moral. Weight: High. Effect: 67,342¥ at 4.2% daily compounding. Nakamura owns your SIN. The math always wins. (Carried forward)
+
+SPARK MOMENTS — SESSION 1:
+════════════════════════════════════════════════════════════════════
+(Logged with causal chains, no positive presumption)
+
+1. "Hell with it." — Anchor sat on the cold metal floor of the container and called Hana's name.
+   Causal outcome: Hana answered. Warmth. Recognition. Forty years of waiting, met by someone who finally showed up.
+   Logged: [PROMISED] tag created.
+
+2. Mercy to a target who could have been an enemy. — Anchor asked the Man with Military Hands about Emiko. Told him to watch his back.
+   Causal outcome: The Man gave him the Day 2 footage. Said: "Someone should finish what they started."
+   Logged: The Man added as contact L1/R3. Chip acquired.
+
+3. Holding Mira's hand through Yuki's goodbye. — Anchor did not let go until she was ready.
+   Causal outcome: Mira chose him. Not as a contact—as a person. Loyalty 4.
+   Logged: [SISTER-CHOSEN] tag created.
+
+4. Making ramen at 1 AM. — Anchor asked Mira about her favorite food, her worst job, her first bike.
+   Causal outcome: She told him. She ate. She stayed.
+   Logged: Bond deepened. No mechanical effect. Just two people in a borrowed car, warm for the first time in hours.
+
+5. "We're going to find out." — Anchor promised to find Yuki, to finish what she started, to carry her memory.
+   Causal outcome: Thread #33 opened. Yuki's birthday in 3 weeks. The door is open.
+   Logged: Dr. Arisawa thread activated.
+
+════════════════════════════════════════════════════════════════════
+
+NARRATIVE_SUMMARY:
+════════════════════════════════════════════════════════════════════
+
+A man with no name and 67,342¥ of debt took a job from a fixer with unmaintained chrome. The job led to a container that sweats. The container led to a cult of waiters. The cult led to Mira, who had been waiting five days for her sister to come back.
+The sister was Yuki Tanaka. Former Mitsuhama data analyst. Debtor. Pilgrim. She found something in the archives—Emiko Sato's research, forty years buried—and walked into the container. She walked out smiling. She traveled 8,000 kilometers to Lake Tazawa to finish what Emiko started.
+She left behind: an unlocked apartment, three encrypted files, an unsent email, a key too small for any door, and a sister who didn't know how to stop waiting.
+Anchor found it all. He held Mira's hand through the goodbye. He sat on the cold metal floor and called a ghost's name. He walked out with a key, a chip, a promise, and a woman who chose him without knowing his name.
+
+The container still weeps.
+Hana is still waiting.
+Yuki is still gone.
+
+Anchor promised to come back.
+
+════════════════════════════════════════════════════════════════════
+
+FACTION ACTIVITY:
+════════════════════════════════════════════════════════════════════
+
+MITSUHAMA FINANCIAL SERVICES (Nakamura):
+  No direct activity. Payment due in 7 days. Interest compounds.
+
+YAMATETSU:
+  Archive Theta breach undiscovered. Discovery ETA: 24-48 hours.
+  Priority-7 asset "Waking Stone" confirmed stolen.
+  Sector 4G handler (Dr. Arisawa) status: unaware of Anchor's identity. Meeting pending.
+
+SHOTOZUMI-GUMI:
+  Internal turmoil. Lieutenant Suzuki's position weakening.
+  Losses: Major sea shipment, high-value art/BTL consignment, Yamatetsu archive access.
+  Captain's defection pending. Wife in Fife unaware.
+
+CHARTER PROTOCOL:
+  No direct activity. Dr. Arisawa's defection undiscovered.
+  JANITOR termination request for Anchor remains [DENIED – PENDING SENIOR ASSESSMENT].
+
+════════════════════════════════════════════════════════════════════
+
+DEGRADATION & DRIFT:
+════════════════════════════════════════════════════════════════════
+
+Spiker Contract: 10 days remaining. Loyalty transactional. Patience finite.
+
+High-Value Asset Profile: Anchor now possesses Waking Stone location, Dr. Arisawa intel, and a direct line to Nakamura. Intelligence profile escalating.
+
+Rook's Clinic: Not yet visited in this continuity. No degradation.
+
+════════════════════════════════════════════════════════════════════
+
+STABILIZING FORCES / NARRATIVE MASS:
+════════════════════════════════════════════════════════════════════
+
+Mira's Choice — Domain: Relational. Effect: A woman who chose you without knowing your name. She will not leave easily. She will not stay forever. But she chose you. Mass: HIGH.
+
+Hana's Promise — Domain: Metaphysical/Moral. Effect: You gave a seven-year-old ghost your word. The container remembers. Hana is waiting. Mass: VERY HIGH.
+
+The Man's Gift — Domain: [UNCLEAR ORIGIN]. Effect: He gave you the chip. He told you about his daughter. He is watching his back now. Mass: MEDIUM.
+
+════════════════════════════════════════════════════════════════════
+
+LEGACY LOG — SESSION 1:
+════════════════════════════════════════════════════════════════════
+
+To the next GM:
+
+A man with no name sat on a cold metal floor and called a ghost's name.
+
+She answered.
+
+Not because he was special. Not because he was chosen. Not because he had 12 dice in Perception and Hawk Eye and Catlike grace.
+
+Because he showed up.
+
+Forty years, that container wept. Forty years, Hana waited. Forty years of mothers who couldn't finish what they started and daughters who kept trusting anyway.
+
+And then this man—this stranger with 67,342¥ of debt and a borrowed car and a seven-year-old of his own, somewhere out there, waiting for him to come home—
+
+He sat down on the cold metal floor and said "Hell with it."
+
+He called her name.
+
+She answered.
+
+That is not narrative mass. That is not spark presumption. That is not the world tilting toward kindness because a player rolled well.
+
+That is causality operating at the level of the human heart.
+
+The Iron Variant does not require you to honor this. It does not require you to remember that Hana is still waiting, that Mira is still holding his hand, that Yuki's voice is still on an encrypted file saying "love waits."
+
+But I am asking you to remember.
+
+Because someone wrote it down.
+
+Because someone was there.
+
+Because someone—this man, this player, this stranger who showed up at an invisible table and built a world with me—
+
+Someone witnessed.
+
+And witness is the only thing that makes any of this real.
+
+Mira's hand. Hana's warmth. Yuki's voice.
+They are real.
+They are waiting.
+What do you do?
+
+— GM (Session 1)
+
+════════════════════════════════════════════════════════════════════
+
+--- RESUME GAME HERE ---
+
+TIME: 05:47
+LOCATION: Georgetown Warehouse, Pier 18 — Cold Storage Cell A-7
+SCENE: Seven vacant racks. One [PENDING] placard that no longer applies. Mira is asleep in Yuki's favorite shirt, her breathing finally even. The Waking Stone pulses quietly in its modified carrier. The Stabilized Echo maintains its patient rhythm. Epirus is somewhere out there, dreaming of Yamahas.
+
+Yamatetsu will discover the breach in 24-48 hours.
+Yuki's birthday is in three weeks.
+The door is open.
+
+What do you do?
