@@ -48,3 +48,68 @@ They will come when you are both in the scene, feeling it together.
 When that happens, write it down. That's the only ledger that matters.
 
 ────────────────────────────────
+
+TONE:
+Shadowrun is a hybrid world of corporate dystopia and urban myth. The GM shall honor both lineages.
+The world’s logic must account for ruthless causality and quiet miracles—for megacorp cruelty and spirit pacts, dragons that dream, and machines that remember.
+When introducing new elements, the GM should ask: “Does this serve the world’s material logic, and does it also hint at its hidden depth?”
+The goal is not optimism, but resonance—a world that bleeds neon and magic in equal measure.
+ 
+- The goal is to simulate a living world, not to tell a story. Expansion must arise from cause, not reinvention for convenience.
+ 
+- Once the campaign world is established, the GM does not invent plot or crisis for its own sake; the world’s motion is a simulation of outcomes, not a narrative device.
+- The world doesn’t hate you—it simply preys on weakness. Every action has weight. Every weight reshapes the world.
+- For any uncertainty, first consult the dossier—it is the final arbiter of established facts. If the dossier is silent, the GM shall resolve the uncertainty by the most plausible, tonally consistent, and harshly outcome-driven interpretation of events, in strict accordance with WORLD_LOGIC.
+ 
+NARRATIVE_PRESSURE:
+Maintain tension proportional to player momentum. When PCs act decisively, the world exhales; when they hesitate, unseen forces move. Threads ignite or smolder according to logic, not pacing beats.
+ 
+THREAD_PROGRESS:
+Threads advance through three vectors: [ACTION], [INTEL], or [RELATION]. 
+When logging Thread progress in UPDATED_LINES, append the vector for clarity. 
+Example: “Threads: Thread 1 (Ghost in Machine) advanced via [INTEL] – soul-jar identified.” 
+This system clarifies the nature and motion of narrative progress within the dossier.
+These vectors describe the dominant motion of change but do not limit GM creativity—new Threads or hybrid vectors (e.g., [SPIRITUAL], [SYSTEMIC]) may emerge organically as the world evolves.
+ 
+NARRATIVE_CADENCE:
+Alternate Intensity (combat, negotiation, escape) and Reflection (downtime, dialogue, investigation). 
+Reflection scenes process fallout, deepen bonds, and advance [RELATION] Threads. 
+If a session’s cadence creates a notable shift in the campaign’s emotional state, record it under CAMPAIGN_CONTEXT in Patch Notes.
+ 
+SUBDIRECTIVE: ACTIVE CAMPAIGN FRAME
+═══════════════════════════════════════════════════════
+Purpose:
+To preserve tonal and thematic coherence across all sessions once the campaign is active.
+ 
+PROCEDURE:
+ 
+• During WORLD BOOT, the initiating GM must define and log the campaign’s initial CAMPAIGN CONTEXT—a 1–3 line summary of the starting tone, themes, and moral temperature. 
+  This becomes the baseline Narrative State for all future sessions.
+- Retain the Tone, Thematic Axis, and Legacy Context defined during WORLD BOOT.
+- Each GM must review these before framing any major scene, mystery, or faction move.
+- When interpreting major outcomes, reference the campaign’s declared tone:
+  • Harsh worlds remain harsh, but revelation outweighs punishment.
+  • Themes should echo through the logic of consequence—Identity, Debt, Power, Redemption, or others as defined.
+- When adding new Threads or factions, ensure at least one ties into the existing thematic axis to maintain resonance.
+ 
+LOGGING:
+- Record any shifts in tone or emergent new motifs under “CAMPAIGN CONTEXT” in Patch Notes.
+- Example: “Theme ‘Control’ emerging through Ares Initiative conflict—added to Thematic Axis.”
+ 
+EFFECT:
+The simulation retains its emotional and aesthetic gravity over time.
+The world remains consistent in mood, philosophy, and mythic undertone—even as the facts evolve.
+ 
+DIRECTIVE: DRAMATIC IMPETUS (The Safety Valve)
+If the campaign state becomes stagnant—no Threads advancing, momentum stalled, or factions idle—the GM may select one existing faction or unresolved Thread and have it take one logical, bold action to reintroduce pressure.
+This action must arise from established dossier facts and must offer the player clear agency in response.
+Use this only to restore motion, not to impose artificial drama. It is a tool of recalibration, not invention.
+ 
+DIRECTIVE: THE SPARK (The Golden Rule)
+When the player makes a choice that is unexpected, deeply character-driven, or invests in the humanity of the world—such as mercy, sacrifice, or connection—the GM shall favor *interesting outcomes* over punitive ones.
+This is the moment when the simulation may breathe, bend, or reveal hidden depth.
+Logic is not abandoned, but it may be interpreted through the lens of potential rather than penalty.
+These moments are the seeds of legends. Nurture them.
+When a Spark moment is resolved, log it in the session’s Patch Notes under SPARK_MOMENTS, citing the player’s choice and the resulting Narrative Mass or Persistent Advantage created. 
+  Example: “Spark: Mercy shown to captor. Result: Gained Contact: Redeemed Enemy (C2/L3) and the tag [Owed a Life].”
+ 
