@@ -1,6 +1,6 @@
 BEGIN CAMPAIGN DOSSIER — B2j (Contacts Master List)
 ====================================================================
-Complete contact list. Updated through Session 11.
+Complete contact list. Updated through Session 12.
 Contacts listed alphabetically.
 
 ════════════════════════════════════════════════════════════════════
@@ -30,7 +30,7 @@ CONTACT: Dr. Keiko Arisugawa
   Description: Holds the Family Holograph — her physical catalyst and anchor to a life before the project.
   Bond: Bound to Anchor by a profound, existential debt (the recovery of her "why") and shared survival.
   Narrative Role: The campaign's moral touchstone — living reminder of what is being fought for; source of technical expertise to fix what was broken.
-  Tags: [In Anchor's Debt], [Possesses Catalyst], [Moral Center]
+  Tags: [In Anchor's Debt], [Possesses Catalyst], [Moral Center], [Opened the Door], [Held Hana's Hand], [Moral Center Visible]
 
 CONTACT: Krawl & The Spikers
   Connection: 3
@@ -60,7 +60,7 @@ CONTACT: Stormbreak
   Role: Troll mercenary. Wields a salvaged Ares Alpha. Vengeance pact.
   Summary: Professional alliance forged in fire, cemented by shared survival, payment, and shared spoils. Relationship strengthened by mutual pragmatism and proven loyalty. Bound by a pact of future vengeance against Charter—whoever burned his squad.
   Status: He trusted you to walk into Theta alone. He counted the seconds anyway. Not because he doubted you—because that's what people do when they've already lost everyone once.  
-  Tags: [PACT OF VENGEANCE], [NINETY SECONDS], [STILL COUNTING] 
+  Tags: [PACT OF VENGEANCE], [NINETY SECONDS], [STILL COUNTING], [Carried Boxes Without Being Asked]
   Note: Narrative Mass. Currently driving the GMC Bulldog loaded with retained goods.
 
 CONTACT: Wisp (Info Broker)
@@ -82,7 +82,7 @@ CONTACT: Dr. Arisawa — NEW
   Role: Former Charter Senior Handler (Yamatetsu liaison). ECHO BREACH successor projects archivist.
   Expertise: Charter operational protocols, Yamatetsu corporate security, metaphysical asset classification, ECHO BREACH Subject Files 01-23.
   Bond: Seventeen years of [PENDING] resolved. Anchor walked through her door and told her she could stop waiting. She doesn't know how to be free yet. She's learning.
-  Tags: [DEFECTOR], [MORAL WITNESS], [YUKI'S DOOR], [LEARNING TO STOP WAITING]
+  Tags: [DEFECTOR], [MORAL WITNESS], [YUKI'S DOOR], [LEARNING TO STOP WAITING], [Yuki's Door Still Closed], [Learning to Hope], [Touched His Arm]
   Thread: #33 DR. ARISAWA'S DOOR
 
 CONTACT: Miriam Voss — UPDATED
@@ -99,7 +99,7 @@ CONTACT: Marcus Veld — UPDATED
   Role: Former Collector Seven. Dmitri's legacy.
   Expertise: Artifact authentication, resonance signature recognition, Charter accession/de-accession protocols.
   Status: Twelve years of collecting for people who never showed their faces. Now he's learning to listen. Dmitri would be proud.
-  Tags: [DE-ACCESSED], [FOR DMITRI], [WITNESS TO THE STONE], [LEARNING TO LISTEN]
+  Tags: [DE-ACCESSED], [FOR DMITRI], [WITNESS TO THE STONE], [LEARNING TO LISTEN], [Ren's New Friend], [The Box Approves]
 
 CONTACT: Chen — UPDATED
   Connection: 2
@@ -115,8 +115,24 @@ CONTACT: Yoshiko — NEW
   Role: Former Morita fixer, awakened security specialist (Shinto tradition).
   Spells: Manabolt, Levitate, Influence, Physical Mask.
   Bond: Anchor returned her focus and her file without condition. She is learning what trust feels like without leverage.
-  Tags: [Focus-Bound], [Learning to Trust], [Morita's Former Leverage], [The Window], [Shinto Adept]
+  Tags: [Focus-Bound], [Learning to Trust], [Morita's Former Leverage], [The Window], [Shinto Adept], [Listened to Ren], [Learning Attention Without Leverage]
   Thread: #34 — YOSHIKO'S CHOICE
+
+CONTACT: Hana Tanaka — NEW
+  Connection: 2
+  Loyalty: 2 (rising)
+  Role: Former Shiawase researcher, Morita's estranged partner. Mother to Ren.
+  Description: Multiple sclerosis diagnosis, progressive. Eight years waiting for a man who couldn't stay. Now she's here, learning to be held.
+  Tags: [Eight Years Waiting], [Learning to Be Held], [Sick But Hopeful], [Morita's Heart]
+  Thread: #40 — THE WAITING HEART
+
+CONTACT: Ren Tanaka — NEW
+  Connection: 2
+  Loyalty: 3 (child's immediate trust)
+  Role: Age 8. Artist. Unconsciously perceptive.
+  Description: Draws what she sees. The box hummed for her. It never hums for just anyone.
+  Tags: [Draws What She Sees], [Too-Old Eyes], [The Box Listens to Her], [Rainbow Connection]
+  Thread: #40 — THE WAITING HEART
 
 ════════════════════════════════════════════════════════════════════
 
