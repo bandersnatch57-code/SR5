@@ -118,16 +118,16 @@ Status Key: [RESOLVED] [ACTIVE] [DORMANT]
 
 33. [ACTIVE/RELATION] DR. ARISAWA'S DOOR — NEW
     Contact: Dr. Arisawa, former Charter Senior Handler (17 years).
+    Description: Seventeen years of waiting. One ghost. One door. She walked through. Now she has to learn what comes after. Anchor's offer to find Yuki together has shifted something.
     Vector: [RELATION]
-    Description: Seventeen years of waiting. One ghost. One door. She walked through. Now she has to learn what comes after.
-    Pressure: Yuki's birthday in 3 weeks. She doesn't know if she can call. She doesn't know if she deserves to.
-    Success: Anchor helps her walk through that door too.
+    Pressure: Yuki's birthday in 2 weeks, 6 days. She doesn't know if she can call. She doesn't know if she deserves to.
+    Success: Anchor helps her walk through that door too. She touched his arm. The door is still closed, but it's no longer locked.
     Failure: She stays on this side, forever wondering.
 
 34. [ACTIVE/RELATION] YOSHIKO'S CHOICE — NEW
     Contact: Yoshiko, former Morita fixer, awakened specialist.
+    Description: Anchor returned her focus without condition. She walked through the window. Now she has to learn what trust feels like without leverage. Listening to Ren, being present without words—roots growing.
     Vector: [RELATION]
-    Description: Anchor returned her focus without condition. She walked through the window. Now she has to learn what trust feels like without leverage.
     Pressure: Morita knows she defected. He will come for her. The question is when and how.
     Success: Yoshiko becomes a full member of the community, her loyalty earned, not bought.
     Failure: Old habits die hard. Leverage is all she's ever known.
@@ -142,23 +142,23 @@ Status Key: [RESOLVED] [ACTIVE] [DORMANT]
 
 36. [ACTIVE/ESCALATING] MORITA'S RECKONING — NEW
     Contact: Morita, Yamatetsu operator, personal enemy.
+    Description: 1.4 million stolen. Safehouse compromised. Fixer defected. Personal files taken. Anchor now has 5.8M of Morita's money, his personal files, his network, and his family. When Morita discovers this, the reckoning will be absolute.
     Vector: [ACTION]
-    Description: 1.4 million stolen. Safehouse compromised. Fixer defected. Personal files taken. Morita is alive, furious, and now a personal enemy.
     Pressure: He will retaliate. The only unknowns are target, timing, and method.
     Success: Anchor anticipates and counters the strike.
     Failure: Morita hurts someone Anchor loves.
 
 37. [ACTIVE/OPPORTUNITY] BUILDING THE COMPOUND — NEW
+    Description: 5.8M nuyen available. Two new members (Hana, Ren). Medical needs now a priority. Tunnel network discussions with Chen and Stormbreak ongoing.
     Vector: [ACTION]
-    Description: 2.255M nuyen liquid. Enough to convert a space into a real sanctuary.
     Pressure: Money attracts thieves. A growing community attracts attention. Every wall built is also a wall that can be watched.
     Success: A permanent, defensible home for the community.
     Failure: The walls go up, but the cracks remain.
 
 38. [ACTIVE/MYSTERY] THE PATIENT BOX — NEW
     Asset: Wooden box, ancient, humming with resonant signature.
+    Description: Wooden box, ancient, humming with resonant signature. Similar to Waking Stone but distinct—older, more patient. New development: Ren touched it. It hummed for her. Marcus notes: "It's never done that before. It approves."
     Vector: [MYSTERY]
-    Description: Similar to Waking Stone but distinct—older, more patient. Untouched. Waiting.
     Pressure: Some things are patient because they know they will be opened.
     Success: Anchor understands what it is before it wakes.
     Failure: It wakes first.
@@ -170,6 +170,14 @@ Status Key: [RESOLVED] [ACTIVE] [DORMANT]
     Pressure: The past is never dead. It's not even past.
     Success: Anchor learns the truth.
     Failure: The truth finds him first.
+
+40. [ACTIVE/RELATION] THE WAITING HEART — NEW
+    Contact: Hana Tanaka, Morita's estranged partner, mother to Ren.
+    Vector: [RELATION]
+    Description: Eight years waiting for a man who couldn't stay. Now she's here, learning to be held. Multiple sclerosis diagnosis, progressive. Ren watches. Anchor promised care.
+    Pressure: Her illness progresses. The clock is slower than Yamatetsu's, but it ticks.
+    Success: Hana learns she can be held. Ren keeps drawing. The box keeps humming.
+    Failure: The waiting never ends.
 ════════════════════════════════════════════════════════════════════
 
 END OF B2i
