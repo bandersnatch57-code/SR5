@@ -99,7 +99,7 @@ The True Price consists of three inseparable layers:
  
 **Procedure:**
 - Define the three layers before the player engages with the element.
-- Once revealed in play, these layers are immutable; you may not diminish or invent layers in response to player action or outcome.
+- If context genuinely changes the value, change it—and log why. You may not diminish or invent layers in response to player action or outcome.
 - If the player secures, defeats, or interacts with the target, they gain all layers proportionate to the scale of their success.
 - The world’s reaction must be calibrated to the *true* sum of value acquired, not to a retroactively reduced version.
  
