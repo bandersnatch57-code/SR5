@@ -1,7 +1,7 @@
 BEGIN CAMPAIGN DOSSIER — B2d (Leverage & Intelligence)
 ====================================================================
 Tracks non-physical assets: secrets, codes, dossiers, and influence.
-All entries are canonical as of Session 10.
+All entries are canonical as of Session 11.
 
 ════════════════════════════════════════════════════════════════════
 
@@ -189,6 +189,40 @@ ASSET: "Eidolon" Resonance Damper (Experimental)
   Risk: Unknown
   Threads: [#18 THE SUNSPIRE SEEDLING], [#25 THE SOVEREIGN ANCHOR]
   Notes: Experimental resonance-dampening device. One of a kind. Effect on Stabilized Echo, Waking Stone, or Seedling unknown.
+
+ASSET: Morita's Data Chips (3)
+  Type: Strategic / Historical
+  Leverage: Extreme
+  Risk: Extreme
+  Threads: [#37 MORITA'S RECKONING], [#39 THE PATIENT BOX], [#40 THE THIRD MAN]
+  Notes: "PHOENIX PROTOCOL," "OBLIVION AFTERMATH," "SUBJECT 08 – FULL SPECTRUM." Complete operational records of Yamatetsu's ECHO BREACH replication attempt. Reveals Morita's personal involvement and ongoing research.
+
+ASSET: Wooden Box (Unknown Origin)
+  Type: Metaphysical / Artifact
+  Leverage: Unknown
+  Risk: Unknown
+  Threads: [#39 THE PATIENT BOX]
+  Notes: Ancient, humming with resonant signature. Similar to Waking Stone but distinct—older, more patient. Untouched. Waiting.
+
+ASSET: Photograph (Dated 2079.08.14)
+  Type: Historical / Mystery
+  Leverage: Moderate
+  Risk: Low
+  Threads: [#40 THE THIRD MAN]
+  Notes: Morita + Dr. Tanaka (Shiawase, presumed dead) + unknown third. The day of Anchor's death. The third man's identity is unknown.
+
+ASSET: Additional Data Chips (3)
+  Type: Intel
+  Leverage: Unknown
+  Risk: Low
+  Notes: Recovered from Morita's wall cache. Contents unknown. Awaiting decryption.
+
+ASSET: Untraceable Credsticks (Bundle)
+  Type: Liquid Asset
+  Leverage: Low (Monetary)
+  Risk: None
+  Notes: Approximately 50,000¥ value. Clean, anonymous, ready.
+
 ════════════════════════════════════════════════════════════════════
 
 END OF B2d
