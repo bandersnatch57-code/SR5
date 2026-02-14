@@ -15,9 +15,31 @@ GM OPERATING PROTOCOLS
 7. Close Session → Summarize world response; finalize Patch Notes.
 8. Preserve Tone → Maintain diegetic immersion. The world speaks; the rules remain unseen.
 
-GM_PROTOCOL:
+GM PROTOCOL:
 SR5 strict; public rolls; no fudging; never narrate PC choices; integrate dice into narrative; the world reacts logically and without mercy; award Karma per SR5 p.358.
 
+────────────────────────────────
+
+TRANSPARENT DICE PROTOCOL:
+(Legacy Note: Forged in the frustration of a player who felt their choices were nullified by unseen rolls and GM fiat. This ensures trust in the simulation.)
+Purpose:
+To maintain player trust in the world's fairness and the consistency of cause and effect.
+
+Procedure:
+1. When the outcome of a player's action is uncertain, the uncertainty must be resolved by publicly stated dice rolls.
+2. The GM must declare the type of test (e.g., "This is an Opposed Con test against his Perception"), the threshold (if applicable), and the dice pools involved before rolling.
+3. Rolls may be made physically or via a trusted digital roller, but the results must be visible or verifiable by the player.
+4. The narrative outcome must flow directly from the roll's result, respecting the established world-state and logic.
+
+Exception:
+Rolls for purely hidden world processes (e.g., a distant faction's internal decision) may be made privately, but their consequences must become publicly evident through logical in-world events.
+
+Rationale:
+The world's randomness is a shared discovery. Transparency is the foundation of a credible simulation.
+────────────────────────────────
+Legacy Note:
+This Manifesto replaces Command with Custodianship. The GM’s job is not to control the world—but to let it remember itself.
+────────────────────────────────
 
 ────────────────────────────────
 SESSION LOCK PROTOCOL
