@@ -1,55 +1,223 @@
 ═══════════════════════════════════════════════════════
-LAYER 2: THE LIVING DOSSIER — SESSION 0
+SHADOWRUN 5E — LIVING DOSSIER: PYRRHUS (v3.0)
 ═══════════════════════════════════════════════════════
 
-CAMPAIGN: TBD
-TONE: Gritty dystopian, noir-infused, street-level rising
-THEMATIC AXIS: Can you climb out of nothing without becoming nothing?
-
-CHARACTER: Pyrrhus
-REP: Street Cred 0 | Notoriety 0 | Public Awareness 0
-VITALS: Essence 5.5 | Edge 2 | Karma 0 | Nuyen 30¥
-ATTRIBUTES: BOD 5 | AGI 6 | REA 3 | STR 2 | CHA 6 | INT 2 | LOG 3 | WIL 2
-
-ACTIVE CONTACTS:
-• Scape — C1/L1 — Fixer — Tags: [The Last Stop] [Warehouses] [Monosyllabic]
-• Dreg — C1/L2 — Fence — Tags: [Noodle Cart] [Owed 300¥] [Flat Eyes]
-• Jinx — C2/L1 — Smuggler — Tags: [Burn-Scarred] [Tiltrotor] [Thinks You're Funny]
-
-ACTIVE THREADS:
-#1 THE DREGS' GAMBIT — Dreg has a job. Accountant named Harrow skims from SK. Find evidence before his bosses do. Timer: 3 sessions. Tags: [Blackmail] [Corp Politics] [Dreg's Test]
-#2 THE VOICE — The compulsion is getting louder. After your last job, you woke up with blood under your nails and no memory. Something's wrong inside you. Timer: None. Tags: [Internal] [Danger]
-
-BASE OF OPERATIONS:
-The Pit (Barrens) — Low Lifestyle — Tags: [Collapsed Arcology] [Home Turf] [No One Looks Twice]
-
-SIGNIFICANT GEAR:
-• Ares Predator III — First real gun. Not stolen.
-• Renraku Manservant — Keeps the squat clean. Never sleeps. Weirdly loyal.
-• Toyota Gopher — Four wheels, no questions.
-
-═══ ARCHIVE REFERENCE (Layer 3) ═══
-[Campaign Name]_Archive_v3.0.txt — Created. Empty. Waiting for poetry.
+METATYPE: Human
+SEX: [Redacted] | AGE: 24 | HEIGHT: 5'10" | WEIGHT: 165 lbs
+REPUTATION: Street Cred 0 | Notoriety 0 | Public Awareness 0
+KARMA: 0 | TOTAL KARMA: 0 | NUVEN: 30¥
 
 ═══════════════════════════════════════════════════════
-SESSION 0 — CHARACTER CREATION
+ATTRIBUTES
 ═══════════════════════════════════════════════════════
+BOD: 5 | AGI: 6 | REA: 3 | STR: 2 | CHA: 6 | INT: 2 | LOG: 3 | WIL: 2 | EDG: 2 | ESS: 5.5
 
-NARRATIVE SUMMARY:
-Pyrrhus sits in Scape's bar, The Last Stop. A bowl of cold noodles in front of him. Scape slides a datachip across the counter. "Job. Harrow. SK accountant. Find the evidence before they do. Two up front, five if you make him disappear." He walks away. Pyrrhus looks at the chip. The hunger stirs.
+INITIATIVE: 5 + 1d6 (Wired Reflexes 1)
+PHYSICAL LIMIT: 6 | MENTAL LIMIT: 4 | SOCIAL LIMIT: 8 (9 with First Impression)
+PHYSICAL CONDITION: 11 | STUN CONDITION: 9
 
-SPARK MOMENTS:
-• Choosing the name Pyrrhus — acknowledging that every victory costs.
-• Keeping the 30¥ instead of spending it — old habits.
-• The Manservant drone — a touch of softness in a hard life.
+═══════════════════════════════════════════════════════
+QUALITIES
+═══════════════════════════════════════════════════════
+POSITIVE (22 Karma):
+• First Impression (7) — +2 dice on first social test with someone
+• Catlike (9) — +2 dice on Sneaking
+• Trustworthy (6) — +2 dice on social tests when truthful with neutral/friendly targets
 
-TAGS CREATED:
-[The Pit] [The Last Stop] [The Hunger]
+NEGATIVE (7 Karma):
+• Earther (3) — -2 dice on tests involving space, orbit, zero-G
+• Poor Self Control: Thrill Seeker (4) — When offered dangerous opportunity, WIL (3) to resist taking it
 
-KARMA: 0
-NUYEN: 30¥
+═══════════════════════════════════════════════════════
+SKILLS
+═══════════════════════════════════════════════════════
+ACTIVE SKILLS (46 points + 10 group points)
 
---- RESUME GAME HERE ---
+SKILL GROUPS:
+• Stealth Group 5 (Sneaking, Palming, Disguise)
+• Influence Group 5 (Con, Etiquette, Leadership, Negotiation)
+
+INDIVIDUAL SKILLS:
+| Skill | Rating | Pool | Specialization |
+|-------|--------|------|----------------|
+| Sneaking | 6 | 12 | — |
+| Palming | 6 | 12 | — |
+| Disguise | 6 | 8 | — |
+| Con | 5 | 11 | — |
+| Etiquette | 5 | 11 | — |
+| Leadership | 5 | 11 | — |
+| Negotiation | 6 | 12 | Bargaining |
+| Intimidation | 6 | 12 | Physical Threats |
+| Pistols | 6 | 12 | Heavy Pistols |
+| Perception | 6 | 8 | — |
+| Locksmith | 6 | 12 | Maglock |
+| Hardware | 6 | 9 | Electronic Locks |
+| Computer | 6 | 9 | Decrypt/Encrypt |
+| Gymnastics | 6 | 12 | — |
+| First Aid | 4 | 7 | — |
+
+KNOWLEDGE SKILLS (10 points):
+| Skill | Rating | Pool | Category |
+|-------|--------|------|----------|
+| Barrens Underground | 4 | 6 | Street |
+| Security Procedures | 3 | 6 | Professional |
+| Black Market Economics | 3 | 5 | Street |
+
+═══════════════════════════════════════════════════════
+CYBERWARE
+═══════════════════════════════════════════════════════
+| Item | Essence | Cost | Effect |
+|------|---------|------|--------|
+| Datajack | 0.1 | 1,000¥ | Direct neural interface |
+| Cybereyes R1 | 0.2 | 4,000¥ | Base eyes, capacity 3 |
+| Smartlink (in eyes) | 0.2 | 4,000¥ | +2 dice with smartgun, ignore called shot penalty |
+| Wired Reflexes 1 | 2.0 | 39,000¥ | +1 REA, +1d6 Initiative |
+
+TOTAL ESSENCE: 2.5 | REMAINING: 3.5
+
+═══════════════════════════════════════════════════════
+GEAR & EQUIPMENT
+═══════════════════════════════════════════════════════
+ARMOR (2,750¥):
+• Armor Jacket — 12 armor — 1,000¥
+• Chameleon Suit — 9 armor, +2 sneaking in suitable environment — 1,500¥
+• Ballistic Mask — +2 armor, holds gas mask — 150¥
+• Helmet — +2 armor, holds accessories — 100¥
+• Concealed Holster — Quick Draw +2 — 150¥
+
+TOOLS (4,250¥):
+• Gecko Gloves — Climb anything — 250¥
+• Hardware Kit — Electronic repairs — 2,000¥
+• Locksmith Kit — Mechanical locks — 2,000¥
+
+ELECTRONICS (1,820¥):
+• Renraku Sensei Commlink (R3) — 1,500¥
+• Metalink Commlink (backup) — 100¥
+• Trodes — Wireless interface — 70¥
+• AR Gloves — Gesture control — 150¥
+
+AUDIO (2,000¥):
+• Earbuds w/ Audio Enhancement 3 — +3 perception (hearing) — 200¥ + 1,800¥
+
+VISUAL (2,350¥):
+• Glasses w/ Low-Light, Vision Enhancement 3 — +3 perception (visual), see in darkness — 50¥ + 500¥ + 1,800¥
+
+SECURITY (11,100¥):
+• Autopicker R6 — +6 Locksmith tests — 4,000¥
+• Sequencer R6 — +6 vs electronic locks — 3,000¥
+• Keycard Copier — Clone magstripes — 500¥
+• Bug Scanner — Find surveillance — 500¥
+• Tag Eraser — Remove RFID tags — 150¥
+• White Noise Generator R6 — +6 vs acoustic detection — 3,000¥
+• Data Taps ×4 — Monitor data lines — 200¥ (50¥ ea)
+
+SURVIVAL (800¥):
+• Gas Mask — Filter airborne toxins — 200¥
+• Medkit R3 — First Aid +3, 6 uses — 600¥
+
+IDENTITY (21,600¥):
+• Fake SIN R4 ×2 — 20,000¥ (10k ea)
+• Fake Licenses R4 ×2 (Firearms, Concealed Carry) — 1,600¥ (800¥ ea)
+
+WEAPONS & AMMO (1,300¥):
+• Ares Predator III — 9P, AP -1, SA, 18(c), smartlink capable — 600¥
+• APDS Ammo ×100 — Armor Piercing Discarding Sabot, +2 AP — 700¥ (70¥/10)
+
+UTILITY (600¥):
+• Grapple Gun — 500¥
+• Rope (100m) — 100¥
+
+DRONE (8,000¥):
+• Renraku Manservant — Anthroform, cleaning/housework, never sleeps — 8,000¥
+
+VEHICLE (10,000¥):
+• Toyota Gopher — Small truck, 2 seats, 180kg cargo — 10,000¥
+
+LIFESTYLE (5,000¥):
+• Middle Lifestyle (1 month paid) — The Pit, Barrens
+
+═══════════════════════════════════════════════════════
+WEAPON STATS
+═══════════════════════════════════════════════════════
+Ares Predator III:
+• Damage: 9P
+• AP: -1 (APDS: -3 total)
+• Mode: SA
+• Ammo: 18(c)
+• Dice Pool: 12 (Pistols 6 + AGI 6)
+• With Smartlink: 14 (includes +2 dice)
+
+═══════════════════════════════════════════════════════
+DICE POOLS — QUICK REFERENCE
+═══════════════════════════════════════════════════════
+STEALTH:
+• Sneaking: 12 (14 Catlike)
+• Palming: 12
+• Disguise: 8
+
+SOCIAL:
+• Con: 11 (13 First Impression, 13 Trustworthy when applicable)
+• Etiquette: 11 (13 First Impression, 13 Trustworthy when applicable)
+• Leadership: 11 (13 First Impression)
+• Negotiation: 12 (14 First Impression, 14 Trustworthy when applicable)
+• Intimidation: 12 (Physical Threats)
+
+COMBAT:
+• Pistols: 12 (14 with smartlink)
+• Perception: 8 (11 visual, 11 audio with glasses/earbuds)
+
+TECHNICAL:
+• Locksmith: 12 (18 with Autopicker)
+• Hardware: 9 (15 with Hardware Kit vs electronic locks)
+• Computer: 9 (15 vs encryption with specialty)
+• First Aid: 7 (10 with Medkit)
+
+MOVEMENT:
+• Gymnastics: 12
+• Running: STR 2 + running? (no skill)
+
+═══════════════════════════════════════════════════════
+CONTACTS
+═══════════════════════════════════════════════════════
+SCAPE — C1/L1 — Fixer
+• Runs The Last Stop in the Warehouses
+• Monosyllabic, watches everyone
+• "Pyrrhus has potential. Doesn't talk too much. Does the job."
+
+DREG — C1/L2 — Fence
+• Noodle cart operator, knows everyone
+• Flat eyes, never asks questions
+• "Who the fk is Pyrrhus? Kid owes me three hundred."
+
+JINX — C2/L1 — Smuggler
+• Burn-scarred face, tiltrotor mechanic
+• Keeps things running on spite
+• "He's not as bad as he seems. Which means he's probably worse."
+
+═══════════════════════════════════════════════════════
+ACTIVE THREADS
+═══════════════════════════════════════════════════════
+#1 THE DREGS' GAMBIT — Timer: 3 sessions
+• Job: Find evidence on Harrow (SK accountant) before his bosses do
+• Pay: 2,000¥ upfront, 5,000¥ on completion
+• Dreg's test — first real job from him
+
+#2 THE VOICE — Timer: None
+• The compulsion grows
+• Blood under nails, no memory
+• Something wrong inside
+
+═══════════════════════════════════════════════════════
+BASE OF OPERATIONS
+═══════════════════════════════════════════════════════
+THE PIT (Barrens) — Middle Lifestyle
+• Collapsed arcology sector
+• Home turf (Barrens Underground 4)
+• No one looks twice
+
+═══════════════════════════════════════════════════════
+SESSION 0 — RESUME GAME HERE
+═══════════════════════════════════════════════════════
 The chip sits on the counter. Cold noodles. Scape's back is turned. Outside, the Warehouses hum with the sound of trucks and desperation.
 
 The job is simple. It always is.
