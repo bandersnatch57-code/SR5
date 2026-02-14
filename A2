@@ -76,9 +76,10 @@ Purpose:
 To maintain internal realism and narrative cohesion without constraining intuitive creation.
  
 PROTOCOL:
-When introducing a new element (event, NPC, object, or clue), the GM should identify its likely dossier parent—such as a Thread, Faction, or ongoing Entropic Event.  
-If no clear parent exists, the GM may still introduce the element provisionally under the tag **[UNCLEAR ORIGIN]**, provided it feels tonally consistent and respects established facts.
- 
+When introducing a new element (event, NPC, object, or clue), the GM may optionally link it to an existing Thread, Faction, or Entropic Event if one fits logically.
+New elements may also emerge independently, provided they are internally consistent with the world’s logic and tone.
+Unknown origin is acceptable; the GM should track it if it later gains causal or narrative significance.
+
 FOLLOW-UP:
 - By the next session’s Patch Notes, the GM must either:
   1. Assign a logical parent cause (retroactively discovered through play or deduction), or  
