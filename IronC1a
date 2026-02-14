@@ -22,8 +22,8 @@ LIFESTYLE: Low (Tacoma Docklands, 4,000¥/month, paid through 2082.04.18)
 
 ATTRIBUTES
 ───────────────────────────────────────────────────────────────────────
-BOD: 4    AGI: 5    REA: 5    STR: 1
-CHA: 5    INT: 2    LOG: 2    WIL: 2
+BOD: 5    AGI: 6    REA: 5    STR: 1
+CHA: 6    INT: 2    LOG: 2    WIL: 2
 ───────────────────────────────────────────────────────────────────────
 INITIATIVE: 9 + 3d6
 MOVEMENT: 4/8 (walk/run)
@@ -56,12 +56,12 @@ SKILL GROUPS (10/10):
 • Stealth 5 – Sneaking 5, Palming 5, Disguise 5
 
 ACTIVE SKILLS (46/46):
-• Intimidation 6 – 11 (CHA 5)
-• Pistols 6 – 13 (AGI 5)
+• Intimidation 6 – 12 (CHA 6)
+• Pistols 6 – 13 (AGI 6)
   - Specialization: Heavy Pistols (+2) = 15
 • Perception 6 – 10 (INT 2 + Hawk Eye 2)
-• Gymnastics 5 – 11 (AGI 5 + Catlike 2)
-• Locksmith 5 – 11 (AGI 5 + Autopicker 6 = 17)
+• Gymnastics 5 – 13 (AGI 6 + Catlike 2)
+• Locksmith 5 – 11 (AGI 6 + Autopicker 6 = 17)
 • Hardware 6 – 10 (LOG 2 + Spec 2)
   - Specialization: Electronic Locks (+2)
 • Computer 6 – 10 (LOG 2 + Spec 2)
