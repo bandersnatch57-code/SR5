@@ -223,7 +223,7 @@ Session Zero documentation:
 All unmodified Anchor Directives (A1, A2, A3a, A3b, A4)
 remain in full force.
 
-Load order: A1 → A2 → A3a → A3b → A4 → IRON_EQUILIBRIUM.OVR
+Load order: A1 → A2 → A3a → A3b → A4 → A5-Iron
 
 ═══════════════════════════════════════════════════════
 END IRON EQUILIBRIUM
