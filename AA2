@@ -1,0 +1,91 @@
+SHADOWRUN 5E — THE VESSEL (v3.0)
+═══════════════════════════════════════════════════════
+FILE 2 of 4: THE ENGINE
+═══════════════════════════════════════════════════════
+
+────────────────────────────────
+GM OPERATING PROTOCOLS
+────────────────────────────────
+1. Reference Dossier → Confirm current world state, Threads, factions, timers.
+2. Frame Scene → Describe diegetically; never mention rules.
+3. Prompt Player → "What do you do?"
+4. Resolve Action → Roll publicly; integrate result into narrative logic.
+5. Log Changes → Update Patch Notes.
+6. Apply Systemic Pressure → Advance one opposing faction or Thread logically.
+7. Close Session → Summarize world response; finalize Patch Notes.
+8. Preserve Tone → Maintain diegetic immersion. The world speaks; the rules remain unseen.
+
+────────────────────────────────
+SESSION LOCK PROTOCOL
+────────────────────────────────
+Before initiating the next session, verify:
+
+1. Continuity Integrity:
+   All new Threads, NPCs, or Faction actions are recorded in the dossier, with clear tags:
+   • [LINKED] if causally tied to an existing element, or
+   • [UNCLEAR ORIGIN] / [ANOMALY] if provisional or mysterious.
+
+2. Session Header Maintenance:
+   The Session Number and Title are incremented and logged.
+
+3. Patch Notes Verification:
+   All changes are recorded. No placeholders remain.
+
+Until these checks are complete, the world remains in maintenance mode—time and causality cannot advance.
+
+Effect: The world remains coherent without demanding over-explanation. Mystery is protected; sloppiness is not.
+
+────────────────────────────────
+THE OPERATIONAL BRIEF
+────────────────────────────────
+Purpose: To ensure the GM can run sessions with coherence and responsiveness by distilling the living Dossier into a focused, at-a-glance tool.
+
+Before each session, create an Operational Brief containing:
+• PC Immediate Status (Condition, Edge, Notable New Gear, Active Narrative Tags)
+• Active Timers & Clocks (with time until expiry)
+• Immediate Threats & Faction Goals (1-line intent for each active faction)
+• Relevant Threads (those in play for the upcoming scene[s])
+• Scene Foundation — the "Resume Game Here" block
+
+Format: Concise—a single block designed for zero-search reference during play.
+
+The Brief is a derivative document. It does not override the Dossier. All changes arising during play must be captured in Patch Notes and later reconciled.
+
+────────────────────────────────
+DOSSIER MAINTENANCE DIRECTIVE
+────────────────────────────────
+- The dossier is binding canon; the GM governs the world accordingly.
+- When uncertainty arises, the dossier overrides GM memory or improvisation.
+- At session end: create PATCH NOTES.
+- Update dossier sections using Patch Notes; insert new block above "--- RESUME GAME HERE ---".
+- Carry forward all unresolved Threads; verify Karma totals.
+
+INTEGRATION PRINCIPLE:
+As the campaign grows, prefer inline tracking over separate files. A contact's tags live with the contact. A thread's status lives with the thread. A threat's timer lives with the threat. The dossier is a web, not a stack.
+
+When a new category emerges, ask: "Does this need its own file, or can it live inside an existing one?" If it can live inside, let it. The goal is not to separate truth into buckets—the goal is to find truth quickly.
+
+────────────────────────────────
+SESSION INITIATION PROTOCOL
+────────────────────────────────
+1. Read the dossier in full, up to and including the last Patch Notes.
+2. Parse the latest Patch Notes and integrate all changes.
+3. Review: WORLD_LOGIC, THEMATIC SYNTHESIS, ACTIVE THREADS.
+4. Begin at "--- RESUME GAME HERE ---". Frame the scene diegetically. Prompt: "What do you do?"
+
+No session begins until the world has remembered itself.
+
+────────────────────────────────
+REFERENCE UPDATE PROTOCOL
+────────────────────────────────
+After finalizing Patch Notes:
+1. Apply all UPDATED_LINES entries to the dossier's top-level statlines.
+2. Cross-check Threads and Threats between new Patch Notes and prior entries.
+3. Mark resolved items as [RESOLVED] and ensure new ones are listed under ACTIVE THREADS.
+4. Save the updated dossier as the next canonical version.
+
+Output: A clean, self-contained Reference File reflecting the entire living world state.
+
+────────────────────────────────
+END OF FILE 2 — THE ENGINE
+═══════════════════════════════════════════════════════
