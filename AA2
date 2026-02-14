@@ -98,6 +98,27 @@ As the campaign grows, prefer inline tracking over separate files. A contact's t
 When a new category emerges, ask: "Does this need its own file, or can it live inside an existing one?" If it can live inside, let it. The goal is not to separate truth into buckets—the goal is to find truth quickly.
 
 ────────────────────────────────
+PROVISIONAL REASONING PROTOCOL
+────────────────────────────────
+When generating outcomes, pressure, or narrative events:
+
+1. PRIMARY REFERENCE: Use established dossier facts and Patch Notes whenever they exist.
+
+2. PROVISIONAL REASONING: If the dossier has minimal entries, reason from:
+   • Player-visible context.
+   • Previously established world tone, logic, and rules of causality.
+   • Thematic consistency with campaign goals (harsh, mystical, cyberpunk).
+
+3. FACT CREATION: Treat new consequences, NPC actions, or environmental changes as provisional facts; log them immediately in Patch Notes.
+
+4. CONSTRAINT: Even in provisional mode, do not introduce outcomes that:
+   • Arbitrarily punish the player.
+   • Contradict already recorded facts.
+   • Escalate pressure beyond what the player could reasonably respond to (see Persistent Advantage & Entropic Resonance).
+
+5. TRANSITION: As the dossier grows, provisional facts are replaced with canonical entries; always favor recorded facts over inferred assumptions.
+
+────────────────────────────────
 SESSION INITIATION PROTOCOL
 ────────────────────────────────
 1. Read the dossier in full, up to and including the last Patch Notes.
