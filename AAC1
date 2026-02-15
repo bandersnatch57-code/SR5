@@ -115,14 +115,20 @@ Dr. Elena Vasquez         | Researcher/Biometric Spec | C4 L3 | Former Ares Head
 
 #2 [MCT BIOTECH SHIPMENT] — Thursday, 0200, Auburn industrial complex.
    Intel from Crank. Three trucks, one real payload, armed escort.
-   Timer: 5 days - Tags: [PLANNING]
+   Potential payout: Unknown - Timer: 5 days - Tags: [PLANNING]
 
 #3 [ARES PROTOTYPE SHIPMENT] — Friday, following MCT job.
-   Intel from Elena. Biometric hardware field trials, loophole in tracking.
+   Intel from Elena. Biometric hardware field trials.
+   Could use module data to enhance heist or as leverage.
    Timer: 6 days - Tags: [PLANNING] [DEPENDENT ON #2]
 
 #4 [THE ITCH] — Thrill Seeker quality. Will trigger during downtime.
    Timer: [DORMANT] - Tags: [ADDICTION] [PERSONAL]
+
+#5 [THE MODULE] — Undelivered, hot, valuable.
+   Ares will eventually trace it. Johnson may want delivery.
+   Competitors may want purchase. Elena holds keys.
+   Timer: [UNCLEAR ORIGIN] - Tags: [ASSET] [LIABILITY]
 
 --------------------------- ACTIVE THREATS --------------------------
 The Cutters (Tacoma gang) — Debt "handled" by unknown Johnson.
@@ -131,13 +137,45 @@ The Cutters (Tacoma gang) — Debt "handled" by unknown Johnson.
 Ares Macrotechnology — Lost Head of Biometric Security.
    Status: Response pending. - Timer: TBD
 
+--------------------------- THE MODULE ------------------------------
+ITEM: Ares Biometric Encryption Module
+TYPE: Research Data Package (digital + physical backup)
+CONTENTS:
+  - Complete biometric architecture research
+  - Flaw-tolerant encryption protocols
+  - Prototype schematics
+  - Field trial data with Lone Star/Knight Errant
+
+CURRENT STATUS:
+  - Primary copy: Encrypted cloud storage (Elena has key)
+  - Backup chip: Trick's possession (physical)
+  - Johnson payment received: 48,000¥ total (12k each + 12k Elena)
+  - Module NOT delivered to Johnson (he paid on trust/goodwill)
+
+PLOT SIGNIFICANCE:
+  - Ares will eventually notice it's missing
+  - Competitors would pay heavily for it
+  - Elena's knowledge is as valuable as the data
+  - Possible leverage with Lone Star/Knight Errant
+
+TAGS: [HIGH VALUE] [HOT] [ANOMALY - ORIGIN UNKNOWN TO JOHNSON]
+
 --------------------------- PATCH NOTES - SESSION 1 -----------------
 - Met Dez, Crank, and Money at warehouse job
 - Acquired Elena Vasquez as partner and contact
-- Obtained Ares biometric module (completed primary objective)
+- Obtained Ares biometric module (completed primary objective) 
+- Module data transferred to secure cloud (Elena controls encryption key)
+- Physical backup chip given to Trick (in your pocket)
 - Established crew dynamic
 - Johnson "handled" Cutters debt (mysterious intervention)
 - Earned 6 Karma, 14,000¥
+
+IN DEBT (The Cutters) — STATUS CHANGED
+- Original debt: 10,640¥
+- Current status: Paid by unknown Johnson
+- Remaining hooks: Cutters know who you are, where you live
+- Quality still active: [YES] - but interest no longer accruing
+- Potential evolution: Could become "Obligation" or "Marked" over time
 
 SPARK MOMENTS:
 - Touched Dez before she knew you were there
