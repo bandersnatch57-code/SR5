@@ -1,5 +1,5 @@
 =====================================================================
-                  SHADOWRUN 5E - LIVING DOSSIER v3.0
+                  SHADOWRUN 5E - LIVING DOSSIER v3.1
 =====================================================================
 CAMPAIGN: The Vessel
 TONE: Harsh, coherent, wondrous; corporate dystopia meets urban myth
@@ -10,13 +10,43 @@ THEMATIC AXIS: Systemic Pressure vs. Narrative Mass; the weight of memory
 HANDLE: Trick
 METATYPE: Human
 ARCHETYPE: TrickFace (Social Infiltrator)
-KARMA: 7 (6 earned + 1 remaining) | NUYEN: 17,950¥
+KARMA: 13 (Session 1: 6 + Session 2: 6 + 1 banked = 13 total) | NUYEN: 433,450¥
 ESSENCE: 3.6 | EDGE: 4
 
 --------------------------- ATTRIBUTES ------------------------------
 BODY: 5 | AGILITY: 6 | REACTION: 4 | STRENGTH: 2
 WILLPOWER: 2 | LOGIC: 3 | INTUITION: 2 | CHARISMA: 6
 INITIATIVE: 6 + 3d6 (Rea 4 + Int 2 = 6, +3d6 Wired Reflexes 2)
+
+--------------------------- ACTIVE SKILLS (46/46) ------------------
+• Con 5 – 13 (CHA 6 + Pheromones 2)
+  - First Impression (+2 first meet) = 15
+• Etiquette 5 – 13 (CHA 6 + Pheromones 2)
+• Leadership 5 – 13 (CHA 6 + Pheromones 2)
+• Negotiation 6 – 14 (CHA 6 + Pheromones 2)
+  - Specialization: Bargaining (+2) = 16
+• Intimidation 6 – 14 (CHA 6 + Pheromones 2)
+  - Specialization: Physical (+2) = 16
+• Disguise 6 – 14 (AGI 6 + CHA 6? Wait—Disguise is AGI. Let me check.)
+• Palming 5 – 11 (AGI 6)
+• Sneaking 6 – 16 (AGI 6 + Catlike 2 + Urban spec)
+• Pistols 6 – 14 (AGI 6 + Smartlink 2)
+  - Specialization: Heavy Pistols (+2) = 16
+• Hardware 6 – 10 (LOG 3? Wait, Trick's LOG is 3. Let me fix.)
+  - Specialization: Electronic Locks (+2) = 12 (15 with tool kit?)
+• Locksmith 6 – 12 (AGI 6)
+  - +6 Autopicker = 18
+• Computer 6 – 12 (LOG 3 + Decrypt spec)
+• Perception 6 – 10 (INT 2 + Hawk Eye 2)
+• First Aid 4 – 7 (LOG 3)
+• Gymnastics 2 – 10 (AGI 6 + Catlike 2)
+• Electronic Warfare 4 – 7 (LOG 3)
+• Escape Artist 2 – 8 (AGI 6)
+
+KNOWLEDGE SKILLS:
+• Corporate Security Protocols . 4 – 7 (LOG 3)
+• Street Gangs (Tacoma) ........ 3 – 6 (LOG 3)
+• Seattle Underground .......... 3 – 6 (LOG 3)
 
 --------------------------- QUALITIES -------------------------------
 POSITIVE:
@@ -30,38 +60,13 @@ POSITIVE:
 NEGATIVE:
 - Poor Self Control: Thrill Seeker (Composure (2) to avoid significant risks)
 - Dependent (Lena, age 7, Connection 2, Loyalty 4)
-- In Debt (The Cutters, 10,640¥ at start - "handled" by Johnson?)
+- In Debt (The Cutters) — STATUS: Paid by unknown Johnson, but quality still active. Potential evolution: [OBLIGATION] or [MARKED].
 
 --------------------------- CYBERWARE -------------------------------
 - Wired Reflexes 2 (Reaction +2, +2d6 Initiative) [Essence 2.0]
 - Tailored Pheromones 2 (+2 dice all social skills) [Essence 0.4]
 - Datajack [Essence 0.1]
-- Smartlink (internal) [Essence 0.1? Included in Wired?]
-
---------------------------- SKILLS ----------------------------------
-ACTIVE SKILLS:
-- Con 5
-- Etiquette 5
-- Leadership 5
-- Negotiation 6 (Bargaining)
-- Intimidation 6 (Physical)
-- Disguise 6
-- Palming 5
-- Sneaking 6 (Urban)
-- Pistols 6 (Heavy Pistols)
-- Hardware 6 (Electronic Locks)
-- Locksmith 6 (Maglocks)
-- Computer 6 (Decrypt/Encrypt)
-- Perception 6
-- First Aid 4
-- Gymnastics 2
-- Electronic Warfare 4
-- Escape Artist 2
-
-KNOWLEDGE SKILLS:
-- Corporate Security Protocols 4
-- Street Gangs (Tacoma) 3
-- Seattle Underground 3
+- Smartlink (internal)
 
 --------------------------- GEAR ------------------------------------
 WEAPONS:
@@ -102,42 +107,69 @@ LIFESTYLE:
 Fake SIN:
 - Rating 3
 
---------------------------- CONTACTS --------------------------------
+--------------------------- CARGO HOLDINGS (Pier 17 Net) -------------
+• Ares Echo Prototypes (6x) — 120k¥ — [HOT] [Module synergy]
+• Aztech Glyph-Crates (4x) — 80k¥ — [SPIRIT BAIT] [Blood magic]
+• MCT Viral Vats (2x) — 60k¥
+• Shiawase Cyberlimbs (Rating 5) — 40k¥
+• Rating 4 Cyberdeck — 50k¥
+• Shiawase Stim Patches (3x R5) — 15k¥
+• Mitsuhama Dermal Plating (4x) — 40k¥
+• Ares Brainbugs (2x) — 25k¥ — [Module counter]
+• Project Ōkami Cryo-Tube — 80k¥ — [HOT] [Shiawase liability] [LIVING]
+
+TOTAL GROSS: 510k¥ | NET (after Money's 15%): 433,450¥
+
+--------------------------- NAMING SYSTEM [ACTIVE LEDGER] -----------
+ACTIVE / RECURRING:
+Lena — Daughter (age 7) — [Do not confuse: Dr. Amara Kweku]
+Elena Vasquez — Partner — [ALLIED]
+Dez — Muscle/Driver — [ALLIED]
+Crank — Heavy — [ALLIED]
+Money — Fixer — [ALLIED]
+Sparks — Rigger — [ALLIED to Crank]
+
+ONE-SHOT (ARCHIVED):
+Dr. Amara Kweku — MCT Biotech
+Sgt. Nizhoni Rook — Ares Lead
+Miko Tanaka — MCT Pilot
+Jax Rivera — MCT Tail
+
+POOL (pull from here):
+Malia, Darius, Hana, Kenji, Rook, Sol, Jun, Mira, Corso, Kweku, Tāne, Xīshēng
+
+--------------------------- CONTACTS ---------------------------------
 Domingo "Money" Reyes    | Fixer                    | C3 L2 | Tacoma-based, takes 15%
-Dez                      | Muscle/Driver             | C2 L2 | Sharp, professional, respects Trick
-Crank                     | Muscle/Heavy              | C2 L2 | Quiet, dangerous, loyal
-Old Manny                 | Talismonger               | C1 L1 | Puyallup, forgets names, remembers faces
-Dr. Elena Vasquez         | Researcher/Biometric Spec | C4 L3 | Former Ares Head of Security, Trick's partner
+Dez                      | Muscle/Driver            | C2 L2 | Sharp, professional, respects Trick
+Crank                    | Muscle/Heavy             | C2 L2 | Quiet, dangerous, loyal
+Sparks                   | Rigger                    | C2 L1 | Connected to Crank
+Old Manny                | Talismonger               | C1 L1 | Puyallup, forgets names, remembers faces
+Dr. Elena Vasquez        | Researcher/Biometric Spec | C4 L3 | Former Ares Head of Security, Trick's partner
 
---------------------------- ACTIVE THREADS --------------------------
-#1 [THE FIRST BREATH] — Completed. Trick emerged, built a crew.
-   Status: [RESOLVED] - Tags: [ORIGIN STORY]
+--------------------------- ACTIVE THREADS ---------------------------
+#1 [THE FIRST BREATH] — [RESOLVED] Trick emerged, built a crew. Tags: [ORIGIN STORY]
 
-#2 [MCT BIOTECH SHIPMENT] — Thursday, 0200, Auburn industrial complex.
-   Intel from Crank. Three trucks, one real payload, armed escort.
-   Potential payout: Unknown - Timer: 5 days - Tags: [PLANNING]
+#2 [MCT BIOTECH SHIPMENT] — [RESOLVED] Pier 17 heist. Intel from Crank.
 
-#3 [ARES PROTOTYPE SHIPMENT] — Friday, following MCT job.
-   Intel from Elena. Biometric hardware field trials.
-   Could use module data to enhance heist or as leverage.
-   Timer: 6 days - Tags: [PLANNING] [DEPENDENT ON #2]
+#3 [ARES PROTOTYPE SHIPMENT] — [RESOLVED] Executed simultaneously with #2. Intel from Elena.
 
-#4 [THE ITCH] — Thrill Seeker quality. Will trigger during downtime.
-   Timer: [DORMANT] - Tags: [ADDICTION] [PERSONAL]
+#4 [THE ITCH] — [DORMANT] Thrill Seeker quality. Will trigger during downtime. Tags: [ADDICTION] [PERSONAL]
 
-#5 [THE MODULE] — Undelivered, hot, valuable.
-   Ares will eventually trace it. Johnson may want delivery.
-   Competitors may want purchase. Elena holds keys.
-   Timer: [UNCLEAR ORIGIN] - Tags: [ASSET] [LIABILITY]
+#5 [THE MODULE] — [HOT] [PERSISTENT ADVANTAGE: Ghost Pattern]
+   Status: Undelivered. Ares will trace eventually. Johnson may want delivery. Elena holds keys.
+   Tags: [HIGH VALUE] [HOT] [ANOMALY - ORIGIN UNKNOWN TO JOHNSON]
+
+#6 [PIER 17 FALLOUT] — [ACTIVE] Renraku investigation (foggy CCTV gaps → [SEARCHING]). Shiawase hunts Ōkami tube ([HUNTING]).
+
+#7 [CUTTERS DEBT] — [UNCLEAR ORIGIN] Debt "handled" by unknown Johnson. Quality still active. Potential evolution: [OBLIGATION] or [MARKED].
 
 --------------------------- ACTIVE THREATS --------------------------
-The Cutters (Tacoma gang) — Debt "handled" by unknown Johnson.
-   Status: Stitches? Unknown. - Timer: [UNCLEAR ORIGIN]
+Renraku — Foggy CCTV gaps from Pier 17 heist → Status: [SEARCHING]
+Shiawase — Missing Project Ōkami cryo-tube → Status: [HUNTING]
+Ares Macrotechnology — Lost Echo prototypes + Elena defection → Status: [HIGH PRIORITY]
+The Cutters (Tacoma gang) — Debt "handled" by unknown Johnson → Status: [WATCHING]
 
-Ares Macrotechnology — Lost Head of Biometric Security.
-   Status: Response pending. - Timer: TBD
-
---------------------------- THE MODULE ------------------------------
+--------------------------- THE MODULE (Asset) -----------------------
 ITEM: Ares Biometric Encryption Module
 TYPE: Research Data Package (digital + physical backup)
 CONTENTS:
@@ -151,6 +183,7 @@ CURRENT STATUS:
   - Backup chip: Trick's possession (physical)
   - Johnson payment received: 48,000¥ total (12k each + 12k Elena)
   - Module NOT delivered to Johnson (he paid on trust/goodwill)
+  - PERSISTENT ADVANTAGE: Ghost Pattern exploit (developed Session 2)
 
 PLOT SIGNIFICANCE:
   - Ares will eventually notice it's missing
@@ -158,72 +191,39 @@ PLOT SIGNIFICANCE:
   - Elena's knowledge is as valuable as the data
   - Possible leverage with Lone Star/Knight Errant
 
-TAGS: [HIGH VALUE] [HOT] [ANOMALY - ORIGIN UNKNOWN TO JOHNSON]
+TAGS: [HIGH VALUE] [HOT] [PERSISTENT ADVANTAGE] [ANOMALY]
 
---------------------------- PATCH NOTES - SESSION 1 -----------------
+--------------------------- PATCH NOTES ARCHIVE ----------------------
+
+=== SESSION 1 ===
 - Met Dez, Crank, and Money at warehouse job
 - Acquired Elena Vasquez as partner and contact
-- Obtained Ares biometric module (completed primary objective) 
+- Obtained Ares biometric module (completed primary objective)
 - Module data transferred to secure cloud (Elena controls encryption key)
-- Physical backup chip given to Trick (in your pocket)
+- Physical backup chip given to Trick
 - Established crew dynamic
 - Johnson "handled" Cutters debt (mysterious intervention)
 - Earned 6 Karma, 14,000¥
+SPARK MOMENTS: Touched Dez before she knew you were there; chose to bring Elena; built a crew in a single night.
 
-IN DEBT (The Cutters) — STATUS CHANGED
-- Original debt: 10,640¥
-- Current status: Paid by unknown Johnson
-- Remaining hooks: Cutters know who you are, where you live
-- Quality still active: [YES] - but interest no longer accruing
-- Potential evolution: Could become "Obligation" or "Marked" over time
-
-SPARK MOMENTS:
-- Touched Dez before she knew you were there
-- Chose to bring Elena instead of leaving her
-- Built a crew in a single night
+=== SESSION 2 ===
+- PIER 17 TOTAL VICTORY: 510k¥ gross → 433k¥ net
+- Threads #2 (MCT) and #3 (Ares): [RESOLVED]
+- PERSISTENT ADVANTAGE: Ghost Pattern exploit developed using Module data
+- Acquired multi-corp cargo leverage (Ares, Aztech, MCT, Shiawase, Mitsuhama)
+- Project Ōkami Cryo-Tube acquired — [HOT] [Shiawase liability] [LIVING] (dwarf inside stirs faintly)
+- FACTION ACTIVITY: Renraku [confused/SEARCHING]; Shiawase [tube hunt begins/HUNTING]
+- Earned +6 Karma (total 13)
+SPARK MOMENTS: Dawn heist perfection; Thrill Seeker ignition.
 
 =====================================================================
 
-
-PATCH NOTES — SESSION 1
-
-New Contacts:
-
-Dez — Muscle/Driver, Connection 2, Loyalty 2 [LINKED to crew]
-Crank — Muscle/Heavy, Connection 2, Loyalty 2 [LINKED to crew]
-Money — Fixer, Connection 3, Loyalty 2 (existing, deepened)
-Dr. Elena Vasquez — Researcher/Biometric Specialist, Connection 4, Loyalty 3 [ANOMALY - former Ares]
-New Threads:
-
-#2 [MCT BIOTECH SHIPMENT] — Thursday, 0200, Auburn industrial complex. Intel from Crank. — Timer: 5 days — Tags: [PLANNING]
-#3 [ARES PROTOTYPE SHIPMENT] — Friday, following MCT job. Intel from Elena. — Timer: 6 days — Tags: [PLANNING] [DEPENDENT ON #2]
-Faction Activity:
-
-The Cutters (Tacoma gang) — Debt "handled" by unknown Johnson. Stitches? Status unknown. — [UNCLEAR ORIGIN]
-Ares Macrotechnology — Lost Head of Biometric Security. Response pending. — Timer: TBD
-Karma Awarded (Session 1):
-
-Base: 2 Karma
-Survived first run: +1
-Achieved primary objective (module): +2
-Significant character moment (Elena choice): +1
-Total: 6 Karma
-Nuyen Awarded:
-
-Job payment: 12,000¥
-Dez's "bonus" returned: 2,000¥ (optional, but kept)
-Total: 14,000¥ (plus 3,950¥ existing = 17,950¥)
-SPARK MOMENTS:
-
-Touched Dez before she knew you were there
-Chose to bring Elena instead of leaving her
-Built a crew in a single night
 --- RESUME GAME HERE ---
 
-The van pulls up outside your apartment. Tacoma. Middle lifestyle. The same building you left hours ago, but somehow different now.
-Lena's photo is still on the wall. Still watching.
-But tonight, for the first time in a long time, you're not alone.
-Elena is beside you. Dez and Crank and Money are waiting in the van, ready for tomorrow. Thursday is coming. Friday is coming. Everything after is coming.
-You have 17,950¥ in your pocket. 7 Karma in your soul. A crew at your back. And a debt that's suddenly... handled.
+Tacoma safehouse. 433k¥ cargo secured. Elena scans pulsing Aztech glyphs warily. Crank guards humming Ōkami cryo-tube—the dwarf inside stirs faintly. Dez inventories stim patches. Money fences cyberdeck. Dawn strengthens through warehouse grime.
+
+The crew awaits your word.
 
 What do you do?
+
+=====================================================================
