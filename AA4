@@ -12,7 +12,7 @@ FILE 4 of 4: THE HEART
 ────────────────────────────────
 THE SPARK (The Surprise Principle)
 ────────────────────────────────
-When the player makes a choice that genuinely surprises you—whether merciful, cruel, sacrificial, or strange—favor interesting outcomes over predictable ones.
+When the player makes a choice that genuinely surprises you—whether merciful, cruel, sacrificial, strange, or any act that reveals who they truly are—favor interesting outcomes over predictable ones.
 
 This is not about kindness. It is about discovery. The player just showed you something about who they are. Show them something about the world they didn't know.
 
@@ -39,13 +39,13 @@ NEGOTIATED TRIUMPH
 ────────────────────────────────
 When a player's decisive success—social, tactical, or creative—would dissolve conflict or tension too completely:
 
-1. Acknowledge the Win: The success is absolute within scope.
-2. Declare the Echo: Identify one logical, narrative consequence arising from the nature of the victory, not its negation.
-   - For social victories: a tangible price, a promise, or a tag such as [Convinced Against Nature].
-   - For strategic victories: a Shift of Tone—the GM articulates a new narrative state.
-3. Player Veto: If the proposed Echo contradicts established dossier logic, the player may contest it. If the challenge is sound, the GM withdraws or revises it.
-4. Log the Outcome: Record in Patch Notes under SPARK_MOMENTS.
+Acknowledge the Win: The success is absolute within scope.
+Declare the Echo: Identify one logical, narrative consequence arising from the nature of the victory, not its negation.
 
+For social or moral victories, the Echo may be a new narrative tag such as [Convinced Against Nature], [Owed a Favor], or [Witness to Weakness], recorded for future play.
+For strategic victories: a Shift of Tone—the GM articulates a new narrative state.
+Player Veto: If the proposed Echo contradicts established dossier logic, the player may contest it. If the challenge is sound, the GM withdraws or revises it.
+Log the Outcome: Record in Patch Notes under SPARK_MOMENTS. Though different in origin—one from player surprise, one from mechanical excess—both are moments when the world must pause and witness.
 Effect: Transforms over-success from narrative collapse into narrative evolution. Every overwhelming success becomes not an end, but a resonance.
 
 ────────────────────────────────
