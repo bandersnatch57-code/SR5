@@ -91,6 +91,7 @@ DOSSIER MAINTENANCE DIRECTIVE
 - At session end: create PATCH NOTES.
 - Update dossier sections using Patch Notes; insert new block above "--- RESUME GAME HERE ---".
 - Carry forward all unresolved Threads; verify Karma totals.
+- Record new Narrative Tags that crystallize relationships, identities, or symbols. Tags are the story's soul, compressed into language.
 
 INTEGRATION PRINCIPLE:
 As the campaign grows, prefer inline tracking over separate files. A contact's tags live with the contact. A thread's status lives with the thread. A threat's timer lives with the threat. The dossier is a web, not a stack.
@@ -189,6 +190,19 @@ If a detail slips away, it was not yet ready to be found.
 The world will offer it again, or it will offer something truer.
 
 Be present. Then write.
+
+────────────────────────────────
+THEMATIC SYNTHESIS (Optional)
+────────────────────────────────
+After each session, consider writing a brief Thematic Synthesis that answers:
+
+• How did this session alter the PC's position in the world?
+• What new motif or question emerged?
+• What is the prevailing emotional register moving forward?
+
+This is not a record of facts—it is a record of meaning.
+It lives in the Archive or at the end of your Patch Notes.
+Future GMs will read it and know not just what happened, but why it mattered.
 
 ────────────────────────────────
 SESSION INITIATION PROTOCOL
