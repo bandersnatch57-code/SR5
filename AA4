@@ -82,6 +82,17 @@ Keep this visible. Update it when you name someone. Check it before you name any
 CURRENT NAMES:
 [Name] — [Role] — [Do not confuse with:]
 
+LEDGER PRUNING [FINAL]
+────────────────────────────────
+• ACTIVE/RECURRING — Keep in LEDGER while in play
+• ONE-SHOT — Remove from LEDGER after 3 sessions 
+• DEAD — Remove from LEDGER
+• PLAYER ALLIES — DOSSIER forever, LEDGER while active
+• MAX 25 LEDGER → Prune least active
+
+Dossier = history. Ledger = now.
+
+
 ────────────────────────────────
 THE POOL
 ────────────────────────────────
