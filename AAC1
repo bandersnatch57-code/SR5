@@ -1,5 +1,5 @@
 =====================================================================
-          SHADOWRUN 5E - CHARACTER CORE: TRICK (v4.1)
+          SHADOWRUN 5E - CHARACTER CORE: TRICK (v4.2 TAGGED)
 =====================================================================
 CAMPAIGN: The Vessel
 TONE: Harsh, coherent, wondrous; corporate dystopia meets urban myth
@@ -22,27 +22,42 @@ WILLPOWER: 2 | LOGIC: 3 | INTUITION: 2 | CHARISMA: 6
 
 --------------------------- QUALITIES -------------------------------
 POSITIVE:
-- First Impression (+2 dice on first social test with someone)
-- Catlike (+2 Sneaking, +1 Physical limit for Sneaking)
-- Hawk Eye (+2 visual Perception, +1 Visual limit)
-- Social Chameleon (+2 Impersonation, +1 Social limit when impersonating)
-- Guts (+2 to resist fear/intimidation)
-- Quick Healer (+2 healing tests, faster healing)
+- First Impression (+2 dice on first social test with someone) 
+  [TRIGGER: First encounter with new NPC] [AFFECTS: All Social skills] [SITUATIONAL]
+- Catlike (+2 Sneaking, +1 Physical limit for Sneaking) 
+  [ALWAYS ACTIVE] [AFFECTS: Sneaking only] [LIMIT: Physical +1 for Sneaking]
+- Hawk Eye (+2 visual Perception, +1 Visual limit) 
+  [ALWAYS ACTIVE] [AFFECTS: Perception (visual only)] [LIMIT: Visual +1]
+- Social Chameleon (+2 Impersonation, +1 Social limit when impersonating) 
+  [TRIGGER: When impersonating a specific person] [AFFECTS: Impersonation] [LIMIT: Social +1 when impersonating] [SITUATIONAL]
+- Guts (+2 to resist fear/intimidation) 
+  [TRIGGER: Fear or Intimidation resistance tests] [AFFECTS: Composure, resistance rolls] [SITUATIONAL]
+- Quick Healer (+2 healing tests, faster healing) 
+  [TRIGGER: Healing tests (natural or magical)] [AFFECTS: First Aid, magical healing] [SITUATIONAL]
 
 NEGATIVE:
 - Poor Self Control: Thrill Seeker (Composure (2) to avoid significant risks)
+  [TRIGGER: When player proposes high-risk action for excitement] [MECHANIC: Composure test (8) to resist] [SITUATIONAL]
 - Dependent (Lena, age 7, Connection 2, Loyalty 4)
-- In Debt (The Cutters) — STATUS: Paid by unknown Johnson, but quality still active. Potential evolution: [OBLIGATION] or [MARKED].
+  [TRIGGER: Any action that could endanger Lena] [MECHANIC: Must check in, provide, protect] [PERSISTENT]
+- In Debt (The Cutters) — STATUS: Paid by unknown Johnson, but quality still active. 
+  Potential evolution: [OBLIGATION] or [MARKED].
+  [TRIGGER: Unknown Johnson may call in favor] [STATUS: DORMANT but active] [PERSISTENT DISADVANTAGE]
 
 --------------------------- CYBERWARE -------------------------------
 - Wired Reflexes 2 (Reaction +2, +2d6 Initiative) [Essence 2.0]
+  [ALWAYS ACTIVE] [AFFECTS: Reaction, Initiative] [STACKS: With other initiative modifiers]
 - Tailored Pheromones 2 (+2 dice all social skills) [Essence 0.4]
+  [ALWAYS ACTIVE] [AFFECTS: All Social skills] [STACKS: With social qualities]
 - Datajack [Essence 0.1]
-- Smartlink (internal)
+  [FUNCTION: Direct neural interface with devices] [NO DICE BONUS] [REQUIRED FOR: Some Matrix actions]
+- Smartlink (internal) [Essence 0.1]
+  [ALWAYS ACTIVE] [AFFECTS: Pistols with smartgun capability] [STACKS: With smartgun weapon]
 
 --------------------------- GEAR ------------------------------------
 WEAPONS:
 - Ares Predator III w/ Smartlink, 100 APDS rounds, Concealed Holster
+  [SMARTGUN ENABLED] [APDS: AP -5 instead of -1]
 
 ARMOR:
 - Armor Jacket (12)
@@ -81,11 +96,17 @@ Fake SIN:
 
 --------------------------- CONTACTS ---------------------------------
 Domingo "Money" Reyes    | Fixer                    | C3 L2 | Tacoma-based, takes 15%
+  [LOYALTY: 2] [CONNECTION: 3] [FUNCTION: Fencing, jobs, info]
 Dez                      | Muscle/Driver            | C2 L2 | Sharp, professional, respects Trick
+  [LOYALTY: 2] [CONNECTION: 2] [FUNCTION: Combat support, driving]
 Crank                    | Muscle/Heavy             | C2 L2 | Quiet, dangerous, loyal
+  [LOYALTY: 2] [CONNECTION: 2] [FUNCTION: Heavy combat, intimidation]
 Sparks                   | Rigger                    | C2 L1 | Connected to Crank
+  [LOYALTY: 1] [CONNECTION: 2] [FUNCTION: Drones, vehicles, surveillance]
 Old Manny                | Talismonger               | C1 L1 | Puyallup, forgets names, remembers faces
+  [LOYALTY: 1] [CONNECTION: 1] [FUNCTION: Magical supplies, odd info]
 Dr. Elena Vasquez        | Researcher/Biometric Spec | C4 L3 | Former Ares Head of Security, Trick's partner
+  [LOYALTY: 3] [CONNECTION: 4] [FUNCTION: Technical expertise, Module access, romance] [KEY HOLDER: Module cloud]
 
 =====================================================================
 
