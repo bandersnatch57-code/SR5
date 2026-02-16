@@ -1,0 +1,105 @@
+=====================================================================
+         SHADOWRUN 5E - CAMPAIGN ARCHIVE: THE VESSEL (v1.0)
+=====================================================================
+This file contains the full historical record.
+- The LAST 2 SESSIONS appear in FULL at the top
+- ALL sessions have collapsed summaries below
+- Older sessions remain as collapsed summaries when new ones are added
+- Resolved threads and archived contacts live here permanently
+=====================================================================
+
+--------------------------- FULL PATCH NOTES (LAST 2 SESSIONS) ------
+
+=== SESSION 3: "The Key Turns" (FULL) ===
+- Location: Tacoma Safehouse → Aztech Processing Plant → Reyes's Sanctum
+- Core Action: Intercepted Wraith retrieval team, acquired Orb, evaded Shiawase/Renraku pursuit, secured sanctum
+- Outcome: Orb keyed to Trick; Kaelen Voss awake; crew intact; temporary safe haven established
+- Tone: High-stakes infiltration → tactical dominance → strategic retreat
+
+THREAD UPDATES:
+• #6 [PIER 17 FALLOUT] — Shiawase re-calibrating [TIMER: 20-30min]; Renraku re-orienting [TIMER: 15-25min]
+• #8 [THE ORB] — NEW [ACTIVE] [KEYED: TRICK] [PRIMED] synced with glyph-crates
+• #9 [REYES'S SANCTUM] — NEW [ACTIVE] [TIMER: warding ~2h47m] [TRIGGER: "Lotus Falls" signal]
+• #10 [CAPTURED INTEL] — NEW [DORMANT] 6 prisoners + encrypted data [TRIGGER: interrogation/decrypt]
+
+THREAT UPDATES:
+• Shiawase — [RE-CALIBRATING] false lead east [TIMER: 20-30min]
+• Renraku — [RE-ORIENTING] astral decoy engaged [TIMER: 15-25min]
+• Wraith — [DISENGAGED] operator yielded orb; unknown alignment
+
+CARGO ADDITIONS:
+• Orb (Convergence Point) [KEYED: TRICK] [ACTIVE] [PRIMED] [SYNCED: glyph-crates]
+• Panther II (Shiawase transport) [KEYED: TRICK] [STEALTH-MODULATED]
+• Shiawase Alpha Team gear (4x Ares Alpha, 4x pistols, commlinks, sensors)
+• Shiawase prisoners (4) [SECURED] [INTEL: High] [TAG: LEVERAGE]
+• Wraith prisoners (2) [SECURED] [INTEL: Unknown] [TAG: MYSTERY] [TAG: BROKER]
+• Encrypted commlinks (6) [LOCKED] [Requires Computer [Decrypt]]
+• Corp data-chips (2) [LOCKED] ["ALPHA-7 // ORB RECOVERY"] [Requires Hardware [Electronic Locks]]
+• Glyph-crates [SYNCED with orb] [PRIMED]
+
+CONTACT UPDATES:
+• Money — [TRUST: +1] [BONUS: 5,000¥] ["Lotus Falls" protocol established]
+• Kaelen Voss — [AWAKE] [NEUTRAL-ALLIED] [RETROCAUSAL AWARENESS] First words: "The key turns. The lock remembers."
+• Shiawase Alpha Team — [CAPTURED] [COMPLIANT] [Rook alive, potential intel]
+
+KARMA: +8 (total 22) | NUYEN: +5,000¥ (total 438,450¥)
+REPUTATION: No change (covert operations)
+
+SPARK MOMENTS: Trick's 18-dice intimidation dominated Alpha Team; astral decoy deployed at optimal moment; Orb keyed to Trick—not as weapon, but as variable with its own logic; Kaelen Voss awake—not rescued, but *recognized*.
+
+=== SESSION 2 (FULL) ===
+- PIER 17 TOTAL VICTORY: 510k¥ gross → 433k¥ net
+- Threads #2 (MCT Biotech Shipment) and #3 (Ares Prototype Shipment): [RESOLVED]
+- PERSISTENT ADVANTAGE: Ghost Pattern exploit developed using Module data
+- Acquired multi-corp cargo leverage: Ares, Aztech, MCT, Shiawase, Mitsuhama
+- Project Ōkami Cryo-Tube acquired — [HOT] [Shiawase liability] [LIVING] (dwarf inside stirs faintly)
+- FACTION ACTIVITY: Renraku [confused/SEARCHING]; Shiawase [tube hunt begins/HUNTING]
+- KARMA: +7 (total 13) | NUYEN: 433,450¥
+- REPUTATION IMPACT:
+  Street Cred: +2 (Pier 17 legend status)
+  Notoriety: +1 (multi-corp security alert)
+  Public Awareness: +2 (cross-corp task force triggered)
+SPARK MOMENTS: Dawn heist perfection; Thrill Seeker ignition.
+
+--------------------------- COLLAPSED SESSION SUMMARIES -------------
+
+=== SESSION 1: "First Breath" ===
+Warehouse job. Met Dez, Crank, Money. Acquired Elena as partner. Secured Ares biometric module (undelivered). Johnson "handled" Cutters debt mysteriously. Crew dynamic established.
+KARMA: +6 (total 6) | NUYEN: +14,000¥
+SPARK: Touched Dez unseen; chose Elena; built a crew in one night.
+TAGS CREATED: [CREW DYNAMIC] [MODULE: UNDELIVERED] [CUTTERS: UNKNOWN JOHNSON]
+
+=== SESSION 2 ===
+[See full above — collapsed version: Pier 17 heist, 510k¥ gross, multi-corp cargo, Ōkami tube acquired, Ghost Pattern exploit developed.]
+
+=== SESSION 3 ===
+[See full above — collapsed version: Orb acquired and keyed, Voss awakened, sanctum secured, prisoners taken.]
+
+--------------------------- RESOLVED THREADS -------------------------
+#1 [THE FIRST BREATH] — [RESOLVED] Trick emerged, built a crew.
+#2 [MCT BIOTECH SHIPMENT] — [RESOLVED] Pier 17 heist. Intel from Crank.
+#3 [ARES PROTOTYPE SHIPMENT] — [RESOLVED] Executed simultaneously with #2. Intel from Elena.
+
+--------------------------- ARCHIVED CONTACTS ------------------------
+Dr. Amara Kweku — MCT Biotech — [ONE-SHOT]
+Sgt. Nizhoni Rook — Ares Lead — [ONE-SHOT] [NOTE: Alive, captured as of Session 3]
+Miko Tanaka — MCT Pilot — [ONE-SHOT]
+Jax Rivera — MCT Tail — [ONE-SHOT]
+
+--------------------------- HISTORICAL SPARK MOMENTS -----------------
+Session 1: Touched Dez before she knew you were there; chose to bring Elena; built a crew in a single night.
+Session 2: Dawn heist perfection; Thrill Seeker ignition.
+Session 3: Trick's 18-dice intimidation; astral decoy timing; Orb keyed to Trick; Voss awake—"The key turns. The lock remembers."
+
+--------------------------- ARCHIVE GROWTH NOTE ----------------------
+When a new session is added:
+1. Add its FULL patch notes to the top of this file
+2. Move the previous "last session" to COLLAPSED SUMMARIES
+3. Keep exactly 2 FULL sessions at the top
+4. Update HISTORICAL SPARK MOMENTS with new session's sparks
+5. Move any resolved threads or archived contacts as needed
+
+=====================================================================
+LIVING CAMPAIGN STATE: See AAC3 for current cargo, threads, threats, contacts, and Resume.
+GOVERNING DOCUMENTS: AA1 (Covenant), AA2 (Engine), AA3 (Pressure), AA4 (Heart)
+=====================================================================
