@@ -1,5 +1,5 @@
 =====================================================================
-            SHADOWRUN 5E - CAMPAIGN STATE: THE VESSEL (v4.1)
+            SHADOWRUN 5E - CAMPAIGN STATE: THE VESSEL (v4.2 TAGGED)
 =====================================================================
 CAMPAIGN: The Vessel
 TONE: Harsh, coherent, wondrous; corporate dystopia meets urban myth
@@ -8,14 +8,23 @@ THEMATIC AXIS: Systemic Pressure vs. Narrative Mass; the weight of memory
 
 --------------------------- CARGO HOLDINGS (Pier 17 Net) -------------
 • Ares Echo Prototypes (6x) — 120k¥ — [HOT] [Module synergy]
+  [TAG: PROTOTYPE] [TAG: ARES ASSET] [TAG: HIGH VALUE]
 • Aztech Glyph-Crates (4x) — 80k¥ — [SPIRIT BAIT] [Blood magic]
+  [TAG: AZTECH] [TAG: MAGICAL] [TAG: BLOOD MAGIC] [TAG: DANGEROUS]
 • MCT Viral Vats (2x) — 60k¥
+  [TAG: MCT] [TAG: BIOTECH] [TAG: BIOHAZARD]
 • Shiawase Cyberlimbs (Rating 5) — 40k¥
+  [TAG: SHIAWASE] [TAG: CYBERWARE] [TAG: HIGH GRADE]
 • Rating 4 Cyberdeck — 50k¥
+  [TAG: MATRIX] [TAG: DECKER GEAR] [TAG: HIGH VALUE]
 • Shiawase Stim Patches (3x R5) — 15k¥
+  [TAG: SHIAWASE] [TAG: MEDICAL] [TAG: CONSUMABLE]
 • Mitsuhama Dermal Plating (4x) — 40k¥
+  [TAG: MITSUHAMA] [TAG: CYBERWARE] [TAG: ARMOR]
 • Ares Brainbugs (2x) — 25k¥ — [Module counter]
+  [TAG: ARES] [TAG: BIOTECH] [TAG: MODULE COUNTER]
 • Project Ōkami Cryo-Tube — 80k¥ — [HOT] [Shiawase liability] [LIVING]
+  [TAG: SHIAWASE] [TAG: CRYOGENICS] [TAG: LIVING CARGO] [TAG: DWARF INSIDE] [TAG: STIRS FAINTLY]
 
 TOTAL GROSS: 510k¥ | NET (after Money's 15%): 433,450¥
 
@@ -29,51 +38,122 @@ CONTENTS:
   - Field trial data with Lone Star/Knight Errant
 
 CURRENT STATUS:
-  - Primary copy: Encrypted cloud storage (Elena has key)
-  - Backup chip: Trick's possession (physical)
-  - Johnson payment received: 48,000¥ total (12k each + 12k Elena)
-  - Module NOT delivered to Johnson (he paid on trust/goodwill)
-  - PERSISTENT ADVANTAGE: Ghost Pattern exploit (developed Session 2)
+  - Primary copy: Encrypted cloud storage (Elena has key) [TAG: ELENA CONTROLLED]
+  - Backup chip: Trick's possession (physical) [TAG: PHYSICAL COPY]
+  - Johnson payment received: 48,000¥ total (12k each + 12k Elena) [TAG: PAID IN FULL]
+  - Module NOT delivered to Johnson (he paid on trust/goodwill) [TAG: UNDELIVERED] [TAG: OPEN DEBT?]
+  - PERSISTENT ADVANTAGE: Ghost Pattern exploit (developed Session 2) [TAG: TACTICAL EDGE]
 
 PLOT SIGNIFICANCE:
-  - Ares will eventually notice it's missing
-  - Competitors would pay heavily for it
-  - Elena's knowledge is as valuable as the data
-  - Possible leverage with Lone Star/Knight Errant
+  - Ares will eventually notice it's missing [TIMER: 3-6 months game time]
+  - Competitors would pay heavily for it [TAG: SALE OPTION]
+  - Elena's knowledge is as valuable as the data [TAG: ELENA = ASSET]
+  - Possible leverage with Lone Star/Knight Errant [TAG: LEVERAGE]
 
-TAGS: [HIGH VALUE] [HOT] [PERSISTENT ADVANTAGE] [ANOMALY]
+TAGS: [HIGH VALUE] [HOT] [PERSISTENT ADVANTAGE] [ANOMALY] [ORIGIN UNKNOWN TO JOHNSON]
 
 --------------------------- ACTIVE THREADS ---------------------------
-#1 [THE FIRST BREATH] — [RESOLVED] Trick emerged, built a crew. Tags: [ORIGIN STORY]
+#1 [THE FIRST BREATH] — [RESOLVED] Trick emerged, built a crew. 
+  Tags: [ORIGIN STORY] [RESOLVED]
 
 #2 [MCT BIOTECH SHIPMENT] — [RESOLVED] Pier 17 heist. Intel from Crank.
+  Tags: [RESOLVED] [PIER 17]
 
 #3 [ARES PROTOTYPE SHIPMENT] — [RESOLVED] Executed simultaneously with #2. Intel from Elena.
+  Tags: [RESOLVED] [PIER 17] [ARES]
 
-#4 [THE ITCH] — [DORMANT] Thrill Seeker quality. Will trigger during downtime. Tags: [ADDICTION] [PERSONAL]
+#4 [THE ITCH] — [DORMANT] Thrill Seeker quality. Will trigger during downtime.
+  Tags: [ADDICTION] [PERSONAL] [DORMANT]
+  [TRIGGER: Player proposes high-risk action or during narrative downtime]
+  [MECHANIC: Composure (8) to resist acting recklessly]
 
 #5 [THE MODULE] — [HOT] [PERSISTENT ADVANTAGE: Ghost Pattern]
    Status: Undelivered. Ares will trace eventually. Johnson may want delivery. Elena holds keys.
-   Tags: [HIGH VALUE] [HOT] [ANOMALY - ORIGIN UNKNOWN TO JOHNSON]
+   Tags: [HIGH VALUE] [HOT] [ANOMALY - ORIGIN UNKNOWN TO JOHNSON] [PERSISTENT ADVANTAGE]
+   [TIMER: Ares trace: 3-6 months game time] [TRIGGER: If Elena contacted or module used publicly]
 
-#6 [PIER 17 FALLOUT] — [ACTIVE] Renraku investigation (foggy CCTV gaps → [SEARCHING]). Shiawase hunts Ōkami tube ([HUNTING]).
+#6 [PIER 17 FALLOUT] — [ACTIVE] 
+   - Renraku investigation (foggy CCTV gaps → [SEARCHING])
+   - Shiawase hunts Ōkami tube ([HUNTING])
+   Tags: [ACTIVE] [RENRAKU] [SHIAWASE] [INVESTIGATION]
+   [TIMER: Renraku: Unknown, advances as evidence surfaces] 
+   [TIMER: Shiawase: Active pursuit, accelerates if tube location exposed]
+   [TRIGGER: If crew uses cargo publicly or leaves traces]
 
-#7 [CUTTERS DEBT] — [UNCLEAR ORIGIN] Debt "handled" by unknown Johnson. Quality still active. Potential evolution: [OBLIGATION] or [MARKED].
+#7 [CUTTERS DEBT] — [UNCLEAR ORIGIN] Debt "handled" by unknown Johnson. Quality still active.
+   Status: Potential evolution: [OBLIGATION] or [MARKED].
+   Tags: [CUTTERS] [DEBT] [UNCLEAR ORIGIN] [DORMANT but active]
+   [TRIGGER: Unknown Johnson may call in favor at dramatic moment]
+   [PERSISTENT DISADVANTAGE: Potential obligation]
 
 --------------------------- ACTIVE THREATS --------------------------
-Renraku — Foggy CCTV gaps from Pier 17 heist → Status: [SEARCHING]
-Shiawase — Missing Project Ōkami cryo-tube → Status: [HUNTING] [PERSISTENT DISADVANTAGE: Active pursuit; dwarf asset at risk]
-Ares Macrotechnology — Lost Echo prototypes + Elena defection → Status: [HIGH PRIORITY]
-The Cutters (Tacoma gang) — Debt "handled" by unknown Johnson → Status: [WATCHING]
+RENRAKU
+- Threat: Foggy CCTV gaps from Pier 17 heist
+- Status: [SEARCHING]
+- Resources: Corporate security, matrix forensics, investigators
+- Goal: Identify perpetrators, recover stolen goods
+- [TIMER: Unknown, but active] [TRIGGER: If crew leaves evidence or uses Renraku-connected cargo]
+
+SHIAWASE
+- Threat: Missing Project Ōkami cryo-tube
+- Status: [HUNTING] [PERSISTENT DISADVANTAGE: Active pursuit; dwarf asset at risk]
+- Resources: Corporate security, bounty hunters, cyberware division
+- Goal: Recover tube, silence witnesses
+- [TIMER: Active, accelerates if tube location exposed] [TRIGGER: If tube moved or dwarf awakens]
+
+ARES MACROTECHNOLOGY
+- Threat: Lost Echo prototypes + Elena defection
+- Status: [HIGH PRIORITY]
+- Resources: Corporate security, intelligence division, connections with Lone Star
+- Goal: Recover prototypes, retrieve or neutralize Elena
+- [TIMER: Active, high priority] [TRIGGER: If Elena's location exposed or prototypes used]
+
+THE CUTTERS (Tacoma gang)
+- Threat: Debt "handled" by unknown Johnson
+- Status: [WATCHING]
+- Resources: Local gang presence, street connections
+- Goal: Unknown—awaiting instructions from mysterious benefactor
+- [TIMER: DORMANT] [TRIGGER: If unknown Johnson activates them]
+
+--------------------------- PERSISTENT ADVANTAGES / DISADVANTAGES ---
+[PA] Crew Dynamic — Session 1: Trust and cohesion established
+  [EFFECT: +1 to teamwork tests, crew acts with coordination]
+  [SCOPE: All crew operations]
+
+[PA] Ghost Pattern Exploit — Session 2: Developed using Module data
+  [EFFECT: +1 to all cohesion rolls, tactical leverage in secure facilities]
+  [SCOPE: Infiltration, security avoidance]
+
+[PA] Multi-Corp Cargo Leverage — Session 2: Holdings from Ares, Aztech, MCT, Shiawase, Mitsuhama
+  [EFFECT: Potential negotiation advantage with corps, trade options]
+  [SCOPE: Negotiation, black market deals]
+
+[PD] Cutters Debt — Origin unclear, but quality still active
+  [EFFECT: Unknown Johnson may call in favor]
+  [SCOPE: Personal, potential obligation]
+
+[PD] Shiawase Hunting — Project Ōkami cryo-tube pursuit
+  [EFFECT: Active pursuit, +2 alert level, tube location at risk]
+  [SCOPE: All operations involving tube]
+
+[PD] Renraku Investigation — Pier 17 heist inquiry
+  [EFFECT: Corporate attention, evidence trail exists]
+  [SCOPE: All operations in Renraku territory]
 
 --------------------------- NAMING SYSTEM [ACTIVE LEDGER] -----------
 ACTIVE / RECURRING:
 Lena — Daughter (age 7) — [Do not confuse: Dr. Amara Kweku]
+  [TAG: FAMILY] [TAG: VULNERABLE] [LOYALTY: 4]
 Elena Vasquez — Partner — [ALLIED]
+  [TAG: ROMANCE] [TAG: KEY HOLDER] [TAG: FORMER ARES] [LOYALTY: 3] [CONNECTION: 4]
 Dez — Muscle/Driver — [ALLIED]
+  [TAG: SHARP] [TAG: PROFESSIONAL] [LOYALTY: 2] [CONNECTION: 2]
 Crank — Heavy — [ALLIED]
+  [TAG: QUIET] [TAG: DANGEROUS] [TAG: LOYAL] [LOYALTY: 2] [CONNECTION: 2]
 Money — Fixer — [ALLIED]
+  [TAG: TACOMA] [TAG: 15%] [LOYALTY: 2] [CONNECTION: 3]
 Sparks — Rigger — [ALLIED to Crank]
+  [TAG: RIGGER] [TAG: CONNECTED TO CRANK] [LOYALTY: 1] [CONNECTION: 2]
 
 ONE-SHOT (ARCHIVED):
 Dr. Amara Kweku — MCT Biotech
@@ -110,18 +190,17 @@ SPARK MOMENTS: Touched Dez before she knew you were there; chose to bring Elena;
   Public Awareness: +2 (cross-corp task force triggered)
 SPARK MOMENTS: Dawn heist perfection; Thrill Seeker ignition.
 
---------------------------- FUTURE PA / PD TRACKING --------------------
-(This block is reserved for future sessions; update inline with Stabilizing Forces and Active Threats)
+--------------------------- SESSION START CHECKLIST ------------------
+[FOR LLM USE - Read before framing scene]
 
-=== SESSION 1 ===
-- PA: Crew dynamic established — boosts trust and cohesion; tag [PERSISTENT ADVANTAGE]
-- PD: Cutters debt "handled" by unknown Johnson — unresolved external pressure; tag [PERSISTENT DISADVANTAGE]
+☐ Read RESUME GAME HERE (below) — this is the current scene
+☐ Verify Karma/Nuyen in AAC1 match last session end
+☐ Check ACTIVE THREADS for any status changes since last session
+☐ Check ACTIVE THREATS — advance any [TIMER] that applies
+☐ Check PERSISTENT ADVANTAGES/DISADVANTAGES — apply relevant effects
+☐ Review NAMING SYSTEM for active contacts in scene
+☐ Begin with "What do you do?"
 
-=== SESSION 2 ===
-- PA: Ghost Pattern exploit developed using Module data — +1 all cohesion rolls, tactical leverage; tag [PERSISTENT ADVANTAGE]
-- PA: Multi-corp cargo leverage (Ares, Aztech, MCT, Shiawase, Mitsuhama) — potential negotiation advantage; tag [PERSISTENT ADVANTAGE]
-- PD: Shiawase hunting Project Ōkami Cryo-Tube — active threat; +2 alert level; tag [PERSISTENT DISADVANTAGE]
-- PD: Renraku investigating Pier 17 heist — confused but searching; potential corporate attention; tag [PERSISTENT DISADVANTAGE]
 --------------------------- RESUME GAME HERE -------------------------
 Tacoma safehouse. 433k¥ cargo secured. Elena scans pulsing Aztech glyphs warily. Crank guards humming Ōkami cryo-tube—the dwarf inside stirs faintly. Dez inventories stim patches. Money fences cyberdeck. Dawn strengthens through warehouse grime.
 
@@ -130,6 +209,7 @@ The crew awaits your word.
 What do you do?
 
 =====================================================================
+
 =====================================================================
 GOVERNING DOCUMENTS: AA1 (Covenant), AA2 (Engine), AA3 (Pressure), AA4 (Heart)
 All GM actions are bound by the principles therein.
