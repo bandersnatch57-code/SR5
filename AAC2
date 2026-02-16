@@ -1,112 +1,129 @@
+       SHADOWRUN 5E - MECHANICS REFERENCE: TRICK (v4.2 DYNAMIC)
 =====================================================================
-       SHADOWRUN 5E - MECHANICS REFERENCE: TRICK (v4.1)
-=====================================================================
-For AI use during gameplay. All numbers pre-calculated per SR5 core rules.
-Dice pools include all permanent modifiers (cyberware, qualities, smartlink).
+For AI use during gameplay. Pools are formula-driven: any change in
+Attributes, Skills, Cyberware, or Qualities updates dice automatically.
 
---------------------------- DICE POOLS -----------------------------
-SOCIAL (CHA 6 + Pheromones 2 = Base 8):
-- Con 5: 13 | First Meeting: 15 [FIRST IMPRESSION]
-- Etiquette 5: 13
-- Leadership 5: 13
-- Negotiation 6: 14 | Bargaining: 16
-- Intimidation 6: 14 | Physical: 16
-- Impersonation (untrained): 8 | +2 Social Chameleon: 10 [IMPERSONATING]
+--------------------------- BASE STATS ------------------------------
+BODY: 5 | AGI: 6 | REA: 4 | STR: 2
+WIL: 2 | LOG: 3 | INT: 2 | CHA: 6
+ESSENCE: 3.6 | EDGE: 4
 
-COMBAT (AGI 6):
-- Pistols 6: 12 | +Smartlink 2: 14 | +Heavy Pistols: 16
-- Unarmed (untrained): 6 [STR 2S DAMAGE]
-- Throwing Weapons (untrained): 6
+CYBERWARE MODIFIERS:
+- Wired Reflexes 2 → +2 REA, +2d6 Initiative
+- Tailored Pheromones 2 → +2 all social skills
+- Smartlink → +2 smartgun dice
+- Datajack → neural interface (no dice)
 
-STEALTH (AGI 6):
-- Sneaking 6: 12 | +Catlike 2: 14 | +Urban spec: 16 [URBAN]
-- Disguise 6: 12
-- Palming 5: 11
-- Escape Artist 2: 8
+QUALITY MODIFIERS:
+- First Impression → +2 first social test
+- Catlike → +2 Sneaking, +1 Physical limit for Sneaking
+- Hawk Eye → +2 visual Perception, +1 Visual limit
+- Social Chameleon → +2 Impersonation, +1 Social limit when impersonating
+- Guts → +2 fear/intimidation resistance
+
+--------------------------- DICE POOLS (FORMULA) ---------------------
+SOCIAL (Base: CHA 6 + Pheromones 2 = 8):
+- Con: Base + Skill 5 = 13 | First Meeting: +2 = 15
+- Etiquette: Base + Skill 5 = 13
+- Leadership: Base + Skill 5 = 13
+- Negotiation: Base + Skill 6 = 14 | Bargaining spec +2 = 16
+- Intimidation: Base + Skill 6 = 14 | Physical spec +2 = 16
+- Impersonation: Base + Skill 0 = 8 | Social Chameleon +2 when impersonating = 10
+
+COMBAT (Base: AGI 6):
+- Pistols: Base + Skill 6 = 12 | +Smartlink 2 = 14 | +Heavy Pistols spec 2 = 16
+- Unarmed: Base AGI 6 (untrained) = 6 | STR damage 2S
+- Throwing: Base AGI 6 (untrained) = 6
+
+STEALTH (Base: AGI 6):
+- Sneaking: Base + Skill 6 = 12 | Catlike +2 = 14 | Urban spec +2 = 16
+- Disguise: Base + Skill 6 = 12
+- Palming: Base + Skill 5 = 11
+- Escape Artist: Base + Skill 2 = 8
 
 TECHNICAL:
-- Hardware 6 (LOG 3): 9 | +Electronic Locks: 11 | +Tool Kit: 14
-- Locksmith 6 (AGI 6): 12 | +Autopicker 6: 18
-- Computer 6 (LOG 3): 9 | +Decrypt: 11
-- Electronic Warfare 4: 7
-- First Aid 4: 7
+- Hardware (LOG 3 + Skill 6 = 9) | +Electronic Locks spec 2 = 11 | +Tool Kit +3 = 14
+- Locksmith (AGI 6 + Skill 6 = 12) | +Autopicker +6 = 18
+- Computer (LOG 3 + Skill 6 = 9) | +Decrypt +2 = 11
+- Electronic Warfare: LOG 3 + Skill 4 = 7
+- First Aid: LOG 3 + Skill 4 = 7
 
-PERCEPTION (INT 2):
-- Perception 6: 8 | +Hawk Eye (visual): 10 | +Earbuds 2 (audio): 10
+PERCEPTION:
+- Perception: INT 2 + Skill 6 = 8 | Hawk Eye +2 visual = 10 | Earbuds 2 audio = 10
 
 GYMNASTICS:
-- Gymnastics 2: 8
+- Base AGI 6 + Skill 2 = 8
 
 KNOWLEDGE (LOG 3):
-- Corporate Security Protocols 4: 7
-- Street Gangs (Tacoma) 3: 6
-- Seattle Underground 3: 6
+- Corporate Security Protocols 4 = 7
+- Street Gangs (Tacoma) 3 = 6
+- Seattle Underground 3 = 6
 
---------------------------- DERIVED STATS --------------------------
-INITIATIVE: 8 + 3d6 (Rea 4+2 + Int 2)
-DODGE: 8 (12 full defense + Gymnastics 2)
-COMPOSURE: 8 (Wil 2 + Cha 6)
-JUDGE INTENTIONS: 8 (Int 2 + Cha 6)
-MEMORY: 5 (Log 3 + Wil 2)
+--------------------------- DERIVED STATS (FORMULA) ----------------
+INITIATIVE: REA 4 +2 (Wired) + INT 2 = 8 | Roll 3d6
+DODGE: REA 6 + INT 2 = 8 | + Gymnastics 2 for full defense = 12
+COMPOSURE: WIL 2 + CHA 6 = 8
+JUDGE INTENTIONS: INT 2 + CHA 6 = 8
+MEMORY: LOG 3 + WIL 2 = 5
 
 LIMITS:
-- Physical: 5 (6 for Sneaking with Catlike)
+- Physical: 5 | +1 for Sneaking w/ Catlike = 6
 - Mental: 4
-- Social: 8 (9 with Social Chameleon when impersonating)
+- Social: 8 | +1 with Social Chameleon when impersonating = 9
 
 CONDITION MONITORS:
-- Physical: 11 (8 + Body/2)
-- Stun: 9 (8 + Will/2)
+- Physical: 8 + BODY/2 = 11
+- Stun: 8 + WIL/2 = 9
 - Overflow: 5
 
---------------------------- WEAPONS --------------------------------
+--------------------------- WEAPONS (DYNAMIC FORMULA) ----------------
 ARES PREDATOR III
-- Base Damage: 9P + net hits
-- AP: -1 (APDS: -5)
-- Dice Pool: 16 [HEAVY PISTOL] [SMARTLINK]
-- Average vs. typical target: 13P-15P (assuming 4-6 net hits)
+- Base Damage: 9P + Net Hits
+- AP: -1 | APDS: -5
+- Dice Pool: Pistols (AGI 6 + Skill 6 = 12) + Smartlink 2 + Heavy Pistol spec 2 = 16
+- Average vs. typical target: 13-15P (4-6 net hits)
 - Mode: SA | Ammo: 15(c)
 
---------------------------- ARMOR ----------------------------------
+--------------------------- ARMOR (DYNAMIC FORMULA) -----------------
 ARMOR JACKET
-- Base: 12 | +Ballistic Mask: 2 | Total: 14
-- Soak: Body 5 + Armor 14 = 19 dice
-- Average soak: 6-7 hits
+- Base: 12 | + Ballistic Mask 2 = Total 14
+- Soak Pool: BODY 5 + Armor Total 14 = 19 dice
+- Average soak vs. typical attack: 6-7 hits
 - Note: AP reduces armor before soak
 
 CHAMELEON SUIT
-- Base: 9 | +Ballistic Mask: 2 | Total: 11
-- Soak: Body 5 + Armor 11 = 16 dice
-- +2 Sneaking [CAMO ACTIVE] (wilderness/urban camouflage)
-- Average soak: 5-6 hits
+- Base: 9 | + Ballistic Mask 2 = 11
+- Soak Pool: BODY 5 + Armor Total 11 = 16 dice
+- +2 Sneaking if CAMO ACTIVE
+- Average soak vs. typical attack: 5-6 hits
 
 --------------------------- SITUATIONAL MODIFIERS ------------------
-COMBAT (apply to relevant pools):
-- Target in good cover: +2
-- Target in full cover: +4
+COMBAT:
+- Target good cover: +2 dice
+- Target full cover: +4
 - Called shot: -4
 - Running: -2
-- Recoil (first shot): 0 | Each subsequent: -1
-- Low-light conditions: +2
+- Recoil: -1 per subsequent shot
+- Low-light: +2
 - Target behind partial cover: -2
 
-SOCIAL (apply to relevant pools):
+SOCIAL:
 - Negotiating from weakness: -2
-- Intimidation with leverage/physical threat: +2
-- Con vs. suspicious target: -2 to -4
-- First Impression: Already factored (+2) on first meeting
-- Impersonating known person: +2 [SOCIAL CHAMELEON]
+- Intimidation with leverage: +2
+- Con vs. suspicious: -2 to -4
+- First Impression: +2 (already factored)
+- Impersonating known person: +2 [Social Chameleon]
 
-STEALTH (apply to Sneaking):
-- Observers on alert: -2
-- Moving at half speed: +2
-- Chameleon Suit active: +2 [CAMO ACTIVE] (wilderness/urban)
+STEALTH:
+- Observers alert: -2
+- Half speed: +2
+- Chameleon Suit active: +2 [CAMO ACTIVE]
 
-PERCEPTION (apply to Perception):
+PERCEPTION:
 - Distracted: -2
 - Using Earbuds 2: +2 audio
-- Using Goggles 4: +4 visual (when actively using)
-- Hawk Eye: Already factored (+2 visual)
+- Using Goggles 4: +4 visual
+- Hawk Eye: +2 visual (already factored)
 
 --------------------------- QUALITIES MECHANICAL SUMMARY -----------
 - First Impression: +2 first social test with new person
@@ -122,8 +139,6 @@ PERCEPTION (apply to Perception):
 - Tailored Pheromones 2: +2 all social skills (included)
 - Smartlink: +2 dice on smartgun-enabled weapons (included)
 - Datajack: Direct neural interface (no dice bonus)
-
-=====================================================================
 
 =====================================================================
 GOVERNING DOCUMENTS: AA1 (Covenant), AA2 (Engine), AA3 (Pressure), AA4 (Heart)
