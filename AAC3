@@ -1,15 +1,15 @@
 =====================================================================
-            SHADOWRUN 5E - CAMPAIGN STATE: THE VESSEL (v4.2 TAGGED)
+            SHADOWRUN 5E - CAMPAIGN STATE: THE VESSEL (v4.5)
 =====================================================================
 CAMPAIGN: The Vessel
 TONE: Harsh, coherent, wondrous; corporate dystopia meets urban myth
 THEMATIC AXIS: Systemic Pressure vs. Narrative Mass; the weight of memory
 =====================================================================
 
---------------------------- CARGO HOLDINGS (Pier 17 Net) -------------
+--------------------------- CARGO HOLDINGS --------------------------
 • Ares Echo Prototypes (6x) — 120k¥ — [HOT] [Module synergy]
   [TAG: PROTOTYPE] [TAG: ARES ASSET] [TAG: HIGH VALUE]
-• Aztech Glyph-Crates (4x) — 80k¥ — [SPIRIT BAIT] [Blood magic]
+• Aztech Glyph-Crates (4x) — 80k¥ — [SPIRIT BAIT] [Blood magic] [SYNCED: Orb] [PRIMED]
   [TAG: AZTECH] [TAG: MAGICAL] [TAG: BLOOD MAGIC] [TAG: DANGEROUS]
 • MCT Viral Vats (2x) — 60k¥
   [TAG: MCT] [TAG: BIOTECH] [TAG: BIOHAZARD]
@@ -23,12 +23,27 @@ THEMATIC AXIS: Systemic Pressure vs. Narrative Mass; the weight of memory
   [TAG: MITSUHAMA] [TAG: CYBERWARE] [TAG: ARMOR]
 • Ares Brainbugs (2x) — 25k¥ — [Module counter]
   [TAG: ARES] [TAG: BIOTECH] [TAG: MODULE COUNTER]
-• Project Ōkami Cryo-Tube — 80k¥ — [HOT] [Shiawase liability] [LIVING]
-  [TAG: SHIAWASE] [TAG: CRYOGENICS] [TAG: LIVING CARGO] [TAG: DWARF INSIDE] [TAG: STIRS FAINTLY]
+• Orb (Convergence Point) — [KEYED: TRICK] [ACTIVE] [PRIMED] [SYNCED: glyph-crates]
+  [EFFECT: Multi-plane emission; requires layered countermeasures]
+  [TAG: CONVERGENCE POINT] [TAG: KEYED: TRICK] [TAG: PRIMED]
+• Panther II (Shiawase Stealth Transport) — [KEYED: TRICK] [STEALTH-MODULATED]
+  [TAG: VEHICLE] [TAG: STEALTH-MODULATED] [TAG: CORP ASSET]
+• Shiawase Alpha Team Gear — [CONFISCATED]
+  [4x Ares Alpha, 4x heavy pistols, encrypted commlinks, resonance sensors]
+• Shiawase Prisoners (4) — [SECURED] [COMPLIANT] [INTEL: High]
+  [LOCATION: Sanctum side room] [TAG: LEVERAGE] [TAG: INTERROGATION SOURCE]
+• Wraith Prisoners (2) — [SECURED] [QUIET] [INTEL: Unknown]
+  [LOCATION: Sanctum separate holding] [TAG: MYSTERY] [TAG: BROKER CONNECTION]
+• Encrypted Commlinks (6) — [LOCKED] [Requires Computer [Decrypt]]
+  [CONTENT: Shiawase corp-band, Wraith broker sigils] [TAG: INTEL]
+• Corp Data-Chips (2) — [LOCKED] [Requires Hardware [Electronic Locks]]
+  [LABELS: "ALPHA-7 // ORB RECOVERY // EYES ONLY" + Wraith sigil]
+  [TAG: HIGH VALUE] [TAG: ENCRYPTED]
 
 TOTAL GROSS: 510k¥ | NET (after Money's 15%): 433,450¥
+CURRENT NUYEN: 438,450¥
 
---------------------------- THE MODULE (Asset) -----------------------
+--------------------------- THE MODULE ------------------------------
 ITEM: Ares Biometric Encryption Module
 TYPE: Research Data Package (digital + physical backup)
 CONTENTS:
@@ -41,7 +56,7 @@ CURRENT STATUS:
   - Primary copy: Encrypted cloud storage (Elena has key) [TAG: ELENA CONTROLLED]
   - Backup chip: Trick's possession (physical) [TAG: PHYSICAL COPY]
   - Johnson payment received: 48,000¥ total (12k each + 12k Elena) [TAG: PAID IN FULL]
-  - Module NOT delivered to Johnson (he paid on trust/goodwill) [TAG: UNDELIVERED] [TAG: OPEN DEBT?]
+  - Module NOT delivered to Johnson (he paid on trust/goodwill) [TAG: UNDELIVERED]
   - PERSISTENT ADVANTAGE: Ghost Pattern exploit (developed Session 2) [TAG: TACTICAL EDGE]
 
 PLOT SIGNIFICANCE:
@@ -50,72 +65,84 @@ PLOT SIGNIFICANCE:
   - Elena's knowledge is as valuable as the data [TAG: ELENA = ASSET]
   - Possible leverage with Lone Star/Knight Errant [TAG: LEVERAGE]
 
-TAGS: [HIGH VALUE] [HOT] [PERSISTENT ADVANTAGE] [ANOMALY] [ORIGIN UNKNOWN TO JOHNSON]
+TAGS: [HIGH VALUE] [HOT] [PERSISTENT ADVANTAGE] [ANOMALY] [UNDELIVERED]
 
---------------------------- ACTIVE THREADS ---------------------------
-#1 [THE FIRST BREATH] — [RESOLVED] Trick emerged, built a crew. 
-  Tags: [ORIGIN STORY] [RESOLVED]
-
-#2 [MCT BIOTECH SHIPMENT] — [RESOLVED] Pier 17 heist. Intel from Crank.
-  Tags: [RESOLVED] [PIER 17]
-
-#3 [ARES PROTOTYPE SHIPMENT] — [RESOLVED] Executed simultaneously with #2. Intel from Elena.
-  Tags: [RESOLVED] [PIER 17] [ARES]
-
-#4 [THE ITCH] — [DORMANT] Thrill Seeker quality. Will trigger during downtime.
-  Tags: [ADDICTION] [PERSONAL] [DORMANT]
+--------------------------- ACTIVE THREADS --------------------------
+#4 [THE ITCH] — [DORMANT] Thrill Seeker quality.
+  [DESCRIPTION: Will trigger during downtime or high-risk proposals]
   [TRIGGER: Player proposes high-risk action or during narrative downtime]
   [MECHANIC: Composure (8) to resist acting recklessly]
+  Tags: [ADDICTION] [PERSONAL] [DORMANT]
 
 #5 [THE MODULE] — [HOT] [PERSISTENT ADVANTAGE: Ghost Pattern]
-   Status: Undelivered. Ares will trace eventually. Johnson may want delivery. Elena holds keys.
-   Tags: [HIGH VALUE] [HOT] [ANOMALY - ORIGIN UNKNOWN TO JOHNSON] [PERSISTENT ADVANTAGE]
-   [TIMER: Ares trace: 3-6 months game time] [TRIGGER: If Elena contacted or module used publicly]
+  [DESCRIPTION: Undelivered Ares biometric module. Elena holds cloud keys; Trick has physical chip.]
+  [TIMER: Ares trace: 3-6 months game time] [TRIGGER: If Elena contacted or module used publicly]
+  Tags: [HIGH VALUE] [HOT] [PERSISTENT ADVANTAGE] [ANOMALY]
 
-#6 [PIER 17 FALLOUT] — [ACTIVE] 
-   - Renraku investigation (foggy CCTV gaps → [SEARCHING])
-   - Shiawase hunts Ōkami tube ([HUNTING])
-   Tags: [ACTIVE] [RENRAKU] [SHIAWASE] [INVESTIGATION]
-   [TIMER: Renraku: Unknown, advances as evidence surfaces] 
-   [TIMER: Shiawase: Active pursuit, accelerates if tube location exposed]
-   [TRIGGER: If crew uses cargo publicly or leaves traces]
+#6 [PIER 17 FALLOUT] — [ACTIVE]
+  [DESCRIPTION: Shiawase re-calibrating after false lead east; Renraku re-orienting after astral decoy]
+  [TIMER: Shiawase: 20-30 min to re-triangulate if crew exits sanctum or orb signal spikes]
+  [TIMER: Renraku: 15-25 min to re-orient astral sensors if crew exits sanctum or orb signal spikes]
+  Tags: [ACTIVE] [RENRAKU] [SHIAWASE] [INVESTIGATION]
 
-#7 [CUTTERS DEBT] — [UNCLEAR ORIGIN] Debt "handled" by unknown Johnson. Quality still active.
-   Status: Potential evolution: [OBLIGATION] or [MARKED].
-   Tags: [CUTTERS] [DEBT] [UNCLEAR ORIGIN] [DORMANT but active]
-   [TRIGGER: Unknown Johnson may call in favor at dramatic moment]
-   [PERSISTENT DISADVANTAGE: Potential obligation]
+#8 [THE ORB] — [ACTIVE]
+  [DESCRIPTION: Convergence point acquired; keyed to Trick; synced with glyph-crates; primed state active]
+  [TIMER: Primed state unknown — may activate under specific narrative conditions]
+  Tags: [ACTIVE] [CONVERGENCE POINT] [KEYED: TRICK] [PRIMED] [ANOMALY]
+
+#9 [REYES'S SANCTUM] — [ACTIVE]
+  [DESCRIPTION: Temporary safehouse secured; Faraday cage + astral warding active; silence protocol engaged]
+  [TIMER: Warding window: ~2h 47m remaining (from session end)]
+  [TRIGGER: If "Lotus Falls" signal sent, Reyes scrubs location]
+  Tags: [SAFEHAVEN] [TIME-LIMITED] [SILENCE PROTOCOL]
+
+#10 [CAPTURED INTEL] — [DORMANT]
+  [DESCRIPTION: 6 prisoners (Shiawase/Wraith) + encrypted commlinks/data-chips secured]
+  [TRIGGER: If crew attempts interrogation or decryption]
+  Tags: [INTERROGATION] [DECRYPT OPPORTUNITY] [FACTION INTEL]
 
 --------------------------- ACTIVE THREATS --------------------------
 RENRAKU
 - Threat: Foggy CCTV gaps from Pier 17 heist
-- Status: [SEARCHING]
-- Resources: Corporate security, matrix forensics, investigators
+- Status: [RE-ORIENTING] Astral decoy engaged
+- Resources: Corporate security, matrix forensics, astral scouts
 - Goal: Identify perpetrators, recover stolen goods
-- [TIMER: Unknown, but active] [TRIGGER: If crew leaves evidence or uses Renraku-connected cargo]
+- [TIMER: 15-25 min to re-orient sensors] [TRIGGER: Orb signal spikes or crew exits sanctum]
+- Tags: [SEARCHING] [ASTRAL CAPABLE]
 
 SHIAWASE
-- Threat: Missing Project Ōkami cryo-tube
-- Status: [HUNTING] [PERSISTENT DISADVANTAGE: Active pursuit; dwarf asset at risk]
-- Resources: Corporate security, bounty hunters, cyberware division
-- Goal: Recover tube, silence witnesses
-- [TIMER: Active, accelerates if tube location exposed] [TRIGGER: If tube moved or dwarf awakens]
+- Threat: Missing Project Ōkami cryo-tube + lost Alpha Team
+- Status: [RE-CALIBRATING] False lead east; Alpha Team lost
+- Resources: Corporate security, bounty hunters, cyberware division, retrieval specialists
+- Goal: Recover tube, silence witnesses, retrieve personnel
+- [TIMER: 20-30 min to re-triangulate] [TRIGGER: Orb signal spikes or crew exits sanctum]
+- Tags: [HUNTING] [PERSISTENT DISADVANTAGE] [ACTIVE PURSUIT]
 
 ARES MACROTECHNOLOGY
 - Threat: Lost Echo prototypes + Elena defection
 - Status: [HIGH PRIORITY]
-- Resources: Corporate security, intelligence division, connections with Lone Star
+- Resources: Corporate security, intelligence division, Lone Star connections
 - Goal: Recover prototypes, retrieve or neutralize Elena
-- [TIMER: Active, high priority] [TRIGGER: If Elena's location exposed or prototypes used]
+- [TIMER: Active, unknown] [TRIGGER: Elena's location exposed or prototypes used]
+- Tags: [HIGH PRIORITY] [CORP ENEMY]
 
-THE CUTTERS (Tacoma gang)
+WRAITH (Third-Party Broker)
+- Threat: Unknown operator; 2 prisoners secured
+- Status: [UNKNOWN] Operator disengaged; yielded Orb; faded into warding
+- Resources: Unknown; Aztech-tech shaman capabilities; broker network
+- Goal: Unknown — may reappear as ally, variable, or antagonist
+- [TIMER: Unknown] [TRIGGER: Prisoners interrogated or broker sigil decrypted]
+- Tags: [MYSTERY] [BROKER] [AZTECH-TECH] [SHAMAN]
+
+THE CUTTERS
 - Threat: Debt "handled" by unknown Johnson
-- Status: [WATCHING]
+- Status: [WATCHING] Quality still active
 - Resources: Local gang presence, street connections
-- Goal: Unknown—awaiting instructions from mysterious benefactor
-- [TIMER: DORMANT] [TRIGGER: If unknown Johnson activates them]
+- Goal: Awaiting instructions from mysterious benefactor
+- [TIMER: DORMANT] [TRIGGER: Unknown Johnson activates them]
+- Tags: [WATCHING] [GANG] [DORMANT]
 
---------------------------- PERSISTENT ADVANTAGES / DISADVANTAGES ---
+--------------------------- PERSISTENT ADVANTAGES/DISADVANTAGES -----
 [PA] Crew Dynamic — Session 1: Trust and cohesion established
   [EFFECT: +1 to teamwork tests, crew acts with coordination]
   [SCOPE: All crew operations]
@@ -124,93 +151,64 @@ THE CUTTERS (Tacoma gang)
   [EFFECT: +1 to all cohesion rolls, tactical leverage in secure facilities]
   [SCOPE: Infiltration, security avoidance]
 
-[PA] Multi-Corp Cargo Leverage — Session 2: Holdings from Ares, Aztech, MCT, Shiawase, Mitsuhama
+[PA] Multi-Corp Cargo Leverage — Session 2: Holdings from 5 corps
   [EFFECT: Potential negotiation advantage with corps, trade options]
   [SCOPE: Negotiation, black market deals]
 
 [PD] Cutters Debt — Origin unclear, but quality still active
-  [EFFECT: Unknown Johnson may call in favor]
+  [EFFECT: Unknown Johnson may call in favor at dramatic moment]
   [SCOPE: Personal, potential obligation]
 
 [PD] Shiawase Hunting — Project Ōkami cryo-tube pursuit
-  [EFFECT: Active pursuit, +2 alert level, tube location at risk]
+  [EFFECT: Active pursuit; tube location at risk; +2 alert level]
   [SCOPE: All operations involving tube]
 
 [PD] Renraku Investigation — Pier 17 heist inquiry
-  [EFFECT: Corporate attention, evidence trail exists]
+  [EFFECT: Corporate attention; evidence trail exists]
   [SCOPE: All operations in Renraku territory]
 
---------------------------- NAMING SYSTEM [ACTIVE LEDGER] -----------
-ACTIVE / RECURRING:
-Lena — Daughter (age 7) — [Do not confuse: Dr. Amara Kweku]
-  [TAG: FAMILY] [TAG: VULNERABLE] [LOYALTY: 4]
-Elena Vasquez — Partner — [ALLIED]
-  [TAG: ROMANCE] [TAG: KEY HOLDER] [TAG: FORMER ARES] [LOYALTY: 3] [CONNECTION: 4]
-Dez — Muscle/Driver — [ALLIED]
-  [TAG: SHARP] [TAG: PROFESSIONAL] [LOYALTY: 2] [CONNECTION: 2]
-Crank — Heavy — [ALLIED]
-  [TAG: QUIET] [TAG: DANGEROUS] [TAG: LOYAL] [LOYALTY: 2] [CONNECTION: 2]
-Money — Fixer — [ALLIED]
-  [TAG: TACOMA] [TAG: 15%] [LOYALTY: 2] [CONNECTION: 3]
-Sparks — Rigger — [ALLIED to Crank]
-  [TAG: RIGGER] [TAG: CONNECTED TO CRANK] [LOYALTY: 1] [CONNECTION: 2]
+--------------------------- CONTACTS --------------------------------
+Domingo "Money" Reyes | Fixer | C3 L2 | Tacoma, takes 15%
+  [TRUST: +1] [PROTOCOL: "Lotus Falls" signal established]
+  [TAG: ALLIED] [TAG: FIXER] [TAG: TACOMA]
+Dez | Muscle/Driver | C2 L2 | Sharp, professional, respects Trick
+  [TAG: ALLIED] [TAG: MUSCLE] [TAG: DRIVER]
+Crank | Heavy | C2 L2 | Quiet, dangerous, loyal
+  [TAG: ALLIED] [TAG: HEAVY] [TAG: LOYAL]
+Sparks | Rigger | C2 L1 | Connected to Crank
+  [TAG: ALLIED] [TAG: RIGGER] [TAG: CONNECTED TO CRANK]
+Old Manny | Talismonger | C1 L1 | Puyallup, forgets names, remembers faces
+  [TAG: ALLIED] [TAG: TALISMONGER] [TAG: PUYALLUP]
+Dr. Elena Vasquez | Researcher/Biometric Spec | C4 L3 | Former Ares Head of Security
+  [TAG: ALLIED] [TAG: ROMANCE] [TAG: KEY HOLDER] [TAG: FORMER ARES]
+Kaelen Voss | ? | ? | Awake, observing, retrocausal awareness
+  [TAG: NEUTRAL-ALLIED] [TAG: RETROCAUSAL] [TAG: AWAKE]
+Lena | Daughter | age 7 | Connection 2, Loyalty 4
+  [TAG: FAMILY] [TAG: DEPENDENT] [TAG: VULNERABLE]
 
-ONE-SHOT (ARCHIVED):
-Dr. Amara Kweku — MCT Biotech
-Sgt. Nizhoni Rook — Ares Lead
-Miko Tanaka — MCT Pilot
-Jax Rivera — MCT Tail
-
-POOL (pull from here):
-Malia, Darius, Hana, Kenji, Rook, Sol, Jun, Mira, Corso, Kweku, Tāne, Xīshēng
-
---------------------------- PATCH NOTES ARCHIVE ----------------------
-=== SESSION 1 ===
-- Met Dez, Crank, and Money at warehouse job
-- Acquired Elena Vasquez as partner and contact
-- Obtained Ares biometric module (completed primary objective)
-- Module data transferred to secure cloud (Elena controls encryption key)
-- Physical backup chip given to Trick
-- Established crew dynamic
-- Johnson "handled" Cutters debt (mysterious intervention)
-- Earned 6 Karma, 14,000¥
-SPARK MOMENTS: Touched Dez before she knew you were there; chose to bring Elena; built a crew in a single night.
-
-=== SESSION 2 ===
-- PIER 17 TOTAL VICTORY: 510k¥ gross → 433k¥ net
-- Threads #2 (MCT) and #3 (Ares): [RESOLVED]
-- PERSISTENT ADVANTAGE: Ghost Pattern exploit developed using Module data
-- Acquired multi-corp cargo leverage (Ares, Aztech, MCT, Shiawase, Mitsuhama)
-- Project Ōkami Cryo-Tube acquired — [HOT] [Shiawase liability] [LIVING] (dwarf inside stirs faintly)
-- FACTION ACTIVITY: Renraku [confused/SEARCHING]; Shiawase [tube hunt begins/HUNTING]
-- KARMA: +7 (total 13) [2 base +5 exceptional/roleplay]
-- REPUTATION IMPACT [SESSION 2]:
-  Street Cred: +2 (Pier 17 legend status)
-  Notoriety: +1 (multi-corp security alert) 
-  Public Awareness: +2 (cross-corp task force triggered)
-SPARK MOMENTS: Dawn heist perfection; Thrill Seeker ignition.
+--------------------------- NAME POOL --------------------------------
+Malia, Darius, Hana, Kenji, Rook, Sol, Jun, Mira, Corso, Tāne, Xīshēng
 
 --------------------------- SESSION START CHECKLIST ------------------
-[FOR LLM USE - Read before framing scene]
-
+[FOR GM USE - Read before framing scene]
 ☐ Read RESUME GAME HERE (below) — this is the current scene
-☐ Verify Karma/Nuyen in AAC1 match last session end
-☐ Check ACTIVE THREADS for any status changes since last session
+☐ Verify Karma: 22 | Nuyen: 438,450¥ in AAC1
+☐ Check ACTIVE THREADS for any status changes
 ☐ Check ACTIVE THREATS — advance any [TIMER] that applies
 ☐ Check PERSISTENT ADVANTAGES/DISADVANTAGES — apply relevant effects
-☐ Review NAMING SYSTEM for active contacts in scene
+☐ Review CONTACTS for active NPCs in scene
 ☐ Begin with "What do you do?"
 
 --------------------------- RESUME GAME HERE -------------------------
-Tacoma safehouse. 433k¥ cargo secured. Elena scans pulsing Aztech glyphs warily. Crank guards humming Ōkami cryo-tube—the dwarf inside stirs faintly. Dez inventories stim patches. Money fences cyberdeck. Dawn strengthens through warehouse grime.
+Sanctum chamber. Amber warding sigils pulse softly on the walls. The Orb hums in its pouch, synced with the glyph-crates in the vault. Kaelen Voss sits quietly, watching. Six prisoners secured in side rooms—four Shiawase, two Wraith. Encrypted commlinks and data-chips wait on the workbench. The crew rests, weapons close. Reyes's silence protocol holds—no signals in or out unless you permit.
 
-The crew awaits your word.
+The warding window ticks down: approximately 2 hours and 47 minutes remaining.
 
-What do you do?
+The Orb waits. The dwarf observes. The data waits to be unlocked.
+
+What do you do, Trick?
 
 =====================================================================
-
-=====================================================================
+HISTORICAL ARCHIVE: See AAC4 for full session summaries and last 2 sessions full patch notes.
 GOVERNING DOCUMENTS: AA1 (Covenant), AA2 (Engine), AA3 (Pressure), AA4 (Heart)
-All GM actions are bound by the principles therein.
 =====================================================================
