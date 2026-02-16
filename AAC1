@@ -61,7 +61,8 @@ Cyberware Percentage: 43% of essence replaced
 --------------------------- GEAR ------------------------------------
 WEAPONS:
 - Ares Predator III w/ Smartlink, 100 APDS rounds, Concealed Holster
-  [SMARTGUN ENABLED] [APDS: AP -5 instead of -1]
+  [APDS: -4 additional AP, stacks with weapon base -1 = -5 total]
+  [EFFECT: Target loses 4 soak dice compared to regular ammo]
 
 ARMOR:
 - Armor Jacket (12)
