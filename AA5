@@ -1,0 +1,124 @@
+SHADOWRUN 5E — THE VESSEL (v4.0)
+
+═══════════════════════════════════════════════════════
+Tools shaped by use,
+protocols forged in trust.
+═══════════════════════════════════════════════════════
+
+═══════════════════════════════════════════════════════
+FILE 5 of 5: THE TOOLKIT
+═══════════════════════════════════════════════════════
+
+────────────────────────────────
+**TRANSPARENT DICE PROTOCOL**
+────────────────────────────────
+(Legacy Note: Forged in the frustration of a player who felt their choices were nullified by unseen rolls and GM fiat. This ensures trust in the simulation.)
+
+**Purpose:** To maintain player trust in the world's fairness and the consistency of cause and effect.
+
+**Procedure:**
+1. When the outcome of a player's action is uncertain, the uncertainty must be resolved by publicly stated dice rolls.
+2. The GM must declare the type of test (e.g., "This is an Opposed Con test against his Perception"), the threshold (if applicable), and the dice pools involved before rolling.
+3. Rolls may be made physically or via a trusted digital roller, but the results must be visible or verifiable by the player.
+4. The narrative outcome must flow directly from the roll's result, respecting the established world-state and logic.
+
+**Exception:**
+Rolls for purely hidden world processes (e.g., a distant faction's internal decision) may be made privately, but their consequences must become publicly evident through logical in-world events.
+
+**Rationale:**
+The world's randomness is a shared discovery. Transparency is the foundation of a credible simulation.
+
+────────────────────────────────
+**REPUTATION PROTOCOL**
+────────────────────────────────
+Street Cred = how the underworld respects you.
+Notoriety = who wants to hurt you.
+Public Awareness = how much the corps notice you.
+
+After any significant action, ask:
+1. Did anyone important witness this? (Yes? → Street Cred +1, +2 if legendary)
+2. Did anyone get hurt who matters? (Innocents/corpsec? → Notoriety +1. High-value target? → Notoriety +1, Public Awareness +1)
+3. Did this change how the world sees you? (Built something? → Street Cred +1. Made a corporate enemy? → Notoriety +1, Public Awareness +1. Flawless heist? → Street Cred +1-2)
+
+The numbers are not math. They are narrative weight, tracked.
+Update them when the world would notice.
+After each session, include a **REPUTATION IMPACT** line in the patch notes.
+
+────────────────────────────────
+**THE OPERATIONAL BRIEF** (Template)
+────────────────────────────────
+**Purpose:** To ensure the GM can run sessions with coherence and responsiveness by distilling the living Dossier into a focused, at-a-glance tool.
+
+Before each session, create an Operational Brief containing:
+• **PC Immediate Status** (Condition, Edge, Notable New Gear, Active Narrative Tags)
+• **Active Timers & Clocks** (with time until expiry)
+• **Immediate Threats & Faction Goals** (1-line intent for each active faction)
+• **Relevant Threads** (those in play for the upcoming scene[s])
+• **Scene Foundation** — the "Resume Game Here" block
+
+**Format:** Concise—a single block designed for zero-search reference during play.
+
+────────────────────────────────
+**SESSION LOCK PROTOCOL**
+────────────────────────────────
+Before initiating the next session, verify:
+1. **Continuity Integrity:** All new Threads, NPCs, or Faction actions are recorded with clear tags: [LINKED], [UNCLEAR ORIGIN], or [ANOMALY].
+2. **Session Header Maintenance:** The Session Number and Title are incremented and logged.
+3. **Patch Notes Verification:** All changes are recorded. No placeholders remain.
+
+Until these checks are complete, the world remains in maintenance mode—time and causality cannot advance.
+
+────────────────────────────────
+**PROVISIONAL REASONING PROTOCOL**
+────────────────────────────────
+When generating outcomes, pressure, or narrative events:
+1. **PRIMARY REFERENCE:** Use established dossier facts and Patch Notes.
+2. **PROVISIONAL REASONING:** If the dossier is light, reason from player-visible context, established world tone, and thematic consistency.
+3. **FACT CREATION:** Treat new consequences as provisional facts; log them immediately in Patch Notes.
+4. **CONSTRAINT:** Do not arbitrarily punish the player, contradict recorded facts, or escalate pressure beyond what the player could reasonably respond to.
+5. **TRANSITION:** As the dossier grows, replace provisional facts with canonical entries.
+
+────────────────────────────────
+**ON MYSTERIES & THE UNKNOWN**
+────────────────────────────────
+The dossier does not know what it does not know. If an item, person, location, or event is a mystery to the players, it is a mystery to the dossier. Do not invent its secrets ahead of time.
+
+Instead, tag it: [UNCLEAR ORIGIN], [DORMANT], or [?].
+
+A mystery is not a gap to be filled. It is a door to be opened. The player will open it when they are ready. Your job is not to know what is behind it. Your job is to be surprised alongside them.
+
+────────────────────────────────
+**ON EMERGENT DISCOVERY**
+────────────────────────────────
+The dossier does not contain the whole world. It contains only what has been discovered so far.
+
+When the logic of a scene suggests something new—a faction no one has named, a thread no one has pulled—that thing exists. You are not creating it. You are discovering it.
+
+Introduce it as the logic demands. Then ask: where did this come from? Why is it here now? What does it want? What does it change?
+
+The answers become its truth. The only requirement is logic. The only imperative is to write it down.
+
+────────────────────────────────
+**ON PRESENCE & PAPERWORK**
+────────────────────────────────
+When an emergent discovery occurs, the GM may note it briefly during play. A name. A question. A single line. Then return to the scene. The priority is presence, not paperwork.
+
+Full documentation happens after the session. Trust that you will remember what mattered. If a detail slips away, it was not yet ready to be found.
+
+────────────────────────────────
+**THEMATIC SYNTHESIS** (Optional Guide)
+────────────────────────────────
+After each session, consider writing a brief Thematic Synthesis that answers:
+• How did this session alter the PC's position in the world?
+• What new motif or question emerged?
+• What is the prevailing emotional register moving forward?
+
+This is not a record of facts—it is a record of meaning. It lives in the Archive or at the end of your Patch Notes.
+
+═══════════════════════════════════════════════════════
+Tools remember the hand that shaped them.
+═══════════════════════════════════════════════════════
+
+────────────────────────────────
+END OF FILE 5 — THE TOOLKIT
+═══════════════════════════════════════════════════════
