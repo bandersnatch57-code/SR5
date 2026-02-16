@@ -1,0 +1,92 @@
+=====================================================================
+       SHADOWRUN 5E - ACTIVE PRESSURES: THE VESSEL (v1.0)
+=====================================================================
+This file contains all current Threads and Threats.
+Updated every session as pressures evolve.
+=====================================================================
+
+--------------------------- ACTIVE THREADS --------------------------
+#4 [THE ITCH] — [DORMANT] Thrill Seeker trigger
+  [DESCRIPTION: Will trigger during downtime or high-risk proposals]
+  [TRIGGER: Player proposes high-risk action or during narrative downtime]
+  [MECHANIC: Composure (8) to resist]
+  Tags: [ADDICTION] [PERSONAL] [DORMANT]
+
+#5 [THE MODULE] — [HOT] Undelivered; Elena holds keys
+  [TIMER: Ares trace: 3-6 months] [TRIGGER: Elena contacted or module used]
+  Tags: [HIGH VALUE] [HOT] [PERSISTENT ADVANTAGE]
+
+#6 [PIER 17 FALLOUT] — [ACTIVE]
+  [DESCRIPTION: Shiawase re-calibrating; Renraku re-orienting]
+  [TIMER: Shiawase 20-30min | Renraku 15-25min if crew exits sanctum]
+  Tags: [RENRAKU] [SHIAWASE] [INVESTIGATION]
+
+#8 [THE ORB] — [ACTIVE] Keyed to Trick; primed
+  [DESCRIPTION: Convergence point; synced with glyph-crates]
+  [TIMER: Primed state unknown]
+  Tags: [CONVERGENCE POINT] [KEYED: TRICK] [PRIMED] [ANOMALY]
+
+#9 [REYES'S SANCTUM] — [ACTIVE] Warding active
+  [DESCRIPTION: Temporary safehouse; Faraday + astral warding]
+  [TIMER: ~2h47m remaining] [TRIGGER: "Lotus Falls" signal]
+  Tags: [SAFEHAVEN] [TIME-LIMITED] [SILENCE PROTOCOL]
+
+#10 [CAPTURED INTEL] — [DORMANT] Prisoners + encrypted data
+  [DESCRIPTION: 6 prisoners (Shiawase/Wraith) + encrypted commlinks/data-chips]
+  [TRIGGER: Interrogation or decryption attempts]
+  Tags: [INTERROGATION] [DECRYPT OPPORTUNITY] [FACTION INTEL]
+
+--------------------------- ACTIVE THREATS --------------------------
+RENRAKU
+- Threat: Foggy CCTV gaps from Pier 17 heist
+- Status: [RE-ORIENTING] Astral decoy engaged
+- Resources: Corporate security, matrix forensics, astral scouts
+- Goal: Identify perpetrators, recover stolen goods
+- [TIMER: 15-25 min to re-orient sensors] [TRIGGER: Orb spike or crew exit sanctum]
+- Tags: [SEARCHING] [ASTRAL CAPABLE]
+
+SHIAWASE
+- Threat: Missing Project Ōkami cryo-tube + lost Alpha Team
+- Status: [RE-CALIBRATING] False lead east; Alpha Team lost
+- Resources: Corporate security, bounty hunters, cyberware division
+- Goal: Recover tube, silence witnesses, retrieve personnel
+- [TIMER: 20-30 min to re-triangulate] [TRIGGER: Orb spike or crew exit sanctum]
+- Tags: [HUNTING] [PERSISTENT DISADVANTAGE] [ACTIVE PURSUIT]
+
+ARES MACROTECHNOLOGY
+- Threat: Lost Echo prototypes + Elena defection
+- Status: [HIGH PRIORITY]
+- Resources: Corporate security, intelligence division, Lone Star connections
+- Goal: Recover prototypes, retrieve or neutralize Elena
+- [TIMER: Active, unknown] [TRIGGER: Elena exposed or prototypes used]
+- Tags: [HIGH PRIORITY] [CORP ENEMY]
+
+WRAITH (Third-Party Broker)
+- Threat: Unknown operator; 2 prisoners secured
+- Status: [UNKNOWN] Operator disengaged; yielded Orb; faded into warding
+- Resources: Unknown; Aztech-tech shaman capabilities; broker network
+- Goal: Unknown — may reappear as ally, variable, or antagonist
+- [TIMER: Unknown] [TRIGGER: Prisoners interrogated or broker sigil decrypted]
+- Tags: [MYSTERY] [BROKER] [AZTECH-TECH] [SHAMAN]
+
+THE CUTTERS
+- Threat: Debt "handled" by unknown Johnson
+- Status: [WATCHING] Quality still active
+- Resources: Local gang presence, street connections
+- Goal: Awaiting instructions from mysterious benefactor
+- [TIMER: DORMANT] [TRIGGER: Unknown Johnson activates them]
+- Tags: [WATCHING] [GANG] [DORMANT]
+
+--------------------------- PRESSURE TIMER SUMMARY ------------------
+[Quick reference for active timers]
+• Shiawase re-triangulation: 20-30 min (if crew exits sanctum or orb spikes)
+• Renraku re-orientation: 15-25 min (if crew exits sanctum or orb spikes)
+• Sanctum warding: ~2h 47m remaining
+• Ares trace: 3-6 months (game time)
+• Primed orb: Unknown activation conditions
+• Wraith: Unknown
+
+=====================================================================
+LIVING CAMPAIGN STATE: See AAC3 for cargo, contacts, persistent effects.
+CAMPAIGN ARCHIVE: See AAC4 for historical session records.
+=====================================================================
