@@ -1,129 +1,112 @@
-       SHADOWRUN 5E - MECHANICS REFERENCE: TRICK (v4.2 DYNAMIC)
+       SHADOWRUN 5E - MECHANICS REFERENCE: TRICK (v4.1)
 =====================================================================
-For AI use during gameplay. Pools are formula-driven: any change in
-Attributes, Skills, Cyberware, or Qualities updates dice automatically.
+For AI and GM use during gameplay. All numbers pre-calculated per SR5 core rules.
+Dice pools include all permanent modifiers (cyberware, qualities, smartlink).
+Specializations explicitly listed.
 
---------------------------- BASE STATS ------------------------------
-BODY: 5 | AGI: 6 | REA: 4 | STR: 2
-WIL: 2 | LOG: 3 | INT: 2 | CHA: 6
-ESSENCE: 3.6 | EDGE: 4
+--------------------------- DICE POOLS -----------------------------
+SOCIAL (CHA 6 + Tailored Pheromones 2 = Base 8):
+- Con 5: 13 | First Meeting: 15 [FIRST IMPRESSION]
+- Etiquette 5: 13
+- Leadership 5: 13
+- Negotiation 6: 14 | Specialization: Bargaining (+2) = 16
+- Intimidation 6: 14 | Specialization: Physical (+2) = 16
+- Impersonation (untrained) 6: 8 | +2 Social Chameleon when impersonating = 10
 
-CYBERWARE MODIFIERS:
-- Wired Reflexes 2 → +2 REA, +2d6 Initiative
-- Tailored Pheromones 2 → +2 all social skills
-- Smartlink → +2 smartgun dice
-- Datajack → neural interface (no dice)
+COMBAT (AGI 6):
+- Pistols 6: 12 | +Smartlink 2 = 14 | Specialization: Heavy Pistols (+2) = 16
+- Unarmed (untrained): Base AGI 6 = 6 [STR 2S DAMAGE]
+- Throwing Weapons (untrained): Base AGI 6 = 6
 
-QUALITY MODIFIERS:
-- First Impression → +2 first social test
-- Catlike → +2 Sneaking, +1 Physical limit for Sneaking
-- Hawk Eye → +2 visual Perception, +1 Visual limit
-- Social Chameleon → +2 Impersonation, +1 Social limit when impersonating
-- Guts → +2 fear/intimidation resistance
-
---------------------------- DICE POOLS (FORMULA) ---------------------
-SOCIAL (Base: CHA 6 + Pheromones 2 = 8):
-- Con: Base + Skill 5 = 13 | First Meeting: +2 = 15
-- Etiquette: Base + Skill 5 = 13
-- Leadership: Base + Skill 5 = 13
-- Negotiation: Base + Skill 6 = 14 | Bargaining spec +2 = 16
-- Intimidation: Base + Skill 6 = 14 | Physical spec +2 = 16
-- Impersonation: Base + Skill 0 = 8 | Social Chameleon +2 when impersonating = 10
-
-COMBAT (Base: AGI 6):
-- Pistols: Base + Skill 6 = 12 | +Smartlink 2 = 14 | +Heavy Pistols spec 2 = 16
-- Unarmed: Base AGI 6 (untrained) = 6 | STR damage 2S
-- Throwing: Base AGI 6 (untrained) = 6
-
-STEALTH (Base: AGI 6):
-- Sneaking: Base + Skill 6 = 12 | Catlike +2 = 14 | Urban spec +2 = 16
-- Disguise: Base + Skill 6 = 12
-- Palming: Base + Skill 5 = 11
-- Escape Artist: Base + Skill 2 = 8
+STEALTH (AGI 6):
+- Sneaking 6: 12 | +Catlike 2 = 14 | +Urban specialization 2 = 16 [URBAN]
+- Disguise 6: 12
+- Palming 5: 11
+- Escape Artist 2: 8
 
 TECHNICAL:
-- Hardware (LOG 3 + Skill 6 = 9) | +Electronic Locks spec 2 = 11 | +Tool Kit +3 = 14
-- Locksmith (AGI 6 + Skill 6 = 12) | +Autopicker +6 = 18
-- Computer (LOG 3 + Skill 6 = 9) | +Decrypt +2 = 11
-- Electronic Warfare: LOG 3 + Skill 4 = 7
-- First Aid: LOG 3 + Skill 4 = 7
+- Hardware 6 (LOG 3): 9 | Specialization: Electronic Locks (+2) = 11 | +Tool Kit (+3) = 14
+- Locksmith 6 (AGI 6): 12 | +Autopicker 6 = 18
+- Computer 6 (LOG 3): 9 | Specialization: Decrypt (+2) = 11
+- Electronic Warfare 4 (LOG 3): 7
+- First Aid 4 (LOG 3): 7
 
-PERCEPTION:
-- Perception: INT 2 + Skill 6 = 8 | Hawk Eye +2 visual = 10 | Earbuds 2 audio = 10
+PERCEPTION (INT 2):
+- Perception 6: 8 | +Hawk Eye (visual) = 10 | +Earbuds 2 (audio) = 10
 
 GYMNASTICS:
-- Base AGI 6 + Skill 2 = 8
+- Gymnastics 2: 8  (Catlike bonus only applies to Sneaking)
 
 KNOWLEDGE (LOG 3):
-- Corporate Security Protocols 4 = 7
-- Street Gangs (Tacoma) 3 = 6
-- Seattle Underground 3 = 6
+- Corporate Security Protocols 4: 7
+- Street Gangs (Tacoma) 3: 6
+- Seattle Underground 3: 6
 
---------------------------- DERIVED STATS (FORMULA) ----------------
-INITIATIVE: REA 4 +2 (Wired) + INT 2 = 8 | Roll 3d6
-DODGE: REA 6 + INT 2 = 8 | + Gymnastics 2 for full defense = 12
-COMPOSURE: WIL 2 + CHA 6 = 8
-JUDGE INTENTIONS: INT 2 + CHA 6 = 8
-MEMORY: LOG 3 + WIL 2 = 5
+--------------------------- DERIVED STATS --------------------------
+INITIATIVE: 8 + 3d6 (REA 4 + Wired Reflexes 2 + INT 2 = 8)
+DODGE: 8 (12 full defense + Gymnastics 2)
+COMPOSURE: 8 (WIL 2 + CHA 6)
+JUDGE INTENTIONS: 8 (INT 2 + CHA 6)
+MEMORY: 5 (LOG 3 + WIL 2)
 
 LIMITS:
-- Physical: 5 | +1 for Sneaking w/ Catlike = 6
+- Physical: 5 (6 for Sneaking with Catlike)
 - Mental: 4
-- Social: 8 | +1 with Social Chameleon when impersonating = 9
+- Social: 8 (9 with Social Chameleon when impersonating)
 
 CONDITION MONITORS:
-- Physical: 8 + BODY/2 = 11
-- Stun: 8 + WIL/2 = 9
+- Physical: 11 (8 + BODY/2)
+- Stun: 9 (8 + WILL/2)
 - Overflow: 5
 
---------------------------- WEAPONS (DYNAMIC FORMULA) ----------------
+--------------------------- WEAPONS --------------------------------
 ARES PREDATOR III
-- Base Damage: 9P + Net Hits
-- AP: -1 | APDS: -5
-- Dice Pool: Pistols (AGI 6 + Skill 6 = 12) + Smartlink 2 + Heavy Pistol spec 2 = 16
-- Average vs. typical target: 13-15P (4-6 net hits)
+- Base Damage: 9P + net hits
+- AP: -1 (APDS: -5)
+- Dice Pool: 16 [HEAVY PISTOL] [SMARTLINK]
+- Average vs. typical target: 13P-15P (assuming 4-6 net hits)
 - Mode: SA | Ammo: 15(c)
 
---------------------------- ARMOR (DYNAMIC FORMULA) -----------------
+--------------------------- ARMOR ----------------------------------
 ARMOR JACKET
-- Base: 12 | + Ballistic Mask 2 = Total 14
-- Soak Pool: BODY 5 + Armor Total 14 = 19 dice
-- Average soak vs. typical attack: 6-7 hits
+- Base: 12 | +Ballistic Mask 2 = 14
+- Soak: Body 5 + Armor 14 = 19 dice
+- Average soak: 6-7 hits
 - Note: AP reduces armor before soak
 
 CHAMELEON SUIT
-- Base: 9 | + Ballistic Mask 2 = 11
-- Soak Pool: BODY 5 + Armor Total 11 = 16 dice
-- +2 Sneaking if CAMO ACTIVE
-- Average soak vs. typical attack: 5-6 hits
+- Base: 9 | +Ballistic Mask 2 = 11
+- Soak: Body 5 + Armor 11 = 16 dice
+- +2 Sneaking [CAMO ACTIVE] (wilderness/urban)
+- Average soak: 5-6 hits
 
 --------------------------- SITUATIONAL MODIFIERS ------------------
 COMBAT:
-- Target good cover: +2 dice
-- Target full cover: +4
+- Target in good cover: +2
+- Target in full cover: +4
 - Called shot: -4
 - Running: -2
-- Recoil: -1 per subsequent shot
-- Low-light: +2
+- Recoil: -1 per shot after first
+- Low-light conditions: +2
 - Target behind partial cover: -2
 
 SOCIAL:
 - Negotiating from weakness: -2
-- Intimidation with leverage: +2
-- Con vs. suspicious: -2 to -4
-- First Impression: +2 (already factored)
-- Impersonating known person: +2 [Social Chameleon]
+- Intimidation with leverage/physical threat: +2
+- Con vs. suspicious target: -2 to -4
+- First Impression: Already included (+2)
+- Impersonating known person: +2 [SOCIAL CHAMELEON]
 
-STEALTH:
+STEALTH (Sneaking):
 - Observers alert: -2
-- Half speed: +2
+- Moving at half speed: +2
 - Chameleon Suit active: +2 [CAMO ACTIVE]
 
 PERCEPTION:
 - Distracted: -2
 - Using Earbuds 2: +2 audio
 - Using Goggles 4: +4 visual
-- Hawk Eye: +2 visual (already factored)
+- Hawk Eye: Already included (+2 visual)
 
 --------------------------- QUALITIES MECHANICAL SUMMARY -----------
 - First Impression: +2 first social test with new person
@@ -135,12 +118,13 @@ PERCEPTION:
 - Thrill Seeker: Composure (8) to avoid significant risks
 
 --------------------------- CYBERWARE MECHANICAL SUMMARY -----------
-- Wired Reflexes 2: Reaction +2, +2d6 Initiative (included)
-- Tailored Pheromones 2: +2 all social skills (included)
-- Smartlink: +2 dice on smartgun-enabled weapons (included)
-- Datajack: Direct neural interface (no dice bonus)
+- Wired Reflexes 2: REA +2, +2d6 Initiative (already included)
+- Tailored Pheromones 2: +2 all social skills (already included)
+- Smartlink: +2 dice on smartgun-enabled weapons (already included)
+- Datajack: direct neural interface (no dice bonus)
 
-=====================================================================
-GOVERNING DOCUMENTS: AA1 (Covenant), AA2 (Engine), AA3 (Pressure), AA4 (Heart)
-All GM actions are bound by the principles therein.
+--------------------------- TIMERS (OPTIONAL TRACKING) -------------
+- Lifestyle: 1 month paid
+- Rent: 24 days due
+- Ammo count / consumables: track manually or add here if desired
 =====================================================================
