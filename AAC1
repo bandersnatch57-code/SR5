@@ -45,14 +45,18 @@ NEGATIVE:
   [TRIGGER: Unknown Johnson may call in favor] [STATUS: DORMANT but active] [PERSISTENT DISADVANTAGE]
 
 --------------------------- CYBERWARE -------------------------------
-- Wired Reflexes 2 (Reaction +2, +2d6 Initiative) [Essence 2.0]
-  [ALWAYS ACTIVE] [AFFECTS: Reaction, Initiative] [STACKS: With other initiative modifiers]
-- Tailored Pheromones 2 (+2 dice all social skills) [Essence 0.4]
-  [ALWAYS ACTIVE] [AFFECTS: All Social skills] [STACKS: With social qualities]
-- Datajack [Essence 0.1]
-  [FUNCTION: Direct neural interface with devices] [NO DICE BONUS] [REQUIRED FOR: Some Matrix actions]
-- Smartlink (internal) [Essence 0.1]
-  [ALWAYS ACTIVE] [AFFECTS: Pistols with smartgun capability] [STACKS: With smartgun weapon]
+- Wired Reflexes 2 (Reaction +2, +2d6 Initiative) 
+  [ESSENCE_COST: 2.0] [ALWAYS ACTIVE] [AFFECTS: Reaction, Initiative] [STACKS: With other initiative modifiers]
+- Tailored Pheromones 2 (+2 dice all social skills) 
+  [ESSENCE_COST: 0.4] [ALWAYS ACTIVE] [AFFECTS: All Social skills] [STACKS: With social qualities]
+- Datajack 
+  [ESSENCE_COST: 0.1] [FUNCTION: Direct neural interface with devices] [NO DICE BONUS] [REQUIRED FOR: Some Matrix actions]
+- Smartlink (internal) 
+  [ESSENCE_COST: 0.1] [ALWAYS ACTIVE] [AFFECTS: Pistols with smartgun capability] [STACKS: With smartgun weapon]
+
+--------------------------- ESSENCE SUMMARY -------------------------
+Total Essence Cost: 2.6 | Remaining Essence: 3.4
+Cyberware Percentage: 43% of essence replaced
 
 --------------------------- GEAR ------------------------------------
 WEAPONS:
