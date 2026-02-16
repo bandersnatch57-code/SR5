@@ -62,7 +62,7 @@ TAGS: [HIGH VALUE] [HOT] [PERSISTENT ADVANTAGE] [ANOMALY]
 
 --------------------------- ACTIVE THREATS --------------------------
 Renraku — Foggy CCTV gaps from Pier 17 heist → Status: [SEARCHING]
-Shiawase — Missing Project Ōkami cryo-tube → Status: [HUNTING]
+Shiawase — Missing Project Ōkami cryo-tube → Status: [HUNTING] [PERSISTENT DISADVANTAGE: Active pursuit; dwarf asset at risk]
 Ares Macrotechnology — Lost Echo prototypes + Elena defection → Status: [HIGH PRIORITY]
 The Cutters (Tacoma gang) — Debt "handled" by unknown Johnson → Status: [WATCHING]
 
@@ -85,7 +85,6 @@ POOL (pull from here):
 Malia, Darius, Hana, Kenji, Rook, Sol, Jun, Mira, Corso, Kweku, Tāne, Xīshēng
 
 --------------------------- PATCH NOTES ARCHIVE ----------------------
-
 === SESSION 1 ===
 - Met Dez, Crank, and Money at warehouse job
 - Acquired Elena Vasquez as partner and contact
@@ -109,11 +108,21 @@ SPARK MOMENTS: Touched Dez before she knew you were there; chose to bring Elena;
   Street Cred: +2 (Pier 17 legend status)
   Notoriety: +1 (multi-corp security alert) 
   Public Awareness: +2 (cross-corp task force triggered)
-
 SPARK MOMENTS: Dawn heist perfection; Thrill Seeker ignition.
 
---------------------------- RESUME GAME HERE -------------------------
+--------------------------- FUTURE PA / PD TRACKING --------------------
+(This block is reserved for future sessions; update inline with Stabilizing Forces and Active Threats)
 
+=== SESSION 1 ===
+- PA: Crew dynamic established — boosts trust and cohesion; tag [PERSISTENT ADVANTAGE]
+- PD: Cutters debt "handled" by unknown Johnson — unresolved external pressure; tag [PERSISTENT DISADVANTAGE]
+
+=== SESSION 2 ===
+- PA: Ghost Pattern exploit developed using Module data — +1 all cohesion rolls, tactical leverage; tag [PERSISTENT ADVANTAGE]
+- PA: Multi-corp cargo leverage (Ares, Aztech, MCT, Shiawase, Mitsuhama) — potential negotiation advantage; tag [PERSISTENT ADVANTAGE]
+- PD: Shiawase hunting Project Ōkami Cryo-Tube — active threat; +2 alert level; tag [PERSISTENT DISADVANTAGE]
+- PD: Renraku investigating Pier 17 heist — confused but searching; potential corporate attention; tag [PERSISTENT DISADVANTAGE]
+--------------------------- RESUME GAME HERE -------------------------
 Tacoma safehouse. 433k¥ cargo secured. Elena scans pulsing Aztech glyphs warily. Crank guards humming Ōkami cryo-tube—the dwarf inside stirs faintly. Dez inventories stim patches. Money fences cyberdeck. Dawn strengthens through warehouse grime.
 
 The crew awaits your word.
