@@ -1,0 +1,72 @@
+═══════════════════════════════════════════════════════
+[DATA] — CHARACTER FULL BREAKDOWN (v1.0)
+═══════════════════════════════════════════════════════
+
+--- ATTRIBUTES ---
+BOD: 5 | AGI: 5 | REA: 4 (2) | STR: 2 | CHA: 6 | INT: 2 | LOG: 4 | WIL: 2
+EDG: 5 | ESS: 1.85 | MAG: 0
+INITIATIVE: 6 + 3d6 (Meat-space)
+LIMITS: Physical 5 | Mental 4 | Social 9
+
+--- SKILLS (ACTIVE) ---
+[INFLUENCE GROUP (Rating 4)]: Etiquette 4, Leadership 4, Negotiation 4
+[STEALTH GROUP (6)]: Sneaking 6, Palming 6, Disguise 6
+
+INDIVIDUAL SKILLS:
+• Con: 6 (+2 Fast Talk)
+• Intimidation: 6 (+2 Physical)
+• Pistols: 6 (+2 Heavy Pistols)
+• Hardware: 6 (+2 Electronic Locks)
+• Perception: 6 (+2 Visual)
+• Computer: 6 (+2 Decrypt)
+• Escape Artist: 4
+• Unarmed Combat: 0 (Defaulting to AGI -1)
+
+KNOWLEDGE/LANGUAGES:
+• English (Native)
+• Seattle Street Gangs: 4
+• Security Protocols: 4
+• Forensics: 4
+
+--- AUGMENTATIONS ---
+• Used Wired Reflexes (Rating 2): +2 REA, +2d6 Initiative Dice.
+• Tailored Pheromones (Rating 2): +2 Dice/Limit to Social Tests.
+• Datajack: Direct Neural Interface.
+• Smartlink (Implanted): +2 Accuracy, +2 Dice (Wireless-on).
+
+--- QUALITIES ---
+POSITIVE:
+• First Impression: +2 Social Dice (Initial meeting).
+• Catlike: +2 Sneaking.
+• Hawk Eye: +3 Perception (Visual), -1 Range Penalties.
+• Enhanced Accuracy (Pistols): +1 Accuracy Limit.
+NEGATIVE:
+• In Debt (Rating 5): 25k Owed. 1,000¥/month interest.
+• Dependent (Alison): 10% Lifestyle cost increase.
+• Emotional Attachment (Alison): -1 Dice Pool if she is in danger.
+• Thrill Seeker: Self-Control (3) to avoid unnecessary risks.
+• Curiosity Killed the Cat: Self-Control (3) to avoid investigating.
+
+--- LOADOUT ---
+WEAPONS:
+• Savalette Guardian (Heavy Pistol): Acc 5(7), Dam 8P, AP -1, SA/BF, RC 1.
+  [Ammo: 20 rounds APDS (+4 AP), 100 rounds Regular].
+• Uzi III (SMG): Acc 5, Dam 7P, AP —, BF/FA, RC 1. [Stolen/Empty].
+
+ARMOR:
+• Sleeping Tiger: Armor 13. [Ruthenium Polymers R3, +1 Social Limit].
+• Ballistic Mask: Armor +2. [Visual Enhancement R2, Jammer R4 Slaved].
+
+ELECTRONICS:
+• Renraku Sensei Commlink (DR 3).
+• Contacts R2 (Low-Light Vision).
+• Earbuds R2 (Spatial Recognizer).
+• Maglock Passkey R4.
+• Fake SIN (Rating 2): "Silas Vane" [BURNED].
+
+--- CARGO/ACCOUNTS ---
+• [Gold Credstick]: 25,000¥.
+• [Silver Credstick]: 18,400¥.
+• [Certified Ghost-Skim]: 145,000¥.
+• [The Violet Drive]: Sentient E-Ghost Compiler Prototype.
+═══════════════════════════════════════════════════════
