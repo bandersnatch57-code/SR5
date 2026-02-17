@@ -43,3 +43,18 @@ LIMITS:
 2. DV: Base 8P + Net Hits (Savalette)
 3. AP: -1 (Base) + -4 (APDS) = -5 Total
 4. SOAK: Target Body + (Armor - 5)
+
+-------------------------- ACTIVE COMBAT BLOCK ---------------------
+WEAPON: SAVALETTE GUARDIAN (Heavy Pistol)
+- POOL: 17 (Pistols 6 + Spec 2 + AGI 7 + Smartlink 2)
+- ACCURACY: 7 (Base 5 + Smartlink 2)
+- DAMAGE: 8P (Physical)
+- AP: -5 (Base -1 + APDS -4)
+- MODES: SA / BF (Burst Fire: -3 to Defense, +1 DV for long burst)
+- RECOIL COMPENSATION: 1 (Base)
+
+DAMAGE FLOW EXAMPLE:
+1. Roll 17 dice vs Target Dodge.
+2. If 3 net hits: Final DV = 11P (8 + 3).
+3. Target Armor is reduced by 5.
+4. Target Soaks with Body + Remaining Armor.
