@@ -1,72 +1,66 @@
-═══════════════════════════════════════════════════════
-[DATA] — CHARACTER FULL BREAKDOWN (v1.0)
-═══════════════════════════════════════════════════════
+CAMPAIGN: The Debt of Shadows
+TONE: Harsh, coherent, wondrous; corporate dystopia meets urban myth
+THEMATIC AXIS: Systemic Pressure vs. Narrative Mass; the weight of memory
+=====================================================================
 
---- ATTRIBUTES ---
-BOD: 5 | AGI: 5 | REA: 4 (2) | STR: 2 | CHA: 6 | INT: 2 | LOG: 4 | WIL: 2
-EDG: 5 | ESS: 1.85 | MAG: 0
-INITIATIVE: 6 + 3d6 (Meat-space)
-LIMITS: Physical 5 | Mental 4 | Social 9
+HANDLE: Ellis Orlin
+METATYPE: Human
+ARCHETYPE: Face / Infiltrator
 
---- SKILLS (ACTIVE) ---
-[INFLUENCE GROUP (Rating 4)]: Etiquette 4, Leadership 4, Negotiation 4
-[STEALTH GROUP (6)]: Sneaking 6, Palming 6, Disguise 6
+KARMA: 0 | NUYEN: 2,830¥
+ESSENCE: 1.05 / 6.0 | EDGE: 2
+STREET CRED: 0
+NOTORIETY: 1 (In Debt)
+PUBLIC AWARENESS: 0
 
-INDIVIDUAL SKILLS:
-• Con: 6 (+2 Fast Talk)
-• Intimidation: 6 (+2 Physical)
-• Pistols: 6 (+2 Heavy Pistols)
-• Hardware: 6 (+2 Electronic Locks)
-• Perception: 6 (+2 Visual)
-• Computer: 6 (+2 Decrypt)
-• Escape Artist: 4
-• Unarmed Combat: 0 (Defaulting to AGI -1)
+--------------------------- ATTRIBUTES ------------------------------
+BODY: 5 | AGILITY: 7 | REACTION: 6 (Wired 2) | STRENGTH: 2
+WILLPOWER: 2 | LOGIC: 4 | INTUITION: 3 | CHARISMA: 6
 
-KNOWLEDGE/LANGUAGES:
-• English (Native)
-• Seattle Street Gangs: 4
-• Security Protocols: 4
-• Forensics: 4
-
---- AUGMENTATIONS ---
-• Used Wired Reflexes (Rating 2): +2 REA, +2d6 Initiative Dice.
-• Tailored Pheromones (Rating 2): +2 Dice/Limit to Social Tests.
-• Datajack: Direct Neural Interface.
-• Smartlink (Implanted): +2 Accuracy, +2 Dice (Wireless-on).
-
---- QUALITIES ---
+--------------------------- QUALITIES -------------------------------
 POSITIVE:
-• First Impression: +2 Social Dice (Initial meeting).
-• Catlike: +2 Sneaking.
-• Hawk Eye: +3 Perception (Visual), -1 Range Penalties.
-• Enhanced Accuracy (Pistols): +1 Accuracy Limit.
-NEGATIVE:
-• In Debt (Rating 5): 25k Owed. 1,000¥/month interest.
-• Dependent (Alison): 10% Lifestyle cost increase.
-• Emotional Attachment (Alison): -1 Dice Pool if she is in danger.
-• Thrill Seeker: Self-Control (3) to avoid unnecessary risks.
-• Curiosity Killed the Cat: Self-Control (3) to avoid investigating.
+- First Impression (+2 dice first social test with new person) 
+  [TRIGGER: First encounter] [AFFECTS: Social] [SITUATIONAL]
+- Catlike (+2 Sneaking, +1 Physical limit for Sneaking) 
+  [ALWAYS ACTIVE] [AFFECTS: Sneaking] [LIMIT: Physical +1 for Sneaking]
+- Hawk Eye (+2 visual Perception, +1 Visual limit) 
+  [ALWAYS ACTIVE] [AFFECTS: Perception (visual)] [LIMIT: Visual +1]
+- Enhanced Accuracy (Pistols)
+  [ALWAYS ACTIVE] [AFFECTS: Weapon Accuracy]
 
---- LOADOUT ---
+NEGATIVE:
+- Greed (Must make Composure (8) test to resist lucrative/risky side-bets)
+  [TRIGGER: Monetary temptation] [SITUATIONAL]
+- In Debt (75,000¥ to unknown creditor)
+  [TRIGGER: Monthly interest/favors] [PERSISTENT]
+
+--------------------------- CYBERWARE -------------------------------
+- Wired Reflexes 2 (Reaction +2, +2d6 Initiative) 
+  [ALWAYS ACTIVE] [AFFECTS: Reaction, Initiative]
+- Tailored Pheromones 2 (+2 dice all social skills) 
+  [ALWAYS ACTIVE] [AFFECTS: All Social skills]
+- Datajack 
+  [FUNCTION: DNI]
+- Smartlink (internal) 
+  [ALWAYS ACTIVE] [AFFECTS: Smartgun weapons] [+2 Dice / +2 Accuracy]
+
+--------------------------- GEAR ------------------------------------
 WEAPONS:
-• Savalette Guardian (Heavy Pistol): Acc 5(7), Dam 8P, AP -1, SA/BF, RC 1.
-  [Ammo: 20 rounds APDS (+4 AP), 100 rounds Regular].
-• Uzi III (SMG): Acc 5, Dam 7P, AP —, BF/FA, RC 1. [Stolen/Empty].
+- Savalette Guardian (Heavy Pistol) w/ Internal Smartlink, Concealable Holster
+  [AMMO: 200 rounds APDS (-4 AP)]
 
 ARMOR:
-• Sleeping Tiger: Armor 13. [Ruthenium Polymers R3, +1 Social Limit].
-• Ballistic Mask: Armor +2. [Visual Enhancement R2, Jammer R4 Slaved].
+- Sleeping Tiger (Armor 13, Ruthenium R3, +1 Social Limit)
+- Ballistic Mask (+2 Armor, Vision R2, Jammer R4)
 
-ELECTRONICS:
-• Renraku Sensei Commlink (DR 3).
-• Contacts R2 (Low-Light Vision).
-• Earbuds R2 (Spatial Recognizer).
-• Maglock Passkey R4.
-• Fake SIN (Rating 2): "Silas Vane" [BURNED].
+ELECTRONICS/TOOLS:
+- Renraku Sensei Commlink (R4)
+- Contacts R2 (Low-Light) / Earbuds R2 (Spatial Recognizer)
+- Autopicker R6 / Sequencer R4 / Maglock Passkey R4 / Keycard Copier R3
+- Lockpick Set / Hardware Tool Kit / Gecko Tape Gloves / Grapple Gun
 
---- CARGO/ACCOUNTS ---
-• [Gold Credstick]: 25,000¥.
-• [Silver Credstick]: 18,400¥.
-• [Certified Ghost-Skim]: 145,000¥.
-• [The Violet Drive]: Sentient E-Ghost Compiler Prototype.
-═══════════════════════════════════════════════════════
+VEHICLES:
+- Ford Americar (Standard)
+
+CONTACTS:
+- Fixer (C4/L2) | Fence (C3/L3) | Technomancers (C3/L3)
