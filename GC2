@@ -1,49 +1,45 @@
-═══════════════════════════════════════════════════════
-LAYER 2: THE LIVING DOSSIER — SESSION 1 END
-═══════════════════════════════════════════════════════
+SHADOWRUN 5E - MECHANICS REFERENCE: ELLIS ORLIN
+=====================================================================
 
-CAMPAIGN: The Mirror in the Violet Sun
-TONE: Hard Noir / High Stakes / Greed vs. Soul
-THEMATIC AXIS: The price of a "Perfect World" (Identity & Paternity)
+--------------------------- DICE POOLS -----------------------------
+SOCIAL (CHA 6 + Pheromones 2 = Base 8) [ALWAYS ACTIVE: Pheromones +2]
+- Negotiation 5: 13 [BASE] | First Meeting: 15 [SITUATIONAL: First Impression +2]
+- Con 5: 13 [BASE] | First Meeting: 15 [SITUATIONAL: First Impression +2]
+- Etiquette 5: 13 [BASE] | First Meeting: 15 [SITUATIONAL: First Impression +2]
+- Intimidation 6: 14 [BASE] | Physical Spec: 16 | First Meeting: 18 [SITUATIONAL: First Impression +2]
+- Leadership 5: 13 [BASE] | First Meeting: 15 [SITUATIONAL: First Impression +2]
 
-CHARACTER: [Name: Silas Vane (ID_BURNED)]
-REP: Street Cred 3 | Notoriety 1 | Public Awareness 3
-VITALS: Essence 1.85 | Edge 5/5 | Karma 29 | Nuyen 189,380¥
-CONDITION: [S][S][S][_][_][_][_][_][_][_] (3 Stun Damage)
+COMBAT (AGI 7)
+- Pistols 6: 13 [BASE] | +Smartlink 2 = 15 | +Heavy Pistols Spec 2 = 17 [ALWAYS ACTIVE: Savalette]
 
-ATTRIBUTES: BOD 5 | AGI 5 | REA 4 (2) | STR 2 | CHA 6 | INT 2 | LOG 4 | WIL 2
-INITIATIVE: 6 + 3d6 (Wired Reflexes 2)
-DICE POOLS: Con 12(14), Negotiation 10, Intimidate 12(14), Pistols 11(13), Sneaking 11(13), Computer 10(12)
-AUGMENTATION: Used Wired Reflexes 2, Tailored Pheromones 2, Datajack, Smartlink (Implanted)
+STEALTH (AGI 7)
+- Sneaking 5: 12 [BASE] | +Catlike 2 = 14 | +Urban Spec 2 = 16 | +Camo Suit 2 = 18 [SITUATIONAL: CAMO ACTIVE]
+- Palming 5: 12 [BASE]
+- Disguise 5: 12 [BASE]
 
-ACTIVE CONTACTS:
-• "The Broker" — C3/L3 — Fixer — Tags: [RENRAKU_SLEEPER], [BETRAYER]
-• "Doc" Patch — C3/L3 — Street Doc — Tags: [RELIABLE]
-• Manny "The Mule" — C2/L2 — Fence — Tags: [STREET_CLEAN]
-• Officer Miller — C1/L1 — Beat Cop — Tags: [CHEAP_BRIBES]
+TECHNICAL:
+- Hardware 6 (LOG 4): 10 [BASE] | +Electronic Locks spec 2 = 12
+- Locksmith 6 (AGI 7): 13 [BASE] | +Maglocks spec 2 = 15 | +Autopicker 6 = 21 | +Sequencer 4 = 19
+- Computer 6 (LOG 4): 10 [BASE] | +Decrypt spec 2 = 12
+- Escape Artist 4: 11 [BASE]
 
-ACTIVE THREADS:
-#1 [A SOUL FOR A NAME] — Need to buy a Rating 6 SIN to replace "Silas" — Timer: 48h — Tags: [URGENT]
-#2 [THE GHOST DRIVE] — The sentient AI prototype is dormant but dangerous — Timer: N/A — Tags: [SENTIENT]
-#3 [DR. ARIS THORNE] — Protecting the key to the Renraku Ledger — Timer: N/A — Tags: [VULNERABLE]
+PERCEPTION (INT 3)
+- Perception 6: 9 [BASE] | +Hawk Eye 2 = 11 | +Visual Enhancement 2 = 13 [ALWAYS ACTIVE: Visual]
 
-ACTIVE THREATS:
-• Marcus Thorne (Renraku) — Standing: ENEMY — Status: [RUINED/TERMINATED] — Timer: 24h (Internal Security)
-• Renraku Internal Security — Standing: HOSTILE — Status: [TRACKING_DATA_SPIKE] — Timer: 72h
+--------------------------- DERIVED STATS --------------------------
+INITIATIVE: 9 + 3d6 (REA 6 + INT 3) [ALWAYS ACTIVE: Wired 2]
+DODGE: 9 (REA 6 + INT 3)
+SOAK: 20 (Body 5 + Tiger 13 + Mask 2)
+COMPOSURE: 8 (WIL 2 + CHA 6)
+JUDGE INTENTIONS: 9 (INT 3 + CHA 6)
 
-BASE OF OPERATIONS:
-Tarislar Garden Villa — [High Lifestyle] — Tags: [A_SECURITY], [GARDEN], [TEMP_SAFE]
+LIMITS:
+- Physical: 5 | 6 for Sneaking (Catlike)
+- Mental: 5
+- Social: 7 | 8 (Sleeping Tiger)
 
-SIGNIFICANT GEAR:
-• [The Violet Drive] — Source code for E-Ghost Compiler; contains sentient mimic AI.
-• [Renraku Field Asset List] — Decrypted list of sleeper agents and operatives.
-• [Renraku Blackmail/Z-O Keys] — The data used to ruin Marcus Thorne.
-• [Savalette Guardian] — Heavy Pistol w/ APDS Rounds.
-• [Sleeping Tiger Suit] — High-fashion Armor w/ Ruthenium Polymers.
-• Anchor: Alison (Safe/Asleep)
-
---- RESUME GAME HERE ---
-The green bioluminescence of Tarislar filters through the reinforced glass of the villa’s terrace. Alison is finally asleep in a bed that doesn't smell of mold. Aris is drinking expensive elven brandy in the kitchen, staring at the briefcase as if it might explode. You are sitting in the dark, your head still throbbing with the violet echo of the Ghost. The 189k nuyen is sitting on your commlink—a king’s ransom—but Silas Vane is dead. Tomorrow, you have to decide who you’re going to be.
-
-What do you do?
-═══════════════════════════════════════════════════════
+--------------------------- COMBAT FLOW ----------------------------
+1. ATTACK: Skill Pool vs. Dodge
+2. DV: Base 8P + Net Hits (Savalette)
+3. AP: -1 (Base) + -4 (APDS) = -5 Total
+4. SOAK: Target Body + (Armor - 5)
