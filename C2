@@ -1,0 +1,117 @@
+SHADOWRUN 5E - MECHANICS REFERENCE: NEW CHARACTER (v1.0 TAGGED)
+=====================================================================
+For AI and GM use during gameplay. All numbers pre-calculated per SR5 core rules.
+[INLINE TAGS] indicate modifier type and activation condition. See TAG GLOSSARY at bottom.
+
+--------------------------- DICE POOLS -----------------------------
+SOCIAL (CHA 6 + Tailored Pheromones 2 = Base 8) [ALWAYS ACTIVE: Pheromones +2]
+- Con 5: 13 [BASE] 
+- Etiquette 5: 13 [BASE] 
+- Leadership 5: 13 [BASE] 
+- Negotiation 6: 14 [BASE] | Bargaining spec +2 = 16 [SITUATIONAL: WHEN HAGGLING]
+- Intimidation 6: 14 [BASE] | Physical spec +2 = 16 [SITUATIONAL: WHEN USING PHYSICAL LEVERAGE]
+- Impersonation (untrained): 8 [BASE] | +2 Social Chameleon = 10 [SITUATIONAL: WHEN IMPERSONATING]
+
+COMBAT (AGI 6 + Enhanced Accuracy 1 = 7) [BASE ATTRIBUTE]
+- Pistols 6: 13 [BASE] | +Smartlink 2 = 15 [ALWAYS ACTIVE: Smartlink] | +Heavy Pistols spec 2 = 17 [SITUATIONAL: WHEN USING HEAVY PISTOL]
+- Unarmed (untrained): 6 [BASE] [DAMAGE: STR 2S]
+- Throwing Weapons (untrained): 7 [BASE]
+
+STEALTH (AGI 6) [BASE ATTRIBUTE]
+- Sneaking 6: 12 [BASE] | +Catlike 2 = 14 [ALWAYS ACTIVE] | +Urban spec 2 = 16 [SITUATIONAL: WHEN IN URBAN ENVIRONMENT]
+- Disguise 6: 12 [BASE]
+- Palming 5: 11 [BASE]
+- Escape Artist 6: 11 [BASE]
+
+TECHNICAL:
+- Hardware 6 (LOG 4): 10 [BASE] | +Electronic Locks spec 2 = 12 [SITUATIONAL] | +Tool Kit 3 = 15 [SITUATIONAL]
+- Locksmith 6 (AGI 6): 12 [BASE] | +Autopicker 6 = 18 [SITUATIONAL]
+- Computer 6 (LOG 4): 10 [BASE] | +Decrypt spec 2 = 12 [SITUATIONAL]
+- Electronic Warfare 6 (LOG 4): 10 [BASE]
+- First Aid 4 (LOG 4): 8 [BASE] | +Quick Healer 2 = 10 [SITUATIONAL]
+
+PERCEPTION (INT 2) [BASE ATTRIBUTE]
+- Perception 6: 8 [BASE] | +Hawk Eye 2 = 10 [ALWAYS ACTIVE, VISUAL ONLY] | +Earbuds 2 = 10 [SITUATIONAL]
+
+GYMNASTICS:
+- Gymnastics 5: 10 [BASE] [NOTE: Catlike bonus applies only to Sneaking]
+
+KNOWLEDGE (LOG 4) [BASE ATTRIBUTE]
+- Corporate Security Protocols 4: 8 [BASE]
+- Street Gangs (Tacoma) 3: 7 [BASE]
+- Seattle Underground 3: 7 [BASE]
+
+--------------------------- DERIVED STATS --------------------------
+INITIATIVE: 6 + 4d6 (REA 3 + Wired Reflexes 2 + Lightning Reflex + INT 2 = 6) 
+DODGE: 8 (REA 6 + INT 2 = 8) | 12 full defense (+Gymnastics 2)
+COMPOSURE: 8 (WIL 2 + CHA 6)
+JUDGE INTENTIONS: 8 (INT 2 + CHA 6)
+MEMORY: 6 (LOG 4 + WIL 2)
+
+LIMITS:
+- Physical: 5 | 6 for Sneaking with Catlike
+- Mental: 4
+- Social: 8 | 9 with Social Chameleon when impersonating
+
+CONDITION MONITORS:
+- Physical: 11 (8 + BODY/2)
+- Stun: 9 (8 + WILL/2)
+- Overflow: 5
+
+--------------------------- WEAPONS --------------------------------
+ARES PREDATOR III
+- Base Damage: 9P + net hits
+- AP: -1 | APDS: -5 [SITUATIONAL: APDS ammo]
+- Dice Pool: 17 [ALWAYS ACTIVE: Smartlink] [SITUATIONAL: Heavy Pistols spec]
+- Mode: SA | Ammo: 15(c)
+
+--------------------------- ARMOR ----------------------------------
+ARMOR JACKET
+- Base: 12 | +Ballistic Mask 2 = 14
+- Soak: Body 5 + Armor 14 = 19 dice
+- Average soak: 6-7 hits
+- Note: AP reduces armor before soak
+
+CHAMELEON SUIT
+- Base: 9 | +Ballistic Mask 2 = 11
+- Soak: Body 5 + Armor 11 = 16 dice
+- +2 Sneaking [SITUATIONAL: CAMO ACTIVE]
+
+--------------------------- COMBAT MECHANICS FLOW ------------------
+1. ATTACK ROLL: Roll weapon skill pool vs. target's Dodge
+2. NET HITS: Add net hits to weapon base damage
+3. ARMOR PENETRATION: Subtract AP from target armor
+4. SOAK ROLL: Target rolls Body + Effective Armor
+5. FINAL DAMAGE: Base + net hits - soak hits
+
+--------------------------- SITUATIONAL MODIFIERS ------------------
+COMBAT:
+- Cover, low-light, recoil, called shot, running [adjust per rules]
+
+SOCIAL:
+- First Impression, Social Chameleon, Physical leverage, Haggling, Con vs suspicious targets
+
+STEALTH:
+- Observers alert, half-speed, camo active
+
+PERCEPTION:
+- Distracted, Goggles, Earbuds, Hawk Eye
+
+--------------------------- TAG GLOSSARY ---------------------------
+[ALWAYS ACTIVE], [SITUATIONAL], [BASE], [UNTRAINED], [FIRST ENCOUNTER ONLY], [WHEN HAGGLING], [WHEN USING PHYSICAL LEVERAGE], [WHEN IMPERSONATING KNOWN PERSON], [WHEN IN URBAN ENVIRONMENT], [WHEN USING HEAVY PISTOL], [WHEN PICKING ELECTRONIC LOCKS], [WHEN USING TOOL KIT], [WHEN USING AUTOPICKER], [WHEN DECRYPTING], [WHEN USING AUDIO ENHANCEMENTS], [CAMO ACTIVE], [VISUAL ONLY], [STACKS: X], [AFFECTS: Y], [ESSENCE_COST: Z]
+
+--------------------------- QUALITIES MECHANICAL SUMMARY -----------
+- First Impression: +2 first social test [FIRST ENCOUNTER ONLY]
+- Catlike: +2 Sneaking, +1 Physical limit [ALWAYS ACTIVE]
+- Hawk Eye: +2 Visual Perception, +1 Visual limit [ALWAYS ACTIVE, VISUAL ONLY]
+- Social Chameleon: +2 Impersonation, +1 Social limit [SITUATIONAL]
+- Guts: +2 resist fear/intimidation [SITUATIONAL]
+- Quick Healer: +2 to healing tests [SITUATIONAL]
+- Lightning Reflexes: +1 REA, +1 dice Initiative, +1 dice defense [ALWAYS ACTIVE]
+
+--------------------------- CYBERWARE MECHANICAL SUMMARY -----------
+- Wired Reflexes 2: REA +2, +2d6 Initiative
+- Tailored Pheromones 2: +2 all social skills
+- Smartlink: +2 dice on smartgun weapons
+- Datajack: direct neural interface, no dice bonus
+=====================================================================
