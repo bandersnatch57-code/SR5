@@ -1,0 +1,179 @@
+--------------------------- DICE POOLS -----------------------------
+
+SOCIAL (CHA 7 + Tailored Pheromones 2 = Base 9 for Influence Group) [ALWAYS ACTIVE: Pheromones +2, CONVERSATION RANGE]
+- Con 5: 14 [BASE] | First Meeting: 16 [SITUATIONAL: First Impression +2, FIRST ENCOUNTER ONLY]
+- Etiquette 5: 14 [ALWAYS ACTIVE: Pheromones +2]
+- Impersonation 5: 14 [ALWAYS ACTIVE: Pheromones +2]
+- Negotiation 6: 15 [BASE] | Bargaining: 16 [SITUATIONAL: Bargaining spec +1, WHEN HAGGLING]
+- Intimidation 6: 13 [BASE] | Physical: 14 [SITUATIONAL: Physical spec +1, WHEN USING PHYSICAL LEVERAGE]
+  [NOTE: Intimidation NOT in Influence Group; no Pheromones bonus]
+
+COMBAT (AGI 7) [BASE ATTRIBUTE]
+- Pistols 6: 13 [BASE] | +Smartlink 2 = 15 [ALWAYS ACTIVE: Smartlink] | +Heavy Pistol spec 2 = 17 [SITUATIONAL: Heavy Pistol spec, WHEN USING HEAVY PISTOL]
+- Unarmed (untrained): 7 [BASE] [UNTRAINED] [DAMAGE: STR 3P]
+
+STEALTH (AGI 7) [BASE ATTRIBUTE]
+- Sneaking 6: 13 [BASE] | +Catlike 2 = 15 [ALWAYS ACTIVE: Catlike] | +Urban spec 2 = 17 [SITUATIONAL: Urban spec, WHEN IN URBAN ENVIRONMENT] | +Chameleon Suit 2 = 19 [SITUATIONAL: Chameleon Suit, WHEN HIDING]
+- Disguise 5: 14 [BASE] [ALWAYS ACTIVE: Pheromones +2]
+- Palming 5: 14 [BASE] [ALWAYS ACTIVE: Pheromones +2]
+
+TECHNICAL:
+- Hardware 6 (LOG 5): 11 [BASE] | +Electronic Locks spec 2 = 13 [SITUATIONAL: Electronic Locks spec, WHEN PICKING ELECTRONIC LOCKS]
+- Locksmith 6 (AGI 7): 13 [BASE] | +Maglocks spec 2 = 15 [SITUATIONAL: Maglocks spec, VS MAGLOCKS] | +Maglock Passkey R4 tool +2 = 17 [SITUATIONAL: WHEN USING PASSKEY]
+- Computer 6 (LOG 5): 11 [BASE] | +Decrypt spec 2 = 13 [SITUATIONAL: Decrypt spec, WHEN DECRYPTING]
+
+PERCEPTION (INT 2) [BASE ATTRIBUTE]
+- Perception 6: 8 [BASE] | +Perceptive R2 2 = 10 [ALWAYS ACTIVE: Perceptive] | +Visual spec 2 = 12 [SITUATIONAL: Visual spec, VISUAL TESTS ONLY]
+
+KNOWLEDGE (LOG 5 for Professional / INT 2 for Street) [BASE ATTRIBUTE]
+- Police Procedure 4 (Street): 6 [BASE]
+- Security Systems 4 (Professional): 9 [BASE]
+- Corporate Structure 3 (Professional): 8 [BASE]
+- Black Market Clinics 3 (Street): 5 [BASE]
+
+--------------------------- DERIVED STATS --------------------------
+
+INITIATIVE: 5 + 1D6 (REA 3 + INT 2) [BASE] | 7 + 3D6 (REA 5 + INT 2) [ALWAYS ACTIVE: Wired Reflexes 2, WHEN ACTIVE]
+INITIATIVE PASSES: 1 [BASE] | 3 [ALWAYS ACTIVE: Wired Reflexes 2, WHEN ACTIVE]
+DODGE: 5 (REA 3 + INT 2) [BASE]
+FULL DEFENSE: 5 [BASE] [NOTE: No Gymnastics skill]
+COMPOSURE: 9 (WIL 2 + CHA 7)
+JUDGE INTENTIONS: 9 (INT 2 + CHA 7)
+MEMORY: 7 (LOG 5 + WIL 2)
+
+LIMITS:
+- Physical: 8 [BASE] | 9 for Sneaking [SITUATIONAL: Catlike +1 limit for Sneaking]
+- Mental: 6 [BASE]
+- Social: 7 [BASE] | 8 for Intimidation [SITUATIONAL: Ballistic Mask +1 limit] | +2 when hiding [SITUATIONAL: Chameleon Suit +2 limit when hiding]
+
+CONDITION MONITORS:
+- Physical: 11 (8 + BODY/2 rounded up)
+- Stun: 9 (8 + WILL/2 rounded up)
+- Overflow: 5
+
+--------------------------- WEAPONS --------------------------------
+
+ARES PREDATOR V + SMARTGUN INTERNAL
+- Base Damage: 8P + net hits
+- AP: -1 | APDS: -5 [SITUATIONAL: APDS ammo]
+- Accuracy: 5 | +Smartgun: 7
+- Dice Pool: 17 [ALWAYS ACTIVE: Smartlink] [SITUATIONAL: Heavy Pistol spec]
+- Mode: SA | Ammo: 15(c) | Total APDS: 200 rounds
+
+--------------------------- ARMOR ----------------------------------
+
+ARMOR JACKET CONFIG
+- Base: 12 | +Ballistic Mask 2 + Helmet 2 = 16 [STACKS: Mask/Helmet add to jacket]
+- Soak: Body 5 + Armor 16 = 21 dice
+- Average soak: 7-8 hits
+- Note: AP reduces armor before soak
+
+CHAMELEON SUIT CONFIG
+- Base: 9 | +Ballistic Mask 2 + Helmet 2 = 13 [STACKS]
+- Soak: Body 5 + Armor 13 = 18 dice
+- +2 Sneaking [SITUATIONAL: Chameleon Suit, WHEN HIDING]
+- +2 to Sneaking Limit when hiding [SITUATIONAL: Chameleon Suit, WHEN HIDING]
+- Average soak: 6-7 hits
+
+--------------------------- COMBAT MECHANICS FLOW ------------------
+[FOR LLM USE - Apply in this order when resolving attacks]
+
+1. ATTACK ROLL: Player rolls weapon skill pool vs. target's Dodge
+2. NET HITS: If player wins, add net hits to weapon base damage
+   Formula: Final DV = Weapon Base Damage + (net hits)
+3. ARMOR PENETRATION: Target's armor is reduced by weapon AP
+   Formula: Effective Armor = Target Armor - Weapon AP
+   - AP value varies by weapon and ammo type
+4. SOAK ROLL: Target rolls Body + Effective Armor
+5. FINAL DAMAGE: Final DV - soak hits = damage taken
+   - Apply to Physical or Stun track based on damage type (P/S)
+
+EXAMPLE (Character with Ares Predator V, APDS):
+Player shoots guard (Body 3, Armor 12) with APDS, gets 3 net hits.
+- Weapon: Ares Predator V (8P, AP -1 + APDS -4 = -5 total)
+- Final DV: 8P + 3 = 11P
+- Effective Armor: 12 - 5 = 7
+- Soak roll: Body 3 + 7 = 10 dice (avg 3 hits)
+- Final damage: 11P - 3 = 8P damage
+
+--------------------------- SITUATIONAL MODIFIERS ------------------
+COMBAT:
+- Target in good cover: +2 [SITUATIONAL]
+- Target in full cover: +4 [SITUATIONAL]
+- Called shot: -4 [SITUATIONAL]
+- Running: -2 [SITUATIONAL]
+- Low-light conditions: +2 [SITUATIONAL]
+
+SOCIAL:
+- Negotiating from weakness: -2 [SITUATIONAL]
+- Intimidation with physical leverage: +1 [SITUATIONAL: Physical spec]
+- Con vs. suspicious target: -2 to -4 [SITUATIONAL]
+- First Impression: Already included (+2) [FIRST ENCOUNTER ONLY]
+- Pheromones: Already included (+2 Influence) [ALWAYS ACTIVE: CONVERSATION RANGE]
+
+STEALTH (Sneaking):
+- Observers alert: -2 [SITUATIONAL]
+- Moving at half speed: +2 [SITUATIONAL]
+- Chameleon Suit active: +2 dice, +2 Limit [SITUATIONAL: WHEN HIDING]
+
+PERCEPTION:
+- Distracted: -2 [SITUATIONAL]
+- Perceptive: Already included (+2 all) [ALWAYS ACTIVE]
+- Visual spec: Already included (+2 visual) [SITUATIONAL: VISUAL TESTS ONLY]
+
+--------------------------- TAG GLOSSARY ---------------------------
+[FOR LLM USE - Apply these rules when interpreting dice pools]
+
+[ALWAYS ACTIVE] → Apply this modifier to every relevant roll without asking
+[SITUATIONAL] → Ask player: "Does [condition] apply here?" before adding
+[BASE] → The unmodified pool before situational modifiers
+[UNTRAINED] → Roll uses attribute only; no skill ranks
+
+[FIRST ENCOUNTER ONLY] → Only applies first time meeting an NPC
+[WHEN HAGGLING] → Only applies during price negotiation
+[WHEN USING PHYSICAL LEVERAGE] → Only applies when player has explicit physical advantage
+[WHEN IN URBAN ENVIRONMENT] → Only applies in city/industrial zones
+[WHEN USING HEAVY PISTOL] → Only applies when wielding heavy pistol class weapon
+[WHEN PICKING ELECTRONIC LOCKS] → Only applies to electronic lock picking tests
+[WHEN USING PASSKEY] → Only applies when Maglock Passkey is available
+[WHEN DECRYPTING] → Only applies to computer tests vs. encryption
+[VISUAL TESTS ONLY] → Only applies to visual perception tests
+[WHEN HIDING] → Only applies to Sneaking tests to hide (not move silently)
+[CONVERSATION RANGE] → Target must be able to smell pheromones (~arm's length)
+
+[STACKS: X] → This modifier combines with others of its type
+[AFFECTS: Y] → This modifier applies to specific skill/situation
+[ESSENCE_COST: Z] → Humanity cost of cyberware; lower essence = less human
+
+--------------------------- QUALITIES MECHANICAL SUMMARY -----------
+- First Impression: +2 first social test with new person [FIRST ENCOUNTER ONLY]
+- Catlike: +2 Sneaking, +1 Physical limit for Sneaking [ALWAYS ACTIVE]
+- Perceptive R2: +2 all Perception tests [ALWAYS ACTIVE]
+- Exceptional Attribute (Agility/Charisma): Raises attribute to 7 (new max) [ALWAYS ACTIVE]
+- Thrill Seeker: Willpower (4) to resist danger/adrenaline risk [SITUATIONAL: WHEN OFFERED THRILL]
+- Driven: Acquisition/Theft (Major): Willpower (4) to resist acquiring valuable item/data [SITUATIONAL: WHEN OPPORTUNITY PRESENTED]
+- In Debt (10): Creditor is active faction; debt triggers Systemic Pressure [NARRATIVE TRIGGER]
+
+--------------------------- CYBERWARE MECHANICAL SUMMARY -----------
+- Wired Reflexes 2: REA +2, +2D6 Initiative, 3 Initiative Passes [COMPLEX ACTION TO ACTIVATE] [ESSENCE_COST: 3.0]
+- Tailored Pheromones 2: +2 dice to Acting/Influence group skills [FREE ACTION TO ACTIVATE] [RANGE: CONVERSATION] [ESSENCE_COST: 0.4]
+- Smartlink: +2 dice on smartgun-enabled weapons [ALWAYS ACTIVE: WHEN BOTH CYBER + WEAPON MOD PRESENT] [ESSENCE_COST: 0.2]
+- Datajack: direct neural matrix interface [NO DICE BONUS] [ESSENCE_COST: 0.1]
+
+--------------------------- SESSION START QUICK-REF -----------------
+[FOR LLM USE - Read before framing scene]
+☐ Verify Karma/Nuyen in AAC1 match last session
+☐ Check ACTIVE THREADS in AAC3 for current status
+☐ Check ACTIVE THREATS in AAC3 for pursuing factions
+☐ Review TIMERS in AAC3 for any that may have triggered
+☐ Begin at "RESUME GAME HERE" in AAC3
+☐ Prompt: "What do you do?"
+
+--------------------------- TIMERS (OPTIONAL TRACKING) -------------
+- Lifestyle: High (1 month paid)
+- In Debt: Creditor contact expected within 48 hours [TRIGGER: SESSION 0]
+- Ammo: 200 APDS rounds (track depletion)
+- Edge: 4 points available
+- Karma: 1 point saved
+- Nuyen: 5,800¥ liquid
+=====================================================================
