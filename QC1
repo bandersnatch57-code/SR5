@@ -1,8 +1,16 @@
+=====================================================================
+CAMPAIGN: VESSEL: CHIMERA PROTOCOL
+TONE: Harsh, coherent, wondrous; corporate dystopia meets urban myth
+THEMATIC AXIS: Systemic Pressure vs. Human Agency
+=====================================================================
+
 [CHARACTER: Unnamed] [BUILD: Social Infiltrator / Thief]
 [ATTRIBUTES] B5 A7 R3 S3 W2 L5 I2 C7 | Edge 3 (1 spent) | Essence 2.3
 
 [RESOURCES]
-- Nuyen: 5,800¥ | Karma: 1 | Edge: 3/4
+- KARMA: 1 (Creation Leftover) + 3 (Session 0 Award) = **4 Total**
+- NUYEN: 5,800¥ (Unchanged)
+- EDGE: 3/4 (1 Spent protecting Elara)
 - Lifestyle: High (29 days remaining, but audit risk)
 - Safehouse: Secure ~24-48h, then forensic audit likely
 
@@ -111,5 +119,25 @@ Lifestyle: High (1 month)
   - [TAG: FACTION] Renraku — Goal: Recover Chimera asset
   - [TAG: MYSTERY] Unknown Observer — Goal: Unknown
 • Relevant Threads: DEBT, CHIMERA, SAFEHOUSE, UNKNOWN OBSERVER
-• RESUME GAME HERE: 
-  [Diegetic frame pending player input]
+=== SESSION PATCH NOTES [SESSION 0 — BOX OF SKY] ===
+[Legacy Retained: Session 0 establishes campaign baseline. Character unnamed.]
+────────────────────────────────
+UPDATED_LINES:
+=== SESSION PATCH NOTES [SESSION 0 — BOX OF SKY] ===
+────────────────────────────────
+UPDATED_LINES:
+- VITALS: Karma 0 -> 4 (1 Creation + 3 Session Award). Nuyen 300,000¥ -> 5,800¥. Edge 4 -> 3 (1 Spent). Condition: Healthy.
+- REPUTATION: Street Cred 0 -> 1 (Professional Extraction). Notoriety 0 -> 1 (Renraku Breach). Public Awareness 0.
+- GEAR: ADDED - Armored Van (Clean, Renraku Signature Known), Yakuza Pistols (2), Chimera Intel (Fragment), Elara (Protected Asset). REMOVED - 50k¥ Debt Payment (Voided).
+- THREADS: ADDED #1 "The Debt (Takashi)" [ACTIVE/HUNTER]. ADDED #2 "Project Chimera" [ACTIVE/ASSET]. ADDED #3 "Safehouse Audit" [ACTIVE/TIMER]. ADDED #4 "Unknown Observer" [ACTIVE/MYSTERY].
+- THREATS: NEW - Takashi/Yakuza (MEDIUM/HOSTILE). NEW - Renraku Security (MEDIUM/SEARCHING). NEW - Unknown Observer (LOW/WATCHING).
+- TIMERS: Safehouse Audit (~1 Week). Takashi Contact (Imminent). Lifestyle Prepaid (29 Days).
+- NARRATIVE MASS: Protecting Elara over payment. Burned safehouse for security. Established "Bad man with boundaries" motif. **Catalogued as Stabilizing Forces (Elara).**
+
+--- RESUME GAME HERE ---
+**TIME:** ~08:00 (Morning After). **LOCATION:** High Lifestyle Safehouse (Compromised).
+**SCENE:** Elara sleeps on the couch, wrapped in blankets, face turned toward the neon-streaked windows. The armored van sits in the private garage below, clean but traced. Your commlink is silent, but the unknown message lingers: "Sleep well." The building audit ticket is queued. Takashi is hunting. You have 5,800¥, a child who calls you "bad man," and a debt that just grew heavier.
+**What do you do?**
+
+=== SESSION PATCH NOTES [SESSION 0 — BOX OF SKY] ===
+
