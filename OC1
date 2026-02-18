@@ -14,9 +14,17 @@ METATYPE: Human
 TOTEM: Raven — +2 Manipulation spells, +2 Con (tricks/deception); must accept challenges to wit/pride
 
 ATTRIBUTES:
-
-BOD	AGI	REA	STR	WIL	LOG	INT	CHA	EDG	MAG
-2	2	3	1	6	3	5	7	         2	         6
+BOD: 2
+AGI: 2
+REA: 3
+STR: 1
+WIL: 6
+LOG: 3
+INT: 5
+CHA: 7
+EDG: 2
+MAG: 6
+ESS: 6
 ESSENCE: 6
 DRAIN POOL: WIL 6 + CHA 7 = 13
 INITIATIVE: REA 3 + INT 5 = 8 (1 pass)
