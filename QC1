@@ -1,5 +1,10 @@
-[ATTRIBUTES]
-B5 A7 R3 S3 W2 L5 I2 C7 | Edge 4 | Essence 2.3
+[CHARACTER: Unnamed] [BUILD: Social Infiltrator / Thief]
+[ATTRIBUTES] B5 A7 R3 S3 W2 L5 I2 C7 | Edge 3 (1 spent) | Essence 2.3
+
+[RESOURCES]
+- Nuyen: 5,800¥ | Karma: 1 | Edge: 3/4
+- Lifestyle: High (29 days remaining, but audit risk)
+- Safehouse: Secure ~24-48h, then forensic audit likely
 
 [SKILLS - GROUPS]
 Influence 5: Con 5, Etiquette 5, Negotiation 5
@@ -37,5 +42,74 @@ Tools: Medkit R6, Grapple Gun, Rope 500m, Bug Scanner R6, Data Tap, Jammers R6×
 IDs: Fake SIN R6 (Primary), Fake SIN R3 (Spare), Fake License R6
 Lifestyle: High (1 month)
 
+[RELATIONSHIPS]
+- Elara (C-7): Protected asset, trust established, shunt disabled
+- Takashi (Yakuza): Creditor, contract voided, now hostile hunter
+- Renraku Arcology: Active search, no current lead
+- Unknown Observer: Aware of log-scrub, sent cryptic warning
+
 [RESOURCES]
-Nuyen: 5,800¥ (Saved) | Karma: 1 (Saved) | Edge: 4
+- Nuyen: 5,800¥ | Karma: 1 | Edge: 3/4
+- Lifestyle: High (29 days remaining, but audit risk)
+- Safehouse: Secure ~24-48h, then forensic audit likely
+
+[ACTIVE THREADS]
+- [THREAD: DEBT] [STATUS: Unpaid] [FACTION: Takashi/Yakuza] [TRIGGER: Next contact]
+- [THREAD: CHIMERA] [STATUS: Intel acquired] [LEVERAGE: Project data, Elara's memory]
+- [THREAD: SAFEHOUSE] [STATUS: Compromised] [TIMER: Audit in ~1 week]
+- [THREAD: UNKNOWN OBSERVER] [STATUS: Watching] [MYSTERY: Identity/Intent]
+
+[COMPELLIONS ACTIVE]
+- Thrill Seeker: Willpower (4) to resist danger/adrenaline risk
+- Driven: Acquisition: Willpower (4) to resist theft opportunity
+- In Debt (10): Takashi will demand payment or favor
+
+[CARGO HOLDINGS]
+- Armored Van (Clean, but Renraku signature known)
+- Yakuza Gear: 2x Pistols, Commlinks, Credsticks (~500¥ untraceable)
+- Chimera Intel: Fragmented data, Elara's testimony
+
+[ACTIVE THREATS]
+- [TAG: FACTION] Takashi/Yakuza [GOAL: Recover asset or collect debt] [RESOURCES: Street network, professional enforcers] [NEXT: Contact or ambush]
+- [TAG: FACTION] Renraku Security [GOAL: Recover Chimera asset] [RESOURCES: Corporate grid, forensic teams] [NEXT: Audit building logs, trace van signature]
+- [TAG: MYSTERY] Unknown Observer [GOAL: Unknown] [RESOURCES: System access, intel] [NEXT: Watch or intervene]
+
+[PATCH NOTES ARCHIVE]
+- [PATCH: 0.1] Campaign start: QC naming, streamlined dossier
+- [PATCH: 0.2] Stakes calibration: Smart escalation, mechanical integrity
+- [PATCH: 0.3] Session 0 feedback: Honesty as trust, sacrifice as theme
+
+[NAMING LEDGER]
+- Player Character: [UNNAMED] (pending declaration)
+- Protected Asset: Elara (C-7)
+- Creditor/Hunter: Takashi (Yakuza)
+- Maternal Link: Lira (deceased/disappeared)
+
+[SPARK MOMENTS LOG]
+1. "I'm not that kind of bad man" → Honesty as trust-building
+2. "The sky is all yours" → Hope as resistance
+3. Scrubbing Elara from logs → Sacrifice as love
+4. Arming confrontation at van → Competence as care
+
+[REPUTATION TRACKING]
+- Street Cred: +1 (Professional extraction, clean escape)
+- Notoriety: +1 (Renraku breach, Yakuza confrontation)
+- Public Awareness: 0 (No public exposure yet)
+
+[THEMATIC SYNTHESIS]
+- Emerging Motifs: Badness with boundaries, Identity as resistance, Protection vs. Pragmatism
+- Emotional Register: Cautious hope amid chaos
+- Core Question: What do you protect when you have nothing left to lose?
+
+• PC Immediate Status: Safehouse secure (~24-48h), Elara resting, debt unpaid
+• Active Timers: 
+  - Safehouse Audit: ~1 week (building forensic review)
+  - Takashi Contact: Imminent (hunter active)
+  - Renraku Search: Ongoing (no current lead)
+• Immediate Threats: 
+  - [TAG: FACTION] Takashi/Yakuza — Goal: Recover asset or collect debt
+  - [TAG: FACTION] Renraku — Goal: Recover Chimera asset
+  - [TAG: MYSTERY] Unknown Observer — Goal: Unknown
+• Relevant Threads: DEBT, CHIMERA, SAFEHOUSE, UNKNOWN OBSERVER
+• RESUME GAME HERE: 
+  [Diegetic frame pending player input]
