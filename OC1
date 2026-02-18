@@ -1,17 +1,17 @@
-SHADOWRUN 5E: LIVING DOSSIER
+SHADOWRUN 5E: LIVING DOSSIER – OLUSTHRA
 =====================================================================
 CAMPAIGN: [To be named through play]
 TONE: Harsh, coherent, wondrous; corporate dystopia meets urban myth
 THEMATIC AXIS: [To emerge]
 
 =====================================================================
-1: CHARACTER CORE
+CHARACTER CORE
 =====================================================================
 
 HANDLE: Olusthra
 ARCHETYPE: Raven Shaman
 METATYPE: Human
-TOTEM: Raven — +2 Manipulation spells, +2 Con (tricks/deception); must accept challenges to wit/pride
+TOTEM: Raven (+2 Manipulation spells, +2 Con tricks/deception; must accept challenges to wit/pride)
 
 ATTRIBUTES:
 BOD: 2
@@ -25,95 +25,123 @@ CHA: 7
 EDG: 2
 MAG: 6
 ESS: 6
-ESSENCE: 6
-DRAIN POOL: WIL 6 + CHA 7 = 13
-INITIATIVE: REA 3 + INT 5 = 8 (1 pass)
-PHYSICAL MONITOR: 9
-STUN MONITOR: 11
-LIMITS: Physical 3, Mental 5, Social 8
+
+DERIVED:
+Drain Pool: WIL 6 + CHA 7 = 13
+Initiative: REA 3 + INT 5 = 8 (1 pass)
+Physical Monitor: 9
+Stun Monitor: 11
+Limits: Physical 3, Mental 5, Social 8
 
 QUALITIES:
+Mentor Spirit (Raven) – 5
+Focused Concentration (rating 5) – 20
+Driven (craft powerful artifacts) – +10
+Sensitive System – +15
 
-Mentor Spirit (Raven) — 5
-Focused Concentration (rating 5) — 20
-Driven (craft powerful artifacts) — +10
-Sensitive System — +15
-KARMA: 21 remaining (after bonding Power Focus)
-
-SKILLS:
-
-Active Skill	Ranks	Spec	Pool	With Spec
-Spellcasting	6	Manipulation	12	14
-Ritual Spellcasting	6	Spell	12	14
-Counterspelling	3	Detection	9	11
-Summoning	6	Spirit of Man	12	14
-Con	6	Deception	13	15
-Intimidation	4	—	11	—
-Artificing	6	Crafting	9	11
-Alchemy	4	—	7	—
-Perception	6	—	11	—
-Knowledge Skills (16 points):
-
-Knowledge	Ranks
-Spirit Lore	4
-Artificing Theory	4
-Seattle Sprawl	3
-Raven Traditions	3
-Security Procedures	2
-SPELLS (10):
-
-Spell	Type	Drain
-Control Thoughts	Manipulation	F-2
-Analyze Device	Manipulation	F-1
-Trid Phantasm	Manipulation	F-1
-Magic Fingers	Manipulation	F-1
-Levitate	Manipulation	F-1
-Improved Invisibility	Illusion	F-1
-Physical Mask	Illusion	F-1
-Heal	Health	F-4
-Stabilize	Health	F-2
-Clairvoyance	Detection	F-1
-GEAR:
-
-Item	Notes
-Lined Coat + Helmet	9 armor +1
-Power Focus (rating 3)	+3 to all Magic tests, bonded (3 Karma)
-Reagents	100 drams
-Magic Lodge (rating 6)	For rituals and summoning
-Medium Lifestyle	First month paid
-Fake SIN (rating 4)	"Elena Vance"
-Magician's License (rating 4)	For SIN
-Focus License (rating 4)	For SIN
-Sony Emperor commlink	DR 4
-Subvocal mic + Trodes + AR gloves	Basic matrix access
-Utility gear	Glow tags, flashlight, gecko tape, rappelling gloves, respirator 6
-Nuyen remaining	5,130¥
-CONTACTS:
-
-Name	Type	Connection	Loyalty	Notes
-Echo	Free Spirit of Man	4	4	Once bound; Olusthra freed it. Now it watches over her, bound by gratitude. It owes her its freedom. It will not let her be taken.
-Talisen	Elf Artificer	4	3	Taught her to craft. Knows what she's trying to build. Worries about her obsession.
-Rook	Human Fixer	3	4	She saved his life during a run gone wrong. He finds her work that doesn't compromise her—and takes a smaller cut.
-ACTIVE THREADS:
-
-[THREAD: THE ORPHAN'S SONG] — A woman with no memory sings in dead languages. Someone is looking for her.
-[THREAD: THE UNDERGROUND] — Hargul needs outside help before factions tear each other apart.
-PATCH NOTES ARCHIVE:
-
-SESSION 0: Character created. World initiated. Olusthra, called by Raven, steps into the sprawl.
---- RESUME GAME HERE ---
-
-The rain falls in sheets across Touristville, washing nothing. Inside St. Margaret's shelter, the fluorescent lights hum at a frequency that reminds you of something you can't name. The woman with no memory sits by the window, watching water trace paths down the glass. She hasn't sung today. She hasn't spoken. But when you entered the room, her head turned—just slightly—as if she recognized the weight of your footsteps.
-
-Sister Michaela stands in the doorway, her knuckles white around a mug of synthetic coffee. "She did it again last night. Sang for three hours straight. One of the volunteers recorded it." She holds out a battered commlink. "I don't know what it means. But I know that man who came asking—he'll be back. And when he does..." She trails off.
-
-Outside, headlights cut through the rain. A car. Expensive. Slowing down.
-
-Echo is here, too—you feel it. Not manifesting, but present. Watching. Waiting to see what you do.
-
-What do you do?
+KARMA REMAINING: 21 (after bonding Power Focus)
 
 =====================================================================
-GOVERNING DOCUMENTS: AA1-5 (The Vessel v4.0)
-All GM actions bound by Covenant, Engine, Pressure, Heart, Toolkit.
-====================================================================
+SKILLS
+=====================================================================
+
+ACTIVE SKILLS:
+Spellcasting 6 (Manipulation) – base 12 (14)
+Ritual Spellcasting 6 (Spell) – base 12 (14)
+Counterspelling 3 (Detection) – base 9 (11)
+Summoning 6 (Spirit of Man) – base 12 (14)
+Con 6 (Deception) – base 13 (15)
+Intimidation 4 – base 11
+Artificing 6 (Crafting) – base 9 (11)
+Alchemy 4 – base 7
+Perception 6 – base 11
+
+KNOWLEDGE SKILLS (16 points):
+Spirit Lore – 4
+Artificing Theory – 4
+Seattle Sprawl – 3
+Raven Traditions – 3
+Security Procedures – 2
+
+=====================================================================
+SPELLS (10)
+=====================================================================
+
+Control Thoughts – Manipulation – F-2
+Analyze Device – Manipulation – F-1
+Trid Phantasm – Manipulation – F-1
+Magic Fingers – Manipulation – F-1
+Levitate – Manipulation – F-1
+Improved Invisibility – Illusion – F-1
+Physical Mask – Illusion – F-1
+Heal – Health – F-4
+Stabilize – Health – F-2
+Clairvoyance – Detection – F-1
+
+=====================================================================
+GEAR
+=====================================================================
+
+Lined Coat + Helmet – 9 armor +1
+Power Focus (rating 3) – +3 to all Magic tests, bonded (3 Karma)
+Reagents – 100 drams
+Magic Lodge (rating 6) – for rituals and summoning
+Medium Lifestyle – first month paid
+Fake SIN (rating 4) – "Elena Vance"
+Magician's License (rating 4) – for SIN
+Focus License (rating 4) – for SIN
+Sony Emperor commlink – DR 4
+Subvocal mic + Trodes + AR gloves – basic matrix access
+Utility gear – glow tags, flashlight, gecko tape, rappelling gloves, respirator 6
+Nuyen remaining – 5,130¥
+
+=====================================================================
+CONTACTS
+=====================================================================
+
+Echo – Free Spirit of Man – Connection 4, Loyalty 4
+Once bound; Olusthra freed it. Now it watches over her, bound by gratitude. It owes her its freedom. It will not let her be taken.
+
+Talisen – Elf Artificer – Connection 4, Loyalty 3
+Taught her to craft. Knows what she's trying to build. Worries about her obsession.
+
+Rook – Human Fixer – Connection 3, Loyalty 4
+She saved his life during a run gone wrong. He finds her work that doesn't compromise her—and takes a smaller cut.
+
+=====================================================================
+ACTIVE THREADS
+=====================================================================
+
+[THREAD: THE ORPHAN'S SONG]
+A woman named Lia (possibly Elena) with no memory sings in dead languages. She is a keystone personality holding multiple fragments together: Elena (original), the Singer (protector), and a dark program (weapon trigger). Her brother Matthis, a retired cop, has been searching for her for years. Trace leads to Renraku arcology (ACHE) and old AI research divisions.
+
+[THREAD: ACHE Infiltration]
+Currently at East Maintenance Gate, meeting contact Hiro who will provide maintenance coveralls and level 3 clearance to enter the restricted zones.
+
+=====================================================================
+NARRATIVE MASS & LEGACY
+=====================================================================
+
+[ALLIANCE: Matthis] – Elena's brother, former cop, invested in Olusthra's success
+[MYSTERY: The Dark Facet] – A program woven into Elena's soul; origin unknown (Renraku? Something else?)
+[SPARK: Astral Vision] – Witnessed the three facets within Lia/Elena; gained true understanding of the situation
+
+=====================================================================
+PATCH NOTES ARCHIVE
+=====================================================================
+
+SESSION 0: Character created. World initiated. Olusthra, called by Raven, steps into the sprawl.
+
+SESSION 1 (PART 1): Met Matthis, Elena's twin. Learned of Elena's history: taken at 17, used by multiple corps (Renraku, Aztechnology, unknown shadow group). Discovered Lia is a keystone personality. Astral vision revealed three facets. Trace leads to Renraku arcology (ACHE). Arranged meeting with Hiro. Current location: East Maintenance Gate, about to infiltrate.
+
+=====================================================================
+--- RESUME GAME HERE ---
+=====================================================================
+
+Two hours later. You're at the East Maintenance Gate of the ACHE. The arcology looms above you—a mountain of concrete and glass and secrets. Rain slicks its surface, making the lights blur and swim.
+
+A door slides open. A man in maintenance coveralls gestures you inside. Hiro. He doesn't speak, just hands you a uniform and points to a locker room.
+
+"Change. We move in five."
+
+What do you do?
