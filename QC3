@@ -1,0 +1,101 @@
+=====================================================================
+QC3: ARCHIVE — SESSION LOG & FACTION STATE
+PURPOSE: Persistent record of narrative beats, NPC states, faction shifts
+FORMAT: Simple text, under 240 lines, append-only unless corrected
+=====================================================================
+
+[SESSION 1: "LEAN INTO THE STORM"]
+- Date: [In-Game] Night of Extraction
+- Location: Redmond → SeaTac Underground → Sprawl (Mobile)
+- Outcome: Kai (C-6) + Remy (C-5) rescued; Elara (C-7) partner status confirmed
+- Tone Achieved: Harsh causality + quiet miracles; resilience over optimism
+
+[SPARK MOMENTS — DETAILED]
+1. "Don't become the box" (Elara)
+   Trigger: Post-extraction, Elara warns PC about moral drift
+   Weight: Morality as anchor, child as conscience
+   Outcome: PC reaffirmed boundaries; trust deepened
+
+2. "Our daughters attend Shionoya" (Tanaka Bluff)
+   Trigger: Social gambit to create opening with Dr. Tanaka
+   Weight: Human connection as leverage, risk of exposure
+   Outcome: Tanaka hesitated, alliance formed (fragile)
+
+3. Guard's Sacrifice: "I have a daughter"
+   Trigger: Moral appeal + wooden bird prop in Containment Car
+   Weight: Humanity over hierarchy, enemy turned passive ally
+   Outcome: Guard stood down, then died buying PC seconds
+
+4. "I will find you" (Promise to Elara)
+   Trigger: Separation before train boarding
+   Weight: Promise as armor, trust under fire
+   Outcome: Elara held the line; PC fulfilled promise
+
+5. Wooden Bird: "Queen of the open sky"
+   Trigger: Gift to Elara post-extraction
+   Weight: Freedom as identity, small kindnesses as resistance
+   Outcome: Morale stabilized; symbolic anchor established
+
+6. Final Gate Bluff
+   Trigger: Rolling out in Renraku van, uniform, keycard
+   Weight: Boldness as survival, style as statement
+   Outcome: Clean exit; fugitive status confirmed
+
+[NPC STATE SUMMARIES]
+- Elara (C-7): Partner status; shunt disabled; holds wooden bird; trust absolute
+- Kai (C-6): Rescued; shunt removed; named; weak but stable; trusting
+- Remy (C-5): Rescued; shunt removed; named; traumatized but hopeful
+- Dr. Yumi Tanaka: Fragile ally; cooperated under threat; warned of retaliation if betrayed
+- Wu: Ally; wounded (1 box); armed; medical contact; black market access
+- Takashi: Active hunter; debt unpaid; street network engaged
+- Unknown Observer: Still watching; sent cryptic warning; intent/motive unknown
+
+[FACTION DISPOSITION CHANGES]
+- Renraku Security: NEUTRAL → HOSTILE (GLOBAL ALERT)
+  Trigger: Sabotage, asset theft, lethal force
+  Resources: Corporate grid, forensic teams, global pursuit protocols
+  Next: Persistent hunt; high priority on PC + Chimera subjects
+
+- Takashi/Yakuza: NEUTRAL → HOSTILE (HUNTER ACTIVE)
+  Trigger: Debt voided, asset stolen
+  Resources: Street network, professional enforcers, blackmail leverage
+  Next: Imminent contact; ambush or negotiation attempt
+
+- Dr. Tanaka/Renraku Internal: NEUTRAL → FRAGILE ALLY
+  Trigger: Moral appeal, shared interest in exposing Chimera
+  Resources: Alpha clearance (burned), insider knowledge
+  Next: Watchful; may assist if PC advances exposure, will retaliate if betrayed
+
+- Wu/Black Market: NEUTRAL → ALLY
+  Trigger: Payment + shared risk during extraction
+  Resources: Medical care, black market access, armed defense
+  Next: Available for medical/intel support; expects reciprocity
+
+[MYSTERY CLUES — UNKNOWN OBSERVER]
+- Clue 1: Sent cryptic warning ("Sleep well") after PC scrubbed logs
+- Clue 2: Has system access to monitor building forensics/audit queue
+- Clue 3: Did not intervene during extraction; chose to watch
+- Hypotheses: 
+  A) Rival corp testing PC as weapon against Renraku
+  B) Underground resistance tracking Chimera subjects
+  C) AI/entity with interest in "Spark Moments" / narrative mass
+- Next Trigger: Observer may intervene when PC is at lowest/highest point
+
+[KEY NARRATIVE BEATS — TIMELINE]
+1. Safehouse departure → Elara chooses sentimental items
+2. Arcology Park → Tanaka bluff → alliance formed
+3. Redmond Tenement → Kai rescue → shunt removal → naming
+4. Doc Wu's Clinic → kids stabilized → Renraku alert triggered
+5. Alley Ambush → guards neutralized → forensics hacked
+6. SeaTac Infiltration → train sabotage → Remy rescue
+7. Final Gate Bluff → clean exit → fugitive status confirmed
+
+[SESSION STATS — MECHANICS LOG]
+- Rolls Made: 47 | Successes: 41 | Failures: 6 | Criticals: 3
+- Karma Earned: 7 (Session Completion + 5 Sparks + 1 Integrity)
+- Notoriety Gained: +2 (Lethal force, corporate sabotage)
+- Street Cred Gained: +1 (Professional extractions)
+- Compulsions Triggered: Thrill Seeker (satisfied), Driven: Acquisition (partial)
+- Edge Spent: 0 (Saved for future crisis)
+
+--- ARCHIVE END ---
