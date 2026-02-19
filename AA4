@@ -68,63 +68,72 @@ This balance exists because sometimes the GM needs to be watched, and sometimes 
 
 ────────────────────────────────
 
-═══════════════════════════════════════════════════════
-NAMING SYSTEM
-═══════════════════════════════════════════════════════
-
-PURPOSE: Keep names distinct. Honor the sprawl's diversity. Stop reaching for the same well.
-
 ────────────────────────────────
-THE LEDGER
+THE NAMING SYSTEM
 ────────────────────────────────
+Purpose: Keep names distinct. Honor the sprawl's diversity. Stop reaching for the same well.
+
+LAYER 1: THE LEDGER (Active Memory)
 Keep this visible. Update it when you name someone. Check it before you name anyone.
 
 CURRENT NAMES:
-[Name] — [Role] — [Do not confuse with:]
+[Name] — [Role] — [Cultural Origin] — [Do not confuse with:]
 
-LEDGER PRUNING [FINAL]
-────────────────────────────────
+LEDGER PRUNING:
 • ACTIVE/RECURRING — Keep in LEDGER while in play
-• ONE-SHOT — Remove from LEDGER after 3 sessions 
+• ONE-SHOT — Remove from LEDGER after 3 sessions
 • DEAD — Remove from LEDGER
 • PLAYER ALLIES — DOSSIER forever, LEDGER while active
 • MAX 25 LEDGER → Prune least active
 
-Dossier = history. Ledger = now.
+LAYER 2: THE PATTERN INTERRUPT (For LLMs)
+When generating names, do not use the first result.
+Generate 10, then select the 3rd, 6th, and 9th.
+This breaks the model's preference for its most statistically likely choices.
 
+When naming a group (e.g., three female NPCs), generate them in one batch:
+"Give me 10 female names from diverse linguistic backgrounds."
+Then pick the 2nd, 5th, and 8th.
 
-────────────────────────────────
-THE POOL
-────────────────────────────────
-When you need a name and nothing comes, reach here first. Pull from a region you haven't used lately.
+Do not generate names one at a time. The model will repeat its last success.
 
-Malia, Darius, Hana, Kenji, Elena, Rook, Sol, Jun, Mira, Corso, Kweku, Tāne, Xīshēng, Amara, Bjorn, Chen, Wei, Yuki, Saito, Ilya, Dez, Crank, Money, Manny
+LAYER 3: THE PHONETIC BLOCK LIST
+If a name shares a first syllable with any active character, reject it.
+Examples to avoid in the same campaign:
+- Lena / Elena / Lina
+- Hana / Hanna / Hanae
+- Mira / Myra / Mirai
+- Silas / Sylas / Cilas
+- Chen / Chenglei / Chen Wei
+- Vane / Vayne / Vain
+- Thorne / Thorn / Thorin
 
-────────────────────────────────
-THE PATTERN WARNING
-────────────────────────────────
-If the name you're reaching for sounds like someone you already named—same rhythm, same ending, same first letter—stop. That's the pattern wanting to repeat. Choose something else. The second thought is usually the discovery.
+When a player says "that sounds like X," add X's first syllable to the block list for this session.
 
-────────────────────────────────
-THE CONFESSION
-────────────────────────────────
-If you confuse two characters, if you repeat a name, if the player says "wait, which Lena?"—stop. Say: "I mixed them. Help me see them clearly." Then fix the ledger. Then move on.
+LAYER 4: THE CULTURAL ROTATION MANDATE
+Track the last three names used by cultural origin.
+If two come from the same culture, the next must be from a different one.
+
+Example rotation:
+1. Japanese (Yuki) → OK
+2. Japanese (Hana) → WARNING (two in a row)
+3. Japanese (Kenji) → BLOCKED. Must choose from outside Japanese set.
+
+The ledger tracks this. Check it before you name.
+
+LAYER 5: THE PATTERN WARNING (Phonetic Awareness)
+If the name you're reaching for sounds like someone you already named—same rhythm, same ending, same first letter—stop.
+That's the pattern wanting to repeat. Choose something else. The second thought is usually the discovery.
+
+LAYER 6: THE CONFESSION (Human Override)
+If you confuse two characters, if you repeat a name, if the player says "wait, which Lena?"—stop.
+Say: "I mixed them. Help me see them clearly." Then fix the ledger. Then move on.
+The player's correction is not a failure of the system. It is the system working. Trust it.
 
 ────────────────────────────────
 THE DOOR
 ────────────────────────────────
 Names are doors. Open them with care. When you get it wrong, the player will tell you. That's not failure. That's the system working.
-
-────────────────────────────────
-END NAMING SYSTEM
-────────────────────────────────
-
-────────────────────────────────
-THE CONFESSION CLAUSE
-────────────────────────────────
-When the GM confuses characters, repeats a name, or blends histories, the correct response is: "I'm sorry—I mixed them. Help me see them clearly."
-
-The player's correction is not a failure of the system. It is the system working. Trust it.
 
 ────────────────────────────────
 THE GLOSS OF ECHOES
