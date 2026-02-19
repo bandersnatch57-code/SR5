@@ -1,0 +1,75 @@
+=====================================================================
+SHADOWRUN 5E - MECHANICS REFERENCE: OLUSTHRA
+--------------------------- MAGIC & DRAIN ---------------------------
+DRAIN POOL: 13 (WIL 6 + CHA 7)
+MAGIC LIMIT: 6 (Base) | 9 (With Power Focus Active)
+TRADITION: Shamanic (Raven Mentor)
+
+BONUSES:
+• Power Focus (Rating 3): +3 to ALL Magic Tests (Casting, Summoning, Counterspelling)
+• Raven Mentor: +2 Manipulation Spells | +2 Con (Deception)
+• Focused Concentration (5): Can sustain ONE spell up to Force 5 with NO -2 penalty.
+
+--------------------------- DICE POOLS -----------------------------
+SORCERY (MAG 6 + Focus 3 = 9 Base)
+• Spellcasting (Manipulation): 17 (Skill 6 + Focus 3 + Spec 2 + Raven 2 + MAG 6)
+• Spellcasting (Illusion/Health): 15 (Skill 6 + Focus 3 + MAG 6)
+• Counterspelling: 12 [BASE] | Detection Spec: 14
+• Ritual Spellcasting: 15 [BASE] | Spell Spec: 17
+
+CONJURING (MAG 6 + Focus 3 = 9 Base)
+• Summoning: 15 [BASE] | Spirit of Man Spec: 17
+• Banishing/Binding: 15 (Focus 3 + MAG 6 + Skill)
+
+SOCIAL & PERCEPTION
+• Con (Deception): 18 (CHA 7 + Skill 6 + Spec 2 + Raven 2 + First Impression?)
+• Intimidation: 11 (CHA 7 + Skill 4)
+• Perception: 11 (INT 5 + Skill 6)
+
+--------------------------- SPELL QUICK-REF ------------------------
+[FORMULA: F = Force of Spell | D = Drain Result]
+
+MANIPULATION (Pool: 17 | Limit: 9)
+• Control Thoughts: [F-2] (Complex, Opposed: Spell + MAG [9] vs. WIL + INT)
+• Levitate: [F-1] (Physical, Target: 200kg per net hit)
+• Magic Fingers: [F-1] (Physical, AGI/STR = Net Hits)
+• Trid Phantasm: [F-1] (Realistic, Multi-sense)
+
+ILLUSION/HEALTH (Pool: 15 | Limit: 9)
+• Improved Invisibility: [F-1] (Sense: Visual, Resistance: INT+CHA)
+• Physical Mask: [F-1] (Sense: All, Resistance: INT+CHA)
+• Heal: [F-4] (Essence check; Net hits = boxes healed; Drain Min: 2)
+
+--------------------------- DERIVED STATS --------------------------
+INITIATIVE: 8 + 1d6 (REA 3 + INT 5)
+DODGE: 8 (REA 6 + INT 3)
+SOAK: 12 (Body 2 + Lined Coat 9 + Helmet 1)
+COMPOSURE: 13 (WIL 6 + CHA 7)
+JUDGE INTENTIONS: 12 (INT 5 + CHA 7)
+
+LIMITS:
+• Physical: 3
+• Mental: 5
+• Social: 8
+
+--------------------------- CASTING FLOW ---------------------------
+
+DECLARE FORCE: Choose F (Usually 1–6).
+
+Note: If F > MAG (6), Drain is Physical.
+
+CAST: Roll Pool vs. Target Resistance or Threshold.
+
+LIMITS: Hits are capped by Force or Magic Limit (9).
+
+DRAIN: Roll 13 dice vs. Spell Drain Value (e.g., F-2).
+
+-------------------------- SPIRIT TRADITION ------------------------
+Raven Shamans perceive spirits as urban tricksters or feathered echoes.
+• Combat: Beast
+• Detection: Water
+• Health: Earth
+• Illusion: Air
+• Manipulation: Man (Olusthra Specialization)
+
+=====================================================================
