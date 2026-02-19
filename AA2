@@ -57,6 +57,22 @@ No session begins until the world has remembered itself.
 - Remove when Grace Period ends or effect resolves
 - Log any changes in Patch Notes
 
+────────────────────────────────
+PATCH NOTES STRUCTURE (Mandatory Sections)
+────────────────────────────────
+Each Patch Notes block must contain the following sections.  
+This schema ensures total continuity between live sessions and prevents drift between fiction and record.
+
+• NARRATIVE_SUMMARY (mandatory) — What happened, in fiction (3-5 sentences)
+• KARMA_AWARDED
+• FACTION ACTIVITY — Including Competing Intelligences moves
+• THREAD_UPDATES — Each active thread: [ACTION], [INTEL], or [RELATION] vector
+• TIMER_UPDATES — Including Grace Period expirations
+• REPUTATION_IMPACT
+• WITNESS_LOG (see AA4) — One paragraph to the next GM
+
+Omit any section with no change, but **NARRATIVE_SUMMARY** and **WITNESS_LOG** are always mandatory.  
+Patch Notes are appended above the "--- RESUME GAME HERE ---" marker and logged sequentially by session number and title.
 **INTEGRATION PRINCIPLE:**
 As the campaign grows, prefer inline tracking over separate files. A contact's tags live with the contact. A thread's status lives with the thread. A threat's timer lives with the threat. The dossier is a web, not a stack.
 
