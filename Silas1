@@ -1,0 +1,140 @@
+=====================================================================
+          SHADOWRUN 5E - CHARACTER CORE: SILAS VANE (v1.0)
+=====================================================================
+CAMPAIGN: The Mirror in the Violet Sun
+TONE: Dark Adult Noir / Gray Morality / Hard World
+THEMATIC AXIS: Greed vs. Soul (The price of a "Perfect World")
+=====================================================================
+
+HANDLE: Silas Vane (ID_BURNED)
+METATYPE: Human
+ARCHETYPE: Greedy Face (Social Predator)
+
+KARMA: 29 | NUYEN: 189,380¥ 
+ESSENCE: 1.85 / 6.0 | EDGE: 5
+STREET CRED: 3 (The man who broke Marcus Thorne)
+NOTORIETY: 1 (Internal Renraku Alert)
+PUBLIC AWARENESS: 3 (City-wide Matrix Spike)
+
+--------------------------- ATTRIBUTES ------------------------------
+BODY: 5 | AGILITY: 5 | REACTION: 4 (2) | STRENGTH: 2
+WILLPOWER: 2 | LOGIC: 4 | INTUITION: 2 | CHARISMA: 6
+
+--------------------------- QUALITIES -------------------------------
+POSITIVE:
+- First Impression (+2 social dice first meeting) [FIRST ENCOUNTER ONLY]
+- Catlike (+2 Sneaking, +1 Physical limit for Sneaking) [ALWAYS ACTIVE]
+- Hawk Eye (+2 visual Perception, +1 Visual limit) [ALWAYS ACTIVE]
+- Enhanced Accuracy (Pistols) (+1 Accuracy limit) [ALWAYS ACTIVE]
+
+NEGATIVE:
+- Poor Self Control: Thrill Seeker (Composure (3) to avoid risk) [TRIGGERED]
+- Curiosity Killed the Cat (Composure (3) to avoid investigating) [TRIGGERED]
+- Dependent (Alison, age 7) [PERSISTENT]
+- Emotional Attachment (Alison) [-1 dice pool if she is in danger]
+- In Debt (Rating 5) [25k owed / 1,000¥ monthly interest]
+
+--------------------------- CYBERWARE -------------------------------
+- Used Wired Reflexes 2 (+2 REA, +2d6 Initiative) [ESSENCE: 3.75]
+- Tailored Pheromones 2 (+2 all social skills/limit) [ESSENCE: 0.4]
+- Datajack (Direct neural interface) [ESSENCE: 0.1]
+- Smartlink (Implanted) (+2 dice/accuracy) [ESSENCE: 0.1]
+
+--------------------------- DICE POOLS ------------------------------
+SOCIAL (CHA 6 + Pheromones 2 = Base 8)
+- Con 6: 14 [Fast Talk: 16] [SITUATIONAL: Spec]
+- Intimidation 6: 14 [Physical: 16] [SITUATIONAL: Spec]
+- Negotiation 4: 12 [Bargaining: 14] [GROUP: Influence]
+- Etiquette 4: 12 [GROUP: Influence]
+- Leadership 4: 12 [GROUP: Influence]
+
+COMBAT/STEALTH (AGI 5)
+- Pistols 6: 13 [Heavy Pistols: 15] [SMARTLINK ACTIVE]
+- Sneaking 6: 13 [Urban: 15] [GROUP: Stealth] [CATLIKE]
+- Palming 6: 11 [GROUP: Stealth]
+- Disguise 6: 11 [GROUP: Stealth]
+- Escape Artist 4: 9 [INDIVIDUAL]
+
+TECHNICAL/PERCEPTION (INT 2 / LOG 4)
+- Hardware 6: 10 [Electronic Locks: 12] [SITUATIONAL: Spec]
+- Computer 6: 12 [Decrypt: 14] [SITUATIONAL: Spec]
+- Perception 6: 8 [Visual: 13] [SITUATIONAL: Spec] [HAWK EYE]
+
+--------------------------- GEAR ------------------------------------
+WEAPONS:
+- Savalette Guardian (Heavy Pistol) w/ Smartlink
+  [APDS AMMO (20): -5 AP Total | REGULAR (100)]
+- Uzi III (SMG) [STOLEN FROM ID TOUGH / EMPTY]
+
+ARMOR:
+- Sleeping Tiger Suit (Armor 13) [Ruthenium Polymers R3: +3 Sneak, +1 Social Limit]
+- Ballistic Mask (Armor +2) [Vision R2, Jammer R4, Low-Light, Spatial Recognizer]
+
+ELECTRONICS:
+- Renraku Sensei Commlink (DR 3)
+- Maglock Passkey R4
+- Data Tap x1 (Watcher's setup)
+- Earbuds R2 (Spatial Recognizer)
+- Contacts R2 (Low-Light)
+
+LIFESTYLE:
+- High (Tarislar Garden Villa - 1 Month Paid via Thorne Siphon)
+- Fake SIN: Silas Vane [BURNED / NOTIFY ON SCAN]
+
+--------------------------- VEHICLES --------------------------------
+WRAITH RENRAKU VAN (Black, Armored)
+- Description: Tactical Extraction Van
+- Status: [ACQUIRED] [LOBOTOMIZED] [MANUAL OVERRIDE]
+- Location: Villa Garage
+- Tags: [VEHICLE] [ARMORED] [STOLEN] [RENRAKU_PROPERTY]
+
+--------------------------- CONTACTS ---------------------------------
+"The Broker" (99-Delta) | Fixer | C3 L3 | [RENRAKU_SLEEPER] [BETRAYER]
+"Doc" Patch | Street Doc | C3 L3 | [RELIABLE]
+Manny "The Mule" | Fence | C2 L2 | [STREET_CLEAN]
+Officer Miller | Beat Cop | C1 L1 | [CHEAP_BRIBES]
+
+------------------------- PERSISTENT NPCs --------------------------
+DR. ARIS THORNE (The Asset)
+- Status: [SECURED] [TERRIFIED] [COMPLIANT]
+- Function: Key to the Renraku Global Ledger; Biometric Key for the Drive.
+- Tag: [VULNERABLE] [HIGH VALUE]
+
+ALISON (The Anchor)
+- Status: [SAFE] [ASLEEP]
+- Function: Narrative Mass; Silas's "Why."
+- Tag: [DEPENDENT] [TARGET]
+
+--------------------------- ACTIVE THREATS --------------------------
+MARCUS THORNE (Renraku Lead)
+- Status: [TERMINATED/HUNTED] [RUINED]
+- Motivation: Revenge; his life is over unless he kills Silas.
+- Tag: [FALLEN_CORP] [DESPERATE]
+
+RENRAKU INTERNAL SECURITY (The Red Samurai)
+- Status: [SEARCHING] [INVESTIGATING SPIKE]
+- Goal: Recover the Ghost-Compiler Drive at all costs.
+
+--------------------------- CARGO/INTEL ------------------------------
+- The Violet Drive (Sentient E-Ghost Compiler) [ANOMALY] [GHOST_ECHO]
+- Renraku Field Asset List (Full decryption) [INTEL]
+- Thorne’s Embezzlement Records [LEVERAGE]
+- Gold Credstick (25,000¥) | Silver Credstick (18,400¥)
+- Total Liquid Cash: 189,380¥
+
+--------------------------- ACTIVE THREADS --------------------------
+#1 [A SOUL FOR A NAME] — Need R6 Fake SIN to bury Silas. [URGENT]
+#2 [GHOST_TOUCHED] — Silas has a lingering connection to the AI. [PERSISTENT]
+#3 [DR. ARIS THORNE] — Defector secured; needs a long-term "hole." [VULNERABLE]
+#4 [THORNE'S FALLOUT] — Marcus Thorne ruined; Internal Security hunting him. [ACTIVE]
+#5 [THE BROKER] — Renraku Agent 99-Delta aware of failed ID trap. [ACTIVE]
+
+--------------------------- RESUME GAME HERE -------------------------
+Tarislar Garden Villa. The green bioluminescence of the Elven District 
+filters through the glass. Alison is asleep in a real bed. Aris is 
+drinking elven brandy, staring at the briefcase. You sit in the dark, 
+head throbbing with a violet echo. You have 189k nuyen, but Silas 
+Vane is dead. Tomorrow, you decide who you are.
+
+What do you do?
+=====================================================================
