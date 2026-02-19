@@ -98,14 +98,31 @@ MOBILITY/UTILITY:
 - Rope (100m)
 - Tactical Backpack
 
-VEHICLE:
-- Ford Americar (grey, unremarkable)
-
 LIFESTYLE:
 - Middle (Tacoma apartment, 1 month paid)
 
 Fake SIN:
 - Rating 3
+
+--------------------------- VEHICLES --------------------------------
+FORD AMERICAR (Trick's personal vehicle)
+- Description: Grey, unremarkable, middle-class sedan
+- Status: [SECURED AT SANCTUM] [UNMODIFIED]
+- Tags: [PERSONAL] [LOW PROFILE] [EXPENDABLE]
+
+SHIAWASE PANTHER II (Stealth Transport)
+- Description: Corp asset, biometric lock reset to Trick, EM dampening active
+- Status: [ACQUIRED] [KEYED: TRICK] [STEALTH-MODULATED]
+- Location: Sanctum secure bay
+- Tags: [VEHICLE] [STEALTH] [CORP ASSET] [HIGH VALUE]
+
+WRAITH RENRAKU VAN (Black, Armored)
+- Description: Armored cargo van, glyph-crate compatible, residual resonance from transport
+- Status: [ACQUIRED] [CREW-OPERATED]
+- Location: Sanctum secure bay
+- Tags: [VEHICLE] [ARMORED] [CARGO HAULER] [GLYPH-CRATE COMPATIBLE] [RESIDUAL RESONANCE]
+
+[VEHICLE SUMMARY: 3 total — Panther II (lead/stealth), Renraku Van (cargo/heavy), Americar (personal/expendable)]
 
 --------------------------- CARGO HOLDINGS (Pier 17 Net) -------------
 • Ares Echo Prototypes (6x) — 120k¥ — [HOT] [Module synergy]
