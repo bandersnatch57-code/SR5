@@ -20,6 +20,7 @@ FORMAT: Simple text, under 240 lines, rolling archive compression
 - [TAG: FACTION] Renraku Security [GOAL: Recover assets + punish saboteur] [RESOURCES: Global grid, forensic teams, Ares support] [NEXT: Trace completion (~6h), Council security]
 - [TAG: FACTION] Takashi/Yakuza [GOAL: Collect debt or recover asset] [RESOURCES: Street network, enforcers] [NEXT: Imminent contact]
 - [TAG: FACTION] Council Security (Ares/Sterling) [GOAL: Protect meeting] [RESOURCES: Biometrics, drones, heavy weapons] [NEXT: 72hr deadline]
+- [TAG: COLLATERAL] Guard M. Vale [STATUS: Detained by Renraku] [CAUSE: Auth Code Trace] [NEXT: Interrogation/Execution] [WEIGHT: Moral Cost]
 
 [RELATIONSHIPS]
 - Elara (C-7): Partner; trust absolute; moral anchor
@@ -34,6 +35,7 @@ FORMAT: Simple text, under 240 lines, rolling archive compression
 - Chimera Intel: Core Protocols, Subject Fate Data, Black Site Locations, Personnel Files, Budget Accounts
 - Guest Badge: Renraku Council Meeting (1x, Tanaka-provided)
 - Funds: ¥45,001,750¥ (Liquid, untraceable via shell accounts)
+- Subject Fate: C-1 (Deceased), C-3 (Shiawase Transfer), C-4 (Missing/Redmond).
 
 [REPUTATION]
 - Street Cred: 3 (Major corporate heist, professional extractions)
