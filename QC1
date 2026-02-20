@@ -1,18 +1,11 @@
 =====================================================================
-CAMPAIGN: VESSEL: CHIMERA PROTOCOL
-TONE: Harsh, coherent, wondrous; corporate dystopia meets urban myth
-THEMATIC AXIS: Systemic Pressure vs. Human Agency
+QC1: CHARACTER CORE — STATIC BUILD
+PURPOSE: Immutable character mechanics; update only on build changes
+FORMAT: Simple text, under 240 lines, stable across sessions
 =====================================================================
 
 [CHARACTER: Unnamed] [BUILD: Social Infiltrator / Thief]
 [ATTRIBUTES] B5 A7 R3 S3 W2 L5 I2 C7 | Edge 3/4 | Essence 2.3
-
-[RESOURCES]
-- KARMA: 4 + 7 (Session 1) = **11 Total**
-- NUYEN: 5,800¥ - 2,200¥ (Wu/Supplies) = **3,600¥**
-- EDGE: 3/4 (No spend this session)
-- Lifestyle: High (29 days remaining)
-- Safehouse: ABANDONED (Forensic audit irrelevant)
 
 [SKILLS - GROUPS]
 Influence 5: Con 5, Etiquette 5, Negotiation 5
@@ -48,105 +41,6 @@ Armor: Jacket (12), Vest (9), Chameleon Suit (9 +2 Sneak), Mask (+2), Helmet (+2
 Commlinks: 2× Transys Avalon (R6), 2× Erika Elite (R4), 4× Corp Commlinks (Encrypted)
 Tools: Medkit R6 (2x), Grapple Gun, Rope 500m, Bug Scanner R6, Data Tap, Jammers R6×2, Autopicker R6, Keycard Copier R6, Lockpicks, Maglock Passkey R4, Gas Mask, Gecko Gloves, Respirator R6, Forensic Datapads, Flare Launcher, EMP Charge (Used), Smoke Grenades (2x)
 IDs: Fake SIN R6 (Primary), Fake SIN R3 (Spare), Fake License R6, L3 Keycards (2x)
-Lifestyle: High (1 month)
 Sentimental: Wooden Bird (Hand-carved, gifted to Elara)
 
-[RELATIONSHIPS]
-- Elara (C-7): Partner status, trust deepened, shunt disabled
-- Kai (C-6): Rescued, shunt removed, named, weak but stable
-- Remy (C-5): Rescued, shunt removed, named, trusting
-- Dr. Yumi Tanaka: Fragile alliance (cooperated, threatened retaliation if betrayed)
-- Wu: Ally (Medical contact, wounded but survived, armed)
-- Takashi (Yakuza): Creditor, contract voided, active hunter
-- Renraku Arcology: GLOBAL ALERT ACTIVE, high-priority hunt
-- Unknown Observer: Still watching, intent unknown
-
-[ACTIVE THREADS]
-- [THREAD: DEBT] [STATUS: Unpaid] [FACTION: Takashi/Yakuza] [TRIGGER: Imminent contact]
-- [THREAD: CHIMERA] [STATUS: 2/6 Rescued] [LEVERAGE: Kai, Remy, fragmented data]
-- [THREAD: GLOBAL ALERT] [STATUS: ACTIVE] [FACTION: Renraku] [TRIGGER: Constant pursuit risk]
-- [THREAD: UNKNOWN OBSERVER] [STATUS: Watching] [MYSTERY: Identity/Intent]
-- [THREAD: WU ALLIANCE] [STATUS: Active] [UTILITY: Medical contact, black market access]
-
-[COMPELLIONS ACTIVE]
-- Thrill Seeker: Willpower (4) to resist danger/adrenaline risk [SATISFIED: Session 1]
-- Driven: Acquisition: Willpower (4) to resist theft opportunity [PARTIAL: Chimera subjects acquired]
-- In Debt (10): Takashi will demand payment or favor [PRESSURE: Increasing]
-
-[CARGO HOLDINGS]
-- Armored Assault Van (Clean, Renraku signature known, high visibility)
-- Yakuza Gear: 2x Pistols, Commlinks, Credsticks (~500¥ untraceable)
-- Chimera Intel: Fragmented data, Elara/Kai/Remy testimony, Kaito Express schematics
-- Sentimental: Wooden Bird (Elara), Blanket/Pillow/Shirt (Elara's choices)
-
-[ACTIVE THREATS]
-- [TAG: FACTION] Takashi/Yakuza [GOAL: Recover asset or collect debt] [RESOURCES: Street network, professional enforcers] [NEXT: Contact or ambush]
-- [TAG: FACTION] Renraku Security [GOAL: Recover Chimera assets + punish saboteur] [RESOURCES: Corporate grid, global alert, forensic teams] [NEXT: Persistent hunt]
-- [TAG: MYSTERY] Unknown Observer [GOAL: Unknown] [RESOURCES: System access, intel] [NEXT: Watch or intervene]
-
-[REPUTATION TRACKING]
-- Street Cred: 1 -> 2 (Professional extractions, clean escapes)
-- Notoriety: 1 -> 3 (Lethal force, corporate sabotage, train hack)
-- Public Awareness: 0 (No public exposure yet)
-
-[SPARK MOMENTS LOG - SESSION 1]
-1. "Don't become the box" → Elara's warning, morality as anchor
-2. "Our daughters attend Shionoya" → Social gambit, human leverage
-3. Guard's sacrifice: "I have a daughter" → Morality as weapon
-4. "I will find you" → Promise as armor, trust under fire
-5. Wooden bird gift: "Queen of the open sky" → Freedom as identity
-6. Final gate bluff → Boldness as survival, style as statement
-
-[THEMATIC SYNTHESIS]
-- Emerging Motifs: Protection vs. Corruption, Identity as Resistance, Sacrifice as Strategy, Promise as Anchor
-- Emotional Register: Hopeful defiance amid escalating stakes
-- Core Question Evolution: What do you become to protect what matters?
-- Stabilizing Forces: Elara, Kai, Remy, Wu, Tanaka (fragile)
-- Entropic Forces: Renraku, Takashi, Global Alert, Debt, Time
-
-[NAMING LEDGER]
-- Player Character: [UNNAMED] (pending declaration)
-- Protected Assets: Elara (C-7), Kai (C-6), Remy (C-5)
-- Allies: Wu (Medic), Dr. Yumi Tanaka (Fragile)
-- Hunters: Takashi (Yakuza), Renraku Security (Corporate)
-- Mystery: Unknown Observer
-
-• PC Immediate Status: Mobile (Armored Van), Team intact, Global Alert active
-• Active Timers: 
-  - Takashi Contact: Imminent (Hunter active)
-  - Renraku Global Alert: Ongoing (Constant pursuit risk)
-  - Lifestyle Prepaid: 29 Days (But high visibility)
-• Immediate Threats: 
-  - [TAG: FACTION] Takashi/Yakuza — Goal: Recover asset or collect debt
-  - [TAG: FACTION] Renraku — Goal: Recover Chimera assets + punish saboteur
-  - [TAG: MYSTERY] Unknown Observer — Goal: Unknown
-• Relevant Threads: DEBT, CHIMERA, GLOBAL ALERT, UNKNOWN OBSERVER, WU ALLIANCE
-
-=== SESSION PATCH NOTES [SESSION 1 — LEAN INTO THE STORM] ===
-────────────────────────────────
-UPDATED_LINES:
-- VITALS: Karma 4 -> 11 (+7 Session Award). Nuyen 5,800¥ -> 3,600¥ (-2,200¥ Wu/Supplies). Edge 3/4 (No spend). Condition: Healthy.
-- REPUTATION: Street Cred 1 -> 2. Notoriety 1 -> 3. Public Awareness 0.
-- GEAR: ADDED - Armored Assault Van (Clean, Renraku Sig), Military Medkits (2x), Assault Rifles (2x), Ammo (100+), L3 Keycards (2x), Corp Commlinks (4x), Forensic Tools, Wooden Bird (Sentimental). REMOVED - Old Van (Abandoned), EMP Charge (Used).
-- THREADS: ADDED #3 "Global Alert (Renraku)" [ACTIVE/HUNT]. ADDED #5 "Wu Alliance" [ACTIVE/ALLY]. UPDATED #2 "Chimera" [2/6 Rescued: Kai, Remy]. REMOVED #3 "Safehouse Audit" [OBSOLETE].
-- THREATS: UPDATED - Renraku Security (HIGH/HUNT). NEW - Global Alert (Constant Pursuit Risk).
-- TIMERS: Safehouse Audit [OBSOLETE]. Takashi Contact (Imminent). Global Alert (Ongoing). Lifestyle (29 Days).
-- NARRATIVE MASS: Rescued Kai & Remy. Guard sacrificed. Tanaka alliance (fragile). Wu ally. "Bad man with boundaries" motif deepened. **Catalogued as Stabilizing Forces: Elara, Kai, Remy, Wu.**
-
---- RESUME GAME HERE ---
-**TIME:** ~23:30 (Night). **LOCATION:** Mobile (Armored Van), Redmond/Sprawl.
-**SCENE:** The van hums through neon rain. Elara holds the wooden bird. Kai and Remy sleep in the back, wrapped in the blanket she chose. Wu watches the rear cam. Your commlink is silent, but the Global Alert means every camera, every cop, every drone is a potential threat. Takashi is hunting. Renraku is hunting. You have 3,600¥, three children who call you partner, and a debt that just grew heavier.
-**What do you do?**
-
-=== SESSION PATCH NOTES [SESSION 2 — LEAN INTO THE STORM] ===
-────────────────────────────────
-UPDATED_LINES:
-- VITALS: Karma 11 -> 18 (+7 Session Award). Nuyen 1,750¥ -> 45,001,750¥ (Slush Fund Drain). Edge 3/4 (No spend). Condition: Healthy (Rested).
-- REPUTATION: Street Cred 2 -> 3 (Major Corporate Heist). Notoriety 3 -> 5 (Financial Theft, Council Target). Public Awareness 0.
-- GEAR: ADDED - ¥45M Liquid Funds, Chimera Core Data, Level 4 Auth Codes (Expired), Guest Badge (Council). REMOVED - Spare Commlink (Destroyed).
-- THREADS: ADDED #6 "Council Meeting" [ACTIVE/72HR WINDOW]. UPDATED #3 "Global Alert" [Trace: 6 Hours]. UPDATED #2 "Chimera" [4/7 Rescued: Elara, Kai, Remy, Jules].
-- THREATS: UPDATED - Renraku (HIGH/TRACE ACTIVE). UPDATED - Takashi (MEDIUM/DEBT STILL OPEN). NEW - Council Security (Ares/Sterling).
-- TIMERS: Trace Triangulation (~6 Hours). Council Meeting (72 Hours). Lifestyle (28 Days).
-- NARRATIVE MASS: C-2 (Jules) rescued. Slush fund drained. Tanaka alliance solidified (Council access). Unknown Observer deferred. Promise reaffirmed to Elara. **Catalogued as Stabilizing Forces: Elara, Kai, Remy, Jules, Wu.**
-
---- END SESSION 2 ---
+--- END QC1 ---
