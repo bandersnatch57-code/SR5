@@ -137,3 +137,16 @@ UPDATED_LINES:
 **TIME:** ~23:30 (Night). **LOCATION:** Mobile (Armored Van), Redmond/Sprawl.
 **SCENE:** The van hums through neon rain. Elara holds the wooden bird. Kai and Remy sleep in the back, wrapped in the blanket she chose. Wu watches the rear cam. Your commlink is silent, but the Global Alert means every camera, every cop, every drone is a potential threat. Takashi is hunting. Renraku is hunting. You have 3,600¥, three children who call you partner, and a debt that just grew heavier.
 **What do you do?**
+
+=== SESSION PATCH NOTES [SESSION 2 — LEAN INTO THE STORM] ===
+────────────────────────────────
+UPDATED_LINES:
+- VITALS: Karma 11 -> 18 (+7 Session Award). Nuyen 1,750¥ -> 45,001,750¥ (Slush Fund Drain). Edge 3/4 (No spend). Condition: Healthy (Rested).
+- REPUTATION: Street Cred 2 -> 3 (Major Corporate Heist). Notoriety 3 -> 5 (Financial Theft, Council Target). Public Awareness 0.
+- GEAR: ADDED - ¥45M Liquid Funds, Chimera Core Data, Level 4 Auth Codes (Expired), Guest Badge (Council). REMOVED - Spare Commlink (Destroyed).
+- THREADS: ADDED #6 "Council Meeting" [ACTIVE/72HR WINDOW]. UPDATED #3 "Global Alert" [Trace: 6 Hours]. UPDATED #2 "Chimera" [4/7 Rescued: Elara, Kai, Remy, Jules].
+- THREATS: UPDATED - Renraku (HIGH/TRACE ACTIVE). UPDATED - Takashi (MEDIUM/DEBT STILL OPEN). NEW - Council Security (Ares/Sterling).
+- TIMERS: Trace Triangulation (~6 Hours). Council Meeting (72 Hours). Lifestyle (28 Days).
+- NARRATIVE MASS: C-2 (Jules) rescued. Slush fund drained. Tanaka alliance solidified (Council access). Unknown Observer deferred. Promise reaffirmed to Elara. **Catalogued as Stabilizing Forces: Elara, Kai, Remy, Jules, Wu.**
+
+--- END SESSION 2 ---
