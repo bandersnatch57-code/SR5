@@ -1,74 +1,65 @@
 =====================================================================
-QC3: CAMPAIGN STATE — DYNAMIC TRACKING
+QC3: CAMPAIGN STATE — DYNAMIC TRACKING (TAGGED)
 PURPOSE: Session-to-session resources, threats, threads, timers
-FORMAT: Simple text, under 240 lines, rolling archive compression
+FORMAT: Simple text, under 240 lines, hybrid tags + prose anchors
 =====================================================================
 
 [RESOURCES]
-- KARMA: 18 Total | EDGE: 3/4 | NUYEN: 45,001,750¥
-- Lifestyle: High (28 days remaining) | Safehouse: Mobile (Armored Van)
+- KARMA: 18 | EDGE: 3/4 | NUYEN: 45,001,750¥ [Liquid/Untraceable]
+- Lifestyle: High (28d) [Mobile] | Safehouse: Armored Van [Sanctuary]
 
 [ACTIVE THREADS]
-- [THREAD: DEBT] [STATUS: Unpaid] [FACTION: Takashi/Yakuza] [TRIGGER: Any contact]
-- [THREAD: CHIMERA] [STATUS: 4/7 Rescued] [LEVERAGE: Elara, Kai, Remy, Jules + Core Data]
-- [THREAD: COUNCIL MEETING] [STATUS: 72hr Window] [FACTION: Renraku/Shiawase/Ares] [TRIGGER: Infiltration]
-- [THREAD: TRACE ALERT] [STATUS: ~6 Hours] [FACTION: Renraku IT] [TRIGGER: Location triangulation]
-- [THREAD: UNKNOWN OBSERVER] [STATUS: Watching] [MYSTERY: Identity/Intent]
-- [THREAD: WU ALLIANCE] [STATUS: Active] [UTILITY: Medical, black market, armed support]
+- [THREAD: DEBT] — [Unpaid] [Takashi] [Imminent] *Anchor: "Creditor becomes hunter"*
+- [THREAD: CHIMERA] — [4/7 Rescued] [Core Data] [Exposure Lever] *Anchor: "Steal freedom, not loot"*
+- [THREAD: COUNCIL] — [72hr Window] [Guest Badge] [Infiltration] *Anchor: "One chance to expose"*
+- [THREAD: TRACE] — [~6 Hours] [Renraku IT] [Location Risk] *Anchor: "Acceleration has cost"*
+- [THREAD: OBSERVER] — [Watching] [Cryptic] ["Choose"] *Anchor: "Mystery as mirror"*
+- [THREAD: WU] — [Active] [Medic] [Armed] [Loyal] *Anchor: "Debt paid in blood"*
 
 [ACTIVE THREATS]
-- [TAG: FACTION] Renraku Security [GOAL: Recover assets + punish saboteur] [RESOURCES: Global grid, forensic teams, Ares support] [NEXT: Trace completion (~6h), Council security]
-- [TAG: FACTION] Takashi/Yakuza [GOAL: Collect debt or recover asset] [RESOURCES: Street network, enforcers] [NEXT: Imminent contact]
-- [TAG: FACTION] Council Security (Ares/Sterling) [GOAL: Protect meeting] [RESOURCES: Biometrics, drones, heavy weapons] [NEXT: 72hr deadline]
-- [TAG: COLLATERAL] Guard M. Vale [STATUS: Detained by Renraku] [CAUSE: Auth Code Trace] [NEXT: Interrogation/Execution] [WEIGHT: Moral Cost]
+- [TAG: FACTION] Renraku — [HIGH] [Global Grid] [Forensics] [Ares Support] *Goal: Recover + punish*
+- [TAG: FACTION] Takashi — [MEDIUM] [Street Network] [Debt Leverage] [Hunter Active] *Goal: Collect or recover*
+- [TAG: FACTION] Council Security — [HIGH] [Biometrics] [Drones] [Sterling] *Goal: Protect meeting*
+- [TAG: COLLATERAL] Guard M. Vale — [Detained] [Interrogation] [Moral Cost] *Cause: Auth code trace*
 
 [RELATIONSHIPS]
-- Elara (C-7): Partner; trust absolute; moral anchor
-- Kai (C-6), Remy (C-5), Jules (C-2): Rescued; shunts removed; named; trusting
-- Dr. Yumi Tanaka: Fragile ally; offered Council guest badge (1x); will retaliate if betrayed
-- Wu: Ally; medical contact; armed; black market access
-- Takashi: Hunter; debt unpaid; hostile
-- Unknown Observer: Watching; cryptic warnings; intent unknown
+- Elara (C-7) — [Partner] [Moral Anchor] [Wooden Bird] [Trust Absolute] *Anchor: "Don't become the box"*
+- Kai (C-6), Remy (C-5), Jules (C-2) — [Rescued] [Named] [Shunt-Free] [Trusting] *Anchor: "I've got you"*
+- Tanaka — [Fragile] [Insider] [Guest Badge] [Retaliation Threat] *Anchor: "Don't make me regret this"*
+- Wu — [Ally] [Medic] [Armed] [Black Market] [Loyal] *Anchor: "Keep them safe"*
+- Takashi — [Hunter] [Debt Unpaid] [Hostile] [Street Network] *Anchor: "Creditor becomes threat"*
+- Unknown Observer — [Watching] [Cryptic] ["Choose"] [Mystery] *Anchor: "What picture do the pieces make?"*
 
 [CARGO HOLDINGS]
-- Armored Assault Van (Mobile Sanctuary: bedding, food, red light, signal dampening)
-- Chimera Intel: Core Protocols, Subject Fate Data, Black Site Locations, Personnel Files, Budget Accounts
-- Guest Badge: Renraku Council Meeting (1x, Tanaka-provided)
-- Funds: ¥45,001,750¥ (Liquid, untraceable via shell accounts)
-- Subject Fate: C-1 (Deceased), C-3 (Shiawase Transfer), C-4 (Missing/Redmond).
+- Armored Van — [Mobile Sanctuary] [Signal Dampened] [Red Light] [Bedding/Food]
+- Chimera Intel — [Evidence] [Exposure Lever] [Blood Cost] [C-1 Dead/C-3 Shiawase/C-4 Missing]
+- Guest Badge — [Council Access] [1x Use] [Tanaka-Provided] [High Risk]
+- Funds — [¥45M] [Liquid] [Shell-Routed] [Untraceable] [Slush Fund Drain]
+- Wooden Bird — [Symbol] [Freedom] [Elara's Hands] [Queen of the Sky] *Anchor: "You taught me to care"*
 
 [REPUTATION]
-- Street Cred: 3 (Major corporate heist, professional extractions)
-- Notoriety: 5 (Financial theft, Council target, lethal force, sabotage)
-- Public Awareness: 0 (No public exposure yet)
+- Street Cred: 3 [Professional Heist] | Notoriety: 5 [Corporate Target] | Public: 0 [Hidden]
 
 [COMPELLIONS]
-- Thrill Seeker: Willpower (4) to resist danger/adrenaline risk [SATISFIED: S1/S2]
-- Driven: Acquisition: Willpower (4) to resist theft opportunity [PARTIAL: Chimera subjects + funds acquired]
-- In Debt (10): Takashi will demand payment or favor [PRESSURE: High]
+- Thrill Seeker [Satisfied] | Driven: Acquisition [Partial] | In Debt [Pressure: High]
 
 [TIMERS]
-- Trace Triangulation: ~6 Hours (Renraku IT)
-- Council Meeting: 72 Hours (Infiltration window)
-- Lifestyle Prepaid: 28 Days
+- Trace: ~6h | Council: 72h | Lifestyle: 28d
 
-[SESSION 2 PATCH NOTES — FULL]
-- VITALS: Karma 11→18 (+7). Nuyen 1,750¥→45,001,750¥ (Slush Fund). Edge 3/4. Condition: Healthy (Rested).
-- REPUTATION: Street Cred 2→3. Notoriety 3→5. Public Awareness 0.
-- GEAR: ADDED - ¥45M, Chimera Core Data, Guest Badge. REMOVED - Spare Commlink (Destroyed).
-- THREADS: ADDED #6 "Council Meeting" [72HR]. UPDATED #3 "Global Alert" [Trace: 6h]. UPDATED #2 "Chimera" [4/7 Rescued].
-- THREATS: UPDATED - Renraku (HIGH/TRACE). NEW - Council Security (Ares/Sterling).
-- NARRATIVE MASS: Jules rescued. Slush fund drained. Tanaka alliance solidified. Promise reaffirmed. **Stabilizing: Elara, Kai, Remy, Jules, Wu.**
+[SESSION 2 PATCH — TAGGED]
+- VITALS: Karma +7 | Nuyen +45M | Edge 3/4 | Rested
+- REPUTATION: Cred +1 | Notoriety +2 | Public 0
+- GEAR: +¥45M, +Core Data, +Guest Badge | -Spare Commlink [Destroyed]
+- THREADS: +Council [72h] | Trace [6h] | Chimera [4/7]
+- NARRATIVE: Jules rescued | Slush drained | Promise reaffirmed | **Stabilizing: Elara, Kai, Remy, Jules, Wu**
 
 [SESSION 1 SUMMARY — CONDENSED]
-- Outcome: Kai+Remy rescued; Elara partner; Global Alert triggered; Safehouse abandoned.
-- Key Sparks: Elara's warning, Guard's sacrifice, Wooden bird gift, Final gate bluff.
-- Motifs: Protection vs. Corruption, Identity as Resistance, Promise as Anchor.
-- NPC Shifts: Tanaka (fragile ally), Wu (ally), Takashi (hunter).
+- Outcome: Kai+Remy rescued | Elara partner | Global Alert | Safehouse abandoned
+- Sparks: Warning, Sacrifice, Bird, Bluff | Motifs: Protection, Identity, Promise
 
---- RESUME SESSION 3 HERE ---
-**TIME:** ~10:15 (Morning). **LOCATION:** Mobile (Armored Van), Redmond/Sprawl.
-**SCENE:** The van hums. Children rest. Wu watches the road. Tanaka's warning echoes. Renraku's trace ticks. The Council waits. You have ¥45M, one guest badge, 72 hours, and a promise to keep.
+--- RESUME SESSION 3 ---
+**TIME:** ~10:15 | **LOCATION:** Mobile Van, Redmond
+**SCENE:** Van hums. Children rest. Trace ticks (~6h). Council waits (72h). ¥45M in account. One guest badge. Promise to keep.
 **What do you do?**
 
 --- END QC3 ---
