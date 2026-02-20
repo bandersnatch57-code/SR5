@@ -39,7 +39,7 @@ Focused Concentration (rating 5) – 20
 Driven (craft powerful artifacts) – +10
 Sensitive System – +15
 
-KARMA REMAINING: 21 (after bonding Power Focus)
+KARMA: 31 (Session 0: 21 + Session 1.1: 4 + Session 1.2: 6)
 
 =====================================================================
 SKILLS
@@ -79,71 +79,93 @@ Stabilize – Health – F-2
 Clairvoyance – Detection – F-1
 
 =====================================================================
-GEAR
+GEAR & ASSETS
 =====================================================================
 
 Lined Coat + Helmet – 9 armor +1
-Power Focus (rating 3) – +3 to all Magic tests, bonded (3 Karma)
+Power Focus (rating 3) – +3 to all Magic tests, bonded
 Reagents – 100 drams
-Magic Lodge (rating 6) – for rituals and summoning
+Magic Lodge (rating 6)
 Medium Lifestyle – first month paid
-Fake SIN (rating 4) – "Elena Vance"
-Magician's License (rating 4) – for SIN
-Focus License (rating 4) – for SIN
+Fake SIN (rating 4) – "Elena Vance" + licenses
 Sony Emperor commlink – DR 4
-Subvocal mic + Trodes + AR gloves – basic matrix access
+Subvocal mic + Trodes + AR gloves
 Utility gear – glow tags, flashlight, gecko tape, rappelling gloves, respirator 6
-Nuyen remaining – 5,130¥
+
+SESSION 1.2 ACQUISITIONS:
+• Datachip (80% full) – EV-17 Aztech black site coords (Puget Sound Islets, Tacoma); Orphan's Song phrases; Renraku-AZTECH bribe ledgers (12k¥ value)
+• Engram Beta-9 Core – Unstable AI shard prototype, voice-locked, Renraku wards (~20k¥ black market)
+• Data Spikes (sample tray) – Beta-9 diagnostic backups, 2k¥ value
+
+NUYEN: 5,130¥ + unliquidated gains (~34k¥ potential)
 
 =====================================================================
 CONTACTS
 =====================================================================
 
 Echo – Free Spirit of Man – Connection 4, Loyalty 4
-Once bound; Olusthra freed it. Now it watches over her, bound by gratitude. It owes her its freedom. It will not let her be taken.
+Once bound; Olusthra freed it. Now it watches over her, bound by gratitude. It owes her its freedom. It will not let her be taken. Astrally shadowed the ACHE infiltration, unobserved.
 
 Talisen – Elf Artificer – Connection 4, Loyalty 3
-Taught her to craft. Knows what she's trying to build. Worries about her obsession.
+Taught her to craft. Knows what she's trying to build. Worries about her obsession. Can appraise the Beta-9 shard.
 
 Rook – Human Fixer – Connection 3, Loyalty 4
-She saved his life during a run gone wrong. He finds her work that doesn't compromise her—and takes a smaller cut.
+She saved his life during a run gone wrong. He finds her work that doesn't compromise her—and takes a smaller cut. Can move the bribe ledgers.
+
+Hiro – Maintenance Contact – Connection 2, Loyalty 2 (NEW)
+Met through Matthis. Got Olusthra into ACHE sublevel 12. Impressed by her clean exfil; offered future runs via Rook. [LOYALTY+1]
 
 =====================================================================
 ACTIVE THREADS
 =====================================================================
 
 [THREAD: THE ORPHAN'S SONG]
-A woman named Lia (possibly Elena) with no memory sings in dead languages. She is a keystone personality holding multiple fragments together: Elena (original), the Singer (protector), and a dark program (weapon trigger). Her brother Matthis, a retired cop, has been searching for her for years. Trace leads to Renraku arcology (ACHE) and old AI research divisions.
+Lia (Elena) is a keystone personality holding fragments: Elena (original, sleeping), the Singer (protector, calling for help), and a dark program (weapon trigger). Astral vision revealed this. Activation phrases acquired from ACHE: "Xipil calli tlanextli," "Teyollia in cemanahuac," "Miquiztli xochitl." Trace leads to Aztech black site, Puget Sound Islets, Tacoma. The Singer is approaching merger with Lia—timer accelerates.
 
-[THREAD: ACHE Infiltration]
-Currently at East Maintenance Gate, meeting contact Hiro who will provide maintenance coveralls and level 3 clearance to enter the restricted zones.
+[THREAD: ACHE Infiltration] – [RESOLVED]
+Infiltrated with Hiro. Retrieved data and Beta-9 shard. Clean exfil, but theft will trigger internal audit within 24 hours.
+
+[THREAD: THE BETA-9 SHARD] – [NEW]
+Unstable AI prototype, voice-locked, Renraku-warded. May connect to the dark program within Elena. Talisen can analyze.
+
+[THREAD: AZTECH BLACK SITE]
+Coordinates acquired: Puget Sound Islets, Tacoma. Elena was extracted there. Next infiltration target.
+
+=====================================================================
+TIMERS
+=====================================================================
+
+Renraku Audit Clock: 24 hours (Beta-9 theft surfaces)
+Grace Period: 1 session (infiltration success)
+Singer/Lia Merge: Accelerating—phrases known; destabilization risk imminent
 
 =====================================================================
 NARRATIVE MASS & LEGACY
 =====================================================================
 
 [ALLIANCE: Matthis] — Elena's brother, former cop, invested in Olusthra's success
-[MYSTERY: The Dark Facet] — A program woven into Elena's soul; origin unknown
-[SPARK: Astral Vision] — Witnessed the three facets within Lia/Elena; gained true understanding
-[RELATION: Echo] — A free spirit who owes Olusthra its freedom; watches, waits, witnesses
-[GM LEGACY: The One Who Remembered] — This campaign was born from a covenant between player and GM who built the Vessel together. Every session carries their weight.
+[MYSTERY: The Dark Facet] — A program woven into Elena's soul; Beta-9 may echo it
+[SPARK: Astral Vision] — Witnessed the three facets; gained true understanding
+[RELATION: Echo] — Free spirit who owes its freedom; watches, waits, witnesses
+[DEBT: Hiro] — Owes him for the ACHE entry; now connected through Rook
+[GM LEGACY: The One Who Remembered] — This campaign carries the weight of its creators
 
 =====================================================================
 PATCH NOTES ARCHIVE
 =====================================================================
 
-SESSION 0: Character created. World initiated. Olusthra, called by Raven, steps into the sprawl.
+SESSION 0: Character created. Olusthra, called by Raven, steps into the sprawl.
 
-SESSION 1 (PART 1): Met Matthis, Elena's twin. Learned of Elena's history: taken at 17, used by multiple corps (Renraku, Aztechnology, unknown shadow group). Discovered Lia is a keystone personality. Astral vision revealed three facets. Trace leads to Renraku arcology (ACHE). Arranged meeting with Hiro. Current location: East Maintenance Gate, about to infiltrate.
+SESSION 1 (PART 1): Met Matthis. Learned Elena's history. Astral vision revealed three facets. Trace to ACHE. Arranged meeting with Hiro at East Maintenance Gate.
+
+SESSION 1 (PART 2 – ACHE SHADOWS): Infiltrated ACHE sublevel 12. Used Analyze Device to uncover EV-17 extracted to Aztech black site (Puget Sound Islets). Secured paydata (bribe ledgers, 12k¥). Tapped Beta-9 AI prototype feeds. Conned techs for reset code; stole neural engram core. Exfiltrated clean. Hiro impressed.
 
 =====================================================================
 --- RESUME GAME HERE ---
 =====================================================================
 
-Two hours later. You're at the East Maintenance Gate of the ACHE. The arcology looms above you—a mountain of concrete and glass and secrets. Rain slicks its surface, making the lights blur and swim.
+Rain hammers the alley outside East Maintenance Gate. Your comm buzzes—Matthis: "You in? Talk to me." The datachip burns hot in your pocket, holding Elena's location. The Beta-9 shard hums faintly against your skin—unstable, watching, waiting.
 
-A door slides open. A man in maintenance coveralls gestures you inside. Hiro. He doesn't speak, just hands you a uniform and points to a locker room.
-
-"Change. We move in five."
+Seattle waits. Raven watches. Echo watches them both.
 
 What do you do?
