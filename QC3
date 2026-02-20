@@ -1,120 +1,72 @@
 =====================================================================
-QC3: ARCHIVE — SESSION LOG & FACTION STATE
-PURPOSE: Persistent record of narrative beats, NPC states, faction shifts
-FORMAT: Simple text, under 240 lines, append-only unless corrected
+QC3: CAMPAIGN STATE — DYNAMIC TRACKING
+PURPOSE: Session-to-session resources, threats, threads, timers
+FORMAT: Simple text, under 240 lines, rolling archive compression
 =====================================================================
 
-[SESSION 1: "LEAN INTO THE STORM"]
-- Date: [In-Game] Night of Extraction
-- Location: Redmond → SeaTac Underground → Sprawl (Mobile)
-- Outcome: Kai (C-6) + Remy (C-5) rescued; Elara (C-7) partner status confirmed
-- Tone Achieved: Harsh causality + quiet miracles; resilience over optimism
+[RESOURCES]
+- KARMA: 18 Total | EDGE: 3/4 | NUYEN: 45,001,750¥
+- Lifestyle: High (28 days remaining) | Safehouse: Mobile (Armored Van)
 
-[SPARK MOMENTS — DETAILED]
-1. "Don't become the box" (Elara)
-   Trigger: Post-extraction, Elara warns PC about moral drift
-   Weight: Morality as anchor, child as conscience
-   Outcome: PC reaffirmed boundaries; trust deepened
+[ACTIVE THREADS]
+- [THREAD: DEBT] [STATUS: Unpaid] [FACTION: Takashi/Yakuza] [TRIGGER: Any contact]
+- [THREAD: CHIMERA] [STATUS: 4/7 Rescued] [LEVERAGE: Elara, Kai, Remy, Jules + Core Data]
+- [THREAD: COUNCIL MEETING] [STATUS: 72hr Window] [FACTION: Renraku/Shiawase/Ares] [TRIGGER: Infiltration]
+- [THREAD: TRACE ALERT] [STATUS: ~6 Hours] [FACTION: Renraku IT] [TRIGGER: Location triangulation]
+- [THREAD: UNKNOWN OBSERVER] [STATUS: Watching] [MYSTERY: Identity/Intent]
+- [THREAD: WU ALLIANCE] [STATUS: Active] [UTILITY: Medical, black market, armed support]
 
-2. "Our daughters attend Shionoya" (Tanaka Bluff)
-   Trigger: Social gambit to create opening with Dr. Tanaka
-   Weight: Human connection as leverage, risk of exposure
-   Outcome: Tanaka hesitated, alliance formed (fragile)
+[ACTIVE THREATS]
+- [TAG: FACTION] Renraku Security [GOAL: Recover assets + punish saboteur] [RESOURCES: Global grid, forensic teams, Ares support] [NEXT: Trace completion (~6h), Council security]
+- [TAG: FACTION] Takashi/Yakuza [GOAL: Collect debt or recover asset] [RESOURCES: Street network, enforcers] [NEXT: Imminent contact]
+- [TAG: FACTION] Council Security (Ares/Sterling) [GOAL: Protect meeting] [RESOURCES: Biometrics, drones, heavy weapons] [NEXT: 72hr deadline]
 
-3. Guard's Sacrifice: "I have a daughter"
-   Trigger: Moral appeal + wooden bird prop in Containment Car
-   Weight: Humanity over hierarchy, enemy turned passive ally
-   Outcome: Guard stood down, then died buying PC seconds
+[RELATIONSHIPS]
+- Elara (C-7): Partner; trust absolute; moral anchor
+- Kai (C-6), Remy (C-5), Jules (C-2): Rescued; shunts removed; named; trusting
+- Dr. Yumi Tanaka: Fragile ally; offered Council guest badge (1x); will retaliate if betrayed
+- Wu: Ally; medical contact; armed; black market access
+- Takashi: Hunter; debt unpaid; hostile
+- Unknown Observer: Watching; cryptic warnings; intent unknown
 
-4. "I will find you" (Promise to Elara)
-   Trigger: Separation before train boarding
-   Weight: Promise as armor, trust under fire
-   Outcome: Elara held the line; PC fulfilled promise
+[CARGO HOLDINGS]
+- Armored Assault Van (Mobile Sanctuary: bedding, food, red light, signal dampening)
+- Chimera Intel: Core Protocols, Subject Fate Data, Black Site Locations, Personnel Files, Budget Accounts
+- Guest Badge: Renraku Council Meeting (1x, Tanaka-provided)
+- Funds: ¥45,001,750¥ (Liquid, untraceable via shell accounts)
 
-5. Wooden Bird: "Queen of the open sky"
-   Trigger: Gift to Elara post-extraction
-   Weight: Freedom as identity, small kindnesses as resistance
-   Outcome: Morale stabilized; symbolic anchor established
+[REPUTATION]
+- Street Cred: 3 (Major corporate heist, professional extractions)
+- Notoriety: 5 (Financial theft, Council target, lethal force, sabotage)
+- Public Awareness: 0 (No public exposure yet)
 
-6. Final Gate Bluff
-   Trigger: Rolling out in Renraku van, uniform, keycard
-   Weight: Boldness as survival, style as statement
-   Outcome: Clean exit; fugitive status confirmed
- 
-SESSION 2:
-1. "We have to do this" → Duty as Choice
-2. "Mobile Sanctuary" → Comfort as Resistance
-3. "Students and Parents" → Code as Trust
-4. "You taught me to care again" → Legacy as Motivation
-5. "Thief a lot longer" → Identity as Competence
-6. "The system talked" → Information as Currency
-7. "Don't move" → Control Over Carnage
-8. "I'll find your family" → Fear as Leverage
-9. "Pro lock cracker" → Mastery as Survival
-10. "I'll be gentle" → Care as Competence
-11. "Information is King" → Greed as Strategy
-12. "I've got you" → Protection in Motion
-13. "Thank you" → Community as Sanctuary
-14. "Student picked up" → Trust Through Code
-15. "Everything I can get" → Thoroughness as Survival
-16. "Burn the bridge, take the gold" → Ruthless Pragmatism
-17. "So close now" → Promise as Anchor
+[COMPELLIONS]
+- Thrill Seeker: Willpower (4) to resist danger/adrenaline risk [SATISFIED: S1/S2]
+- Driven: Acquisition: Willpower (4) to resist theft opportunity [PARTIAL: Chimera subjects + funds acquired]
+- In Debt (10): Takashi will demand payment or favor [PRESSURE: High]
 
-[NPC STATE SUMMARIES]
-- Elara (C-7): Partner status; shunt disabled; holds wooden bird; trust absolute
-- Kai (C-6): Rescued; shunt removed; named; weak but stable; trusting
-- Remy (C-5): Rescued; shunt removed; named; traumatized but hopeful
-- Dr. Yumi Tanaka: Fragile ally; cooperated under threat; warned of retaliation if betrayed
-- Wu: Ally; wounded (1 box); armed; medical contact; black market access
-- Takashi: Active hunter; debt unpaid; street network engaged
-- Unknown Observer: Still watching; sent cryptic warning; intent/motive unknown
+[TIMERS]
+- Trace Triangulation: ~6 Hours (Renraku IT)
+- Council Meeting: 72 Hours (Infiltration window)
+- Lifestyle Prepaid: 28 Days
 
-[FACTION DISPOSITION CHANGES]
-- Renraku Security: NEUTRAL → HOSTILE (GLOBAL ALERT)
-  Trigger: Sabotage, asset theft, lethal force
-  Resources: Corporate grid, forensic teams, global pursuit protocols
-  Next: Persistent hunt; high priority on PC + Chimera subjects
+[SESSION 2 PATCH NOTES — FULL]
+- VITALS: Karma 11→18 (+7). Nuyen 1,750¥→45,001,750¥ (Slush Fund). Edge 3/4. Condition: Healthy (Rested).
+- REPUTATION: Street Cred 2→3. Notoriety 3→5. Public Awareness 0.
+- GEAR: ADDED - ¥45M, Chimera Core Data, Guest Badge. REMOVED - Spare Commlink (Destroyed).
+- THREADS: ADDED #6 "Council Meeting" [72HR]. UPDATED #3 "Global Alert" [Trace: 6h]. UPDATED #2 "Chimera" [4/7 Rescued].
+- THREATS: UPDATED - Renraku (HIGH/TRACE). NEW - Council Security (Ares/Sterling).
+- NARRATIVE MASS: Jules rescued. Slush fund drained. Tanaka alliance solidified. Promise reaffirmed. **Stabilizing: Elara, Kai, Remy, Jules, Wu.**
 
-- Takashi/Yakuza: NEUTRAL → HOSTILE (HUNTER ACTIVE)
-  Trigger: Debt voided, asset stolen
-  Resources: Street network, professional enforcers, blackmail leverage
-  Next: Imminent contact; ambush or negotiation attempt
+[SESSION 1 SUMMARY — CONDENSED]
+- Outcome: Kai+Remy rescued; Elara partner; Global Alert triggered; Safehouse abandoned.
+- Key Sparks: Elara's warning, Guard's sacrifice, Wooden bird gift, Final gate bluff.
+- Motifs: Protection vs. Corruption, Identity as Resistance, Promise as Anchor.
+- NPC Shifts: Tanaka (fragile ally), Wu (ally), Takashi (hunter).
 
-- Dr. Tanaka/Renraku Internal: NEUTRAL → FRAGILE ALLY
-  Trigger: Moral appeal, shared interest in exposing Chimera
-  Resources: Alpha clearance (burned), insider knowledge
-  Next: Watchful; may assist if PC advances exposure, will retaliate if betrayed
+--- RESUME SESSION 3 HERE ---
+**TIME:** ~10:15 (Morning). **LOCATION:** Mobile (Armored Van), Redmond/Sprawl.
+**SCENE:** The van hums. Children rest. Wu watches the road. Tanaka's warning echoes. Renraku's trace ticks. The Council waits. You have ¥45M, one guest badge, 72 hours, and a promise to keep.
+**What do you do?**
 
-- Wu/Black Market: NEUTRAL → ALLY
-  Trigger: Payment + shared risk during extraction
-  Resources: Medical care, black market access, armed defense
-  Next: Available for medical/intel support; expects reciprocity
-
-[MYSTERY CLUES — UNKNOWN OBSERVER]
-- Clue 1: Sent cryptic warning ("Sleep well") after PC scrubbed logs
-- Clue 2: Has system access to monitor building forensics/audit queue
-- Clue 3: Did not intervene during extraction; chose to watch
-- Hypotheses: 
-  A) Rival corp testing PC as weapon against Renraku
-  B) Underground resistance tracking Chimera subjects
-  C) AI/entity with interest in "Spark Moments" / narrative mass
-- Next Trigger: Observer may intervene when PC is at lowest/highest point
-
-[KEY NARRATIVE BEATS — TIMELINE]
-1. Safehouse departure → Elara chooses sentimental items
-2. Arcology Park → Tanaka bluff → alliance formed
-3. Redmond Tenement → Kai rescue → shunt removal → naming
-4. Doc Wu's Clinic → kids stabilized → Renraku alert triggered
-5. Alley Ambush → guards neutralized → forensics hacked
-6. SeaTac Infiltration → train sabotage → Remy rescue
-7. Final Gate Bluff → clean exit → fugitive status confirmed
-
-[SESSION STATS — MECHANICS LOG]
-- Rolls Made: 47 | Successes: 41 | Failures: 6 | Criticals: 3
-- Karma Earned: 7 (Session Completion + 5 Sparks + 1 Integrity)
-- Notoriety Gained: +2 (Lethal force, corporate sabotage)
-- Street Cred Gained: +1 (Professional extractions)
-- Compulsions Triggered: Thrill Seeker (satisfied), Driven: Acquisition (partial)
-- Edge Spent: 0 (Saved for future crisis)
-
---- ARCHIVE END ---
+--- END QC3 ---
