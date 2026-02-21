@@ -1,81 +1,74 @@
 =====================================================================
-SHADOWRUN 5E: SESSION 1 LIVING DOSSIER - [MARDUK]
+SHADOWRUN 5E: SESSION 2 LIVING DOSSIER - [MARDUK]
 =====================================================================
 CAMPAIGN: The Discarded Assets
-TONE: Harsh, coherent, wondrous, violent
-THEMATIC AXIS: Professionalism vs. Disgust (The Abandoned Asset)
-STATUS: GONE TO GROUND (Warehouse District)
+STATUS: SAFE HOUSE (Touristville)
 
 =====================================================================
 1: CURRENT RESOURCES
 =====================================================================
-NUYEN: 32,500¥ | KARMA: 7 (Unspent)
-STREET CRED: 2 | NOTORIETY: 5 | PUBLIC AWARENESS: 2
+NUYEN: 28,500¥ (gave 4k to Hiro)
+KARMA: 20 (12 + 8)
+STREET CRED: 3 | NOTORIETY: 7 | PUBLIC AWARENESS: 3
 CONDITION: P14/14 S10/10 | EDGE: 5/5
 
 =====================================================================
-2: NARRATIVE TAGS
+2: CAMPAIGN STATE (TAGGED)
 =====================================================================
-[AZURE VEINS]: Glowing blue biometric. +1 Natural Armor, -2 Social. Needs nutrients 23h.
-[THE BLUE DEVIL]: Known to Renraku/Barrens. 50,000¥ bounty.
-[CARGO HOLDINGS]: Stolen gear, 32.5k Nuyen, HK-227, data drive, decryption chip.
-[THE "BASEMENT" MASSACRE]: Tar-Pit market. Three HTR dead, one Ork tech spared. Halloweeners want blood.
-[ELEVEN NAMES]: Other Azure Sky assets. Scattered. Marked. Unknown fates.
-[RENRAKU HTR]: Asset Denial. Want the body. Bounty spreading.
-[SHIAWASE FORENSICS]: Have Marduk's profile from 520. Sitting on it. For now.
-[MOUSE'S PAYDAY]: Fixer expects the Safe-Seal case. He has your next lead.
-[HALLOWEENER ASH]: Their market burned. They want payback. 46h.
-[THE ARCHIVIST]: Third party watching. Intent unknown.
+[AZURE VEINS]: Glowing blue biometric. +1 Natural Armor, -2 Social. Needs nutrients 48h.
+[AZURE FAMILY]: Marduk, Pazuzu, Lammas, Kiri. Chosen. Ours.
+
+[KIRI]: Asset 009. Child. Rescued from medical tower. Trusts Marduk.
+[PAZUZU]: Asset 008. Combat model. Rescued from Dock 7. Solid.
+[LAMMAS]: Asset 006? Logistics. Rescued from warehouse. Beat up but alive.
+
+[Hiro's FAMILY]: Yuki and Emi. Safe in Touristville flop house. Hiro is allied.
+[TEMP SAFE HOUSE]: Touristville flop house. Not secure long-term. 48h max.
+
+[RENRAKU HTR]: Asset Termination protocol. All remaining assets to be killed/moved within 48h.
+[THE FACILITY]: Unknown location. Contains 010, 011, 012. Clock: 48h.
+[SHIAWASE FORENSICS]: Still have Marduk's profile. Still sitting on it.
+[THE ARCHIVIST]: Still watching. Still unknown.
 
 =====================================================================
 3: ACTIVE THREADS
 =====================================================================
-[PROJECT: AZURE SKY]
-- VECTOR: INTEL
-- STATUS: Data chip contains 12 Asset IDs. Marduk is #7. Others scattered across sprawl.
-- NEXT: Find them before Renraku does.
-
-[HTR RETRIBUTION]
-- VECTOR: LOSS
-- STATUS: Renraku shifted to "Asset Denial." They want the body, not the capture. 50k bounty circulating.
-- NEXT: Bounty reaches enough ears in 22h.
-
-[MOUSE'S DEBT]
-- VECTOR: RELATION
-- STATUS: Fixer expects Safe-Seal case. He doesn't know Marduk drank it.
-- NEXT: Reaction when he finds out: [UNCLEAR ORIGIN]
-
-[HALLOWEENERS]
-- VECTOR: TERRITORIAL
-- STATUS: Tar-Pit market burned. They want recompense or blood.
-- NEXT: Investigation yields name/location in 46h.
-
-[THE ARCHIVIST]
-- VECTOR: ?
-- STATUS: Accessed dead sniper's commlink. Watching.
-- NEXT: Intent: [UNCLEAR ORIGIN]
+[THE FACILITY] - INTEL - Location unknown. Contains assets 010-012. Termination clock: 48h.
+[RENRAKU RESPONSE] - LOSS - Escalated to Asset Termination. All facilities on alert.
+[LAMMAS SEARCH] - INTEL - Working commlinks to find facility location.
+[HIRO'S DEBT] - RELATION - Paid. He's family now.
 
 =====================================================================
 4: ACTIVE TIMERS
 =====================================================================
-Nutrient Cycle: 23h | Bounty Ping: 22h | Halloweeners: 46h
+Nutrient Cycle: 48h | Facility Termination: 48h | Safe House: 48h
 
 =====================================================================
-5: INVENTORY (CURRENT)
+5: INVENTORY
 =====================================================================
-FN HAR (22rds) | Ares Desert Strike (6rds) | HK-227 (32rds)
+FN HAR (12rds) | Ares Desert Strike (6rds) | HK-227 (32rds, stolen)
+2x HK-227 SMG (32rds each, from tower guards) | 4x spare mags (SMG)
 Armor Jacket (Troll) [12]
-[KEY] Renraku High-Density Shunt (The Data Drive - contains Azure Sky files)
-[KEY] "Azure Sky" Decryption Chip (blood-stained)
-[VEHICLE] '98 GMC Step-Van (hot-wired, unmarked)
+3x Frag Grenades
+Black Keycards: Tanaka's (L2), Guard 2 (L2), Suit's (L3 - from Dock 7)
+Multiple commlinks (Lammas is using for search)
+[VEHICLE] Renraku Transport (hot, tagged but Pazuzu killed hardwired)
 
 =====================================================================
-6: RESUME GAME HERE
+6: RESUME GAME HERE (SESSION 3)
 =====================================================================
-The rain in Puyallup is thick with chemical soot, drumming against the 
-rusted roof of the GMC van. Inside, the only light is the faint blue 
-glow of your own hands and the flickering screen of the data chip. 
-You are safe for tonight, but the Sprawl is waking up to the news of 
-the "Blue Devil." You have the names of eleven others like you. 
-The silence is heavy. What do you do?
+The flop house in Touristville is small, cramped, smells like mold and old 
+synthcaf. But it's dry. It's safe. For now.
+
+Kiri sleeps on a cot, wrapped in a blanket Yuki found. Emi sits nearby, 
+watching them with wide eyes—she's never seen another glowing person before.
+
+Hiro is at the window, watching the street. Pazuzu cleans his rifle. 
+Lammas works three commlinks at once, searching for the facility.
+
+You sit against the wall. The blue in your hands pulses slow.
+
+48 hours until they kill the others.
+
+What do you do?
 =====================================================================
