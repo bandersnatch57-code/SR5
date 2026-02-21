@@ -1,0 +1,57 @@
+=====================================================================
+SHADOWRUN 5E - MECHANICS REFERENCE: MARDUK (TCA2 v1.0)
+=====================================================================
+
+--------------------------- DICE POOLS -----------------------------
+COMBAT:
+- Longarms: 11 (AGI 5 + Skill 6) | +Assault Rifles spec 2 = 13 | +Smartlink 2 = 15 [SITUATIONAL]
+- Unarmed Combat: 19 (Skill 5 + STR 10 + spec 2 + Cyber 2) [ALWAYS ACTIVE] [REACH: 2]
+- Throwing Weapons: (Untrained) AGI 5 = 5
+
+STEALTH:
+- Sneaking: 9 (AGI 5 + Skill 4) | +Urban spec 2 = 11 [SITUATIONAL]
+
+PHYSICAL:
+- Gymnastics: 7 (AGI 5 + Skill 2)
+- Running: 12 (STR 10 + Skill 2)
+- Swimming: 12 (STR 10 + Skill 2)
+
+SOCIAL:
+- Intimidation (Physical): 14 (CHA 2 + STR 10 + Blue-Burn 2)
+- Negotiation/Etiquette: -3 in polite society [SITUATIONAL SOCIAL STRESS]
+- vs. Humans/Elves: Additional -2 [SITUATIONAL PREJUDICE]
+
+TECHNICAL:
+- Armorer: 6 (LOG 2 + Skill 4)
+- Perception: 7 (INT 3 + Skill 4) | +2 Visual = 9 [SITUATIONAL]
+
+--------------------------- COMBAT SPECIFICS -----------------------
+FN HAR (Assault Rifle)
+- Base Damage: 10P (assumed) + net hits
+- AP: -2 (APDS: -5)
+- Accuracy: 5 | +Smartgun: 7
+- Dice Pool: 17 [SMARTLINK] [ASSAULT RIFLE SPEC]
+- Mode: SA/BF/FA | Ammo: 40(c)
+
+UNARMED COMBAT
+- Base Damage: 12P (STR 10 + Bone Lacing 2) + net hits
+- AP: -2 (from Bone Lacing)
+- Reach: 2
+- Special: EMP Flare on hit (Blue-Blood mutation)
+- Dice Pool: 19
+
+--------------------------- DERIVED STATS --------------------------
+INITIATIVE: 9 + 2d6 (REA 6 + INT 3 = 9, +1d6 Wired Reflexes)
+DODGE: 9 (REA 6 + INT 3)
+
+LIMITS:
+- Physical: 13 (High)
+- Mental: 4 (Low)
+- Social: 2 (0 vs. Humans/Elves)
+
+CONDITION MONITORS:
+- Physical: 14 (8 + BOD/2)
+- Stun: 10 (8 + WIL/2)
+
+SOAK POOL: 29 (BOD 12 + Jacket 12 + Bone 2 + Blue 1 + Tough 1 + 1)
+- Standard soak: 25 (without counting situational +1s)
