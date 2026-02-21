@@ -45,6 +45,36 @@ CONTACTS [6/6]:
 - MIRA (Asset 013, elf girl, age 5): C4/L5
 [TAGS: ASSET 013] [SCARED OF DARK] [TORE BAG WITH TEETH] [SAVED MARDUK'S LIFE] [FAMILY]
 
+PAZUZU:
+ATTRIBUTES: BOD 9 | AGI 5 | REA 5 | STR 9 | CHA 2 | INT 3 | LOG 2 | WIL 4
+ESSENCE: 2.8 (Used cyberware)
+CYBERWARE: Wired Reflexes 1, Smartlink, Muscle Replacement 2, Bone Lacing (Titanium)
+COMBAT POOLS:
+- Automatics (Assault Rifles): 12 (14 with Smartlink)
+- Unarmed Combat: 16 (Skill 5 + spec 2 + STR 9)
+- Throwing Weapons: 8
+- Perception: 8 (10 visual)
+- Sneaking: 8 (10 urban)
+
+INITIATIVE: 8 + 2d6 (Wired Reflexes 1)
+SOAK: 26 (BOD 9 + Armor Jacket 12 + Bone 2 + Muscle Replacement 2)
+WEAPON: AK-97 (taken from Dock 7 guard) w/ Smartlink, Silencer
+
+LAMMAS: 
+ATTRIBUTES: BOD 3 | AGI 3 | REA 3 | STR 2 | CHA 4 | INT 5 | LOG 5 | WIL 4
+ESSENCE: 5.8 (Minimal 'ware)
+
+POOLS:
+- Computer/Data Search: 11 (13)
+- Electronic Warfare: 10
+- Hardware: 10
+- Perception: 9 (11 visual/audio)
+- Social Tests (Corporate contexts): 9
+
+INITIATIVE: 7 + 1d6
+SOAK: 8 (BOD 3 + Armor Vest 5)
+INJURY: Current -2 to all actions (healing broken ribs, untreated for 3 days)
+GEAR: 3x commlinks (running parallel searches), pocket scope, medkit (basic)
 =====================================================================
 2: CAMPAIGN STATE (TAGGED)
 =====================================================================
