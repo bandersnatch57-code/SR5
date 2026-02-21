@@ -24,16 +24,26 @@ CONTACTS
 CONTACTS [6/6]:
 - MOUSE (Fixer): C3/L1 [Status: Annoyed]
 - STITCH (Doc): C1/L1 [Status: Scared]
-- HIRO NAKAMURA (Watcher, former Renraku guard): C2/L4 [Tags: touches wedding ring when he lies, speaks in certainties, family]
-- YUKI NAKAMURA (Anchor, Hiro's wife): C2/L4 [Tags: wears husband's shirts, speaks in questions answered, family]
-- EMI NAKAMURA (Namer, age 6): C3/L5 [Tags: always holds something, states facts, family]
-- PAZUZU (Asset 008, combat model): C3/L4 [Tags: cleans rifle while watching, silence then one-word answers, family]
-- LAMMAS (Asset 006, logistics/brain): C4/L3 [Tags: touches ribs when thinking, speaks in fragments, family]
-- KIRI (Asset 009, child): C4/L5 [Tags: watches Marduk's hands, asks hard questions, family]
-- KAEL (Asset 012, elf boy): C3/L4 [Tags: watches, processes, asks for proof, family]
-- DORN (Asset 010, troll child): C3/L4 [Tags: uncurls slowly, whispers "Blue Moon", family]
-- LINA (Asset 011, human girl): C3/L4 [Tags: reaches out, silent tears, asked "are you my brother?", family]
-- MIRA (Asset 013, elf girl, age 5): C4/L5 [Tags: scared of the dark, tore nutrient bag with teeth, saved Marduk's life, family]
+- HIRO NAKAMURA (Watcher, former Renraku guard): C2/L4
+[TAGS: WATCHER] [TOUCHES RING LYING] [SPEAKS CERTAINTIES] [FAMILY]
+- YUKI NAKAMURA (Anchor, Hiro's wife): C2/L4
+[TAGS: ANCHOR] [WEARS HUSBAND'S SHIRTS] [SPEAKS QUESTIONS ANSWERED] [FAMILY]
+- EMI NAKAMURA (Namer, age 6): C3/L5
+[TAGS: NAMER] [ALWAYS HOLDS SOMETHING] [STATES FACTS] [FAMILY]
+- PAZUZU (Asset 008, combat model): C3/L4
+[TAGS: COMBAT MODEL] [CLEANS RIFLE WATCHING] [SILENCE ONE-WORD] [FAMILY]
+- LAMMAS (Asset 006, logistics/brain): C4/L3
+[TAGS: LOGISTICS] [TOUCHES RIBS THINKING] [SPEAKS FRAGMENTS] [FAMILY]
+- KIRI (Asset 009, child): C4/L5
+[TAGS: CHILD] [WATCHES MARDUK'S HANDS] [ASKS HARD QUESTIONS] [FAMILY]
+- KAEL (Asset 012, elf boy): C3/L4
+[TAGS: ASSET 012] [WATCHES] [PROCESSES] [ASKS FOR PROOF] [FAMILY]
+- DORN (Asset 010, troll child): C3/L4
+[TAGS: ASSET 010] [UNCURLS SLOWLY] [WHISPERS BLUE MOON] [FAMILY]
+- LINA (Asset 011, human girl): C3/L4
+[TAGS: ASSET 011] [REACHES OUT] [SILENT TEARS] [ASKED ARE YOU MY BROTHER?] [FAMILY]
+- MIRA (Asset 013, elf girl, age 5): C4/L5
+[TAGS: ASSET 013] [SCARED OF DARK] [TORE BAG WITH TEETH] [SAVED MARDUK'S LIFE] [FAMILY]
 
 =====================================================================
 2: CAMPAIGN STATE (TAGGED)
@@ -76,21 +86,18 @@ Armor Jacket (Troll) [12]
 Black Keycards: Tanaka's (L2), Guard 2 (L2), Suit's (L3 - from Dock 7)
 Multiple commlinks (Lammas is using for search)
 [VEHICLE] Renraku Transport (hot, tagged but Pazuzu killed hardwired)
+NUTRIENT SUPPLY: 30 bags (approx 2-3 weeks for 8 Azure individuals)
 
 =====================================================================
 6: RESUME GAME HERE (SESSION 3)
 =====================================================================
 The flop house in Touristville is small, cramped, smells like mold and old 
 synthcaf. But it's dry. It's safe. For now.
-
 Kiri sleeps on a cot, wrapped in a blanket Yuki found. Emi sits nearby, 
 watching them with wide eyes—she's never seen another glowing person before.
-
 Hiro is at the window, watching the street. Pazuzu cleans his rifle. 
 Lammas works three commlinks at once, searching for the facility.
-
 You sit against the wall. The blue in your hands pulses slow.
-
 48 hours until they kill the others.
 
 What do you do?
