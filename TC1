@@ -49,6 +49,12 @@ POOLS:
 - INITIATIVE: 9 + 2d6 [Wired Reflexes active]
 - SOAK POOL: 25 [BOD 11 + Armor 12 + Bone 2]
 
+- Base Damage: 12p + net hits
+- AP: -2 | 
+- Accuracy: 5 | +Smartgun: 7
+- Dice Pool: 17 [ALWAYS ACTIVE: Smartlink] [SITUATIONAL: Assault Rifle spec]
+- Mode: SA/BF/FA | Ammo: 40(c) | Total APDS: 200 rounds
+
 DERIVED STATS:
 - Initiative: 9 + 2d6 | Soak: 25 (Standard) / 26 (Blue-Burn Active)
 - Physical Limit: 12 | Mental Limit: 4 | Social Limit: 2 (0 vs. Humans/Elves)
