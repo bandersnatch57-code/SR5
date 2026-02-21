@@ -50,7 +50,7 @@ POOLS:
 - SOAK POOL: 25 [BOD 11 + Armor 12 + Bone 2]
 
 - Base Damage: 12p + net hits
-- AP: -2 | 
+- AP: -2 | APDS: -5 [SITUATIONAL: APDS ammo]
 - Accuracy: 5 | +Smartgun: 7
 - Dice Pool: 17 [ALWAYS ACTIVE: Smartlink] [SITUATIONAL: Assault Rifle spec]
 - Mode: SA/BF/FA | Ammo: 40(c) | Total APDS: 200 rounds
