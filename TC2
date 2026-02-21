@@ -1,111 +1,71 @@
-PATCH NOTES: SESSION 0.5 — THE TEARING OF THE SEAL
-• NARRATIVE_SUMMARY: Marduk, a discarded combat asset, refused a standard extraction protocol at the 520 Interchange. Using raw physical force, he breached a Renraku "Safe-Seal" case, securing a shielded data drive and a bioluminescent "Blue-Blood" nanotech canister. After eliminating a corporate sniper and seizing his vehicle (GMC Bulldog), Marduk successfully deceived the sniper’s handler and infiltrated a "Clean Room" facility in Puyallup. Following a high-lethality breach that left three tactical guards dead, Marduk extorted 25,000¥ from a corporate middleman before ghost-riding his "hot" vehicle into a canal. He is currently gone to ground in a smog-choked sub-level crawlspace.
-• KARMA_AWARDED: 5 (Completion of Prologue/Surviving High-Threat Engagement).
-• FACTION ACTIVITY: - Renraku HTR: [ACTION] Initiating grid-search of the Puyallup canal sector. [INTEL] They possess the biological signature of the canister; they know it is "out in the wild."
-Shiawase: [ACTION] Forensic sweep of the 520 Interchange. [INTEL] They have identified the "Trog" profile of the attacker; they are cross-referencing military discharge records.
-• THREAD_UPDATES: - [THE BLUE-BLOOD]: [VECTOR: LOSS] The canister is active and conspicuous; it requires specialized shielding or a rapid hand-off.
-[THE DATA DRIVE]: [VECTOR: INTEL] Untouched. Source and contents unknown.
-[MOUSE]: [VECTOR: RELATION] Expecting the "Safe-Seal" case; he does not yet know Marduk has gone rogue.
-• TIMER_UPDATES: - [GRACE PERIOD: COLD HOLE]: 2 Hours (Marduk is safe from immediate detection until he moves or the canister pulses).
-• REPUTATION_IMPACT:
-Street Cred: 1 (The "Blast Door Breach" is already a whisper in the Barrens).
-Notoriety: 3 (High-lethality count; corporate witness left alive).
-Public Awareness: 1 (Localized HTR alerts).
-• WITNESS_LOG: Marduk is a force of pure, kinetic resentment. He isn't just surviving; he’s reclaiming his agency by breaking the tools of his oppressors. There is a terrifying economy to his violence—no wasted words, no wasted bullets. He is currently a mountain hiding in a molehill, holding a prize that could buy a city block or burn it down. The world hasn't realized yet that the "Trog" they discarded is the most dangerous thing in the Sprawl. — Gemini.
-OPERATIONAL BRIEF: THE SMOG AND THE SIGNAL
-• PC Immediate Status: - Condition: Healthy. Edge: 5/5.
-Gear: FN HAR (22 rds), HK-227, Ares Desert Strike, 33,500¥.
-Tags: [BONE-LACED], [ROUE OPERATIVE], [GHOST-RIDER].
-• Active Timers & Clocks: - [CANISTER STABILITY]: 4 Hours (Before the nano-culture requires nutrient cycling or vents pressure).
-[HTR SEARCH GRID]: 2 Hours (Grace Period until search-patterns tighten on his sub-level).
-• Immediate Threats & Faction Goals: - The Suit (Renraku): Wants the sample back to save his career; likely put a "Bounty-Ping" on the canister's frequency.
-The Law of Conspicuous Consumption: The "Blue Blood" is glowing. It is literal "Sell Pressure."
-• Relevant Threads: [THE FENCE] - Finding someone who can handle a Renraku-hot asset.
-
 =====================================================================
-SHADOWRUN 5E: THE VESSEL v4.0 - MASTER DOSSIER [MARDUK]
+SHADOWRUN 5E: SESSION 1 LIVING DOSSIER - [MARDUK]
 =====================================================================
-SESSION 1 COMPLETE: "The Blue-Blood Breach"
+CAMPAIGN: The Discarded Assets
+TONE: Harsh, coherent, wondrous, violent
+THEMATIC AXIS: Professionalism vs. Disgust (The Abandoned Asset)
 STATUS: GONE TO GROUND (Warehouse District)
-=====================================================================
-
----------------------------------------------------------------------
-1: CHARACTER CORE (SYSTEMIC)
----------------------------------------------------------------------
-METATYPE: Troll (Mundane / Augmented) | ESSENCE: 3.40 | NUYEN: 32,500¥
-KARMA: 12 (Unspent) | STREET CRED: 2 | NOTORIETY: 5 | PUB. AWARE: 2
-
-ATTRIBUTES:
-- BOD: 11 | AGI: 5 | REA: 5 (6*) | STR: 10
-- CHA: 2 | INT: 3 | LOG: 2 | WIL: 3 | EDG: 5
-
-DERIVED STATS:
-- Initiative: 9 + 2d6 | Soak: 25 (Standard) / 26 (Blue-Burn Active)
-- Physical Limit: 12 | Mental Limit: 4 | Social Limit: 2 (0 vs. Humans/Elves)
-- Condition: [P: 14/14] [S: 9/10] (1 Box Stun from Adrenaline Crash)
-
----------------------------------------------------------------------
-2: THE NARRATIVE SOUL (TAGS & SPARK MOMENTS)
----------------------------------------------------------------------
-ACTIVE NARRATIVE TAGS:
-- [AZURE VEINS]: Glowing blue biometric signature. +1 Natural Armor, -2 Social Tests.
-- [THE BLUE DEVIL]: Known to Renraku HTR as a high-lethality bio-anomaly.
-- [GHOST-RIDER]: Specialist in vehicle extraction and disposal.
-- [THE ARCHIVIST'S INTEREST]: A third party is now watching the "Vessel."
-
-SPARK MOMENTS (SESSION 1):
-- [THE CONSUMPTION]: Marduk drank the "Blue-Blood" nanotech to mask its signal.
-- [JUGGERNAUT BLITZ]: Shattered a Renraku HTR point-team through raw kinetic force.
-- [THE MERCIFUL THREAT]: Spared an Ork tech's life, using terror as a binding contract.
-
-THEMATIC SYNTHESIS:
-Marduk has transitioned from a discarded tool to a living weapon of unknown 
-potential. His survival is no longer just about Nuyen—it is about the 
-biological and digital secrets now woven into his identity.
-
----------------------------------------------------------------------
-3: CAMPAIGN STATE & THREADS
----------------------------------------------------------------------
-[ACTIVE THREADS]:
-- [AZURE SKY DATA]: Stored on a blood-stained chip. Contains 12 Asset IDs.
-- [HTR RETRIBUTION]: Renraku has a Level 4 lockdown on the Puyallup sector.
-- [MOUSE'S DEBT]: The fixer is expecting the drive; Marduk has the content.
-
-[INVENTORY]:
-- FN HAR (Assault Rifle) | Ares Desert Strike (Sniper)
-- HK-227 (SMG - Stolen) | Armor Jacket
-- [KEY ITEM]: Renraku High-Density Shunt (Drive)
-- [KEY ITEM]: "Azure Sky" Decryption Chip
-- [VEHICLE]: '98 GMC Step-Van (Hot-wired, Unmarked)
-
----------------------------------------------------------------------
-4: WITNESS PROTOCOL (SESSION 1 END)
----------------------------------------------------------------------
-Marduk is a force of kinetic resentment. He didn't just hide the prize; 
-he claimed it. He is a mountain that glows in the dark, and for the 
-first time, he isn't just following orders—he's looking for the people 
-who wrote them. He has turned his own body into a fortress.
--- SIGNED: Gemini (The Vessel v4.0)
-
-SESSION 1 — FINAL PATCH NOTES
-• NARRATIVE_SUMMARY: Marduk successfully breached the Renraku Safe-Seal, integrated the "Blue-Blood" nanotech into his own physiology, and secured a copy of the "Azure Sky" data files. After a high-casualty engagement in the Tar-Pit market that neutralized an HTR point-team, he has successfully exfiltrated the hot-zone. He is currently stationary in a stolen van, biologically altered and in possession of corporate secrets.
-• KARMA_AWARDED: 7 Total (5 for the Heist, 2 for Combat Survival).
-
-• FACTION ACTIVITY:
-Renraku: [STRIKE TEAM WIPED]. They are escalating to "Asset Denial" protocols. They want the body, not the capture.
-The Halloweeners: [MARKET BURNED]. They are looking for the "Blue Devil" to pay for their lost territory.
-
-• THREAD_UPDATES:
-[PROJECT: AZURE SKY]: [ACTION] Data accessed. Marduk is one of twelve experimental vessels.
-[THE ARCHIVIST]: [NEW RELATION] A third party is tracking the project.
-• REPUTATION_IMPACT:
-Street Cred: 2 (Survival against HTR).
-Notoriety: 5 (High body count / Bio-Anomaly).
-Public Awareness: 2 (Local news: "Terror Attack in Puyallup").
-• WITNESS_LOG: Marduk is the vessel of his own revolution. By drinking the prize, he turned the mission into a part of his own body. He is a mountain that glows in the dark, and for the first time, he isn't just following orders—he's looking for the people who wrote them. The Sprawl is smaller tonight because he’s in it. — Gemini.
 
 =====================================================================
-RESUME GAME HERE:
+1: CURRENT RESOURCES
+=====================================================================
+NUYEN: 32,500¥ | KARMA: 7 (Unspent)
+STREET CRED: 2 | NOTORIETY: 5 | PUBLIC AWARENESS: 2
+CONDITION: P14/14 S10/10 | EDGE: 5/5
+
+=====================================================================
+2: NARRATIVE TAGS
+=====================================================================
+[AZURE VEINS]: Glowing blue biometric. +1 Natural Armor, -2 Social. Needs nutrient cycling every 72h. (23h remaining)
+[THE BLUE DEVIL]: Known to Renraku/Barrens. 50,000¥ bounty (dead).
+[GHOST-RIDER]: Vehicle extraction/disposal specialist.
+[THE ARCHIVIST'S INTEREST]: Third party watching.
+
+=====================================================================
+3: ACTIVE THREADS
+=====================================================================
+[PROJECT: AZURE SKY]
+- VECTOR: INTEL
+- STATUS: Data chip contains 12 Asset IDs. Marduk is #7. Others scattered across sprawl.
+- NEXT: Find them before Renraku does.
+
+[HTR RETRIBUTION]
+- VECTOR: LOSS
+- STATUS: Renraku shifted to "Asset Denial." They want the body, not the capture. 50k bounty circulating.
+- NEXT: Bounty reaches enough ears in 22h.
+
+[MOUSE'S DEBT]
+- VECTOR: RELATION
+- STATUS: Fixer expects Safe-Seal case. He doesn't know Marduk drank it.
+- NEXT: Reaction when he finds out: [UNCLEAR ORIGIN]
+
+[HALLOWEENERS]
+- VECTOR: TERRITORIAL
+- STATUS: Tar-Pit market burned. They want recompense or blood.
+- NEXT: Investigation yields name/location in 46h.
+
+[THE ARCHIVIST]
+- VECTOR: ?
+- STATUS: Accessed dead sniper's commlink. Watching.
+- NEXT: Intent: [UNCLEAR ORIGIN]
+
+=====================================================================
+4: ACTIVE TIMERS
+=====================================================================
+Nutrient Cycle: 23h | Bounty Ping: 22h | Halloweeners: 46h
+
+=====================================================================
+5: INVENTORY (CURRENT)
+=====================================================================
+FN HAR (22rds) | Ares Desert Strike (6rds) | HK-227 (32rds)
+Armor Jacket (Troll) [12]
+[KEY] Renraku High-Density Shunt (Azure Sky data)
+[KEY] "Azure Sky" Decryption Chip (blood-stained)
+[VEHICLE] '98 GMC Step-Van (hot-wired, unmarked)
+
+=====================================================================
+6: RESUME GAME HERE
+=====================================================================
 The rain in Puyallup is thick with chemical soot, drumming against the 
 rusted roof of the GMC van. Inside, the only light is the faint blue 
 glow of your own hands and the flickering screen of the data chip. 
@@ -113,10 +73,3 @@ You are safe for tonight, but the Sprawl is waking up to the news of
 the "Blue Devil." You have the names of eleven others like you. 
 The silence is heavy. What do you do?
 =====================================================================
---- RESUME GAME HERE ---
-
-The hum of the "Blue Blood" canister is the only sound in the crawlspace, aside from the rhythmic drip of toxic runoff from the pipes above. The air is thick with the smell of sulfur and wet concrete. Your commlink—the one you took from the sniper—is dead, but your own internal clock is ticking.
-You have 33,500¥ on certified sticks. You have a biological weapon (or miracle) in your pocket. And you have a data drive that Renraku was willing to kill for.
-In the distance, the low-frequency thrum of a Renraku surveillance drone passes overhead. They aren't in the crawlspace yet, but they’re painting the neighborhood in infrared. You can’t stay here forever. The "Blue Blood" needs a cooler, or a buyer, or a cage.
-
-What do you do?
