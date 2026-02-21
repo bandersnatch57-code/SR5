@@ -41,7 +41,7 @@ GEAR:
 =====================================================================
 POOLS:
 - LONGARMS: 13 (15) [SITUATIONAL: +2 Assault Rifles] [TRIGGER: +2 Smartlink]
-- UNARMED: 13 (15) [ALWAYS ACTIVE: +2 Cyber Implants]
+- UNARMED COMBAT: 19 (Skill 5 + spec 2 + STR 10 + Cyber 2) | Reach 2 | 12P Damage(15) [ALWAYS ACTIVE: +2 Cyber Implants]
 - STEALTH: 9 (11) [SITUATIONAL: +2 Urban]
 - PERCEPTION: 7 (9) [SITUATIONAL: +2 Visual]
 - ARMORER: 6
