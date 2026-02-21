@@ -48,8 +48,8 @@ POOLS:
 - GYMNASTICS: 7
 - RUNNING: 12
 - SWIMMING 12
-- INITIATIVE: 9 + 2d6 [Wired Reflexes active]
-- SOAK POOL: 25 [BOD 11 + Armor 12 + Bone 2]
+- INITIATIVE: 9 + 2d6 [Wired Reflexes active] [SITUATIONAL] Strunz: 11 + 2d6
+- SOAK POOL: 29 [BOD 12 + Jacket 12 + Bone 2 + Blue 1 + Tough 1 + 1]
 
 - Base Damage: 12p + net hits
 - AP: -2 | APDS: -5 [SITUATIONAL: APDS ammo]
