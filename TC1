@@ -46,8 +46,9 @@ POOLS:
 - SOAK POOL: 25 [BOD 11 + Armor 12 + Bone 2]
 
 DERIVED STATS:
-- Limits: Physical 12 / Mental 4 / Social 2
-- Condition Monitor: 14 Physical / 10 Stun
+- Initiative: 9 + 2d6 | Soak: 25 (Standard) / 26 (Blue-Burn Active)
+- Physical Limit: 12 | Mental Limit: 4 | Social Limit: 2 (0 vs. Humans/Elves)
+- Condition: [P: 14/14] [S: 9/10] (1 Box Stun from Adrenaline Crash)
 
 =====================================================================
 3: CAMPAIGN STATE (TAGGED)
