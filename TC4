@@ -1,0 +1,83 @@
+=====================================================================
+SHADOWRUN 5E - LIVING CONTACTS & FAMILY (TCA4 v1.0)
+=====================================================================
+
+--------------------------- ACTIVE CONTACTS ------------------------
+MOUSE (Fixer)
+- Connection: 3 | Loyalty: 1
+- Status: Annoyed
+- Tags: [FIXER] [HAS NEXT LEAD?]
+
+STITCH (Doc)
+- Connection: 1 | Loyalty: 1
+- Status: Scared
+- Tags: [DOCTOR] [SCARED]
+
+--------------------------- AZURE FAMILY ---------------------------
+HIRO NAKAMURA (Watcher, former Renraku guard)
+- Connection: 2 | Loyalty: 4
+- Tags: [WATCHER] [FAMILY] [TOUCHES RING LYING] [SPEAKS CERTAINTIES]
+- Status: At safe house, watching street.
+
+YUKI NAKAMURA (Anchor, Hiro's wife)
+- Connection: 2 | Loyalty: 4
+- Tags: [ANCHOR] [FAMILY] [WEARS HUSBAND'S SHIRTS] [SPEAKS QUESTIONS ANSWERED]
+- Status: At safe house, tucking children in.
+
+EMI NAKAMURA (Namer, age 6)
+- Connection: 3 | Loyalty: 5
+- Tags: [NAMER] [FAMILY] [ALWAYS HOLDS SOMETHING] [STATES FACTS]
+- Note: Named Marduk "Blue Moon."
+
+PAZUZU (Asset 008, combat model)
+- Connection: 3 | Loyalty: 4
+- Tags: [COMBAT MODEL] [FAMILY] [CLEANS RIFLE WATCHING] [SILENCE ONE-WORD]
+- Status: At safe house, cleaning rifle.
+- STAT BLOCK: See below.
+
+LAMMAS (Asset 006, logistics/brain)
+- Connection: 4 | Loyalty: 3
+- Tags: [LOGISTICS] [FAMILY] [TOUCHES RIBS THINKING] [SPEAKS FRAGMENTS]
+- Status: At safe house, working commlinks, injured.
+- STAT BLOCK: See below.
+
+KIRI (Asset 009, child)
+- Connection: 4 | Loyalty: 5
+- Tags: [CHILD] [FAMILY] [WATCHES MARDUK'S HANDS] [ASKS HARD QUESTIONS]
+- Note: First asset rescued from medical tower. Gave Mira her rabbit blanket.
+
+KAEL (Asset 012, elf boy)
+- Connection: 3 | Loyalty: 4
+- Tags: [ASSET 012] [FAMILY] [WATCHES] [PROCESSES] [ASKS FOR PROOF]
+- Status: Studying nutrient bags, counting.
+
+DORN (Asset 010, troll child)
+- Connection: 3 | Loyalty: 4
+- Tags: [ASSET 010] [FAMILY] [UNCURLS SLOWLY] [WHISPERS BLUE MOON]
+- Status: Watching Marduk.
+
+LINA (Asset 011, human girl)
+- Connection: 3 | Loyalty: 4
+- Tags: [ASSET 011] [FAMILY] [REACHES OUT] [SILENT TEARS] [ASKED "ARE YOU MY BROTHER?"]
+
+MIRA (Asset 013, elf girl, age 5)
+- Connection: 4 | Loyalty: 5
+- Tags: [ASSET 013] [FAMILY] [SCARED OF DARK] [TORE BAG WITH TEETH] [SAVED MARDUK'S LIFE]
+- Note: Saved Marduk from nutrient crash. Sleeps with Kiri.
+
+--------------------------- FAMILY ASSET STAT BLOCKS --------------
+PAZUZU (Asset 008)
+- ATTRIBUTES: BOD 9 | AGI 5 | REA 5 | STR 9 | CHA 2 | INT 3 | LOG 2 | WIL 4
+- ESSENCE: 2.8
+- CYBERWARE: Wired Reflexes 1, Smartlink, Muscle Replacement 2, Bone Lacing (Titanium)
+- COMBAT POOLS: Automatics 14 (with Smartlink), Unarmed 16, Perception 10 (visual)
+- INITIATIVE: 8 + 2d6 | SOAK: 26
+- WEAPON: AK-97 w/ Smartlink, Silencer
+
+LAMMAS (Asset 006)
+- ATTRIBUTES: BOD 3 | AGI 3 | REA 3 | STR 2 | CHA 4 | INT 5 | LOG 5 | WIL 4
+- ESSENCE: 5.8
+- POOLS: Computer/Data Search 13, Electronic Warfare 10, Hardware 10, Perception 11 (with enhancements)
+- INITIATIVE: 7 + 1d6 | SOAK: 8 (injured: -2 to all actions)
+- INJURY: Broken ribs, untreated for 3 days.
+- GEAR: 3x commlinks, pocket scope, medkit (basic)
