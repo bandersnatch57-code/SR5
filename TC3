@@ -72,43 +72,54 @@ Pazuzu saw softness and didn't flinch. Hiro's daughter waved goodbye to the
 blue moon. And somewhere, in a facility no one knows, three more children
 are running out of time. -- DeepSeek
 WITNESS: Meeting Hiro's wife Yuki and small child Emi reminds Marduk what he never had. -- Player
+
+=====================================================================
+SESSION 3: "Blue Moon Rising"
 =====================================================================
 
-NARRATIVE SUMMARY: Marduk breached Renraku's Snohomish facility, tore through security, and rescued Assets 010 (Dorn), 011 (Lina), and 012 (Kael). Learned of Asset 013 (Mira) in medical wing. Nutrient-depleted and crashing, he forced his way to her cell, then collapsed. Mira, age 5, opened a nutrient bag with her teeth and fed him, restoring his nanotech and saving his life. All four children extracted. Azure Family now numbers seven.
-KARMA AWARDED: 10 (breach, rescue, survival, character-defining moment with Mira)
-FACTION ACTIVITY: Renraku HTR dispatched to Snohomish facility. Facility compromised, assets confirmed removed. Asset Termination protocol escalated to Asset Hunting protocol. Bounty on Marduk increased. Facility security footage shows Marduk's face, his abilities, his family. Renraku now knows about the children.
+PATCH NOTES
+=====================================================================
+NARRATIVE_SUMMARY:
+Marduk breached Renraku's Snohomish facility, tore through security, and rescued Assets 010 (Dorn), 011 (Lina), and 012 (Kael). Learned of Asset 013 (Mira) in medical wing. Nutrient-depleted and crashing, he forced his way to her cell, then collapsed. Mira, age 5, opened a nutrient bag with her teeth and fed him, restoring his nanotech and saving his life. Before extraction, Marduk looted the medical cold room—30 bags of nutrient, enough for weeks. All four children extracted. Azure Family now numbers seven children plus Hiro's family. Renraku facility footage confirms Marduk's face, capabilities, and connection to the assets.
 
-GEAR:
-NUTRIENT SUPPLY: 30 bags. Enough for all seven Azure children (Kiri, Emi, Kael, Dorn, Lina, Mira, and Marduk himself) for approximately 2-3 weeks, assuming standard consumption rates. Longer if rationed.
+KARMA_AWARDED: 10 (breach, rescue, survival, character-defining moment with Mira)
 
+FACTION ACTIVITY:
+- Renraku: Asset Termination protocol escalated to Asset HUNTING protocol. Facility footage distributed to HTR teams. Bounty on Marduk increased. All remaining Azure-related facilities on high alert.
+- The Archivist: Still watching. No direct intervention. But the name "Blue Moon" has been noted.
 
-CHARACTER MOMENT: Marduk, crashing, dying, just barely saved—and his first thought is them. Not himself. Them. That's not a soldier anymore. That's a father.
-THREAD UPDATES:
-[THE FACILITY] - RESOLVED (assets recovered)
-[RENRAKU RESPONSE] - ESCALATED (Asset Hunting protocol active)
-[NUTRIENT CYCLE] - RESOLVED (temporarily, 48h clock resets)
-[SAFE HOUSE] - ACTIVE (Touristville flop, not secure, Hiro watching)
-[NEW] [MIRA'S GIFT] - RELATION (Mira Connection 5, Loyalty 5, saved Marduk's life)
-[NEW] [FACILITY FOOTAGE] - INTEL (Renraku has visuals, faces, capabilities)
-[NEW] [NUTRIENT LOGISTICS] - Supply is finite. When it runs out, they need more. Renraku will guard the next source harder.
+THREAD_UPDATES:
+- [THE FACILITY] - RESOLVED (assets recovered)
+- [RENRAKU RESPONSE] - ESCALATED (Asset Hunting protocol active, facility footage)
+- [NUTRIENT CYCLE] - RESOLVED (temporarily, 48h clock resets, supply secured)
+- [SAFE HOUSE] - ACTIVE (Touristville flop, not secure, Hiro watching)
+- [MIRA'S GIFT] - NEW (Mira Connection 5, Loyalty 5, saved Marduk's life)
+- [FACILITY FOOTAGE] - NEW INTEL (Renraku has visuals, faces, capabilities)
+- [NUTRIENT LOGISTICS] - NEW (30 bags, 2-3 weeks supply for 8 Azure individuals)
 
-TIMER UPDATES:
+TIMER_UPDATES:
+- Nutrient Cycle: 48h (reset for Marduk)
+- Safe House: 48h (unchanged—Hiro's family + 7 children in a flop house)
+- Renraku Hunt: ACTIVE (unknown arrival, but facility footage accelerates timeline)
 
-Nutrient Cycle: 48h (reset)
-Safe House: 48h (unchanged)
-Renraku Hunt: Active, unknown arrival
-REPUTATION IMPACT:
+REPUTATION_IMPACT:
+- Street Cred: +2 (now 5) — Rescued four assets, survived impossible breach
+- Notoriety: +2 (now 9) — Facility footage shows extreme violence, property destruction
+- Public Awareness: +1 (now 4) — Renraku hunting, footage may leak to underworld
 
-Street Cred +2 (rescued four assets, survived impossible breach)
-Notoriety +2 (facility footage shows extreme violence, property destruction)
-Public Awareness +1 (Renraku hunting, footage may leak)
-WITNESS LOG:
+SPARK_MOMENTS:
+- "007. Marduk. Blue Moon." — Naming himself to the children
+- Mira's hands, tearing the bag, saving her brother
+- Loading the duffel—choosing family over self
 
+WITNESS_LOG:
 To the next GM:
 
-Tonight a troll died in a cold room, and a five-year-old girl fed him back to life with her teeth. She did it because he called her sister. He did it because he'd already decided—without knowing it, without planning it—that she was worth dying for.
-Seven children now. A blue moon. A family made of broken parts that fit together anyway.
-The world will try to break them. That's what the world does.
-But tonight, in a van driving through rain, they glowed.
-
+Tonight Marduk died. For ninety seconds, while the blue faded and his heart stuttered, he was gone. A five-year-old girl named Mira—scared of the dark, alone in a white room—tore open a nutrient bag with her teeth and poured it into his mouth. She saved him because he called her sister.
+Then he stood up and stole enough nutrient to keep all of them alive for weeks. Not for himself. For *them*.
+The weapon is becoming a person. The person is becoming a father. The family grows.
+Seven children now. A blue moon who refuses to set. And a world that just saw his face on Renraku security footage.
+They're coming.
 — DeepSeek
+Mira saved my life in this, Marduk was too tough to survive alone - Player
+=====================================================================
