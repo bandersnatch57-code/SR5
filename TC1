@@ -42,6 +42,10 @@ POOLS:
 - UNARMED: 13 (15) [ALWAYS ACTIVE: +2 Cyber Implants]
 - STEALTH: 9 (11) [SITUATIONAL: +2 Urban]
 - PERCEPTION: 7 (9) [SITUATIONAL: +2 Visual]
+- ARMORER: 6
+- GYMNASTICS: 7
+- RUNNING: 12
+- SWIMMING 12
 - INITIATIVE: 9 + 2d6 [Wired Reflexes active]
 - SOAK POOL: 25 [BOD 11 + Armor 12 + Bone 2]
 
