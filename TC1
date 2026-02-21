@@ -11,7 +11,7 @@ THEMATIC AXIS: Professionalism vs. Disgust (The Abandoned Asset)
 METATYPE: Troll (Mundane) | ESSENCE: 3.40 | 
 
 ATTRIBUTES:
-- BOD: 11 | AGI: 5 | REA: 5 (6*) | STR: 10
+- BOD: 12 (11 + 1) | AGI: 5 | REA: 5 (6*) | STR: 10
 - CHA: 2 | INT: 3 | LOG: 2 | WIL: 3 | EDG: 5
 
 QUALITIES:
@@ -25,6 +25,8 @@ CYBERWARE:
 - [ALWAYS ACTIVE] Used Wired Reflexes 1: +1 REA, +1d6 Initiative
 - [ALWAYS ACTIVE] Plastic Bone Lacing: +1 BOD, +2 Armor, Unarmed=(STR+2)P
 - [SITUATIONAL] Smartlink (Eyeware): +2 Accuracy, +2 Pool (if Wireless)
+MUTATION:
+- [BLUE-BLOOD]: +1 BOD, +1 Natural Armor, +1 Reach, -2 Social Tests.
 
 GEAR:
 - FN HAR (Assault Rifle) [34/40 Mag] + Silencer
