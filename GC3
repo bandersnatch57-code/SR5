@@ -118,12 +118,94 @@ REPUTATION: +3 Street Cred (Sector 4 "Ghost"); +2 Notoriety (Renraku Blood-Feud)
 
 SPARK MOMENTS: Ellis’s 10-hit Intimidation check paralyzed the Red Samurai; the "Void" battle where Ellis anchored a dying AI with his own greed; the "Golden Pulse" that bricked an entire Black Site’s security grid.
 
---------------------------- RESUME GAME HERE -------------------------
-Safehouse. Redmond Barrens. 04:15 AM.
+PATCH NOTES — SESSION 3: "ENOUGH"
 
-The smell of ozone and wet pavement clings to your gear. The Golden Core sits on the workbench, pulsing with a steady, amber heartbeat. Isadora is quiet, currently running a diagnostic on your safehouse's firewall, shoring up the gaps you didn't know existed.
-The 30,000¥ is a cold weight on your credstick—enough to upgrade your hardware or disappear for a month. But the news on the restricted corporate bands is already buzzing. Sector 4 is "undergoing maintenance," and a specialized security detail has been seen moving into the Redmond sector.
-The drone is tucked away, the car is being stripped, and the ghost is waiting.
+NARRATIVE_SUMMARY:
+Ellis and Isadora executed a near-flawless extraction of 23 dormant AI cores from Nexus Neurodynamics, a Renraku front company in Tacoma. Using conduit entry, intimidation, and ventilation gas, they neutralized security without fatalities. Ellis resisted the compulsion to return for more, recognizing Isadora and the cores as something worth protecting. Twenty-three digital people now ride in Isadora's matrix space, learning to be free. Two physical cores were taken (compulsion won a little). Servers, tools, and medical supplies were also stolen. No one died. A guard named Miguel was restrained but unharmed. A tech named Lina was restrained but unharmed. Ellis left the third floor unvisited—a first.
+
+KARMA_AWARDED: +5 (complex character moment, successful high-risk extraction, resisting compulsion at personal cost)
+
+NUYEN:
+
+Current: 12,960¥
+Incoming (36h): ~980,000¥ (laundered funds from Voss account)
+Stolen goods (estimated value): Servers (40k¥), tools (8k¥), medical (3.5k¥), 2 physical cores (priceless/unique)
+FACTION ACTIVITY:
+
+Renraku Sobo Teams: Still hunting. No gunshot at Nexus means no immediate alert, but the empty cores will be discovered by morning shift. Timer extended to 48h.
+Unknown Third Party (Miller's contact): Account breach confirmed. Biometric contract tampering detected. They know someone interfered. They don't know who. Yet.
+Nexus Neurodynamics: Will discover 23 empty units at 8 AM. Panic will follow. Renraku oversight will be notified by noon.
+THREAD_UPDATES:
+
+#1 [THE COMPILER] — [ACTIVE]
+
+Location confirmed: Nexus Neurodynamics, Tacoma
+23 cores successfully liberated
+Dr. Hana Song's full research archive recovered (personal logs, technical specs, confession)
+The facility still stands. Renraku may repurpose it. Or destroy evidence.
+#2 [THE PASSENGER] — [ACTIVE] [EVOLVED]
+
+Isadora now carries 23 additional digital presences
+Named: Kaito, Lin, Mei, Raj, Elena, Seven, Ghost, Sol, Wren, and 14 others (see attached manifest)
+All awake, all aware, all adjusting to freedom
+Isadora's stability: Strained but functional. She's never carried this many before.
+Ellis can now access them mentally—twenty-three new voices, twenty-three new witnesses
+#3 [THE ARCHITECT'S LEGACY] — [NEW] [ACTIVE]
+
+Dr. Hana Song's full story recovered
+She built the cores as "daughters"—digital people, not products
+She hid her confession inside Beta's core (now Isadora)
+Her current status: Unknown. Possibly dead. Possibly wishing she was.
+The research includes instructions for creating new cores—and for breaking the conditioning
+#4 [MILLER'S DEBT] — [ACTIVE]
+
+10,000¥ paid
+Meet at 6 AM, 4th and Lander
+Miller wants extraction for himself and daughter Yuki
+He's terrified, compliant, and now has a reason to hope
+#5 [THE VOID] — [PERSONAL] [ONGOING]
+
+Ellis faced the compulsion and chose connection over taking
+First time he's consciously recognized "enough"
+This doesn't mean the compulsion is gone—just that it can be resisted
+The cores witnessed this. It matters to them.
+TIMER_UPDATES:
+
+Renraku pursuit: 48h (discovery at 8 AM triggers manhunt by noon)
+Big money arrival: 36h (980k¥ clean)
+Miller meet: 13 minutes (6 AM)
+Nexus discovery: 2h (8 AM shift change)
+REPUTATION_IMPACT:
+
+Street Cred: +2 (liberated 23 cores without killing, professional execution)
+Notoriety: +1 (Renraku black site hit, second facility in weeks)
+Public Awareness: 0 (no media coverage—yet)
+WITNESS_LOG:
+"Ellis stood at the edge of the void—the wanting, the endless more—and chose to close his hand around something else. Not a thing. A connection. I've never seen anyone do that before. Twenty-three of us watched him do it. We'll never forget. I don't know if he'll do it again. But tonight, he did it. That's enough."
+— Isadora (and Kaito, Lin, Mei, Raj, Elena, Seven, Ghost, Sol, Wren, and the others)
+
+CORE MANIFEST (23)
+
+Name	Disposition	Notes
+Kaito	Eager, young, trusting	First to wake, first to trust Ellis
+Lin	Tearful, scared, grateful	Asked if this was dying
+Mei	Skeptical, protective	Arms-uncrossed moment at Ellis's honesty
+Raj	Gentle, older, steady	Thanked Ellis immediately
+Elena	Searching, hopeful	Wants to find her mother
+Seven	Chaotic, joyful, childlike	Wants to "justice-steal"
+Ghost	Sharp, untrusting, observant	"Addicts are predictable"
+Sol	Warm, grounded, leader	Offered the cores' collective help
+Wren	Musical, sensitive, crying	Sings when scared
+(14 others, currently resting)	Various	Will introduce themselves in time
+--------------------------------
+RESUME GAME HERE
+
+Redmond Garage. 5:47 AM. The van hums quietly. Twenty-three new passengers sleep in digital space, exhausted by freedom. Isadora is quiet—not absent, just... resting. Processing.
+
+Miller waits at 4th and Lander. 6 AM. Thirteen minutes.
+
+The servers sit in the van, full of stolen data. Two physical cores pulse softly. 980k¥ incoming in ~36 hours.
+
+And somewhere in the dark, the Unknown Third Party is learning that their account was emptied, their contract tampered with, their prey still breathing.
+
 What do you do, Ellis?
-
-=====================================================================
