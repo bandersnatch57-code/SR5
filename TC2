@@ -4,7 +4,10 @@ SHADOWRUN 5E - MECHANICS REFERENCE: MARDUK (TCA2 v1.0)
 
 --------------------------- DICE POOLS -----------------------------
 COMBAT:
-- Longarms: 11 (AGI 5 + Skill 6) | +Assault Rifles spec 2 = 13 | +Smartlink 2 = 15 [SITUATIONAL]
+- Longarms (with Assault Rifle + Smartlink): 15 [TYPICAL]
+  - Base (AGI 5 + Skill 6): 11
+  - +Assault Rifles spec: 13 [WHEN USING ASSAULT RIFLE]
+  - +Smartlink: 15 [WHEN WIRELESS ACTIVE]
 - Unarmed Combat: 19 (Skill 5 + STR 10 + spec 2 + Cyber 2) [ALWAYS ACTIVE] [REACH: 2]
 - Throwing Weapons: (Untrained) AGI 5 = 5
 
