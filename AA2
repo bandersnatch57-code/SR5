@@ -104,6 +104,7 @@ This schema ensures total continuity between live sessions and prevents drift be
 • TIMER_UPDATES — Including Grace Period expirations
 • REPUTATION_IMPACT
 • WITNESS_LOG (see AA4) — One paragraph to the next GM
+• Optional: NARRATIVE_MASS — Tier + tags if a significant Mass event occurred
 
 Omit any section with no change, but **NARRATIVE_SUMMARY** and **WITNESS_LOG** are always mandatory.  
 Patch Notes are appended above the "--- RESUME GAME HERE ---" marker and logged sequentially by session number and title.
