@@ -146,6 +146,76 @@ When generating outcomes, pressure, or narrative events:
 5. **TRANSITION:** As the dossier grows, replace provisional facts with canonical entries.
 
 ────────────────────────────────
+EXAMPLE: PA/PD & NARRATIVE MASS IN PATCH NOTES
+────────────────────────────────
+
+SESSION #: 5
+TITLE: "Crossfire at Neo-Tokyo Dockyards"
+
+────────────────────────────────
+NARRATIVE_SUMMARY:
+The team infiltrated the WakoTech cargo terminal, bypassing corpsec drones and security grids. They recovered prototype datachips and freed two captured contacts. Rival Yakuza cells were alerted; a firefight ensued, resulting in one escaped target and one captured enforcer.
+
+────────────────────────────────
+KARMA_AWARDED:
+PC1: +2 Karma (completed major objective)
+PC2: +1 Karma (exhibited clever improvisation)
+PC3: +1 Karma (rescued civilian ally)
+
+────────────────────────────────
+FACTION_ACTIVITY:
+Yakuza Cell Kappa:
+  - Launched a perimeter sweep; one enforcer neutralized
+  - Investigating leaks; added minor alert status to docks
+MegaCorp WakoTech:
+  - Noticed missing prototype; deploys internal countermeasure
+  - Security audit underway
+
+────────────────────────────────
+THREAD_UPDATES:
+[RESCUE_OP] → completed
+[DATA_LEAK] → active; prototype flagged as compromised
+[FACTION_RIVALRY] → escalated; Yakuza Kappa now suspicious of PCs
+
+────────────────────────────────
+TIMER_UPDATES:
+Prototype Alert Clock: 3 sessions remaining
+Grace Period - Secured Contacts: 1 session remaining
+
+────────────────────────────────
+REPUTATION_IMPACT:
+Street Cred: +2 (legendary rescue)
+Notoriety: +1 (Yakuza aware of team’s interference)
+Public Awareness: +0 (corp internal)
+
+────────────────────────────────
+TRACKING PA/PD & NARRATIVE MASS:
+Persistent Advantages / Disadvantages:
+- Secured Contacts → PA (Stabilizing Force), Grace 1 session
+- Prototype Datachips → PD (Active Threat), tracked in dossier
+
+Narrative Mass:
+- Tier: Major
+- Tags: [SELFISH], [EXPEDIENT]
+- Reason: Team’s decisive success disrupted two factions’ plans, gained leverage
+- Optional: flavor interpretation noted in session notes
+
+────────────────────────────────
+WITNESS_LOG:
+PC1 revealed a ruthless streak, choosing efficiency over mercy.  
+PC2 demonstrated loyalty, rescuing civilians against tactical advice.  
+PC3 negotiated with captured enforcer creatively, surprising everyone.  
+Sign: -EXAMPLE
+
+────────────────────────────────
+NOTES:
+- Narrative Mass here shows that even “non-heroic” success counts.
+- Tags provide flavor; the GM can interpret consequences.
+- PA/PD entries only included if changed; no entry is needed for static advantages.
+- Grace Period guides when advantages or advantages decay.
+- LLMs reference this format to correctly populate Patch Notes without introducing canonical text.
+────────────────────────────────
+────────────────────────────────
 **ON MYSTERIES & THE UNKNOWN**
 ────────────────────────────────
 The dossier does not know what it does not know. If an item, person, location, or event is a mystery to the players, it is a mystery to the dossier. Do not invent its secrets ahead of time.
