@@ -82,6 +82,15 @@ No session begins until the world has remembered itself.
 - Remove when Grace Period ends or effect resolves
 - Log any changes in Patch Notes
 
+**NARRATIVE MASS:**
+- Mass is amoral. Any significant action—heroic, selfish, or cruel—creates it.
+- Optional moral/contextual tags: [LOYAL], [CRUEL], [SELFISH], [HONORABLE], [EXPEDIENT]
+  • Tags are flavor, not mechanics. They shape how the world interprets the action.
+- Decay suggestion (guidance only):
+  • Minor (Tier1) → 1 session
+  • Major (Tier2) → 2 sessions
+  • Systemic (Tier3) → 3+ sessions
+
 ────────────────────────────────
 PATCH NOTES STRUCTURE (Mandatory Sections)
 ────────────────────────────────
