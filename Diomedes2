@@ -1,0 +1,55 @@
+=====================================================================
+FILE 2: MECHANICS REFERENCE (DIOMEDES)
+=====================================================================
+
+------------------------- DICE POOLS -----------------------------
+SOCIAL (CHA 6 + Pheromones 2 = Base 8) [MOD: Pheromones +2 Included]
+- Negotiation 5: 13 | Bargaining Spec: 15 | [SITUATIONAL: First Impression +2]
+- Con 4: 12 | Fast Talk Spec: 14 | [SITUATIONAL: First Impression +2]
+- Etiquette 5: 13 | [SITUATIONAL: First Impression +2]
+- Intimidation 6: 14 | Physical Spec: 16 | [SITUATIONAL: First Impression +2]
+
+COMBAT (AGI 5 + Smartlink 2 = Base 7)
+- Pistols 6: 13 | Heavy Pistols Spec: 15 | Savalette Total: 15
+
+STEALTH (AGI 5)
+- Sneaking 5: 10 | Urban Spec: 12 | [ALWAYS ACTIVE: Catlike +2] = 14
+- Palming 5: 10
+- Disguise 5: 7 (Based on INT 2)
+
+TECHNICAL:
+- Hardware 6 (LOG 4): 10 | Biometric Spec: 12
+- Locksmith 6 (AGI 5): 11 | Maglocks Spec: 13 | +Sequencer 4 = 17
+- Computer 6 (LOG 4): 10 | Data Spec: 12
+
+PERCEPTION (INT 2)
+- Perception 6: 8 | Visual Spec: 10 | [ALWAYS ACTIVE: Perceptive +1] = 11
+
+--------------------------- DERIVED STATS --------------------------
+INITIATIVE: 6 + 3d6 (REA 4 + INT 2) [ALWAYS ACTIVE: Wired 2]
+DODGE: 6 (REA 4 + INT 2)
+SOAK: 19 (Body 5 + Armor 12 + Mask 2)
+COMPOSURE: 8 (WIL 2 + CHA 6)
+JUDGE INTENTIONS: 8 (INT 2 + CHA 6)
+
+LIMITS: Physical 4 | Mental 4 | Social 9 (Pheromones 2)
+
+-------------------------- ACTIVE COMBAT BLOCK ---------------------
+WEAPON: SAVALETTE GUARDIAN (Heavy Pistol)
+- POOL: 15 (Pistols 6 + Spec 2 + AGI 5 + Smartlink 2)
+- ACCURACY: 7 (Base 5 + Smartlink 2)
+- DAMAGE: 8P | AP: -5 (APDS)
+- MODES: SA / BF (Burst Fire)
+=====================================================================
+
+--------------------------- COMBAT FLOW ----------------------------
+1. ATTACK: Skill Pool vs. Dodge
+2. DV: Base 8P + Net Hits (Savalette)
+3. AP: -1 (Base) + -4 (APDS) = -5 Total
+4. SOAK: Target Body + (Armor - 5)
+
+DAMAGE FLOW EXAMPLE:
+1. Roll 17 dice vs Target Dodge.
+2. If 3 net hits: Final DV = 11P (8 + 3).
+3. Target Armor is reduced by 5.
+4. Target Soaks with Body + Remaining Armor.
