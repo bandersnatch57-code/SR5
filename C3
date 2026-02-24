@@ -17,7 +17,7 @@ Public Awareness: 2 (Shiawase security breach)
 
 PERSISTENT DISADVANTAGES:
 [PD: VORY TACOMA HEAT] Cell crippled but vengeful—your name spreads, Lila's old coords known
-[PD: HOLT DESPERATE] Shiawase exec compromised, may turn state's evidence
+[PD: VOSS DESPERATE] Shiawase exec compromised, may turn state's evidence
 
 PERSISTENT ADVANTAGES:
 [PA: EX-ARES SAFEHOUSE] Puyallup black site—Rtg4 guards, drone-proofed, medbay, kid AR zones (¥15k/wk)
@@ -29,8 +29,8 @@ PERSISTENT ADVANTAGES:
 Status: Chrome transponder active (SUV parked Tacoma safehouse, static 8hrs). Pakhan line leverage in PAN.
 Tags: [VORY] [LEVERAGE] [TRUST?] [24HR-CLOCK]
 
-#2 [HOLT CRISIS] - [ACTIVE] [CORPORATE]
-Status: Shiawase exec fully compromised—¥1.2M extorted, full drop schedule (3 future meets) secured.
+#2 [VOSS CRISIS] - [ACTIVE] [CORPORATE]
+Status: Shiawase AtSec Director Kara Voss fully compromised—¥1.2M extorted, full drop schedule (3 future meets) secured.
 Tags: [SHIAWASE] [BLACKMAIL] [MONEY] [DESPERATE]
 
 #3 [VORY TACOMA HEAT] - [ACTIVE] [SYNDICATE]
@@ -50,8 +50,8 @@ Trigger: Surface in Vory haunts or Morg's network cracks
 
 SHIAWASE ATSEC
 Status: [SECURITY BREACH INVESTIGATION]
-Intel: Holt compromised + vault hit—spider traces cooling but internal audit launches tomorrow
-Next Action: Holt's 3 future drops now compromised (your intel)
+Intel: Kara Voss compromised + vault hit—spider traces cooling but internal audit launches tomorrow
+Next Action: Voss's 3 future drops now compromised (your intel)
 Trigger: Morg fences Shiawase chips
 
 --------------------------- ACTIVE TIMERS --------------------------
@@ -70,7 +70,7 @@ MORGAN "MORG" SILVA (Fixer)
 Status: Shiawase files delivered (¥160k paid), safehouse arranged. Wants chips (¥200k bonus).
 Tags: [FIXER] [LOYAL+2] [OPPORTUNISTIC]
 
-LT. RAINA HOLT (Shiawase Exec)
+KARA VOSS (Shiawase Exec)
 Status: Fully compromised—¥1.2M extorted, 3 future drops exposed. Terrified.
 Tags: [CORP] [BLACKMAILED] [DESPERATE] [VORY-LINKED]
 
@@ -81,14 +81,14 @@ Tags: [VORY] [EXILED?] [LEASHED] [DANGEROUS]
 --------------------------- CURRENT ASSETS & INVENTORY -------------
 KEY LOOT:
 3x Shiawase datachips (HOLT-EXEC, SHIAWA-SECUR, VOLKOV-DROP)
-HOLT-MASTER PAN stick
+VOSS-MASTER PAN stick
 Ares prototype neural syringe
 Volkov datajack stick (CELL-LEDGER full + Pakhan line)
 ¥4.8M cash equivalent detailed breakdown:
 ¥1.2M Holt ghost certs (extorted)
 ¥1.5M Vory cell skim (ledger hack)
 ¥800k Pier 17 duffels (certs)
-¥200k Holt floor safe cert bonds
+¥200k Voss floor safe cert bonds
 ¥50k false panel credstick
 ¥20k Volkov personal credstick
 
@@ -107,10 +107,8 @@ FACILITIES:
 Puyallup ex-Ares safehouse (Rtg4 guards, drone-proofed, medbay, kid AR zones, ¥15k/wk)
 
 --------------------------- RESUME GAME HERE -------------------------
-Lila giggles echo from playzone (AR dolphins now, Morg's touch)—she's safe, clutching panda plush, beach dreams glowing in AR palm trees. Morg's ping blinks urgent: "Viper—Shiawase client wants Holt's full drop logs (chips?). ¥200k bonus. Heat?"
-
+Lila giggles echo from playzone (AR dolphins now, Morg's touch)—she's safe, clutching panda plush, beach dreams glowing in AR palm trees. Morg's ping blinks urgent: "Viper—Shiawase client wants Voss's full drop logs (chips?). ¥200k bonus. Heat?"
 Volkov's transponder shows SUV parked static Tacoma safehouse (8hrs unmoving). Mule tank full in your bay. Dawn cracks Puyallup ash through razorwire—Vory net whispers your name wider. ¥4.8M loot weighs your tacpack like sin.
-
 Greed throne solid, but Lila's giggle reminds you what's beneath it.
 
 What do you do?
