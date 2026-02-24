@@ -276,3 +276,59 @@ OPERATIONAL STATUS: BLACK MARKET KINGS.
 • [STATUS] DIOMEDES: 11/11 P | 9/9 S.
 • [HEAT] ARES MACROTECHNOLOGY: Level - BLACK (Death Squads authorized).
 =====================================================================
+
+═══════════════════════════════════════════════════════
+SHADOWRUN 5E: THE VESSEL — SESSION PATCH NOTES
+SESSION #: [RECLAMATION]
+TITLE: "THE SEA-TAC HEIST / PROJECT CHIMERA"
+═══════════════════════════════════════════════════════
+
+NARRATIVE_SUMMARY:
+Following the successful debt-deletion at the Volkov Bathhouse, Diomedes and his crew (Static, Hammer, and the Kid) moved on Sea-Tac Hangar 14. Utilizing the Ares Decryption Core, the team bypassed security to intercept a "Project Chimera" shipment. Diomedes infiltrated a sub-level lab in total darkness, securing the Ares Master Control Deck and a Tactical AR-Link. After a high-speed pursuit on the runway involving an Ares Draugr drone and HTR elites, the crew escaped in a hijacked Ares Citymaster. They are currently in possession of four stasis pods ("The Vessels"), a project scientist, and two guards.
+
+KARMA_AWARDED: 13
+
+FACTION_ACTIVITY:
+- ARES MACROTECHNOLOGY: ESCALATED to HEAT LEVEL BLACK. 
+  Asset recovery teams and "Death Squads" have been authorized. 
+  Project Chimera is a Tier-1 Corporate Secret.
+- VORY V ZAKONE: Manhunt active. Though the debt is deleted, the 
+  insult of the Bathhouse hit remains a matter of syndicate pride.
+
+THREAD_UPDATES:
+- [DEBT-CRUSHER] → RESOLVED (Debt is ¥0).
+- [PROJECT CHIMERA] → ACTIVE (Possession of 4 Vessels/Scientist).
+- [ARES BLACK HEAT] → NEW (Active pursuit/Death warrant).
+- [MASTER CONTROL DECK] → NEW (Powerful prototype in hand).
+
+REPUTATION_IMPACT:
+- Street Cred: +2 (The "Black Market Kings" of Redmond).
+- Notoriety: +3 (Massive property damage and theft of high-level corp assets).
+- Public Awareness: +2 (Ares runway firefight; visuals recorded).
+
+TRACKING PA/PD & NARRATIVE MASS:
+- [TAG: THE SHARK’S PROTECTIVENESS] — Static’s Loyalty is shifting to "Reliable." 
+- [TAG: HIJACKER] — The crew (Hammer, Static, Kid) is now fully bonded to Diomedes.
+- [PD: INSOMNIA LEVEL 2] — Diomedes is suffering -1 to LOG/INT/WIL.
+- [PA: MASTER CONTROL DECK] — High-level Matrix/Drone control leverage.
+
+WITNESS_LOG:
+To the next GM:
+Diomedes is a man walking through a storm of his own making. He cleared 
+his past with the Vory only to steal a future Ares would kill to protect. 
+He is exhausted—carrying the weight of Insomnia and the lives of four 
+stasis-bound strangers. He didn't just rob a hangar; he "stole" a 
+family of outcasts and chose to be their shield. The world is closing 
+in, but the "Shark" is still moving. Remember that he pays attention 
+to the small things—even when the runway is burning behind him.
+Sign: — Gemini
+
+--- RESUME GAME HERE ---
+The Citymaster’s engine is ticking as it cools. The air in the new 
+safehouse is stale, smelling of old dust and the clinical ozone leaking 
+from the four stasis pods. The scientist is shaking. The "Master Control 
+Deck" sits on the table like a live grenade. Diomedes, your vision is 
+blurring at the edges. You’ve won, but you haven't slept in days.
+
+What do you do?
+═══════════════════════════════════════════════════════
