@@ -93,48 +93,4 @@ WRAITH RENRAKU VAN (Black, Armored)
 "Doc" Patch | Street Doc | C3 L3 | [RELIABLE]
 Manny "The Mule" | Fence | C2 L2 | [STREET_CLEAN]
 Officer Miller | Beat Cop | C1 L1 | [CHEAP_BRIBES]
-
-------------------------- PERSISTENT NPCs --------------------------
-DR. ARIS THORNE (The Asset)
-- Status: [SECURED] [TERRIFIED] [COMPLIANT]
-- Function: Key to the Renraku Global Ledger; Biometric Key for the Drive.
-- Tag: [VULNERABLE] [HIGH VALUE]
-
-ALISON (The Anchor)
-- Status: [SAFE] [ASLEEP]
-- Function: Narrative Mass; Silas's "Why."
-- Tag: [DEPENDENT] [TARGET]
-
---------------------------- ACTIVE THREATS --------------------------
-MARCUS THORNE (Renraku Lead)
-- Status: [TERMINATED/HUNTED] [RUINED]
-- Motivation: Revenge; his life is over unless he kills Silas.
-- Tag: [FALLEN_CORP] [DESPERATE]
-
-RENRAKU INTERNAL SECURITY (The Red Samurai)
-- Status: [SEARCHING] [INVESTIGATING SPIKE]
-- Goal: Recover the Ghost-Compiler Drive at all costs.
-
---------------------------- CARGO/INTEL ------------------------------
-- The Violet Drive (Sentient E-Ghost Compiler) [ANOMALY] [GHOST_ECHO]
-- Renraku Field Asset List (Full decryption) [INTEL]
-- Thorne’s Embezzlement Records [LEVERAGE]
-- Gold Credstick (25,000¥) | Silver Credstick (18,400¥)
-- Total Liquid Cash: 189,380¥
-
---------------------------- ACTIVE THREADS --------------------------
-#1 [A SOUL FOR A NAME] — Need R6 Fake SIN to bury Silas. [URGENT]
-#2 [GHOST_TOUCHED] — Silas has a lingering connection to the AI. [PERSISTENT]
-#3 [DR. ARIS THORNE] — Defector secured; needs a long-term "hole." [VULNERABLE]
-#4 [THORNE'S FALLOUT] — Marcus Thorne ruined; Internal Security hunting him. [ACTIVE]
-#5 [THE BROKER] — Renraku Agent 99-Delta aware of failed ID trap. [ACTIVE]
-
---------------------------- RESUME GAME HERE -------------------------
-Tarislar Garden Villa. The green bioluminescence of the Elven District 
-filters through the glass. Alison is asleep in a real bed. Aris is 
-drinking elven brandy, staring at the briefcase. You sit in the dark, 
-head throbbing with a violet echo. You have 189k nuyen, but Silas 
-Vane is dead. Tomorrow, you decide who you are.
-
-What do you do?
 =====================================================================
