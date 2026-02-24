@@ -80,7 +80,7 @@ Tags: [VORY] [EXILED?] [LEASHED] [DANGEROUS]
 
 --------------------------- CURRENT ASSETS & INVENTORY -------------
 KEY LOOT:
-3x Shiawase datachips (HOLT-EXEC, SHIAWA-SECUR, VOLKOV-DROP)
+3x Shiawase datachips (VOSS-EXEC, VOSS-SECUR, VOLKOV-DROP)
 VOSS-MASTER PAN stick
 Ares prototype neural syringe
 Volkov datajack stick (CELL-LEDGER full + Pakhan line)
