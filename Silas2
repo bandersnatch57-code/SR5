@@ -15,7 +15,7 @@ SOCIAL (CHA 6 + Pheromones 2 = Base 8)
 
 COMBAT/STEALTH (AGI 5)
 - Pistols 6: 13 [Heavy Pistols: 15] [SMARTLINK ACTIVE]
-- Sneaking 6: 13 [Urban: 15] [GROUP: Stealth] [CATLIKE]
+- Sneaking 6: 16 [Urban: 15] [GROUP: Stealth] [CATLIKE] [ALWAYS ACTIVE: Sleeping Tiger]
 - Palming 6: 11 [GROUP: Stealth]
 - Disguise 6: 11 [GROUP: Stealth]
 - Escape Artist 4: 9 [INDIVIDUAL]
@@ -53,3 +53,53 @@ DAMAGE FLOW EXAMPLE:
 2. If 3 net hits: Final DV = 11P (8 + 3).
 3. Target Armor is reduced by 5.
 4. Target Soaks with Body + Remaining Armor.
+
+--------------------------- SITUATIONAL MODIFIERS ------------------
+COMBAT:
+- Target in good cover: +2 [SITUATIONAL]
+- Target in full cover: +4 [SITUATIONAL]
+- Called shot: -4 [SITUATIONAL]
+- Running: -2 [SITUATIONAL]
+- Recoil: -1 per shot after first [SITUATIONAL]
+- Low-light conditions: +2 [SITUATIONAL]
+- Target behind partial cover: -2 [SITUATIONAL]
+
+SOCIAL:
+- Negotiating from weakness: -2 [SITUATIONAL]
+- Intimidation with leverage/physical threat: +2 [SITUATIONAL]
+- Con vs. suspicious target: -2 to -4 [SITUATIONAL]
+- First Impression: Already included (+2) [FIRST ENCOUNTER ONLY]
+- Impersonating known person: +2 [SITUATIONAL: Social Chameleon]
+
+STEALTH (Sneaking):
+- Observers alert: -2 [SITUATIONAL]
+- Moving at half speed: +2 [SITUATIONAL]
+- Chameleon Suit active: +2 [SITUATIONAL: CAMO ACTIVE]
+
+PERCEPTION:
+- Distracted: -2 [SITUATIONAL]
+- Using Earbuds 2: +2 audio [SITUATIONAL]
+- Using Goggles 4: +4 visual [SITUATIONAL]
+- Hawk Eye: Already included (+2 visual) [ALWAYS ACTIVE]
+
+--------------------------- TAG GLOSSARY ---------------------------
+[FOR LLM USE - Apply these rules when interpreting dice pools]
+
+[ALWAYS ACTIVE] → Apply this modifier to every relevant roll without asking
+[SITUATIONAL] → Ask player: "Does [condition] apply here?" before adding
+[BASE] → The unmodified pool before situational modifiers
+[UNTRAINED] → Roll uses attribute only; no skill ranks
+
+[FIRST ENCOUNTER ONLY] → Only applies first time meeting an NPC
+[WHEN HAGGLING] → Only applies during price negotiation
+[WHEN USING PHYSICAL LEVERAGE] → Only applies when player has explicit physical advantage
+[WHEN IMPERSONATING KNOWN PERSON] → Only applies when pretending to be someone specific
+[WHEN IN URBAN ENVIRONMENT] → Only applies in city/industrial zones
+[WHEN USING HEAVY PISTOL] → Only applies when wielding heavy pistol class weapon
+[WHEN PICKING ELECTRONIC LOCKS] → Only applies to electronic lock picking tests
+[WHEN USING TOOL KIT] → Only applies when hardware tool kit is available
+[WHEN USING AUTOPICKER] → Only applies when autopicker device is available
+[WHEN DECRYPTING] → Only applies to computer tests vs. encryption
+[WHEN USING AUDIO ENHANCEMENTS] → Only applies when earbuds are active
+[CAMO ACTIVE] → Only applies when Chameleon Suit is active and environment appropriate
+[VISUAL ONLY] → Only applies to visual perception tests
