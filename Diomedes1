@@ -16,16 +16,6 @@ ATTRIBUTES: BOD 5, AGI 5, REA 4(2), STR 2, CHA 6, LOG 4, INT 2, WIL 2
 LIMITS: Physical 4, Mental 4, Social 9(11)
 INITIATIVE: 6 + 3d6 (Wired Reflexes 2)
 
-DICE POOLS (KEY):
-• PISTOLS (Heavy): 13 (15) [Internal Smartlink]
-• CON (Fast Talk): 12 (14) [Pheromones]
-• NEGOTIATION (Bargaining): 13 (15) [Pheromones]
-• SNEAKING (Urban): 12 (14) [Catlike]
-• PERCEPTION (Visual): 9 (11) [Perceptive]
-• LOCKSMITH (Maglocks): 11 (13)
-• HARDWARE (Biometric): 10 (12)
-• [MOD] FIRST IMPRESSION: +2 to Social Tests (First meeting only)
-
 QUALITIES:
 • (+) First Impression, Catlike, Perceptive (1)
 - (-) In Debt (Vory v Zakone) — [BACKGROUND FLAW] [RESOLVED IN PLAY]
