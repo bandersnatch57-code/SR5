@@ -1,6 +1,19 @@
 =====================================================================
 FILE 3: CAMPAIGN STATE (DIOMEDES)
 =====================================================================
+• [ACTIVE THREAD] THE COLD START: Intercepting a rival heist.
+• [ACTIVE THREAT] THE VORY: Still looking for you.
+• [LOCATION] NORTH DOCKS: Rear of GMC Bulldog Van.
+• [INTEL] THE RIVALS: At least 3 (Driver/Decker in van, "The Kid" inside).
+• [INTEL] THE CLOCK: Aegis HTR is a looming threat if things go loud.
+
+• [NARRATIVE MASS] NONE.
+• [NUYEN] ¥450.
+• [KARMA] 3.
+=====================================================================
+=====================================================================
+FILE 3: CAMPAIGN STATE (DIOMEDES)
+=====================================================================
 • [ACTIVE THREAD] THE COLD START: Hijacking the "Blue Box."
 • [FACTION: AEGIS HTR] - Arrived. 2 Vehicles. 4+ Combatants.
 • [TIMER: THE ESCAPE] - 3 Combat Turns before the van is boxed in.
@@ -10,6 +23,21 @@ FILE 3: CAMPAIGN STATE (DIOMEDES)
 • [NUYEN] ¥700 (Total).
 • [KARMA] 3.
 =====================================================================
+UPDATED_LINES: 
+• [LOOT] "Blue Box" (Ares Prototype) - Secured.
+• [STATUS] Diomedes: 11/11 P | 9/9 S. Edge 5/5.
+• [THREATS] Aegis HTR - Active Pursuit. 1 Vehicle remaining.
+
+NARRATIVE_MASS & LEGACY: 
+• [TAG: UNINTENDED ALLIANCE] — Origin: Aegis Heist.
+  Domain: Reputation | Mass: Low.
+  Effect: The "Hammer & Kid" crew now owes you their lives.
+
+NARRATIVE_SUMMARY: 
+Diomedes hijacked a rival heist mid-operation. Driven by the Thrill Seeker quality, 
+he engaged Aegis HTR to secure the loot. The guard is down; the chase is on.
+
+--- RESUME GAME HERE ---
 =====================================================================
 • [ACTIVE THREAD] THE COLD START: The Decryption Core.
 • [STATUS] DIOMEDES: 11/11 P | 9/9 S | EDGE 5/5.
@@ -17,6 +45,40 @@ FILE 3: CAMPAIGN STATE (DIOMEDES)
 • [TEAM STATUS] STATIC: Cooperative (High). HAMMER/KID: Compliant.
 • [NARRATIVE MASS] TAG: [MASTER TECHNICIAN] — Domain: Skill/Reputation.
   Mass: Low. Effect: You’ve proven you’re more than just a gunman.
+
+• [NUYEN] ¥700.
+• [KARMA] 3.
+=====================================================================
+=====================================================================
+• [ACTIVE THREAD] THE COLD START: The Escape.
+• [LOCATION] MOVING: GMC Bulldog (Running Dark).
+• [STATUS] DIOMEDES: 11/11 P | 9/9 S. | EDGE 5/5.
+• [INTEL] THE BLUE BOX: Secured. Kid is holding it.
+• [NARRATIVE MASS] LEGACY TAG: [COLD-BLOODED EFFICIENCY]
+  Mass: Medium. Effect: Hammer & Kid are terrified of you.
+
+• [NUYEN] ¥700.
+• [KARMA] 3.
+=====================================================================
+=====================================================================
+• [ACTIVE THREAD] THE COLD START: The Barrens Stash.
+• [LOCATION] REDMOND BARRENS: "The Safe Harbor" Garage.
+• [STATUS] DIOMEDES: 11/11 P | 9/9 S | EDGE 5/5.
+• [NPCS] HAMMER (Rigger), STATIC (Decker), THE KID (Thief).
+• [PRESSURE] THE CLOCK: 2 Hours until the Johnson burns the contract.
+
+• [NARRATIVE MASS] TAG: [HIJACKER] — Domain: Alliance/Reputation.
+  Mass: Low. Effect: You have effectively "stolen" a crew. 
+
+• [NUYEN] ¥700.
+• [KARMA] 3.
+=====================================================================
+=====================================================================
+• [ACTIVE THREAD] THE COLD START: The Negotiation.
+• [STATUS] DIOMEDES: 11/11 P | 9/9 S | EDGE 5/5.
+• [INTEL] BLUE BOX: Trapped with Nanite Acid-Seal. Requires Biometric.
+• [NPCS] STATIC: Evaluating you. She’s the leader.
+• [PRESSURE] THE TRACKER: Ares RFID Sleaze-Tag is active.
 
 • [NUYEN] ¥700.
 • [KARMA] 3.
@@ -42,7 +104,73 @@ Effect: You gain +3 Dice to any Matrix-assisted planning tests.
 • [NARRATIVE MASS] TAG: [HIGH STAKES GAMBLER]
   Effect: You are officially moving against a major Syndicate.
 =====================================================================
+=====================================================================
+• [ACTIVE THREAD] OPERATION: DEBT-CRUSHER.
+• [OBJECTIVE] THE VOLKOV BASEMENT: Plant the Data Tap.
+• [STATUS] DIOMEDES: 11/11 P | 9/9 S | EDGE 5/5.
+• [GEAR] Data Tap (Equipped), Savalette (Concealed), Micro-Transceiver.
+• [PRESSURE] INSOMNIA: -1 Penalty to LOG/INT (ongoing).
 
+• [NARRATIVE MASS] LEGACY: [THE SHARK'S PROTECTIVENESS]
+  Static's Loyalty shifted slightly toward "Reliable."
+=====================================================================
+=====================================================================
+• [ACTIVE THREAD] OPERATION: DEBT-CRUSHER (Phase 2).
+• [LOCATION] THE VOLKOV: Sub-Basement.
+• [STATUS] DIOMEDES: 11/11 P | 9/9 S | EDGE 5/5.
+• [NPCS] MIKHAIL & SERGEI: Terrified and compliant.
+• [OBJECTIVE] DATA TAP: Ready for installation.
+
+• [NARRATIVE MASS] LEGACY TAG: [ICE-COLD PROFESSIONAL]
+  Static and the Crew are seeing you handle high-stress 
+  CQC with zero wasted movement.
+=====================================================================
+=====================================================================
+• [ACTIVE THREAD] OPERATION: DEBT-CRUSHER (Phase 3).
+• [LOCATION] THE VOLKOV: Sub-Basement.
+• [STATUS] DIOMEDES: 11/11 P | 9/9 S | EDGE 5/5.
+• [TIMER] VORY CHECK-IN: 20 Minutes.
+• [PROGRESS] STATIC'S UPLOAD: 10% Complete (Time Remaining: 4:30).
+
+• [LOOT] ¥400 (Credsticks), Enfield AS-7, Fichetti Security 600.
+• [NUYEN] ¥1,100 (Current Cash).
+=====================================================================
+=====================================================================
+• [ACTIVE THREAD] OPERATION: DEBT-CRUSHER (Phase 4).
+• [LOCATION] THE VOLKOV: Sub-Basement / Stairwell.
+• [STATUS] DIOMEDES: 11/11 P | 9/9 S | EDGE 5/5.
+• [PRESSURE] THRILL SEEKER: You are pushing the "Edge."
+• [PROGRESS] DEBT DELETION: 40% (Time Remaining: 3:00).
+
+• [LOOT] Security Card (Level 2).
+• [NEW INTEL] THE TSAR'S VAULT: Physical hoard on the upper floors.
+=====================================================================
+=====================================================================
+• [ACTIVE THREAD] OPERATION: DEBT-CRUSHER (Phase 4 - The Vault).
+• [LOCATION] THE VOLKOV: Upper Gallery (The Gold Zone).
+• [STATUS] DIOMEDES: 11/11 P | 9/9 S | EDGE 5/5.
+• [PRESSURE] THE CLOCK: 60 Seconds until Security Alert.
+• [PROGRESS] DEBT DELETION: 75% (Time Remaining: 1:15).
+
+• [INTEL] ARES GUARDIAN TURRET: Active and tracking.
+• [NPCS] MIKHAIL: On the verge of a breakdown.
+=====================================================================
+=====================================================================
+• [ACTIVE THREAD] OPERATION: DEBT-CRUSHER (The Vault Heist).
+• [STATUS] DIOMEDES: 11/11 P | 9/9 S | EDGE 5/5.
+• [GOAL] THE TSAR'S VAULT: Enter and Loot.
+• [THREATS] 2x BOGATYR (Cyber-Samurai).
+• [SUCCESS] DEBT CLEARED: You officially owe the Vory ¥0.
+• [PRESSURE] REINFORCEMENTS: The Lounge guards are 30 seconds away.
+=====================================================================
+=====================================================================
+• [ACTIVE THREAD] OPERATION: DEBT-CRUSHER (The Vault Heist).
+• [STATUS] DIOMEDES: 11/11 P | 9/9 S | EDGE 5/5.
+• [GOAL] THE TSAR'S VAULT: Enter and Loot.
+• [THREATS] 2x BOGATYR (Cyber-Samurai).
+• [SUCCESS] DEBT CLEARED: You officially owe the Vory ¥0.
+• [PRESSURE] REINFORCEMENTS: The Lounge guards are 30 seconds away.
+=====================================================================
 =====================================================================
 • [REWARDS] +5 Karma.
 • [FINANCIALS] ¥121,100 Total Cash.
@@ -76,6 +204,30 @@ OPERATIONAL STATUS: BLACK MARKET KINGS.
 • [FINANCES] ¥121,100 (Your personal cut + previous cash).
 =====================================================================
 =====================================================================
+• [ACTIVE THREAD] THE SEA-TAC HEIST.
+• [OBJECTIVE] HANGAR 14: Infiltrate and Recover/Destroy the Vessels.
+• [TEAM ASSETS] 
+  - DIOMEDES: Ready (Insomnia L1).
+  - STATIC: Interfacing the Core (Can attempt remote bio-hijack).
+  - HAMMER: Bulldog is fueled and ready.
+  - THE KID: High Morale (Saved from fate).
+
+• [FINANCES] ¥121,100.
+=====================================================================
+=====================================================================
+• [LOCATION] SEATAC PERIMETER: The Bunker Box.
+• [STATUS] DIOMEDES: 11/11 P | 9/9 S | EDGE 5/5.
+• [EQUIPMENT] SLEEPING TIGER (Active), SAVALETTE, GEAR PACK.
+• [TEAM] THE KID (Covering you), STATIC/HAMMER (In the Van).
+• [PRESSURE] INSOMNIA L1: -1 Penalty to LOG/INT/WIL.
+=====================================================================
+=====================================================================
+• [LOCATION] HANGAR 14: Interior (Behind Crate A-1).
+• [STATUS] DIOMEDES: 11/11 P | 9/9 S | EDGE 5/5.
+• [ENEMIES] 2x KE Guards (Alerted), 1x Scientist (HVT).
+• [OBJECTIVE] 4x STASIS PODS (The Vessels).
+=====================================================================
+=====================================================================
 • [LOCATION] HANGAR 14: Interior (Secured).
 • [STATUS] DIOMEDES: 11/11 P | 9/9 S | EDGE 5/5.
 • [ASSETS] 
@@ -85,6 +237,38 @@ OPERATIONAL STATUS: BLACK MARKET KINGS.
 
 • [LOOT SECURED] Sonic Grenades, Laser Sights, APDS Ammo.
 • [OBJECTIVE] THE SUB-LEVEL LAB: The "Master Control Deck" is below.
+=====================================================================
+=====================================================================
+• [LOCATION] SUB-LEVEL LAB: Total Darkness.
+• [STATUS] DIOMEDES: 11/11 P | 9/9 S | EDGE 5/5.
+• [ASSETS] MASTER CONTROL DECK, TACTICAL AR-LINK.
+• [HTR STATUS] BREACHING THE HANGAR ABOVE (10 Seconds).
+=====================================================================
+=====================================================================
+• [LOCATION] HANGAR 14: The Loading Bay.
+• [STATUS] DIOMEDES: 11/11 P | 9/9 S | EDGE 5/5.
+• [THREAT] ARES DRAUGR DRONE: Arriving in 20 seconds.
+• [ASSETS] 2x Disarmed Guards | 1x Scientist with Tablet.
+=====================================================================
+=====================================================================
+• [LOCATION] HANGAR 14: Lab Entrance (Pinned).
+• [STATUS] DIOMEDES: 11/11 P | 9/9 S | EDGE 5/5.
+• [EQUIPMENT] MASTER CONTROL DECK (On person), AR-LINK (On person).
+• [THREAT] 5x HTR ELITES (Suppressive Fire), 1x ROOF TEAM (Incoming).
+=====================================================================
+=====================================================================
+• [LOCATION] SEATAC RUNWAY: High-Speed Pursuit.
+• [VEHICLE] ARES CITYMASTER (Integrity: 100%).
+• [PASSENGERS] 4x Vessels (Critical), 1x Scientist, 2x Guards.
+• [THREAT] ARES DRAUGR: 50 Meters behind and Closing.
+• [PRESSURE] INSOMNIA L1: The lights of the runway are starting to blur.
+=====================================================================
+=====================================================================
+• [LOCATION] RUNWAY: Behind Prometheus Tanker.
+• [STATUS] DIOMEDES: 11/11 P | 9/9 S | EDGE 5/5.
+• [ASSETS] CITYMASTER, 2x Guards, 1x Scientist, 4x Vessels (Stable).
+• [THREAT] DRAUGR COMBAT DRONE: Searching/Cautious.
+• [LOOT IDENTIFIED] Ares 'Screamer' Grenades, Tactical AR-Link.
 =====================================================================
 =====================================================================
 • [REWARDS] +8 Karma.
