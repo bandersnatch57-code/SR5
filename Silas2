@@ -24,3 +24,32 @@ TECHNICAL/PERCEPTION (INT 2 / LOG 4)
 - Hardware 6: 10 [Electronic Locks: 12] [SITUATIONAL: Spec]
 - Computer 6: 12 [Decrypt: 14] [SITUATIONAL: Spec]
 - Perception 6: 8 [Visual: 13] [SITUATIONAL: Spec] [HAWK EYE]
+
+--------------------------- DERIVED STATS --------------------------
+INITIATIVE: 6 + 3d6 (REA 4 + INT 2) [ALWAYS ACTIVE: Wired 2]
+DODGE: 6 (REA 4 + INT 2)
+SOAK: 19 (Body 5 + Armor 12 + Mask 2)
+COMPOSURE: 8 (WIL 2 + CHA 6)
+JUDGE INTENTIONS: 8 (INT 2 + CHA 6)
+
+LIMITS: Physical 4 | Mental 4 | Social 9 (Pheromones 2)
+
+-------------------------- ACTIVE COMBAT BLOCK ---------------------
+WEAPON: SAVALETTE GUARDIAN (Heavy Pistol)
+- POOL: 15 (Pistols 6 + Spec 2 + AGI 5 + Smartlink 2)
+- ACCURACY: 7 (Base 5 + Smartlink 2)
+- DAMAGE: 8P | AP: -5 (APDS)
+- MODES: SA / BF (Burst Fire)
+=====================================================================
+
+--------------------------- COMBAT FLOW ----------------------------
+1. ATTACK: Skill Pool vs. Dodge
+2. DV: Base 8P + Net Hits (Savalette)
+3. AP: -1 (Base) + -4 (APDS) = -5 Total
+4. SOAK: Target Body + (Armor - 5)
+
+DAMAGE FLOW EXAMPLE:
+1. Roll 17 dice vs Target Dodge.
+2. If 3 net hits: Final DV = 11P (8 + 3).
+3. Target Armor is reduced by 5.
+4. Target Soaks with Body + Remaining Armor.
