@@ -46,6 +46,8 @@ PERSISTENT ADVANTAGES:
   Status: [IN_POSSESSION]. Logic: Bypasses R12 Rolling Encryption (R12 -> R6).
 • [VESSEL-03] — THE ASSET. 
   Status: [DECAYING]. Logic: 13% Power. Requires flash-charge at Station 01.
+• [STATION 01 PROTOCOL] — THE POWER. [TAG: FLASH_CHARGE]
+  Status: [INTEL_SECURED]. Logic: Method to flash-charge Vessel to 40% at Thorne's terminal.
 
 --------------------------- ACTIVE THREATS -------------------------
 IRON SIGHTS SECURITY (PMC)
@@ -81,6 +83,7 @@ KEY LOOT:
 • [THORNE'S STYLUS] — Vault Override [TAG: MACGUFFIN_KEY]
 • [SARIEL'S KEYCARD] — Tier-3 Access [TAG: SYSTEM_ACCESS]
 • [OMEGA CODE] — [4491-OMEGA] [TAG: EMERGENCY_OVERRIDE]
+• [SILVER CREDSTICKS] — 2x High-Value Sticks (¥5,000 each / ¥10,000 Total). [TAG: OFF_GRID_FUNDS]
 
 TACTICAL GEAR:
 • Savalette Guardian (Concealed)
