@@ -24,6 +24,14 @@ PERSISTENT ADVANTAGES:
 - [PA: MASTER CONTROL DECK] [TAG: ARES_TRACKER] - Ares prototype. Grants high-level Matrix/Drone control leverage.
 - [PA: THE SKELETON KEY] - Bypassed a MegaCorp MacGuffin. +3 Dice to any Matrix-assisted planning tests.
 
+--------------------------- NARRATIVE MASS & REPUTATION ------------
+• [TAG: UNINTENDED ALLIANCE] — Crew owes you their lives.
+• [TAG: MASTER TECHNICIAN] — Proven you are more than a gunman.
+• [TAG: COLD-BLOODED EFFICIENCY] — Hammer & Kid are terrified/impressed.
+• [TAG: HIJACKER] — You successfully "stole" a rival crew.
+• [TAG: THE SHARK’S PROTECTIVENESS] — Static’s loyalty is now [RELIABLE].
+• [TAG: ICE-COLD PROFESSIONAL] — You handle high-stress CQC with zero waste.
+
 --------------------------- ACTIVE THREADS -------------------------
 #1 [PROJECT CHIMERA] - [ACTIVE] [HIGH PRIORITY]
    Status: In possession of 4 stasis pods ("The Vessels"), one project scientist, and two Ares guards (compliant).
@@ -37,6 +45,16 @@ PERSISTENT ADVANTAGES:
 #3 [THE COLD START CREW] - [ACTIVE] [RELATIONSHIP]
    Status: Static (Decker), Hammer (Rigger), and The Kid (Infiltrator) are now a bonded crew. Hammer's loyalty is high.
    Tags: [CREW] [LOYAL] [ASSET]
+
+--------------------------- THE CHIMERA SCHEMATIC ------------------
+• [BLUE BOX] — THE BRAIN. (Ares Decryption AI). 
+  Status: [FRAGMENTED] [SYMBIONT]. Logic: Seeking a biological host.
+• [MASTER DECK] — THE KEYBOARD. (Ares Prototype). 
+  Status: [LIVE GRENADE]. Logic: Required to bridge AI to Pods.
+• [THE VESSELS] — THE HARDWARE. (4x Modified Humans). 
+  Status: [EMPTY_HOUSES] [STABLE]. Logic: The destination for the AI.
+• [DR. NAVARRO] — THE USER. (Project Scientist). 
+  Status: [KNOWLEDGE_GATEKEEPER]. Logic: Knows the manual override codes.
 
 --------------------------- ACTIVE THREATS -------------------------
 ARES MACROTECHNOLOGY
@@ -88,26 +106,24 @@ You don't know if they're victims. Weapons. Something worse. All you know is the
 
 --------------------------- CURRENT ASSETS & INVENTORY -------------
 KEY LOOT:
-- Ares Decryption Core ("Blue Box")
-- Ares Master Control Deck (Prototype)
-- Tactical AR-Link
-- 4x Stasis Pods (Modified Humans Inside)
-- 1x Vory Cold-Storage Ledger [TAG: ENCRYPTED_INTEL]
-- 6x Jeweled Eggs [TAG: LIQUID_ASSET](Valuable Artifacts)
-- Sonic Grenades
-- Laser Sights
-- APDS Ammo
-- Ares 'Screamer' Grenades
-- Tactical AR-Link
+• [BLUE BOX] — Ares Decryption Core (AI)
+• [MASTER DECK] — Ares Prototype (Interface/Tracker)
+• [AR-LINK] — Tactical AR-Link (Squad Coordination)
+• [THE VESSELS] — 4x Stasis Pods (Modified Humans)
+• [LEDGER] — Vory Cold-Storage Ledger [TAG: ENCRYPTED_INTEL]
+• [JEWELED EGGS] — 6x Artifacts [TAG: LIQUID_ASSET]
+
+TACTICAL GEAR:
+• Grenades: Sonic, Ares 'Screamer'
+• Weapon Mods: Laser Sights
+• Ammo: APDS Rounds
 
 VEHICLES:
-- Ares Citymaster (Hijacked, at safehouse)
-- GMC Bulldog (Running dark, being retrofitted)
+• Ares Citymaster (At safehouse)
+• GMC Bulldog (Refitting: Sensor-Masking)
 
 FINANCES:
-- ¥240,000 (Laundered - Crew Share 1/2)
-- ¥60,000 (Physical Credsticks)
-- ¥121,100 (Diomedes' personal liquid cash)
+• ¥240,000 (Crew Pool) | ¥60,000 (Credsticks) | ¥121,100 (Personal)
 
 --------------------------- RESUME GAME HERE -------------------------
 The Citymaster’s engine is ticking as it cools. The air in the new safehouse is stale, smelling of old dust and the clinical ozone leaking from the four stasis pods. The scientist is shaking. The "Master Control Deck" sits on the table like a live grenade. Static is hunched over it, muttering about encryption layers. Hammer is welding something onto the Bulldog. The Kid is watching the door, jumpy.
