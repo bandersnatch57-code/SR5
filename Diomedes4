@@ -51,10 +51,33 @@ REWARDS:
 - Nuyen: Total cash increased significantly (¥121,100 personal, plus laundered crew funds).
 
 --------------------------- SESSION 2: RECLAMATION (THE SEA-TAC HEIST / PROJECT CHIMERA) --
-[Use the detailed "PATCH NOTES" block you provided at the end of Diomedes3.]
 
-NARRATIVE SUMMARY:
-[Paste the full NARRATIVE_SUMMARY from your patch notes here.]
+NARRATIVE_SUMMARY:
+Following the successful debt-deletion at the Volkov Bathhouse, Diomedes and his crew (Static, Hammer, and the Kid) moved on Sea-Tac Hangar 14. Utilizing the Ares Decryption Core, the team bypassed security to intercept a "Project Chimera" shipment. Diomedes infiltrated a sub-level lab in total darkness, securing the Ares Master Control Deck and a Tactical AR-Link. After a high-speed pursuit on the runway involving an Ares Draugr drone and HTR elites, the crew escaped in a hijacked Ares Citymaster. They are currently in possession of four stasis pods ("The Vessels"), a project scientist, and two guards.
+
+FACTION_ACTIVITY:
+- ARES MACROTECHNOLOGY: ESCALATED to HEAT LEVEL BLACK. 
+  Asset recovery teams and "Death Squads" have been authorized. 
+  Project Chimera is a Tier-1 Corporate Secret.
+- VORY V ZAKONE: Manhunt active. Though the debt is deleted, the 
+  insult of the Bathhouse hit remains a matter of syndicate pride.
+
+THREAD_UPDATES:
+- [DEBT-CRUSHER] → RESOLVED (Debt is ¥0).
+- [PROJECT CHIMERA] → ACTIVE (Possession of 4 Vessels/Scientist).
+- [ARES BLACK HEAT] → NEW (Active pursuit/Death warrant).
+- [MASTER CONTROL DECK] → NEW (Powerful prototype in hand).
+
+REPUTATION_IMPACT:
+- Street Cred: +2 (The "Black Market Kings" of Redmond).
+- Notoriety: +3 (Massive property damage and theft of high-level corp assets).
+- Public Awareness: +2 (Ares runway firefight; visuals recorded).
+
+TRACKING PA/PD & NARRATIVE MASS:
+- [TAG: THE SHARK’S PROTECTIVENESS] — Static’s Loyalty is shifting to "Reliable." 
+- [TAG: HIJACKER] — The crew (Hammer, Static, Kid) is now fully bonded to Diomedes.
+- [PD: INSOMNIA LEVEL 2] — Diomedes is suffering -1 to LOG/INT/WIL.
+- [PA: MASTER CONTROL DECK] — High-level Matrix/Drone control leverage.
 
 KEY EVENTS:
 - Infiltrated Sea-Tac Hangar 14 using the Decryption Core.
@@ -83,7 +106,6 @@ REPUTATION IMPACT:
 - Public Awareness: +2 (Now 2)
 
 PERSISTENT EFFECTS:
-- [PD: INSOMNIA LEVEL 2] Gained.
 - [PA: MASTER CONTROL DECK] Gained.
 - [TAG: THE SKELETON KEY] (from earlier) remains.
 
