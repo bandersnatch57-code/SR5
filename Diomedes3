@@ -10,7 +10,7 @@ LAST UPDATED: Post Sea-Tac Heist (Project Chimera)
 LOCATION: New Safehouse (Location TBD, smells of dust and ozone)
 CONDITION: Diomedes P 11/11 | S 9/9 | EDGE 5/5
 KARMA: 16 (Session 0: 3 + Reclamation: 13)
-NUYEN: ¥121,100 (Personal liquid cash)
+NUYEN: ¥321,100 (Personal liquid cash)
 
 REPUTATION:
 - Street Cred: 2 (Black Market Kings of Redmond)
@@ -18,7 +18,6 @@ REPUTATION:
 - Public Awareness: 2 (Ares runway firefight visuals)
 
 PERSISTENT DISADVANTAGES:
-- [PD: INSOMNIA LEVEL 2] - Ongoing -1 penalty to LOG/INT/WIL tests until Diomedes gets proper rest.
 - [PD: ARES BLACK HEAT] - Ares Macrotechnology has authorized "Death Squads" for asset recovery. Active manhunt.
 
 PERSISTENT ADVANTAGES:
@@ -90,6 +89,7 @@ You don't know if they're victims. Weapons. Something worse. All you know is the
 
 --------------------------- CURRENT ASSETS & INVENTORY -------------
 KEY LOOT:
+- Ares Decryption Core ("Blue Box")
 - Ares Master Control Deck (Prototype)
 - Tactical AR-Link
 - 4x Stasis Pods (Modified Humans Inside)
