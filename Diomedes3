@@ -21,7 +21,7 @@ PERSISTENT DISADVANTAGES:
 - [PD: ARES BLACK HEAT] - Ares Macrotechnology has authorized "Death Squads" for asset recovery. Active manhunt.
 
 PERSISTENT ADVANTAGES:
-- [PA: MASTER CONTROL DECK] - Ares prototype. Grants high-level Matrix/Drone control leverage.
+- [PA: MASTER CONTROL DECK] [TAG: ARES_TRACKER] - Ares prototype. Grants high-level Matrix/Drone control leverage.
 - [PA: THE SKELETON KEY] - Bypassed a MegaCorp MacGuffin. +3 Dice to any Matrix-assisted planning tests.
 
 --------------------------- ACTIVE THREADS -------------------------
@@ -52,7 +52,6 @@ VORY V ZAKONE
 - Trigger: Diomedes surfaces in Vory territory or contacts are pressured.
 
 --------------------------- ACTIVE TIMERS --------------------------
-- Insomnia Recovery: Unknown. Requires finding a safe place and time for Diomedes to sleep properly.
 - Ares Trace: Unknown. The longer the Master Control Deck is held, the higher the chance of it being tracked.
 - Vory Patience: Unknown, but finite.
 
@@ -77,7 +76,7 @@ TWO ARES GUARDS
 - Status: Disarmed, compliant.
 - Tags: [PRISONERS] [LIABILITY?]
 
-THE FOUR PODS (Stasis Pods)
+PODS 1-4: [STATUS: STABLE] [CONTENTS: UNKNOWN/LOCKED] (Stasis Pods)
 ----------------------------------------
 Four human forms float in clear, coffin-like tanks. Condensation fogs the glass at the edges. Each is connected to a tangle of cables that feed into a central monitoring station—now dark, its screens showing only the Ares logo and the words "PROJECT CHIMERA - TIER 1."
 They could be anything. Ages? Hard to tell through the frosted glass and the pale blue fluid. Late teens? Young adults? They wear thin, featureless jumpsuits. No weapons. No visible cyberware. Just... people. Sleeping.
@@ -93,8 +92,8 @@ KEY LOOT:
 - Ares Master Control Deck (Prototype)
 - Tactical AR-Link
 - 4x Stasis Pods (Modified Humans Inside)
-- 1x Vory Cold-Storage Ledger (Encrypted)
-- 6x Jeweled Eggs (Valuable Artifacts)
+- 1x Vory Cold-Storage Ledger [TAG: ENCRYPTED_INTEL]
+- 6x Jeweled Eggs [TAG: LIQUID_ASSET](Valuable Artifacts)
 - Sonic Grenades
 - Laser Sights
 - APDS Ammo
