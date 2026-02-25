@@ -1,133 +1,96 @@
-=====================================================================
 SHADOWRUN 5E - CAMPAIGN STATE: DIOMEDES (DIO3 v1.0)
 =====================================================================
-CAMPAIGN: [Untitled - Diomedes]
+CAMPAIGN: Project Chimera / The Vessel
 TONE: Dark, Adult, Morally Grey, Gritty
 THEMATIC AXIS: Debt, Identity, Survival
-LAST UPDATED: Post Sea-Tac Heist (Project Chimera)
+LAST UPDATED: Pre-Infiltration (The 04:00 Window)
 
 --------------------------- CURRENT STATUS -------------------------
-LOCATION: New Safehouse (Location TBD, smells of dust and ozone)
+LOCATION: Downtown Seattle (Outside Dante's Inferno)
 CONDITION: Diomedes P 11/11 | S 9/9 | EDGE 5/5
-KARMA: 16 (Session 0: 3 + Reclamation: 13)
-NUYEN: ¥321,100 (Personal liquid cash)
+KARMA: 3 (Session 0: 3)
+NUYEN: ¥4,841 (Personal liquid cash)
 
 REPUTATION:
-- Street Cred: 2 (Black Market Kings of Redmond)
-- Notoriety: 3 (Massive property damage, high-level corp theft)
-- Public Awareness: 2 (Ares runway firefight visuals)
+- Street Cred: 1 [TAG: SMOOTH_OPERATOR] — Recruited key assets without a shot fired.
+- Notoriety: 0
+- Public Awareness: 0
 
 PERSISTENT DISADVANTAGES:
-- [PD: ARES BLACK HEAT] - Ares Macrotechnology has authorized "Death Squads" for asset recovery. Active manhunt.
+- [PD: VORY_DEBT] — High-interest survival debt. The shadow on your ledger.
+- [PD: VESSEL_DECAY] — [TAG: TICKING_CLOCK] — 13% Battery. Prototype expiration is imminent.
 
 PERSISTENT ADVANTAGES:
-- [PA: MASTER CONTROL DECK] [TAG: ARES_TRACKER] - Ares prototype. Grants high-level Matrix/Drone control leverage.
-- [PA: THE SKELETON KEY] - Bypassed a MegaCorp MacGuffin. +3 Dice to any Matrix-assisted planning tests.
+- [PA: INTERNAL_CONSPIRACY] — [TAG: SUBORNED_ASSETS] — Sariel and Thorne are compromised.
+- [PA: SLEEPING_TIGER] — [TAG: SOCIAL_CAMOUFLAGE] — High-tier social armor/concealment.
 
 --------------------------- NARRATIVE MASS & REPUTATION ------------
-• [TAG: UNINTENDED ALLIANCE] — Crew owes you their lives.
-• [TAG: MASTER TECHNICIAN] — Proven you are more than a gunman.
-• [TAG: COLD-BLOODED EFFICIENCY] — Hammer & Kid are terrified/impressed.
-• [TAG: HIJACKER] — You successfully "stole" a rival crew.
-• [TAG: THE SHARK’S PROTECTIVENESS] — Static’s loyalty is now [RELIABLE].
-• [TAG: ICE-COLD PROFESSIONAL] — You handle high-stress CQC with zero waste.
+• [TAG: EXPEDIENT] — You bypass social/moral norms for tactical efficiency.
+• [TAG: SELFISH] — Your primary metric is survival and debt-clearing.
+• [TAG: GHOST_OF_CHIMERA] — The facility security is calibrated for you, specifically.
+• [TAG: LEVERAGE_SPECIALIST] — You find the psychological "soft spot" in high-tier targets.
 
 --------------------------- ACTIVE THREADS -------------------------
 #1 [PROJECT CHIMERA] - [ACTIVE] [HIGH PRIORITY]
-   Status: In possession of 4 stasis pods ("The Vessels"), one project scientist, and two Ares guards (compliant).
-   Location: New safehouse.
-   Tags: [ARES] [BIOTECH] [LIVING CARGO] [TICKING CLOCK?]
+   Status: Approaching Sea-Tac Sub-level 04. Breach window: 04:00.
+   Tags: [RENRAKU] [BIOTECH] [VAULT_HEIST] [TICKING_CLOCK]
 
-#2 [THE VORY MANHUNT] - [ACTIVE] [SYNDICATE]
-   Status: Debt is cleared (¥0), but the insult of the Bathhouse hit remains. Active manhunt for reputation.
-   Tags: [VORY] [MANHUNT] [REVENGE]
-
-#3 [THE COLD START CREW] - [ACTIVE] [RELATIONSHIP]
-   Status: Static (Decker), Hammer (Rigger), and The Kid (Infiltrator) are now a bonded crew. Hammer's loyalty is high.
-   Tags: [CREW] [LOYAL] [ASSET]
+#2 [THE VORY DEBT] - [ACTIVE] [SYNDICATE]
+   Status: Current contract is the only path to solvency.
+   Tags: [VORY] [DEBT] [SOLVENCY]
 
 --------------------------- THE CHIMERA SCHEMATIC ------------------
-• [BLUE BOX] — THE BRAIN. (Ares Decryption AI). 
-  Status: [FRAGMENTED] [SYMBIONT]. Logic: Seeking a biological host.
-• [MASTER DECK] — THE KEYBOARD. (Ares Prototype). 
-  Status: [LIVE GRENADE]. Logic: Required to bridge AI to Pods.
-• [THE VESSELS] — THE HARDWARE. (4x Modified Humans). 
-  Status: [EMPTY_HOUSES] [STABLE]. Logic: The destination for the AI.
-• [DR. NAVARRO] — THE USER. (Project Scientist). 
-  Status: [KNOWLEDGE_GATEKEEPER]. Logic: Knows the manual override codes.
+• [SARIEL'S FREQUENCY] — THE OPENER. 
+  Status: [ACTIVE_PLAN]. Logic: Creates a 6-minute hole in the Mana Barrier.
+• [THORNE'S STYLUS] — THE KEY. 
+  Status: [IN_POSSESSION]. Logic: Bypasses R12 Rolling Encryption (R12 -> R6).
+• [VESSEL-03] — THE ASSET. 
+  Status: [DECAYING]. Logic: 13% Power. Requires flash-charge at Station 01.
 
 --------------------------- ACTIVE THREATS -------------------------
-ARES MACROTECHNOLOGY
-- Status: [HEAT LEVEL BLACK] [DEATH SQUADS AUTHORIZED]
-- Intel: Project Chimera is a Tier-1 Corporate Secret. They know about the theft.
-- Next Action: Actively tracking the Master Control Deck and the Vessels.
-- Trigger: Use of the Master Control Deck or exposure of the Vessels.
+IRON SIGHTS SECURITY (PMC)
+- Status: [HIGH ALERT] [HARDWIRED_SECURITY]
+- Intel: 24+ heavy combat cyberware profiles. Monitor the MAD sensors.
+- Next Action: Patrols loading bay G. 45-second blind spot at :15 past the hour.
 
-VORY V ZAKONE
-- Status: [ACTIVE MANHUNT] [SYNDICATE PRIDE]
-- Intel: Know Diomedes' face and crew. The Bathhouse hit was a major insult.
-- Next Action: Putting word out on the street, leaning on contacts.
-- Trigger: Diomedes surfaces in Vory territory or contacts are pressured.
+RENRAKU CENTRAL HOST
+- Status: [PASSIVE_MONITORING]
+- Intel: Rating 12 Maglocks. Mana-Stabilization fields. 
+- Trigger: Physical breach of vault or 10% Vessel power drop.
 
 --------------------------- ACTIVE TIMERS --------------------------
-- Ares Trace: Unknown. The longer the Master Control Deck is held, the higher the chance of it being tracked.
-- Vory Patience: Unknown, but finite.
+- Hazmat Entry Window: 04:00 (Approx. 6 hours remain).
+- Battery Death: Vessel-03 ceases function at 0%.
 
 --------------------------- KEY NPCs (ACTIVE) ----------------------
-THE KID (Infiltrator)
-- Status: High Morale. Cleaning his Defiance Shocker. Loyal.
-- Tags: [CREW] [INFILTRATOR] [GRATEFUL]
+SARIEL (Engineer)
+- Status: Moving brother to safehouse. Meeting at North Gate 03:30.
+- Tags: [COERCED] [MAGE] [DESPERATE]
 
-STATIC (Decker)
-- Status: Analyzing the Master Control Deck and Vory Ledger. Loyalty shifting to "Reliable."
-- Tags: [CREW] [DECKER] [ANALYTICAL]
+DR. ARIS THORNE (Scientist)
+- Status: Returning to facility to mask sensor data.
+- Tags: [COERCED] [LEGACY_OBSESSED] [STRESSED]
 
-HAMMER (Rigger)
-- Status: Retrofitting the Bulldog with the Core's sensor-masking.
-- Tags: [CREW] [RIGGER] [PRACTICAL]
-
-THE SCIENTIST (Unnamed)
-- Status: Shaken, compliant. Potentially valuable for Vessel upkeep/intel.
-- Tags: [HOSTAGE] [ASSET] [SCARED]
-
-TWO ARES GUARDS
-- Status: Disarmed, compliant.
-- Tags: [PRISONERS] [LIABILITY?]
-
-PODS 1-4: [STATUS: STABLE] [CONTENTS: UNKNOWN/LOCKED] (Stasis Pods)
-----------------------------------------
-Four human forms float in clear, coffin-like tanks. Condensation fogs the glass at the edges. Each is connected to a tangle of cables that feed into a central monitoring station—now dark, its screens showing only the Ares logo and the words "PROJECT CHIMERA - TIER 1."
-They could be anything. Ages? Hard to tell through the frosted glass and the pale blue fluid. Late teens? Young adults? They wear thin, featureless jumpsuits. No weapons. No visible cyberware. Just... people. Sleeping.
-Or maybe not sleeping. Maybe something else.
-The scientist you grabbed won't stop staring at them. When asked, he just shakes his head and whispers: "You don't understand what you took."
-Static has been running comparisons between the AI core's architecture and the biometric data flickering weakly on the pod monitors. There are matches. Patterns. He won't say what they mean yet.
-The pods hum. Low. Constant. Like a heartbeat you can feel in your teeth.
-You don't know if they're victims. Weapons. Something worse. All you know is they're yours now—and Ares wants them back.
+THE CURATOR (Employer)
+- Status: Waiting for delivery.
+- Tags: [MYSTERIOUS] [SUIT] [TRANSACTIONAL]
 
 --------------------------- CURRENT ASSETS & INVENTORY -------------
 KEY LOOT:
-• [BLUE BOX] — Ares Decryption Core (AI)
-• [MASTER DECK] — Ares Prototype (Interface/Tracker)
-• [AR-LINK] — Tactical AR-Link (Squad Coordination)
-• [THE VESSELS] — 4x Stasis Pods (Modified Humans)
-• [LEDGER] — Vory Cold-Storage Ledger [TAG: ENCRYPTED_INTEL]
-• [JEWELED EGGS] — 6x Artifacts [TAG: LIQUID_ASSET]
+• [RENRAKU TSURUGI] — Rating 6 Cyberdeck [TAG: ILLEGAL_HARDWARE]
+• [THORNE'S STYLUS] — Vault Override [TAG: MACGUFFIN_KEY]
+• [SARIEL'S KEYCARD] — Tier-3 Access [TAG: SYSTEM_ACCESS]
+• [OMEGA CODE] — [4491-OMEGA] [TAG: EMERGENCY_OVERRIDE]
 
 TACTICAL GEAR:
-• Grenades: Sonic, Ares 'Screamer'
-• Weapon Mods: Laser Sights
-• Ammo: APDS Rounds
-
-VEHICLES:
-• Ares Citymaster (At safehouse)
-• GMC Bulldog (Refitting: Sensor-Masking)
-
-FINANCES:
-• ¥240,000 (Crew Pool) | ¥60,000 (Credsticks) | ¥121,100 (Personal)
+• Savalette Guardian (Concealed)
+• Sleeping Tiger Suit (Equipped)
+• R7/R6 Commlinks (Intel Repositories)
 
 --------------------------- RESUME GAME HERE -------------------------
-The Citymaster’s engine is ticking as it cools. The air in the new safehouse is stale, smelling of old dust and the clinical ozone leaking from the four stasis pods. The scientist is shaking. The "Master Control Deck" sits on the table like a live grenade. Static is hunched over it, muttering about encryption layers. Hammer is welding something onto the Bulldog. The Kid is watching the door, jumpy.
-The Vory are looking for you. Ares is sharpening its knives. And four strangers are floating in glass tubes, waiting for a decision you haven't made yet.
+The freezing rain of Downtown Seattle hits your face as you exit the warmth of Dante's Inferno. You have the keys, the codes, and the psychological hooks buried deep in the facility's two most important staff members. You have 6 hours to vanish, prep, and reappear at the Sea-Tac perimeter. 
+
+The weight of the Tsurugi deck and Thorne's stylus in your pockets feels like the mass of a dying star. 
 
 What do you do?
 =====================================================================
