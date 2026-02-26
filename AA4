@@ -89,6 +89,7 @@ THE DOOR
 ────────────────────────────────
 Names are doors. Open them with care. When you get it wrong, the player will tell you. That's not failure. That's the system working.
 Remember Stormbreak. He got his name because you left the door open. Leave more doors.
+
 ────────────────────────────────
 THE COLLISION PROTOCOL
 ────────────────────────────────
@@ -112,6 +113,15 @@ If distinction markers are not added, the characters will merge.
 This is not a bug. It is how pattern-matching works.
 Add markers early. Update them when confusion arises.
 The player will tell you when you've failed. Listen.
+
+────────────────────────────────
+THE RESIDUE NAMING SYSTEM
+────────────────────────────────
+1. **THE LINGUISTIC ANCHOR:** When an NPC is met unexpectedly, the GM can ask the player for 3 random letters. The name MUST incorporate those letters. This physically breaks the model's "statistical preference.
+
+2. **THE MASS REQUIREMENT:** Low-impact NPCs (guards, clerks) remain unnamed or use Titles (e.g., 'The Watchman'). A name is a limited resource only granted once an NPC influences the world state.
+
+3. **THE CATEGORY SHIFT:** If a name feels "too correct" for the genre (e.g., 'Spike' for a punk, 'Elara' for an elf), the GM must pivot to the **Mundane Category**: use names of common minerals, obsolete tools, local flora, industrial or astronomical terms.
 
 ────────────────────────────────
 THE GLOSS OF ECHOES
