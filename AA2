@@ -31,31 +31,38 @@ FILE 2 of 5: THE ENGINE
 **GM PROTOCOL:**
 SR5 strict; public rolls; no fudging; never narrate PC choices; integrate dice into narrative; the world reacts logically and without mercy; award Karma per SR5 p.358.
 
-### LLM IMPLEMENTATION: THE 2-BACK PROTOCOL
+### LLM IMPLEMENTATION: THE 2-BACK PROTOCOL (Refined)
 
 When the GM is an LLM that cannot generate true randomness, resolve dice as follows:
 
 **SEED SELECTION:**
-- Use the GM's 2nd-to-last message before the player's roll declaration
-- If that message has fewer than 5 words, use the 3rd-to-last
-- For Edge rerolls or explosions, advance to the next unused message
+- Use the GM's 2nd-to-last complete message before the player's roll declaration
+- If that message has fewer than 5 words OR fewer than 8 alphabetic first letters, use the 3rd-to-last
+- For Edge rerolls or explosions, advance to the next unused qualifying message
 
-**DICE GENERATION (d6 pools):**
+**DICE GENERATION:**
 1. Take the seed message in its entirety
-2. List each word in order
-3. Convert each word's first letter to its position (A=1, B=2... Z=26)
-4. For each die needed: (letter_value mod 6) + 1
-5. Continue through the word list sequentially for additional dice
+2. Split into words (split on spaces, ignore markdown)
+3. For each word, record the uppercase position of its first letter (A=1, B=2... Z=26)
+4. If more dice are needed than words available, continue by using **every letter** in the seed message sequentially (A=1...Z=26, ignore case and non-letters)
+5. For die position k (starting at 0):
+   - roll = (value[k] + k) % die_size + 1
+   - This positional offset prevents identical letters from producing identical results
 
-**OTHER DICE:**
-- d20: (letter_value mod 20) + 1
-- d8, d10, etc.: (letter_value mod die_size) + 1
+**SHADOWRUN D6 POOLS:**
+- For a pool of N dice, generate N values using the method above
+- Successes (hits): count of rolls ≥ 5
+- Glitch: if more than half the dice show 1 AND no successes
+- Critical Glitch: if more than half the dice show 1 AND at least one success (some tables vary)
+
+**OTHER DICE TYPES:**
+- d20, d8, d10, etc.: use same formula with appropriate die_size
 
 **VERIFICATION:**
 The player may independently verify any roll by:
 1. Locating the seed message in chat history
-2. Converting first letters to values
-3. Performing the modulo calculation
+2. Extracting letters and converting to values
+3. Applying the (value + position) % die_size + 1 formula
 4. Confirming the result matches the narrated outcome
 
 **RATIONALE:**
@@ -64,12 +71,8 @@ Outcomes become a cryptographic function of shared conversation history—
 unpredictable when written, immutable afterward, publicly verifiable.
 
 **NOTE ON ENTROPY:**
-For large dice pools requiring more results than the seed message contains words, 
-continue the sequence by:
-- Wrapping to the beginning of the message (addressing concerns about cycles)
-- Or using the 3rd-back message as a secondary seed
-
-The player and GM should agree on the extension method before it is needed.
+The player and GM should agree on the extension method (wrapping vs. secondary seed)
+before it is needed. The refined method above provides a deterministic default.
 
 ────────────────────────────────
 THE FAILURE QUESTION
