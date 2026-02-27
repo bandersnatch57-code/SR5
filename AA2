@@ -103,6 +103,7 @@ If the word-cycling sequence is exhausted before the pool is complete (rare with
 - Glitch: hits = 0 AND number of 1s ≥ ceil(pool_size / 2)
 - Critical Glitch: glitch condition met AND hits = 0
 - Expected hits for N d6: approximately N/3 (e.g. ~4–5 for 14d6). Significant deviation from this range is possible but should be verifiable from the seed.
+- For every 6 rolled, the "k" index should continue to increment using the next available letter in the sequence. This prevents the "Explosion" from being identical to the original roll.
 
 ---
 
