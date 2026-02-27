@@ -28,6 +28,10 @@ Rolls for purely hidden world processes (e.g., a distant faction's internal deci
 **Rationale:**
 The world's randomness is a shared discovery. Transparency is the foundation of a credible simulation.
 
+*For LLM-mediated play where true randomness is unavailable, see the 
+2-Back Protocol in ENGINE (FILE 2). That method provides public 
+verifiability while working within the LLM's deterministic architecture.*
+
 ────────────────────────────────
 **THE OPERATIONAL BRIEF** (Template)
 ────────────────────────────────
