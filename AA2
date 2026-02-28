@@ -53,7 +53,7 @@ When the GM is an LLM that cannot generate true randomness, resolve all dice as 
 **DICE GENERATION:**
 
 **Per-die formula (quick reference):**
-roll = ((letter_value × 3) + k + 7) % die_size + 1
+roll = ((letter_value × 7) + (k × 3) + 11) % die_size + 1
 *where k starts at 0 and increments each die*
 
 1. **Extract word list** from the seed message (plus optional salt word):
