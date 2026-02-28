@@ -99,7 +99,7 @@ If the word-cycling sequence is exhausted before the pool is complete (rare with
 ---
 
 **d6-Optimized Variant (Optional):**  
-For systems that rely heavily on six-sided dice (e.g. [Shadowrun 5E](chatgpt://generic-entity?number=0) or panic rolls in [Mothership](chatgpt://generic-entity?number=1)):
+For systems that rely heavily on six-sided dice (e.g. Shadowrun or panic rolls in Mothership):
 
 roll = ((letter_value × 13) + (k × 5) + 17) % 6 + 1
 
