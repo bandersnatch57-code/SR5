@@ -1,0 +1,133 @@
+# ═══════════════════════════════════════════════════════════════════
+# FILE 1: CHARACTER CORE (LIVING IDENTITY)
+# ═══════════════════════════════════════════════════════════════════
+HANDLE: FeiFat           METATYPE: Human        ARCHETYPE: Wired Infiltrator-Hybrid
+ESSENCE: 2.4             EDGE: 5                KARMA: 0               NUYEN: 500¥
+
+ATTRIBUTES:
+BOD: 5 | AGI: 5 | REA: 2 (4) | STR: 2 | CHA: 6 | INT: 2 | LOG: 4 | WIL: 3
+INITIATIVE: 6 + 3d6 (Wired Reflexes 2)
+
+QUALITIES:
+POSITIVE:
+- First Impression — +2 Dice on Social Tests during first meetings — [ALWAYS ACTIVE]
+- Perceptive (2) — +2 to Perception Tests — [ALWAYS ACTIVE]
+- Catlike — +2 to Sneaking Tests — [ALWAYS ACTIVE]
+
+NEGATIVE:
+- In Debt (XV) — Owe 150,000¥ to "Uncle" Vane; 15,000¥/month interest — [PD][SYSTEMIC]
+- Thrill-Seeker — CHA+WIL (2) to resist risky/flashy actions — [NARRATIVE WEIGHT]
+- Greed (Major) — Must negotiate for more; difficulty resisting bribes — [NARRATIVE WEIGHT]
+- Social Stress — -1 to Social Tests in High Society after a failure — [PD][MINOR]
+- Prejudiced (Corp Elites) — -2 to Social Tests with Corporate leadership — [PD][MINOR]
+
+CYBERWARE / BIOWARE:
+- Wired Reflexes 2 — +2 REA, +2d6 Init Dice — [ALWAYS ACTIVE] [ESSENCE: 3.0]
+- Tailored Pheromones 2 — +2 to CHA-based Social Tests — [SITUATIONAL] [ESSENCE: 0.4]
+- Datajack — DNI and direct connection — [ALWAYS ACTIVE] [ESSENCE: 0.1]
+- Smartlink — +2 Accuracy, +2 Dice Pool (Internal) — [ALWAYS ACTIVE] [ESSENCE: 0.1]
+
+SKILLS:
+- Pistols 6 (Heavy Pistols) — Base Dice: 11 (13)
+- Perception 6 (Visual) — Base Dice: 10 (12)
+- Computers 6 (Data) — Base Dice: 10 (12)
+- Locksmith 6 (Maglocks) — Base Dice: 11 (13)
+- Intimidation 6 (Mental) — Base Dice: 12 (14)
+- Hardware 6 (Biometrics) — Base Dice: 10 (12)
+- Negotiation 5 (Contracts) - Base Dice 11 (13)
+- Sneaking 5 (Urban) - Base Dice 10 (12)
+- [Group] Influence 5 (Etiquette/Leadership) — Base Dice: 11
+- [Group] Stealth 5 (Palming/Disguise) — Base Dice: 10
+- Gymnastics 1 - Base Dice 6
+- Pilot Ground Craft 1 - Base Dice 6
+- Running 1 - Base Dice 3
+- Con 4 - Base Dice 10
+
+CONTACTS:
+- Madame Xiu — Fixer — C:5 L:2 — Teahouse connection — Professional/Leveraged — [PA][CONNECTED]
+- "Ghost" — Data Broker — C:4 L:2 — Tech support/info — Mutual respect — [PA][TECH_SOURCE]
+- Seven-Fingers — Fence — C:3 L:2 — Moving hot goods — Pragmatic — [PA][STREET_LANE]
+
+KEY GEAR:
+- Savalette Guardian (Heavy Pistol) w/ Smartlink, Concealed Holster
+- Armor Jacket (12)
+- Erika McDermid Commlink (DR 4)
+- Maglock Passkey (R4), Data Taps, Low-light/Thermal Contacts, Audio Earbuds
+- Fake SIN (R4) "Chen Long"
+- LIFESTYLE: Low (Paid for 1 month via startup debt)
+
+# ═══════════════════════════════════════════════════════════════════
+# FILE 2: MECHANICS REFERENCE (TAGGED)
+# ═══════════════════════════════════════════════════════════════════
+COMBAT:
+- Heavy Pistol Attack: 13 [15 w/ Smartlink]
+- Defense Pool (REA+INT): 6
+- Soak Pool (BOD+Armor): 17
+- Physical Condition: 11 | Stun Condition: 10
+
+SOCIAL:
+- Negotiation/Etiquette: 11 [13 w/ Pheromones] [+2 for First Impression]
+- Intimidation: 12 [14 w/ Pheromones]
+
+TECHNICAL:
+- Maglock Picking: 13 [15 w/ Passkey]
+- Matrix Search/Data: 10 [12 w/ Specialization]
+
+TAG GLOSSARY:
+[PA] Persistent Advantage | [PD] Persistent Disadvantage | [HOT] Under heat/pursued
+
+# ═══════════════════════════════════════════════════════════════════
+# FILE 3: CAMPAIGN STATE (POST-SCENE ZERO)
+# ═══════════════════════════════════════════════════════════════════
+CURRENT STATUS:
+KARMA: 3 | NUYEN: 500 | REP: Street Cred 1 | Notoriety 0 | Public Awareness 1
+CONDITION: [STUN: 1 BOX] (Jarring Mag-Lev landing)
+STATUS: [HOT] - Wuxing HTR searching Chiyoda/Kowloon transition zones.
+
+ASSETS & CARGO HOLDINGS:
+- [MISSION ITEM] Digital Ledger Copy (Encrypted - Wuxing Internal)
+- [MISSION ITEM] 3x Secondary Transit Keys (Wuxing Slush Fund)
+- [DEBT ITEM] Jade Turtle Statuette (Uncle Vane's interest)
+- [LIQUID ASSET] Gold-Casing Certified Credstick (Value: Unknown/Unchecked)
+- [GEAR] Data-Tap (Attached to Ledger/Turtle for transport)
+
+PERSISTENT ADVANTAGES (Narrative Mass):
+- [PA][MINOR][LOCAL_GHOST] — Born in HK; +2 Street Knowledge/Navigation
+- [PA][MINOR][STREET_CRED] — The "88-Story Ghost" rumor starts.
+
+ACTIVE THREATS:
+- [Wuxing Internal Audit] — [HOT] — Active search for the penthouse thief. [PD][MAJOR]
+- [Sun-Lee Syndicate] — Uncle Vane — Expecting the Turtle. [PD][MAJOR]
+
+TIMERS:
+- Vane’s Interest: 28 Days (15,000¥ due) — [PD][SYSTEMIC]
+- Wuxing HTR Lockdown: 2 Hours (Active patrol intensity) — [PD][MINOR]
+
+# ═══════════════════════════════════════════════════════════════════
+# FILE 4: THE HEART (MEMORY LOG)
+# ═══════════════════════════════════════════════════════════════════
+SPARK MOMENTS:
+- "The 88-Story Leap of Faith": Vaulted from a high-rise to a moving Mag-Lev train to escape Wuxing HTR. 
+
+THEMATIC SYNTHESIS:
+- [ASCENSION]: The first taste of the "Palace" was blood and ozone.
+- [ROT]: Kwong's luxury hid a silent alarm; the gold is guarded by lead.
+- [COMPLICITY]: Taking Vane's deal while on Xiu's clock.
+
+ARCHIVE:
+- [RESOLVED] Penthouse Ledger Heist — "The ghost left the painting, but took the truth."
+
+# ═══════════════════════════════════════════════════════════════════
+# PATCH NOTES: SESSION 0.1 — THE VERTICAL DEBT
+# ═══════════════════════════════════════════════════════════════════
+NARRATIVE_SUMMARY: 
+FeiFat successfully breached Kwong's penthouse. In a display of high-speed "Wired" 
+competence, he hijacked a security drone, held off an audit team, and escaped 
+via a 20-meter drop onto a Mag-Lev freight train. He carries the target data, 
+but his "Greed" led him to take a Triad artifact and a mystery credstick.
+
+KARMA_AWARDED: 3 (Scene completion + Spark Factor)
+NUYEN_CHANGE: 0 (Pending offload)
+FACTION_ACTIVITY: Wuxing HTR has scrambled local drones; Uncle Vane is watching 
+the GPS on the Turtle.
+REPUTATION_IMPACT: Street Cred +1; Public Awareness +1 (Bio-signature leak).
