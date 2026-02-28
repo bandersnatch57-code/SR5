@@ -78,7 +78,7 @@ roll = ((letter_value × 7) + (k × 3) + 11) % die_size + 1
       - Ignore case; non-letters cannot occur here by construction
    
    d. **Apply the per-die formula:**
-      - raw = (letter_value × 3) + k + 7
+      - raw = (letter_value × 7) + (k × 3) + 11
       - roll = (raw % die_size) + 1
       - For d6: die_size = 6
       - For d20: die_size = 20
