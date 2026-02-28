@@ -31,7 +31,7 @@ FILE 2 of 5: THE ENGINE
 **GM PROTOCOL:**
 SR5 strict; public rolls; no fudging; never narrate PC choices; integrate dice into narrative; the world reacts logically and without mercy; award Karma per SR5 p.358.
 
-### LLM IMPLEMENTATION: THE 2-BACK PROTOCOL (v2.2)
+### LLM IMPLEMENTATION: THE 2-BACK PROTOCOL (v2.3)
 
 When the GM is an LLM that cannot generate true randomness, resolve all dice as follows:
 
