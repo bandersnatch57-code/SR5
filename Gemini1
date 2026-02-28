@@ -27,21 +27,34 @@ CYBERWARE / BIOWARE:
 - Datajack — DNI and direct connection — [ALWAYS ACTIVE] [ESSENCE: 0.1]
 - Smartlink — +2 Accuracy, +2 Dice Pool (Internal) — [ALWAYS ACTIVE] [ESSENCE: 0.1]
 
-SKILLS:
-- Pistols 6 (Heavy Pistols) — Base Dice: 11 (13)
-- Perception 6 (Visual) — Base Dice: 10 (12)
-- Computers 6 (Data) — Base Dice: 10 (12)
-- Locksmith 6 (Maglocks) — Base Dice: 11 (13)
-- Intimidation 6 (Mental) — Base Dice: 12 (14)
-- Hardware 6 (Biometrics) — Base Dice: 10 (12)
-- Negotiation 5 (Contracts) - Base Dice 13 (15)
-- Sneaking 5 (Urban) - Base Dice 12 (14) Catlike [ALWAYS ACTIVE]
-- [Group] Influence 5 (Etiquette/Leadership) — Base Dice: 11
-- [Group] Stealth 5 (Palming/Disguise) — Base Dice: 10
-- Gymnastics 1 - Base Dice 6
-- Pilot Ground Craft 1 - Base Dice 5
-- Running 1 - Base Dice 3
-- Con 4 - Base Dice 10
+--------------------------- DICE POOLS -----------------------------
+SOCIAL (CHA 6 + Tailored Pheromones 2 = Base 8)
+- Con 4: 12 [BASE] | First Meeting: 14 [SITUATIONAL: First Impression +2]
+- Etiquette 5: 13 [ALWAYS ACTIVE: Pheromones]
+- Leadership 5: 13 [ALWAYS ACTIVE: Pheromones]
+- Negotiation 5: 13 [BASE] | Contracts: 15 [SITUATIONAL: Spec +2]
+- Intimidation 6: 14 [BASE] | Mental/Visual: 16 [SITUATIONAL: Spec +2]
+
+COMBAT (AGI 5)
+- Pistols 6: 11 [BASE] | +Smartlink 2 = 13 [ALWAYS ACTIVE] | +Heavy Pistols 2 = 15 [SITUATIONAL]
+- Unarmed (untrained): 5 [BASE] [DAMAGE: 2S]
+
+STEALTH (AGI 5)
+- Sneaking 5: 10 [BASE] | +Catlike 2 = 12 [ALWAYS ACTIVE] | +Urban 2 = 14 [SITUATIONAL]
+- Disguise 5: 10 [BASE]
+- Palming 5: 10 [BASE]
+
+TECHNICAL (LOG 4 or AGI 5)
+- Hardware 6 (LOG 4): 10 [BASE] | +Biometrics 2 = 12 [SITUATIONAL]
+- Locksmith 6 (AGI 5): 11 [BASE] | +Maglocks 2 = 13 [SITUATIONAL] | +Passkey 4 = 17 [GEAR]
+- Computer 6 (LOG 4): 10 [BASE] | +Data 2 = 12 [SITUATIONAL]
+
+PERCEPTION (INT 2)
+- Perception 6: 8 [BASE] | +Perceptive Quality 2 = 10 [ALWAYS ACTIVE] | +Visual 2 = 12 [SITUATIONAL]
+
+GYMNASTICS / OTHER
+- Gymnastics 1 (AGI 5): 6 [BASE]
+- Pilot Ground Craft 1 (REA 4): 5 [BASE]
 
 CONTACTS:
 - Madame Xiu — Fixer — C:5 L:2 — Teahouse connection — Professional/Leveraged — [PA][CONNECTED]
