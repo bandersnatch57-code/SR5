@@ -2,7 +2,7 @@
 # FILE 1: CHARACTER CORE (LIVING IDENTITY)
 # ═══════════════════════════════════════════════════════════════════
 HANDLE: FeiFat           METATYPE: Human        ARCHETYPE: Wired Infiltrator-Hybrid
-ESSENCE: 2.4             EDGE: 5                KARMA: 0               NUYEN: 500¥
+ESSENCE: 2.4             EDGE: 5              
 
 ATTRIBUTES:
 BOD: 5 | AGI: 5 | REA: 2 (4) | STR: 2 | CHA: 6 | INT: 2 | LOG: 4 | WIL: 3
