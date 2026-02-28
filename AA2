@@ -126,7 +126,9 @@ The player may independently verify any roll by:
 2. For each die to verify:
    - Identify the source word and letter position per the cycle rule (remembering player salt if used)
    - Convert that letter to its number (A=1...Z=26)
-   - Apply ((value × 3) + k + 7) % die_size + 1
+   - Apply ((letter_value × 7) + (k × 3) + 11) % die_size + 1
+       •	If using the d6-optimized variant, apply ((letter_value × 13) + (k × 5) + 17) % 6 + 1 (or the alternate ×5 + k×7 + 13) instead of the universal formula.
+
 3. Confirming the result matches the GM's narrated outcome
 
 *Full verification of every die is unnecessary; spot-checking 2-3 dice per session establishes trust.*
