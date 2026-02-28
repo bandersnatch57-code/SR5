@@ -100,7 +100,7 @@ TAG GLOSSARY:
 CURRENT STATUS:
 KARMA: 7 | NUYEN: 100,500¥ | REP: Street Cred 1 | Notoriety 0 | Public Awareness 1
 CONDITION: [STUN: 1 BOX] (Jarring Mag-Lev landing)
-STATUS: [GHOST] - You have disappeared from the grid.
+STATUS: [SAFE_HOUSE] - Wuxing cannot find you here.
 
 [NEW ABILITY] Azure Heaven Backdoor: Can attempt to "Brick" or "Overload" Sun-Lee cyberware in a 50m radius.
 
@@ -128,8 +128,12 @@ ITEM,METADATA & NARRATIVE MASS [DO NOT DELETE]:
 PERSISTENT ADVANTAGES (Narrative Mass):
 - [PA][MINOR][LOCAL_GHOST] — Born in HK; +2 Street Knowledge/Navigation
 - [PA][MINOR][STREET_CRED] — The "88-Story Ghost" rumor starts.
-- [PD][MAXIMUM][SUN-LEE_VENGEANCE] — You are a "Dead Man Walking" to the Triads.
+- [PA][TITLE] - Li-Hai: You are now a high-ranking lieutenant in a rising criminal empire.
 - [PA][LEGENDARY][THE_DRAGON_THIEF] — Your name is being whispered in every data-haven in the world.
+
+PERSISTENT DISADVANTAGES:
+- [PD][DEATH_MARK] - Vane: Once the leak starts, Vane will have nothing left to lose. He will be at his most dangerous.
+- [PD][MAXIMUM][SUN-LEE_VENGEANCE] — You are a "Dead Man Walking" to the Triads.
 
 ACTIVE THREATS:
 - [Wuxing Internal Audit] — [HOT] — Active search for the penthouse thief. [PD][MAJOR]
