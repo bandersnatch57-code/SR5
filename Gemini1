@@ -101,7 +101,7 @@ TAG GLOSSARY:
 CURRENT STATUS:
 KARMA: 7 | NUYEN: 30,500¥ | REP: Street Cred 1 | Notoriety 0 | Public Awareness 1
 CONDITION: [STUN: 1 BOX] (Jarring Mag-Lev landing)
-STATUS: [HOT] - Wuxing HTR searching Chiyoda/Kowloon transition zones.
+STATUS: [GHOST] - You have disappeared from the grid.
 
 ASSETS & CARGO HOLDINGS:
 - [MISSION ITEM] Digital Ledger Copy (Encrypted - Wuxing Internal)
@@ -109,10 +109,25 @@ ASSETS & CARGO HOLDINGS:
 - [DEBT ITEM] Jade Turtle Statuette (Uncle Vane's interest)
 - [LIQUID ASSET] Gold-Casing Certified Credstick (Value: ¥25,000)
 - [GEAR] Data-Tap (Attached to Ledger/Turtle for transport)
+- Dragon Drive
+- Sun-Lee Signet Ring
+- Triad Sequencer
+
+ITEM,METADATA & NARRATIVE MASS [DO NOT DELETE]:
+- The Dragon Drive,[LEVERAGE: EXTREME] Contains Sun-Lee Syndicate's 50-year history of bribes and blood-oaths. [SPOILER] Proves Uncle Vane is a traitor funneling Triad money into Wuxing stock.
+- Jade Turtle,"[FACTION: SUN-LEE] Ancestral ""Foundation"" artifact. Stolen from Uncle Vane at gunpoint. Marking FeiFat as Ren'ei (Betrayer)."
+- Wuxing Ledger,"[LEVERAGE: HIGH] Digital ghost-mirror of Mr. Kwong’s 88th-floor safe. Contains Wuxing ""Black Site"" payrolls and Commissioner Lau’s bribe records."
+- Sun-Lee Signet Ring,[POLITICAL: HEAVY] Physical proof of rank stolen from Vane. Can be used to spoof Triad dead-drops or frame others for Syndicate business.
+- Triad Sequencer,"[TECH: ILLEGAL] Specialized hacking tool for infrastructure override. Currently slaved to FeiFat's commlink; ""Hot"" signature."
+- Gold Credstick,"[ASSET: LIQUID] 25,000¥ siphoned. GPS scrubbed but the ""Value-Theft"" is logged in Wuxing's central banking audit."
 
 PERSISTENT ADVANTAGES (Narrative Mass):
 - [PA][MINOR][LOCAL_GHOST] — Born in HK; +2 Street Knowledge/Navigation
 - [PA][MINOR][STREET_CRED] — The "88-Story Ghost" rumor starts.
+- [PD][MAXIMUM][SUN-LEE_VENGEANCE] — You are a "Dead Man Walking" to the Triads.
+- [PD][MAJOR][WUXING_WARRANT] — You are a wanted terrorist in the corporate sector.
+- [PA][LEGENDARY][THE_DRAGON_THIEF] — Your name is being whispered in every data-haven in the world.
+
 
 ACTIVE THREATS:
 - [Wuxing Internal Audit] — [HOT] — Active search for the penthouse thief. [PD][MAJOR]
@@ -127,15 +142,19 @@ TIMERS:
 # ═══════════════════════════════════════════════════════════════════
 SPARK MOMENTS:
 - "The 88-Story Leap of Faith": Vaulted from a high-rise to a moving Mag-Lev train to escape Wuxing HTR. 
+- "The Lantau Revelation" — Learning that your hunter is more corrupt than you are.
 
 THEMATIC SYNTHESIS:
 - [ASCENSION]: The first taste of the "Palace" was blood and ozone.
 - [ROT]: Kwong's luxury hid a silent alarm; the gold is guarded by lead.
 - [COMPLICITY]: Taking Vane's deal while on Xiu's clock.
+- [REBIRTH] — The "Vessel" is no longer a debtor; it is a weapon.
 
 ARCHIVE:
 - [RESOLVED] Penthouse Ledger Heist — "The ghost left the painting, but took the truth."
-
+- [THE INCIDENT]: FeiFat held a Savalette Guardian to Uncle Vane's throat in a Kowloon alley and escaped via a hijacked cargo drone.
+- [THE SECRET]: FeiFat knows Vane is a Wuxing double-agent. Vane knows FeiFat knows.
+- [THE HUNTER]: Wuxing HTR and Sun-Lee "Red Poles" are both actively hunting Lantau Island.
 # ═══════════════════════════════════════════════════════════════════
 # PATCH NOTES: SESSION 0.1 — THE VERTICAL DEBT
 # ═══════════════════════════════════════════════════════════════════
@@ -165,9 +184,7 @@ FINAL NUYEN: 30,500¥
 THE VESSEL STATE (FILE 3):
 
 [PD][MAXIMUM][SUN-LEE_VENGEANCE] — You are a "Dead Man Walking" to the Triads.
-
 [PD][MAJOR][WUXING_WARRANT] — You are a wanted terrorist in the corporate sector.
-
 [PA][LEGENDARY][THE_DRAGON_THIEF] — Your name is being whispered in every data-haven in the world.
 
 MEMORY LOG (FILE 4):
