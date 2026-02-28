@@ -102,6 +102,8 @@ KARMA: 7 | NUYEN: 100,500¥ | REP: Street Cred 1 | Notoriety 0 | Public Awarenes
 CONDITION: [STUN: 1 BOX] (Jarring Mag-Lev landing)
 STATUS: [GHOST] - You have disappeared from the grid.
 
+[NEW ABILITY] Azure Heaven Backdoor: Can attempt to "Brick" or "Overload" Sun-Lee cyberware in a 50m radius.
+
 ASSETS & CARGO HOLDINGS:
 - [MISSION ITEM] Digital Ledger Copy (Encrypted - Wuxing Internal)
 - [MISSION ITEM] 3x Secondary Transit Keys (Wuxing Slush Fund)
@@ -110,6 +112,9 @@ ASSETS & CARGO HOLDINGS:
 - [GEAR] Data-Tap (Attached to Ledger/Turtle for transport)
 - Dragon Drive copy
 - Triad Sequencer
+- Azure Heaven Optical Chip: Hidden inside the Jade Turtle.
+
+[INTEL] Vane’s Location: Escaping on the yacht Silver Dragon via Wuxing credentials.
 
 ITEM,METADATA & NARRATIVE MASS [DO NOT DELETE]:
 - The Dragon Drive copy,[LEVERAGE: EXTREME] Contains Sun-Lee Syndicate's 50-year history of bribes and blood-oaths. [SPOILER] Proves Uncle Vane is a traitor funneling Triad money into Wuxing stock.
@@ -118,13 +123,13 @@ ITEM,METADATA & NARRATIVE MASS [DO NOT DELETE]:
 - Sun-Lee Signet Ring,[POLITICAL: HEAVY] Physical proof of rank stolen from Vane. Can be used to spoof Triad dead-drops or frame others for Syndicate business.
 - Triad Sequencer,"[TECH: ILLEGAL] Specialized hacking tool for infrastructure override. Currently slaved to FeiFat's commlink; ""Hot"" signature."
 - Gold Credstick,"[ASSET: LIQUID] 25,000¥ siphoned. GPS scrubbed but the ""Value-Theft"" is logged in Wuxing's central banking audit."
+- [INTEL] Vane’s Location: Escaping on the yacht Silver Dragon via Wuxing credentials.
 
 PERSISTENT ADVANTAGES (Narrative Mass):
 - [PA][MINOR][LOCAL_GHOST] — Born in HK; +2 Street Knowledge/Navigation
 - [PA][MINOR][STREET_CRED] — The "88-Story Ghost" rumor starts.
 - [PD][MAXIMUM][SUN-LEE_VENGEANCE] — You are a "Dead Man Walking" to the Triads.
 - [PA][LEGENDARY][THE_DRAGON_THIEF] — Your name is being whispered in every data-haven in the world.
-
 
 ACTIVE THREATS:
 - [Wuxing Internal Audit] — [HOT] — Active search for the penthouse thief. [PD][MAJOR]
