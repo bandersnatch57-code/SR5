@@ -98,6 +98,18 @@ If the word-cycling sequence is exhausted before the pool is complete (rare with
 
 ---
 
+**d6-Optimized Variant (Optional):**  
+For systems that rely heavily on six-sided dice (e.g. [Shadowrun 5E](chatgpt://generic-entity?number=0) or panic rolls in [Mothership](chatgpt://generic-entity?number=1)):
+
+roll = ((letter_value × 13) + (k × 5) + 17) % 6 + 1
+
+This variant is co-prime with 6 and yields a flatter distribution while remaining fully verifiable under the same seed-and-salt rules.  
+If you prefer a slightly different diffusion, you may substitute:
+
+roll = ((letter_value × 5) + (k × 7) + 13) % 6 + 1
+
+Either form can safely replace the universal rule for large d6 pools.
+
 **SHADOWRUN 5E SPECIFIC (d6):**
 - Hits: results of 5 or 6
 - Glitch: hits = 0 AND number of 1s ≥ ceil(pool_size / 2)
