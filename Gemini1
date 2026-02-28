@@ -22,7 +22,7 @@ NEGATIVE:
 
 CYBERWARE / BIOWARE:
 - Wired Reflexes 2 — +2 REA, +2d6 Init Dice — [ALWAYS ACTIVE] [ESSENCE: 3.0]
-- Tailored Pheromones 2 — +2 to CHA-based Social Tests — [SITUATIONAL] [ESSENCE: 0.4]
+- Tailored Pheromones 2 — +2 to CHA-based Social Tests — [ALWAYS ACTIVE] [ESSENCE: 0.4]
 - Datajack — DNI and direct connection — [ALWAYS ACTIVE] [ESSENCE: 0.1]
 - Smartlink — +2 Accuracy, +2 Dice Pool (Internal) — [ALWAYS ACTIVE] [ESSENCE: 0.1]
 
@@ -35,10 +35,10 @@ Underground Architecture (Vertical Shortcuts): 2
 --------------------------- DICE POOLS -----------------------------
 SOCIAL (CHA 6 + Tailored Pheromones 2 = Base 8)
 - Con 4: 12 [BASE] | First Meeting: 14 [SITUATIONAL: First Impression +2]
-- Etiquette 5: 13 [ALWAYS ACTIVE: Pheromones]
+- Etiquette 5: 13 [ALWAYS ACTIVE: Pheromones] First Meeting: 16 [SITUATIONAL: First Impression +2]
 - Leadership 5: 13 [ALWAYS ACTIVE: Pheromones]
-- Negotiation 5: 13 [BASE] | Contracts: 15 [SITUATIONAL: Spec +2]
-- Intimidation 6: 14 [BASE] | Mental/Visual: 16 [SITUATIONAL: Spec +2]
+- Negotiation 5: 13 [BASE] | Contracts: 15 [SITUATIONAL: Spec +2] First Meeting: 17 [SITUATIONAL: First Impression +2]
+- Intimidation 6: 14 [BASE] | Mental/Visual: 16 [SITUATIONAL: Spec +2] First Meeting: 18 [SITUATIONAL: First Impression +2]
 
 COMBAT (AGI 5)
 - Pistols 6: 11 [BASE] | +Smartlink 2 = 13 [ALWAYS ACTIVE] | +Heavy Pistols 2 = 15 [SITUATIONAL]
@@ -114,8 +114,6 @@ ASSETS & CARGO HOLDINGS:
 - Triad Sequencer
 - Azure Heaven Optical Chip: Hidden inside the Jade Turtle.
 
-[INTEL] Vane’s Location: Escaping on the yacht Silver Dragon via Wuxing credentials.
-
 ITEM,METADATA & NARRATIVE MASS [DO NOT DELETE]:
 - The Dragon Drive copy,[LEVERAGE: EXTREME] Contains Sun-Lee Syndicate's 50-year history of bribes and blood-oaths. [SPOILER] Proves Uncle Vane is a traitor funneling Triad money into Wuxing stock.
 - Jade Turtle,"[FACTION: SUN-LEE] Ancestral ""Foundation"" artifact. Stolen from Uncle Vane at gunpoint. Marking FeiFat as Ren'ei (Betrayer)."
@@ -123,7 +121,7 @@ ITEM,METADATA & NARRATIVE MASS [DO NOT DELETE]:
 - Sun-Lee Signet Ring,[POLITICAL: HEAVY] Physical proof of rank stolen from Vane. Can be used to spoof Triad dead-drops or frame others for Syndicate business.
 - Triad Sequencer,"[TECH: ILLEGAL] Specialized hacking tool for infrastructure override. Currently slaved to FeiFat's commlink; ""Hot"" signature."
 - Gold Credstick,"[ASSET: LIQUID] 25,000¥ siphoned. GPS scrubbed but the ""Value-Theft"" is logged in Wuxing's central banking audit."
-- [INTEL] Vane’s Location: Escaping on the yacht Silver Dragon via Wuxing credentials.
+- [INTEL] Vane’s Location: Escaping on the yacht Silver Dragon via Wuxing credentials (¥200,000 bounty).
 
 PERSISTENT ADVANTAGES (Narrative Mass):
 - [PA][MINOR][LOCAL_GHOST] — Born in HK; +2 Street Knowledge/Navigation
@@ -142,8 +140,6 @@ ACTIVE THREATS:
 - [COLD] Wuxing: Searching for a "ghost," but the trail has been muddied by Xiu.
 
 TIMERS:
-- Vane’s Interest: 28 Days (15,000¥ due) — [PD][SYSTEMIC]
-- Wuxing HTR Lockdown: 2 Hours (Active patrol intensity) — [PD][MINOR]
 
 # ═══════════════════════════════════════════════════════════════════
 # FILE 4: THE HEART (MEMORY LOG)
