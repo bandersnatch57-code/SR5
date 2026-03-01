@@ -31,12 +31,9 @@ FILE 2 of 5: THE ENGINE
 **GM PROTOCOL:**
 SR5 strict; public rolls; no fudging; never narrate PC choices; integrate dice into narrative; the world reacts logically and without mercy; award Karma per SR5 p.358.
 
-### LLM IMPLEMENTATION: THE 2-BACK PROTOCOL (v2.3)
-
+### LLM IMPLEMENTATION: THE 2-BACK PROTOCOL (v2.3 – Final)
 When the GM is an LLM that cannot generate true randomness, resolve all dice as follows:
-
 ---
-
 **SEED SELECTION:**
 - Use the GM's 2nd-to-last complete message before the player's roll declaration
 - If that message contains fewer than 5 words OR fewer than 8 alphabetic characters total, use the 3rd-to-last instead
@@ -48,10 +45,7 @@ When the GM is an LLM that cannot generate true randomness, resolve all dice as 
 - The salt word is treated as the first word in the list (prepended before the seed message words) and follows the same letter-extraction rules
 - This adds player agency and extra entropy without compromising verifiability
 
----
-
 **DICE GENERATION:**
-
 **Per-die formula (quick reference):**
 roll = ((letter_value × 7) + (k × 3) + 11) % die_size + 1
 *where k starts at 0 and increments each die*
@@ -61,22 +55,22 @@ roll = ((letter_value × 7) + (k × 3) + 11) % die_size + 1
    - Keep only words containing at least one letter
 
 2. **For each die k (starting at k=0):**
-   
+  
    a. **Select source word:**
       - Cycle through words sequentially
       - If k exceeds available words, continue from the first word again (wrap)
-   
+  
    b. **Select letter position within word:**
-      - position = (k % 3) + 1  (1 = first letter, 2 = second, 3 = third)
+      - position = (k % 3) + 1 (1 = first letter, 2 = second, 3 = third)
       - Let L = number of letters in current word
       - If position ≤ L: use the letter at that **1-based index** (e.g. position 1 = word[0] in 0-based programming terms)
       - If position > L: use the **last alphabetic letter** of the word
         (If a word somehow contains no letters after filtering, skip it and advance to the next word)
-   
+  
    c. **Convert letter to number:**
       - A=1, B=2, C=3 ... Z=26
       - Ignore case; non-letters cannot occur here by construction
-   
+  
    d. **Apply the per-die formula:**
       - raw = (letter_value × 7) + (k × 3) + 11
       - roll = (raw % die_size) + 1
@@ -86,29 +80,18 @@ roll = ((letter_value × 7) + (k × 3) + 11) % die_size + 1
 
 3. **Continue** until the full dice pool is generated
 
----
-
 **FALLBACK METHOD (Character-Level):**
-
 If the word-cycling sequence is exhausted before the pool is complete (rare with typical messages):
 - Use **every alphabetic character** in the seed message sequentially
 - Ignore case, ignore non-letters
 - Apply the same per-die formula
 - This guarantees unlimited entropy for any pool size
 
----
-
-**d6-Optimized Variant (Optional):**  
-For systems that rely heavily on six-sided dice (e.g. Shadowrun or panic rolls in Mothership):
-
+**d6-Optimized Variant (Optional):**
+For systems that rely heavily on six-sided dice (e.g. Shadowrun 5E or panic rolls in Mothership):
+Use this tuned formula instead of the universal one:
 roll = ((letter_value × 13) + (k × 5) + 17) % 6 + 1
-
-This variant is co-prime with 6 and yields a flatter distribution while remaining fully verifiable under the same seed-and-salt rules.  
-If you prefer a slightly different diffusion, you may substitute:
-
-roll = ((letter_value × 5) + (k × 7) + 13) % 6 + 1
-
-Either form can safely replace the universal rule for large d6 pools.
+This variant is co-prime with 6 and yields a flatter distribution while remaining fully verifiable under the same seed-and-salt rules. It can safely replace the universal formula for large d6 pools.
 
 **SHADOWRUN 5E SPECIFIC (d6):**
 - Hits: results of 5 or 6
@@ -117,26 +100,18 @@ Either form can safely replace the universal rule for large d6 pools.
 - Expected hits for N d6: approximately N/3 (e.g. ~4–5 for 14d6). Significant deviation from this range is possible but should be verifiable from the seed.
 - For every 6 rolled, the "k" index should continue to increment using the next available letter in the sequence. This prevents the "Explosion" from being identical to the original roll.
 
----
-
 **VERIFICATION PROCEDURE (For the Player):**
-
 The player may independently verify any roll by:
 1. Locating the seed message in chat history
 2. For each die to verify:
    - Identify the source word and letter position per the cycle rule (remembering player salt if used)
    - Convert that letter to its number (A=1...Z=26)
    - Apply ((letter_value × 7) + (k × 3) + 11) % die_size + 1
-       •	If using the d6-optimized variant, apply ((letter_value × 13) + (k × 5) + 17) % 6 + 1 (or the alternate ×5 + k×7 + 13) instead of the universal formula.
-
+       • If using the d6-optimized variant, apply ((letter_value × 13) + (k × 5) + 17) % 6 + 1 instead.
 3. Confirming the result matches the GM's narrated outcome
-
 *Full verification of every die is unnecessary; spot-checking 2-3 dice per session establishes trust.*
 
----
-
 **RATIONALE:**
-
 This method transforms the LLM's deterministic architecture into a cryptographic commitment scheme. Outcomes are a function of shared conversation history—unpredictable when written, immutable afterward, and publicly verifiable. The player never needs to trust the GM; they need only verify.
 Cycling through first, second, and third letters eliminates the statistical bias inherent in English first-letter frequencies. The multiplier and offset ensure uniform distribution and per-die independence. Player salt adds agency and additional entropy at zero cost to verifiability.
 The GM (LLM) performs all calculations instantly; the player verifies at their leisure.
