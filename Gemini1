@@ -17,8 +17,6 @@ POSITIVE:
 NEGATIVE:
 - Thrill-Seeker — CHA+WIL (2) to resist risky/flashy actions — [NARRATIVE WEIGHT]
 - Greed (Major) — Must negotiate for more; difficulty resisting bribes — [NARRATIVE WEIGHT]
-- Social Stress — -1 to Social Tests in High Society after a failure — [PD][MINOR]
-- Prejudiced (Corp Elites) — -2 to Social Tests with Corporate leadership — [PD][MINOR]
 
 CYBERWARE / BIOWARE:
 - Wired Reflexes 2 — +2 REA, +2d6 Init Dice — [ALWAYS ACTIVE] [ESSENCE: 3.0]
@@ -282,6 +280,8 @@ TOTAL_LIQUID: 258,500¥
 FACTION_ACTIVITY: - Sun-Lee Syndicate: In chaos. Madame Xiu is consolidating power.
 Wuxing: Investigating the "terrorist" destruction of their yacht.
 The "Ghost": Uncle Vane is officially dead to the world, but active in the shadows.
+
+THEMATIC SYNTHESIS: [INDEPENDENCE] — You have a patron in Xiu, but you are no longer her slave.
 
 REPUTATION_IMPACT: - Street Cred +1 (Total: 2): Word of the yacht explosion is everywhere.
 Notoriety +1 (Total: 1): You are officially "dirty" for lying to a Fixer.
