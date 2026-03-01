@@ -133,7 +133,7 @@ TAG GLOSSARY:
 # ═══════════════════════════════════════════════════════════════════
 CURRENT STATUS:
 KARMA: 12 | NUYEN: 258,500¥ | REP: Street Cred 2 | Notoriety 1 | Public Awareness 2
-CONDITION: [PHYSICAL: 3 BOXES] (Gunshot graze) | [STUN: 1 BOX] (Wired Comedown)
+CONDITION: [PHYSICAL: 2/11 BOXES] (Gunshot graze) | [STUN: 0/10 BOX] (Wired Comedown)
 STATUS: [SAFE_HOUSE] Xiu 'Cold Site' Kowloon Underground - Shielded/Warded.
 
 FeiFat is the "[KINGMAKER]." FeiFat holds the Ledger [CORPORATE DEATH] and the Aegis [DIGITAL LIFE]. Madame Xiu is [LOYAL] because FeiFat is the only reason she isn't a memory. The world is Corporate Gothic—everything beautiful is dying, and everything powerful is corrupt. No "God-Mode." No "Yes-And." Only cause, effect, and the weight of the nuyen.
@@ -202,74 +202,17 @@ ARCHIVE:
 
 --- RESUME GAME HERE ---
 
-The air in the Cold Site is stagnant, smelling of old copper and the ozone of your cooling cyberware. The Aegis Protocol hums a sub-vocal frequency in the back of your skull, a rhythmic white noise that confirms you are finally untethered.
-But the body remembers what the digital mind tries to ignore. Your thigh is a mess of shredded synth-fabric and raw nerves, the failed field-patch beginning to seep dark through the floorboards. The quarter-million nuyen sits in the shadows—a mountain of wealth that you currently lack the strength to carry.
-The silence of the safehouse is absolute, which in Kowloon is its own kind of warning. You have the codes, you have the credits, and you have the lie. But right now, you are just a man bleeding in the dark.
+Location: Central District Noodle Shop
+Time: 02:07 AM
+Condition: Physical 2/11 (Septic risk cleared) | Stun 0/10
+
+Madame Xiu watches as you process the magnitude of her request. Framing a Police Commissioner in a Wuxing-owned server hub isn't just a run; it’s an act of war against the FEZ's legal structure.
+"The hub is a ghost-box," Xiu says, her voice barely a whisper over the sound of boiling water. "Azure Heaven handles the high-bandwidth encryption for the harbor police. If you use the Triad Sequencer, the system will think you're Vane—or at least someone with his authority. You don't need to break the door down; you just need to walk in and leave a trail of breadcrumbs leading from Lau’s personal accounts to the Wuxing Slush Fund."
+She slides a specialized Data Tap toward you.
+"Once the audit begins, Lau will have to choose: fall on his sword, or become our shield. Which will it be, FeiFat? Do you want to slip into the Azure Heaven tonight, or do you have another way to tighten the noose?"
 
 What do you do?
 
-# ═══════════════════════════════════════════════════════════════════
-# FILE 3: CAMPAIGN STATE (POST-SCENE ZERO)
-# ═══════════════════════════════════════════════════════════════════
-CURRENT STATUS:
-KARMA: 7 | NUYEN: 100,500¥ | REP: Street Cred 1 | Notoriety 0 | Public Awareness 1
-CONDITION: [STUN: 1 BOX] (Jarring Mag-Lev landing)
-STATUS: [SAFE_HOUSE] Xiu 'Cold Site' Kowloon Underground - Wuxing cannot find you here.
-
-[NEW ABILITY] Azure Heaven Backdoor: Can attempt to "Brick" or "Overload" Sun-Lee cyberware in a 50m radius.
-
-ASSETS & CARGO HOLDINGS:
-- [MISSION ITEM] Digital Ledger Copy (Encrypted - Wuxing Internal)
-- [MISSION ITEM] 3x Secondary Transit Keys (Wuxing Slush Fund)
-- [DEBT ITEM] Jade Turtle Statuette (Uncle Vane's interest)
-- [LIQUID ASSET] Gold-Casing Certified Credstick (Value: ¥25,000)
-- [GEAR] Data-Tap (Attached to Ledger/Turtle for transport)
-- Dragon Drive copy
-- Triad Sequencer
-- Azure Heaven Optical Chip: Hidden inside the Jade Turtle.
-
-ITEM,METADATA & NARRATIVE MASS [DO NOT DELETE]:
-- The Dragon Drive copy,[LEVERAGE: EXTREME] Contains Sun-Lee Syndicate's 50-year history of bribes and blood-oaths. [SPOILER] Proves Uncle Vane is a traitor funneling Triad money into Wuxing stock.
-- Jade Turtle,"[FACTION: SUN-LEE] Ancestral ""Foundation"" artifact. Stolen from Uncle Vane at gunpoint. Marking FeiFat as Ren'ei (Betrayer)."
-- Wuxing Ledger,"[LEVERAGE: HIGH] Digital ghost-mirror of Mr. Kwong’s 88th-floor safe. Contains Wuxing ""Black Site"" payrolls and Commissioner Lau’s bribe records."
-- Sun-Lee Signet Ring,[POLITICAL: HEAVY] Physical proof of rank stolen from Vane. Can be used to spoof Triad dead-drops or frame others for Syndicate business.
-- Triad Sequencer,"[TECH: ILLEGAL] Specialized hacking tool for infrastructure override. Currently slaved to FeiFat's commlink; ""Hot"" signature."
-- Gold Credstick,"[ASSET: LIQUID] 25,000¥ siphoned. GPS scrubbed but the ""Value-Theft"" is logged in Wuxing's central banking audit."
-- [INTEL] Vane’s Location: Escaping on the yacht Silver Dragon via Wuxing credentials (¥200,000 bounty).
-
-PERSISTENT ADVANTAGES (Narrative Mass):
-- [PA][MINOR][LOCAL_GHOST] — Born in HK; +2 Street Knowledge/Navigation
-- [PA][MINOR][STREET_CRED] — The "88-Story Ghost" rumor starts.
-- [PA][TITLE] - Li-Hai: You are now a high-ranking lieutenant in a rising criminal empire.
-- [PA][LEGENDARY][THE_DRAGON_THIEF] — Your name is being whispered in every data-haven in the world.
-
-PERSISTENT DISADVANTAGES:
-- [PD][DEATH_MARK] - Vane: Once the leak starts, Vane will have nothing left to lose. He will be at his most dangerous.
-- [PD][MAXIMUM][SUN-LEE_VENGEANCE] — You are a "Dead Man Walking" to the Triads.
-
-ACTIVE THREATS:
-- [COLD] Wuxing: Searching for a "ghost," but the trail has been muddied by Xiu.
-
-TIMERS:
-
-# ═══════════════════════════════════════════════════════════════════
-# FILE 4: THE HEART (MEMORY LOG)
-# ═══════════════════════════════════════════════════════════════════
-SPARK MOMENTS:
-- "The 88-Story Leap of Faith": Vaulted from a high-rise to a moving Mag-Lev train to escape Wuxing HTR. 
-- "The Lantau Revelation" — Learning that your hunter is more corrupt than you are.
-
-THEMATIC SYNTHESIS:
-- [ASCENSION]: The first taste of the "Palace" was blood and ozone.
-- [ROT]: Kwong's luxury hid a silent alarm; the gold is guarded by lead.
-- [COMPLICITY]: Taking Vane's deal while on Xiu's clock.
-- [REBIRTH] — The "Vessel" is no longer a debtor; it is a weapon.
-
-ARCHIVE:
-- [RESOLVED] Penthouse Ledger Heist — "The ghost left the painting, but took the truth."
-- [THE INCIDENT]: FeiFat held a Savalette Guardian to Uncle Vane's throat in a Kowloon alley and escaped via a hijacked cargo drone.
-- [THE SECRET]: FeiFat knows Vane is a Wuxing double-agent. Vane knows FeiFat knows.
-- [THE HUNTER]: Wuxing HTR and Sun-Lee "Red Poles" are both actively hunting Lantau Island.
 # ═══════════════════════════════════════════════════════════════════
 # PATCH NOTES: SESSION 0.1 — THE VERTICAL DEBT
 # ═══════════════════════════════════════════════════════════════════
