@@ -89,6 +89,37 @@ TECHNICAL:
 - Maglock Picking: 13 [15 w/ Passkey]
 - Matrix Search/Data: 10 [12 w/ Specialization]
 
+--------------------------- DERIVED STATS --------------------------
+INITIATIVE: 8 + 3d6 (REA 4 + INT 2) [ALWAYS ACTIVE: Wired 2]
+COMPOSURE: 8 (WIL 2 + CHA 6)
+JUDGE INTENTIONS: 8 (INT 2 + CHA 6)
+
+LIMITS:
+- Physical: 5 | 6 for Sneaking (Catlike)
+- Mental: 5
+- Social: 7 
+
+--------------------------- COMBAT FLOW ----------------------------
+1. ATTACK: Skill Pool vs. Dodge
+2. DV: Base 8P + Net Hits (Savalette)
+3. AP: -1 (Base) + -4 (APDS) = -5 Total
+4. SOAK: Target Body + (Armor - 5)
+
+-------------------------- ACTIVE COMBAT BLOCK ---------------------
+WEAPON: SAVALETTE GUARDIAN (Heavy Pistol)
+- POOL: 15 (Pistols 6 + Spec 2 + AGI 5 + Smartlink 2)
+- ACCURACY: 7 (Base 5 + Smartlink 2)
+- DAMAGE: 8P (Physical) + net hits
+- AP: -5 (Base -1 + APDS -4)
+- MODES: SA / BF (Burst Fire: -3 to Defense, +1 DV for long burst)
+- RECOIL COMPENSATION: 1 (Base)
+
+DAMAGE FLOW EXAMPLE:
+1. Roll 17 dice vs Target Dodge.
+2. If 3 net hits: Final DV = 11P (8 + 3).
+3. Target Armor is reduced by 5.
+4. Target Soaks with Body + Remaining Armor.
+
 TAG GLOSSARY:
 [PA] Persistent Advantage | [PD] Persistent Disadvantage | [HOT] Under heat/pursued
 
