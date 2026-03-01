@@ -200,3 +200,132 @@ Role: Independent freight broker operating off Glassline
 Speaks: Measured, practical, never raises her voice
 Wants: A runner not owned by the syndicate
 NARRATIVE_MASS_TAG: [PA][MINOR][EXPEDIENT]
+
+=====================================================================
+SESSION SNAPSHOT — HARD LOCK
+Scene: Tacoma Syndicate Finance Safehouse (2nd Floor Office)
+Status: Combat Initiated (Pass 1, Pre-Resolution Checkpoint)
+=====================================================================
+
+=== CAMPAIGN THREAD CONTEXT ===
+
+ACTIVE SEED IN PLAY:
+- TACOMA SYNDICATE CONSORTIUM PRESSURE
+  Tag: [PD][MAJOR][NEON_RUIN]
+  Vector: In Debt (25 Karma) enforcement
+  Escalation State: Finance check-in call scheduled (T - 01:29 at breach)
+
+FOUNDATION NODE ENGAGED:
+- Glassline Freight Corridor (Indirect leverage via syndicate control)
+  Current Interaction: Finance intimidation / leverage test
+
+NOT CURRENTLY ENGAGED:
+- Ghost Key Protocol (Evo)
+- Rain Market Name Broker
+- Silicon Saint (if retained)
+- Glassline Expansion Offer (pending)
+
+=====================================================================
+
+=== PLAYER STATE — MORDU ===
+
+Metatype: Human
+Archetype: Infiltrator
+Edge: 4 (unused)
+Essence: Adjusted for cyber (Wired 2, Tailored 2, Datajack, Smartlink)
+Damage: 0
+Wound Penalty: 0
+
+INITIATIVE:
+Base: REA 2 + INT 3 + Wired 2 bonus
+Adjusted REA: 4
+Initiative: 22 (rolled)
+Passes: 3
+
+ACTIVE AUGMENTATIONS:
+- Wired Reflexes 2
+- Tailored Pheromones 2
+- Smartlink active
+- Chameleon Suit active
+
+WEAPON STATE:
+- Salavette Guardian (Heavy Pistol)
+- Magazine capacity: 15
+- Ammo type: UNDECLARED (needs confirmation)
+- Rounds fired this scene: 1 (if shot stands)
+- Smartgun internal active
+
+POSITION:
+- 4 meters from targets
+- Standing in doorway
+- Former driver slightly offset in front-left (non-combatant, compliant)
+
+=====================================================================
+
+=== NPC STATE ===
+
+NPC 1 — Lean Male (Desk Right)
+Role: Syndicate Finance Associate
+Damage: 7P (if shot stands)
+Wound Penalty: -2
+Initiative: 12
+Surprise: Passed
+Current Action State: Was reaching for unknown object (likely firearm)
+Composure vs Intimidation: NOT YET RESOLVED (critical oversight)
+Matrix: Linked to silent building device
+
+NPC 2 — Heavyset Male (Desk Left)
+Role: Syndicate Finance Muscle
+Damage: 0
+Initiative: 8
+Surprise: Failed (loses first pass)
+Composure vs Intimidation: NOT YET RESOLVED
+
+NPC 3 — Driver (Collections Muscle)
+Damage: 0
+Status: Intimidated (7 net hits prior test)
+Psych State: Submissive
+Position: Behind and slightly left of Mordu
+Weapon confiscated
+
+=====================================================================
+
+=== MATRIX / TIMER STATE ===
+
+Scheduled Call:
+Label: "T.S.C. Finance – Mr. V."
+Countdown at breach: 01:29
+Current Remaining Time: APPROX 01:10 (needs recalculation)
+
+Silent Device:
+- Slaved to upstairs node
+- Likely monitored
+
+No alarm triggered yet.
+
+=====================================================================
+
+=== RULE INTEGRITY CHECK ===
+
+- Intimidation vs Driver: 7 Net Hits (valid)
+- Intimidation vs Upstairs: VERBAL COMMAND issued, but no Composure test rolled
+- Surprise: Lean passed, Heavy failed (valid)
+- Shot fired BEFORE resolving upstairs Composure vs Intimidation
+  → This is the procedural fork point.
+
+=====================================================================
+
+=== FORK POINT ===
+
+We must decide:
+
+A) Shot stands. Combat continues from current state.
+B) Rewind to breach moment and resolve Composure vs Intimidation
+   before any shots fired.
+C) Alternative resolution.
+
+No further rolls until fork resolved.
+
+=====================================================================
+END SNAPSHOT
+=====================================================================
