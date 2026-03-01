@@ -1,0 +1,107 @@
+HANDLE: Mordu
+METATYPE: Human
+ARCHETYPE: Infiltrator
+
+ATTRIBUTES (Natural / Augmented)
+BOD 5
+AGI 5
+REA 2 (4 w/ Wired Reflexes 2)
+STR 2
+CHA 6
+INT 3
+LOG 4
+WIL 2
+EDGE 4
+ESSENCE 2.4
+
+INITIATIVE
+7 + 3d6  (REA 4 + INT 3 + 3d6)
+
+QUALITIES
+
+Positive:
+- First Impression
+- Catlike
+- Perceptive
+
+Negative:
+- In Debt (25 Karma) — Owes Tacoma Syndicate financier (125,000¥)
+
+SKILL GROUPS
+Influence Group 5
+  Con 5
+  Etiquette 5
+  Leadership 5
+  Negotiation 5
+
+Stealth Group 5
+  Sneaking 5
+  Palming 5
+  Disguise 5
+
+ACTIVE SKILLS
+Perception 6 (Visual)
+Locksmith 6 (Maglocks)
+Computer 6 (Decryption)
+Hardware 6 (Biometrics)
+Pistols 6 (Heavy Pistols)
+Intimidation 6 (Physical)
+Unarmed Combat 5 (Subduing)
+Pilot Ground Craft 5 (Wheeled)
+Gymnastics 3
+
+CYBERWARE / BIOWARE
+Wired Reflexes 2 (Essence 3.0)
+Tailored Pheromones 2 (Essence 0.4)
+Smartlink (cyber) (Essence 0.1)
+Datajack (Essence 0.1)
+
+CONTACTS
+
+Fixer — C3 / L3 — Old Barrens friend
+Street Doc — C3 / L3 — Patches you up, disapproves
+Fence / Black Market — C3 / L3 — Professional respect
+Kresto — C2 / L3 — Small-time gang lieutenant (Barrens origin bonus)
+
+LIFESTYLE
+Low Lifestyle (1 month prepaid)
+
+VEHICLE
+Honda Spirit
+
+FAKE IDS
+Fake SIN Rating 4 (Primary)
+Fake SIN Rating 3 (Spare)
+Fake License Rating 6
+
+WEAPON
+Ares Predator V
+  Internal Smartgun System
+  Concealable Holster
+  200 rounds APDS
+
+ARMOR
+Armor Jacket (12)
+Chameleon Suit (9, +2 Sneak bonus)
+Ballistic Mask (+2)
+Helmet (+2)
+Respirator Rating 6
+
+GEAR
+Transys Avalon (R6)
+Erika Elite (R4)
+Medkit Rating 6
+Grapple Gun
+500m Rope
+Bug Scanner Rating 6
+Data Tap x5
+Jammer Rating 6
+Autopicker Rating 6
+Keycard Copier Rating 6
+Lockpicks
+Maglock Passkey Rating 4
+Gecko Gloves
+Gas Grenades x2
+
+REMAINING NUYEN
+870¥
