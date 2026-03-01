@@ -108,6 +108,7 @@ STATUS: [SAFE_HOUSE] Xiu 'Cold Site' Kowloon Underground - Shielded/Warded.
 ASSETS & CARGO HOLDINGS:
 - [MISSION ITEM] The Dragon Drive (ORIGINAL given to Xiu; HIDDEN COPY retained).
 - [MISSION ITEM] Wuxing Internal Ledger (Bribes/Black-site payrolls).
+- [MISSION ITEM] 3x Secondary Transit Keys (Wuxing Slush Fund)
 - [DEBT ITEM] Jade Turtle Statuette (Empty; "Heart" chip removed).
 - [LIQUID ASSET] 108,500¥ (Mixed Credsticks).
 - [BOND ASSET] 150,000¥ (Sun-Lee Bearer Bonds - Negotiable/Untraceable).
@@ -204,9 +205,6 @@ PERSISTENT DISADVANTAGES:
 - [PD][MAXIMUM][SUN-LEE_VENGEANCE] — You are a "Dead Man Walking" to the Triads.
 
 ACTIVE THREATS:
-- [Wuxing Internal Audit] — [HOT] — Active search for the penthouse thief. [PD][MAJOR]
-- [Sun-Lee Syndicate] — Uncle Vane — Expecting the Turtle. [PD][MAJOR]
-- [HOT] Uncle Vane: Currently being hunted by the Sun-Lee Council. He knows you're the reason.
 - [COLD] Wuxing: Searching for a "ghost," but the trail has been muddied by Xiu.
 
 TIMERS:
