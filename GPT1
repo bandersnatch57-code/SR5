@@ -111,3 +111,92 @@ Gas Grenades x2
 
 REMAINING NUYEN
 870¥
+
+PHASE 1: WORLD BIRTH — LOCKED SEEDS
+═══════════════════════════════════════════════════════════════════
+CITY / REGION: Seattle Metroplex (Tacoma + Redmond + Downtown)
+YEAR: 2082
+
+FOUNDATION NODES
+
+1. Evo Corporation Arcology Annex — Tacoma Bio-Vertical
+True Price: Genetic access keys embedded in human subjects
+Key Challenge: Internal black-clinic security + deniable containment teams
+NARRATIVE_MASS_TAG: [PD][MAJOR][CORPORATE_SHADOWS]
+Initial Weight: Major (Tier 2)
+Escalates to Systemic if Ghost Key + Identity Leak both activate.
+
+2. The Glassline Freight Corridor
+True Price: Smuggling artery between Tacoma docks and Downtown
+Key Challenge: Unionized dockworkers under syndicate leverage
+NARRATIVE_MASS_TAG: [PA][MINOR][NEON_RUIN]
+Initial Weight: Minor (Tier 1)
+Compounds to Major if engaged twice.
+
+3. The Rain Market (Under-I5 Night Bazaar)
+True Price: Sealed identity archives — real names, buried pasts
+Key Challenge: Competing brokers + covert corporate observers
+NARRATIVE_MASS_TAG: [PD][MINOR][UNCLEAR_ORIGIN]
+Initial Weight: Minor (Tier 1)
+
+═══════════════════════════════════════════════════════════════════
+ACTIVE SEEDS
+
+1. [SEED: GHOST KEY PROTOCOL]
+Faction: Evo Internal Research Division
+Wants: Recovery of a missing biotech subject (living asset)
+If Ignored: Quiet Tacoma neighborhood sweeps begin
+Escalation: After 2 sessions → Black-site extraction event
+NARRATIVE_MASS_TAG: [PD][MAJOR][CORPORATE_SHADOWS]
+
+2. [SEED: DOCKSIDE UNION FRACTURE]
+Faction: Tacoma Freight Local 119 (syndicate-influenced)
+Wants: Removal of steward suspected of skimming
+If Ignored: Violent “accident” shuts down Glassline temporarily
+Escalation: After 1 session → Corridor instability
+NARRATIVE_MASS_TAG: [PD][MINOR][NEON_RUIN]
+
+3. [SEED: THE NAME BROKER]
+Faction: Anonymous Rain Market Archivist
+Wants: Auction sealed identity file to highest bidder
+If Ignored: File released to corporate subscriber
+Escalation: After 1 session → Identity leak event
+NARRATIVE_MASS_TAG: [PD][MINOR][UNCLEAR_ORIGIN]
+
+4. [SEED: LEDGER RECONCILIATION]
+Faction: Tacoma Syndicate Internal Auditor
+Wants: Audit and rebalance outstanding debtor accounts
+If Ignored: One debtor selected for visible enforcement
+Escalation: After 1 session → Public collection demonstration
+NARRATIVE_MASS_TAG: [PD][MAJOR][NEON_RUIN][DEBT_PRESSURE]
+
+5. [SEED: GLASSLINE EXPANSION OFFER]
+Faction: Independent freight broker (Mara Kovač)
+Wants: Independent runner to stabilize off-ledger route
+If Ignored: Broker aligns fully with Syndicate bloc
+Escalation: After 1 session → Route consolidation
+NARRATIVE_MASS_TAG: [PA][MINOR][EXPEDIENT]
+
+═══════════════════════════════════════════════════════════════════
+COMPETING INTELLIGENCES
+
+Evo Corporation Internal Security
+Goal: Retrieve biotech subject + eliminate leak vectors
+Method: Deniable black-bag operations
+Pressure: Quiet disappearances in Tacoma
+NARRATIVE_MASS_TAG: [PD][MAJOR][CORPORATE_SHADOWS]
+
+Tacoma Syndicate Consortium
+Goal: Consolidate freight monopoly + enforce debtor discipline
+Method: Labor leverage + coercion + visible punishment
+Pressure: Corridor instability + loyalty tests
+NARRATIVE_MASS_TAG: [PD][MAJOR][NEON_RUIN]
+
+═══════════════════════════════════════════════════════════════════
+FIRST FACE
+
+Name: Mara Kovač
+Role: Independent freight broker operating off Glassline
+Speaks: Measured, practical, never raises her voice
+Wants: A runner not owned by the syndicate
+NARRATIVE_MASS_TAG: [PA][MINOR][EXPEDIENT]
