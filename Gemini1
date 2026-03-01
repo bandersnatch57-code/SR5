@@ -1,6 +1,11 @@
 # ═══════════════════════════════════════════════════════════════════
 # FILE 1: CHARACTER CORE (LIVING IDENTITY)
 # ═══════════════════════════════════════════════════════════════════
+CAMPAIGN TITLE: The Velvet Noose 
+PRIMAL TONE: Corporate Gothic 
+THEMATIC AXES: Ascension / Rot / Complicity
+CITY / REGION: Hong Kong (Free Enterprise Zone) YEAR: 2081
+
 HANDLE: FeiFat           METATYPE: Human        ARCHETYPE: Wired Infiltrator-Hybrid
 ESSENCE: 2.4             EDGE: 5 / 5             
 
@@ -131,8 +136,13 @@ KARMA: 12 | NUYEN: 258,500¥ | REP: Street Cred 2 | Notoriety 1 | Public Awarene
 CONDITION: [PHYSICAL: 3 BOXES] (Gunshot graze) | [STUN: 1 BOX] (Wired Comedown)
 STATUS: [SAFE_HOUSE] Xiu 'Cold Site' Kowloon Underground - Shielded/Warded.
 
+FeiFat is the "[KINGMAKER]." FeiFat holds the Ledger [CORPORATE DEATH] and the Aegis [DIGITAL LIFE]. Madame Xiu is [LOYAL] because FeiFat is the only reason she isn't a memory. The world is Corporate Gothic—everything beautiful is dying, and everything powerful is corrupt. No "God-Mode." No "Yes-And." Only cause, effect, and the weight of the nuyen.
+
 [NEW ABILITY] Azure Heaven Backdoor: Can attempt to "Brick" Sun-Lee cyberware (50m).
 [NEW ABILITY] Aegis Protocol: Passive immunity to Sun-Lee remote "Kill-Switches."
+
+[NODE] THE GILDED ARCHIVE (WUXING): The "Golden Handcuff" tax isn't just about nuyen; it’s about Complicity. You didn't just steal a ledger; you stole a piece of Wuxing’s soul.
+[NODE] THE SUN-LEE SYNDICATE: They were the "Warm Embrace." Now, under Xiu, that embrace is yours to command, but the [PD][MAJOR][SOCIETAL_WEIGHT] remains. You are a Li-Hai; the streets expect you to solve their problems, not just your own.
 
 ASSETS & CARGO HOLDINGS:
 - [MISSION ITEM] The Dragon Drive (ORIGINAL given to Xiu; HIDDEN COPY retained).
@@ -307,6 +317,10 @@ discovered the "Leash" protocol—a kill-switch in his own cyberware. He
 extorted Vane for the Aegis Shield frequency and 150,000¥ in bonds, then
 allowed the traitor to escape via a stealth raft. FeiFat destroyed the yacht
 to cover the trail and lied to Madame Xiu, claiming Vane died in the blast.
+
+The Personality: You aren't just a runner; you are the Ghost of the 88th Floor. Your loyalty to Xiu is real, but it’s the loyalty of a Co-Conspirator, not a servant. You gave her the original Drive because you want a Queen who owes you, not a boss you owe.
+The Vibe of the Heist: It was Vertical Chaos. You didn't walk out; you fell. That sense of "controlled falling" should define your style. You don't play safe; you play fast enough that physics can't catch you.
+The Great Lie: You didn't hesitate when you lied about Vane. The [ASCENSION] theme means you’ve left your humanity in the gutter of the Walled City. You are becoming the "Velvet Noose" yourself.
 
 KARMA_AWARDED: 5 (Total: 12)
 NUYEN_CHANGE: +158,000¥ (70k from Xiu + 88k from Vane's boat/guards)
