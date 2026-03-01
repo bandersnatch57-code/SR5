@@ -98,7 +98,7 @@ TAG GLOSSARY:
 # FILE 3: CAMPAIGN STATE (POST-SESSION 1: THE KINGMAKER)
 # ═══════════════════════════════════════════════════════════════════
 CURRENT STATUS:
-KARMA: 7 | NUYEN: 258,500¥ | REP: Street Cred 2 | Notoriety 1 | Public Awareness 2
+KARMA: 12 | NUYEN: 258,500¥ | REP: Street Cred 2 | Notoriety 1 | Public Awareness 2
 CONDITION: [PHYSICAL: 3 BOXES] (Gunshot graze) | [STUN: 1 BOX] (Wired Comedown)
 STATUS: [SAFE_HOUSE] Xiu 'Cold Site' Kowloon Underground - Shielded/Warded.
 
@@ -257,11 +257,32 @@ SPARK MOMENT: "The Vane Hold-up" - Proving that a desperate man with a smartlink
 
 THEMATIC SYNTHESIS: [ASCENSION] - You reached the top of the Spire, but you had to jump to stay there.
 
-THE AFTERMATH:
-The drone is losing power. You are over the Hong Kong Harbor, the dark water churned by the wake of massive container ships. To your left is the Kowloon Slums (Death); to your right is the Islands (Neutral Ground); straight ahead is the Madame Xiu's Tea House (The Lion's Den).
-Where do you force the drone to land to begin your new life as a kingmaker?
-The Tea House: Face Xiu and trade the Dragon for ultimate protection.
-The Harbor: Ditch the drone in the water and vanish into the floating "Junk Cities" to lie low.
-The Spire (A Different One): Head to a rival Megacorp (like Renraku or Aztechnology) to sell the Dragon for a clean identity and a ticket out of Hong Kong.
+PATCH NOTES: SESSION 1.1 — THE SILVER DRAGON'S WAKE
+═══════════════════════════════════════════════════════════════════
+NARRATIVE_SUMMARY: FeiFat intercepted Uncle Vane aboard the Wuxing-chartered yacht Silver Dragon.
+Using the "Azure Heaven" backdoor, he neutralized Vane’s elite guard and
+boarded the vessel under heavy drone fire. In a tense standoff, FeiFat
+discovered the "Leash" protocol—a kill-switch in his own cyberware. He
+extorted Vane for the Aegis Shield frequency and 150,000¥ in bonds, then
+allowed the traitor to escape via a stealth raft. FeiFat destroyed the yacht
+to cover the trail and lied to Madame Xiu, claiming Vane died in the blast.
 
-How does the first chapter of FeiFat's legend end?
+KARMA_AWARDED: 5 (Total: 12)
+NUYEN_CHANGE: +158,000¥ (70k from Xiu + 88k from Vane's boat/guards)
+TOTAL_LIQUID: 258,500¥
+
+FACTION_ACTIVITY: - Sun-Lee Syndicate: In chaos. Madame Xiu is consolidating power.
+Wuxing: Investigating the "terrorist" destruction of their yacht.
+The "Ghost": Uncle Vane is officially dead to the world, but active in the shadows.
+
+REPUTATION_IMPACT: - Street Cred +1 (Total: 2): Word of the yacht explosion is everywhere.
+Notoriety +1 (Total: 1): You are officially "dirty" for lying to a Fixer.
+Public Awareness +1 (Total: 2): CCTV from the harbor caught a "GMC Bulldog" drone behaving erratically.
+
+SYSTEM_CHANGES:
+
+[UNLOCKED] Aegis Protocol: Permanent immunity to remote cyber-shutdowns.
+[UNLOCKED] Li-Hai Status: Access to Syndicate safehouses and Iron Lotus backup.
+[HIDDEN] The Great Lie: A persistent narrative timer. If Vane is spotted, Xiu will know you turned.
+
+═══════════════════════════════
