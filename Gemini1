@@ -65,7 +65,7 @@ GYMNASTICS / OTHER
 - Pilot Ground Craft 1 (REA 4): 5 [BASE]
 
 CONTACTS:
-- Madame Xiu — Fixer — C:5 L:3 — Teahouse connection — Professional/Leveraged — [PA][CONNECTED][LOYAL]
+- Madame Xiu — Fixer — C:5 L:3 — Teahouse connection — Professional/Leveraged — [PA][CONNECTED][LOYAL][INDEBTED]
 - "Ghost" — Data Broker — C:4 L:2 — Tech support/info — Mutual respect — [PA][TECH_SOURCE]
 - Seven-Fingers — Fence — C:3 L:2 — Moving hot goods — Pragmatic — [PA][STREET_LANE]
 
@@ -132,9 +132,11 @@ TAG GLOSSARY:
 # FILE 3: CAMPAIGN STATE (POST-SESSION 1: THE KINGMAKER)
 # ═══════════════════════════════════════════════════════════════════
 CURRENT STATUS:
-KARMA: 12 | NUYEN: 258,500¥ | REP: Street Cred 2 | Notoriety 1 | Public Awareness 2
-CONDITION: [PHYSICAL: 2/11 BOXES] (Gunshot graze) | [STUN: 0/10 BOX] (Wired Comedown)
+KARMA: 18 (Earned 6) | NUYEN: 258,500¥ | REP: Street Cred 3 | Notoriety 2 | Public Awareness 3
+CONDITION: [PHYSICAL: 3 BOXES] (Leg strain/Gunshot) | [STUN: 0 BOXES]
 STATUS: [SAFE_HOUSE] Xiu 'Cold Site' Kowloon Underground - Shielded/Warded.
+ASSETS: [VEHICLE] Wuxing Cloud-Cutter VTOL (Scrubbing/Repainting in progress).
+
 
 [SEED] THE LOTUS ROT: 
 The background radiation of the world. Cheap chrome decays into "Cyber-Necrosis." 
@@ -171,6 +173,12 @@ ASSETS & CARGO HOLDINGS:
 - [BOND ASSET] 150,000¥ (Sun-Lee Bearer Bonds - Negotiable/Untraceable).
 - [GEAR] Triad Sequencer (Slaved to Commlink; contains Vane's old HK-Keys).
 - [INTEL] Azure Heaven Optical Chip: Full source code for Syndicate "Leash" tech.
+- [NEW ITEM] Wuxing Ground-Breaker Pulse Emitter: Demolition-grade seismic weapon.
+- [NEW ASSETS] 4x Wuxing Combat Engineers (Prisoners): Know Wuxing demolition protocols.
+- [INTEL] PROJECT TERMITES: Detailed plans to level Kowloon for corporate expansion.
+- [INTEL] THE LOTUS ROT: Proof of Wuxing's planned obsolescence in cyberware.
+- [INTEL] THE LAU DOSSIER: Irrefutable blackmail on the Police Commissioner.
+
 
 ITEM METADATA & NARRATIVE MASS:
 - Dragon Drive Copy: [LEVERAGE: EXTREME] Contains the "Termite" proof of Vane's betrayal.
@@ -192,7 +200,7 @@ PERSISTENT ADVANTAGES:
 PERSISTENT DISADVANTAGES:
 - [PD][THE_GREAT_LIE]: You told Xiu Vane is dead. If he reappears, you are a traitor.
 - [RESOLVED] [PD][MAXIMUM][SUN-LEE_VENGEANCE]: The Council wants the thief's head.
-- [PD][MAJOR][WUXING_WARRANT]: Terrorist status (Downgraded to "Internal" by Xiu's bribes).
+- [PD][MAXIMUM][WUXING_WARRANT]: Terrorist status (Downgraded to "Internal" by Xiu's bribes).
 
 ACTIVE THREATS:
 - [Uncle Vane]: [STATUS: GHOST] Escaped via raft. He owes you his life but knows your secrets.
@@ -304,3 +312,26 @@ SYSTEM_CHANGES:
 [HIDDEN] The Great Lie: A persistent narrative timer. If Vane is spotted, Xiu will know you turned.
 
 ═══════════════════════════════
+
+# ═══════════════════════════════════════════════════════════════════
+# FILE 3: CAMPAIGN STATE (POST-SESSION 2: THE TERMINATOR)
+# ═══════════════════════════════════════════════════════════════════
+CURRENT STATUS:
+KARMA: 18 (Earned 6) | NUYEN: 258,500¥ | REP: Street Cred 3 | Notoriety 2 | Public Awareness 3
+CONDITION: [PHYSICAL: 3 BOXES] (Leg strain/Gunshot) | [STUN: 0 BOXES]
+ASSETS: [VEHICLE] Wuxing Cloud-Cutter VTOL (Scrubbing/Repainting in progress).
+
+[NEW ITEM] Wuxing Ground-Breaker Pulse Emitter: Demolition-grade seismic weapon.
+[NEW ASSETS] 4x Wuxing Combat Engineers (Prisoners): Know Wuxing demolition protocols.
+
+[INTEL] PROJECT TERMITES: Detailed plans to level Kowloon for corporate expansion.
+[INTEL] THE LOTUS ROT: Proof of Wuxing's planned obsolescence in cyberware.
+[INTEL] THE LAU DOSSIER: Irrefutable blackmail on the Police Commissioner.
+
+[TAG] PROTECTOR OF THE WALLED CITY: 
+You saved Sector 9 from collapse. Your name is whispered with awe in the gutters. 
+Street Cred increased, but [WUXING_WARRANT] is now [MAXIMUM].
+
+[TAG] THE CO-CONSPIRATOR: 
+Madame Xiu is now [INDEBTED] to you. You are no longer just her Li-Hai; 
+you are the power behind her throne.
