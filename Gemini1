@@ -229,14 +229,19 @@ ARCHIVE:
 
 --- RESUME GAME HERE ---
 
-Location: Central District Noodle Shop
-Time: 02:07 AM
-Condition: Physical 2/11 (Septic risk cleared) | Stun 0/10
+THE STRATEGIC CHOICE
 
-Madame Xiu watches as you process the magnitude of her request. Framing a Police Commissioner in a Wuxing-owned server hub isn't just a run; it’s an act of war against the FEZ's legal structure.
-"The hub is a ghost-box," Xiu says, her voice barely a whisper over the sound of boiling water. "Azure Heaven handles the high-bandwidth encryption for the harbor police. If you use the Triad Sequencer, the system will think you're Vane—or at least someone with his authority. You don't need to break the door down; you just need to walk in and leave a trail of breadcrumbs leading from Lau’s personal accounts to the Wuxing Slush Fund."
-She slides a specialized Data Tap toward you.
-"Once the audit begins, Lau will have to choose: fall on his sword, or become our shield. Which will it be, FeiFat? Do you want to slip into the Azure Heaven tonight, or do you have another way to tighten the noose?"
+Location: Sector 9, Bay 44 (The "Cold Site" Repair Dock)
+Atmosphere: Smells of hot engine oil, ozone, and the damp sulfur of the Underground. 
+Red emergency lights from the VTOL cast long, jagged shadows across the hangar floor.
+
+You stand on the rain-slicked ramp of the stolen Cloud-Cutter. 
+Your leg is stiff, the wound from the Spire throbbing with a dull heat, but the adrenaline of the hijack is still humming in your wires. Behind you, the four Wuxing engineers sit zip-tied and silent, their faces pale under the flickering shop lights.
+
+Madame Xiu stands before you, her Slate-Grey suit a sharp contrast to the grime of the bay.
+She reaches out a hand—not to take the Data Tap by force, but as an invitation. She knows you hold the keys to the kingdom: the Slush Fund, the Termite Blueprints, and the Lau Dossier.
+Xiu’s Voice: "FeiFat... you’ve brought back enough fire to burn this city to the ground. But fire is hard to control once it starts. 
+Give my techs the tap; let us weaponize this truth before Wuxing sends a legion to take it back. Or do you still think you can hold the noose alone?"
 
 What do you do?
 
@@ -317,6 +322,12 @@ SYSTEM_CHANGES:
 # ═══════════════════════════════════════════════════════════════════
 # FILE 3: CAMPAIGN STATE (POST-SESSION 2: THE TERMINATOR)
 # ═══════════════════════════════════════════════════════════════════
+NARRATIVE SUMMARY: THE WAN CHAI HEIST
+
+The mission was supposed to be a surgical strike to frame Commissioner Lau, but it transformed into a total war for the future of the Walled City. Using Vane’s Triad Sequencer as a ghost-key, you infiltrated the Azure Heaven Hub, neutralized the resident technician, and shattered the Spirit Sentinel's jade anchor.
+
+In the process of extracting the blackmail for Madame Xiu, you discovered the "Lotus Rot" (Wuxing’s cyberware sabotage) and "Project Termites" (a plan to level Kowloon). Your escape was legendary: you hijacked a Wuxing Cloud-Cutter VTOL mid-deployment, ghosted the corporate grid, and intercepted a Wuxing demolition team in the tunnels beneath your own home. You didn't just return with data; you returned with the weapon, the engineers, and the transport.
+
 CURRENT STATUS:
 KARMA: 18 (Earned 6) | NUYEN: 258,500¥ | REP: Street Cred 3 | Notoriety 2 | Public Awareness 3
 CONDITION: [PHYSICAL: 3 BOXES] (Leg strain/Gunshot) | [STUN: 0 BOXES]
