@@ -1,3 +1,20 @@
+
+═══════════════════════════════════════════════════════════════════
+CAMPAIGN NAME: NEON LEDGER
+WORLD OPERATING SIGNATURE (Observed Behavior): Power structures test before they crush.
+Violence is optional but escalation is permanent. 
+Leverage shifts pressure; it does not erase it.
+
+AFFECTIVE REGISTER (Observed Emotional Gravity): Controlled predation under fluorescent light. 
+Every room so far has been a test of whether you escalate or reshape. You consistently chose reshape.
+
+THEMATIC AXES:
+1. Debt vs Autonomy
+2. Leverage vs Loyalty
+3. Corporate Destabilization vs Union Sovereignty
+4. Information Control vs Narrative Control
+5. Asset vs Actor
+
 HANDLE: Mordu
 METATYPE: Human
 ARCHETYPE: Infiltrator
@@ -20,9 +37,9 @@ INITIATIVE
 QUALITIES
 
 Positive:
-- First Impression
-- Catlike
-- Perceptive
+- First Impression +2 first social tests
+- Catlike +2 Sneak 
+- Perceptive +2 Perception
 
 Negative:
 - In Debt (25 Karma) — Owes Tacoma Syndicate financier (125,000¥)
@@ -76,7 +93,7 @@ VEHICLE
 Honda Spirit
 
 FAKE IDS
-Fake SIN Rating 4 (Primary)
+Fake SIN Rating 6 (Primary)
 Fake SIN Rating 3 (Spare)
 Fake License Rating 6
 
@@ -108,9 +125,6 @@ Lockpicks
 Maglock Passkey Rating 4
 Gecko Gloves
 Gas Grenades x2
-
-REMAINING NUYEN
-870¥
 
 PHASE 1: WORLD BIRTH — LOCKED SEEDS
 ═══════════════════════════════════════════════════════════════════
@@ -236,58 +250,6 @@ Essence: Adjusted for cyber (Wired 2, Tailored 2, Datajack, Smartlink)
 Damage: 0
 Wound Penalty: 0
 
-INITIATIVE:
-Base: REA 2 + INT 3 + Wired 2 bonus
-Adjusted REA: 4
-Initiative: 22 (rolled)
-Passes: 3
-
-ACTIVE AUGMENTATIONS:
-- Wired Reflexes 2
-- Tailored Pheromones 2
-- Smartlink active
-- Chameleon Suit active
-
-WEAPON STATE:
-- Salavette Guardian (Heavy Pistol)
-- Magazine capacity: 15
-- Ammo type: UNDECLARED (needs confirmation)
-- Rounds fired this scene: 1 (if shot stands)
-- Smartgun internal active
-
-POSITION:
-- 4 meters from targets
-- Standing in doorway
-- Former driver slightly offset in front-left (non-combatant, compliant)
-
-=====================================================================
-
-=== NPC STATE ===
-
-NPC 1 — Lean Male (Desk Right)
-Role: Syndicate Finance Associate
-Damage: 7P (if shot stands)
-Wound Penalty: -2
-Initiative: 12
-Surprise: Passed
-Current Action State: Was reaching for unknown object (likely firearm)
-Composure vs Intimidation: NOT YET RESOLVED (critical oversight)
-Matrix: Linked to silent building device
-
-NPC 2 — Heavyset Male (Desk Left)
-Role: Syndicate Finance Muscle
-Damage: 0
-Initiative: 8
-Surprise: Failed (loses first pass)
-Composure vs Intimidation: NOT YET RESOLVED
-
-NPC 3 — Driver (Collections Muscle)
-Damage: 0
-Status: Intimidated (7 net hits prior test)
-Psych State: Submissive
-Position: Behind and slightly left of Mordu
-Weapon confiscated
-
 =====================================================================
 
 === MATRIX / TIMER STATE ===
@@ -297,35 +259,197 @@ Label: "T.S.C. Finance – Mr. V."
 Countdown at breach: 01:29
 Current Remaining Time: APPROX 01:10 (needs recalculation)
 
-Silent Device:
-- Slaved to upstairs node
-- Likely monitored
-
-No alarm triggered yet.
-
 =====================================================================
 
-=== RULE INTEGRITY CHECK ===
 
-- Intimidation vs Driver: 7 Net Hits (valid)
-- Intimidation vs Upstairs: VERBAL COMMAND issued, but no Composure test rolled
-- Surprise: Lean passed, Heavy failed (valid)
-- Shot fired BEFORE resolving upstairs Composure vs Intimidation
-  → This is the procedural fork point.
+═══════════════════════════════════════════════════════════════════
 
-=====================================================================
 
-=== FORK POINT ===
+PHASE STATE: SESSION 1 LOCK
+Location End State: Post–Tacoma Freight Local 119 infiltration
+Violence: None
+Alarms: None
+Bodies: 0
+Exposure Level: Low but rising (Syndicate aware of competence)
 
-We must decide:
+═══════════════════════════════════════════════════════════════════
+SEED STATUS UPDATE
+═══════════════════════════════════════════════════════════════════
 
-A) Shot stands. Combat continues from current state.
-B) Rewind to breach moment and resolve Composure vs Intimidation
-   before any shots fired.
-C) Alternative resolution.
+[SEED: LEDGER RECONCILIATION]
+Faction: Tacoma Syndicate Internal Auditor (Mr. V)
+Status: CONDITIONALLY SATISFIED
+Tag Shift:
+[PD][MAJOR][DEBT_WINDOW][48H] → [PD][MAJOR][PROVISIONAL_ASSET]
+Effect:
+You demonstrated control.
+Debt pressure softened but not erased.
+You are now being evaluated for utility, not punishment.
 
-No further rolls until fork resolved.
+Timer:
+Debt remains structurally intact.
+Future call-in possible at GM discretion.
 
-=====================================================================
-END SNAPSHOT
+
+[SEED: DOCKSIDE UNION FRACTURE]
+Faction: Tacoma Freight Local 119
+Status: ENGAGED – MANIPULATED
+Tag Evolution:
+[PD][MINOR][NEON_RUIN] → [PD][MAJOR][UNION_TENSION]
+Effect:
+Steward Galen Stroud remains in position.
+Skim reframed as union-born variance.
+Evo trail hidden (publicly).
+Original Evo siphon data copied (privately).
+Escalation potential increased.
+
+
+[SEED: GLASSLINE EXPANSION OFFER]
+Faction: Mara Kovač
+Status: ACTIVATED – ALLIANCE FORMING
+Tag Evolution:
+[PA][MINOR][EXPEDIENT] → [PA][MAJOR][EMERGENT_POWER_BLOC]
+Effect:
+You disclosed Evo destabilization attempt.
+You offered leverage.
+Handshake agreement implied mutual ascent.
+Not formalized yet, but trajectory upward.
+
+
+[SEED: GHOST KEY PROTOCOL]
+Status: DORMANT
+However:
+You now possess Evo-linked siphon data.
+Indirect entanglement risk increased.
+
+
+[SEED: THE NAME BROKER]
+Status: DORMANT
+
+
+═══════════════════════════════════════════════════════════════════
+CONTACT STATUS — HARD TAGGING
+═══════════════════════════════════════════════════════════════════
+
+Mr. V
+[Syndicate][Evaluator][Watching][Conditional Confidence]
+
+Mara Kovač
+[Independent][Ambitious][Aligned?][Power-Curious]
+
+Galen Stroud (Steward – Local 119)
+[Compromised][IndebtedToYou][InPosition][Probation]
+
+Driver (Finance Safehouse)
+[Alive][Intimidated][Remembers]
+
+Lean Man (Erika R4)
+[Alive][AssessedYou][ReportsUp]
+
+Heavyset (Shock Glove / Sakura Fubuki)
+[Alive][Cautious][Escalation-Aware]
+
+
+═══════════════════════════════════════════════════════════════════
+FINANCIAL STATE
+═══════════════════════════════════════════════════════════════════
+
+Recovered from Galen false panel:
+Certified Credstick: ¥184,000
+Additional Credsticks (minor): ~¥1,000+
+
+Total Liquid Gain:
+≈ ¥185,000+
+
+Evo-linked siphon total (not yours):
+¥2.4 million documented
+
+Debt:
+25 Karma (structural)
+Not erased.
+Pressure converted to evaluation state.
+
+
+═══════════════════════════════════════════════════════════════════
+ASSET INVENTORY — ACTIVE
+═══════════════════════════════════════════════════════════════════
+
+Commlinks:
+- 2 from initial finance meet (Faraday stored)
+- Galen’s prior commlink
+- Your primary + secondary
+
+Weapons acquired:
+- Ares Light Fire 75
+- Yamaha Sakura Fubuki
+- Shock glove
+
+Data:
+- Galen ledger (physical)
+- Mirror drive
+- 3 datachips (one Evo-linked siphon evidence)
+- Hardware authentication token
+- Edited skim narrative (union-born framing)
+- Original unedited Evo siphon data (private leverage copy)
+
+Access:
+- Building keycard (Freight 119)
+- Knowledge of alarm routing layout
+- Camera architecture familiarity
+
+
+═══════════════════════════════════════════════════════════════════
+NARRATIVE MASS DISTRIBUTION
+═══════════════════════════════════════════════════════════════════
+
+Tacoma Syndicate Consortium:
+[PD][MAJOR][NEON_RUIN][EVALUATING]
+
+Glassline Freight Corridor:
+[PA][MAJOR][CONTESTED]
+
+Evo (Indirect Engagement via Data):
+[PD][MAJOR][CORPORATE_SHADOWS][DORMANT_PRESSURE]
+
+Emergent Player Position:
+[PA][MAJOR][DISCIPLINED_OPERATOR]
+
+
+═══════════════════════════════════════════════════════════════════
+ESCALATION CLOCKS
+═══════════════════════════════════════════════════════════════════
+
+1. Syndicate Review Window
+   State: Pending internal review of your evidence packet
+   Risk: If packet deemed insufficient → Retest
+
+2. Evo Audit Drift
+   If siphon disruption detected → Quiet inquiry
+
+3. Union Stability
+   If Galen overcorrects or panics → Floor instability
+
+
+═══════════════════════════════════════════════════════════════════
+WORLD POSITION AT LOCK
+═══════════════════════════════════════════════════════════════════
+
+You:
+Not a debtor.
+Not free.
+Becoming useful.
+
+You prevented bloodshed.
+You preserved the steward.
+You concealed corporate interference.
+You strengthened Mara.
+You impressed the Syndicate.
+
+This is not minor drift.
+This is structural insertion.
+═══════════════════════════════════════════════════════════════════
+END SESSION 1 MASTER LOCK
+═══════════════════════════════════════════════════════════════════
+
+
 =====================================================================
