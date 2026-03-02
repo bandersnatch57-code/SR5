@@ -15,6 +15,8 @@ THEMATIC AXES:
 4. Information Control vs Narrative Control
 5. Asset vs Actor
 
+═══════════════════════════════════════════════════════════════════
+
 HANDLE: Mordu
 METATYPE: Human
 ARCHETYPE: Infiltrator
@@ -267,9 +269,7 @@ Current Remaining Time: APPROX 01:10 (needs recalculation)
 
 =====================================================================
 
-
 ═══════════════════════════════════════════════════════════════════
-
 
 PHASE STATE: SESSION 1 LOCK
 Location End State: Post–Tacoma Freight Local 119 infiltration
@@ -296,7 +296,6 @@ Timer:
 Debt remains structurally intact.
 Future call-in possible at GM discretion.
 
-
 [SEED: DOCKSIDE UNION FRACTURE]
 Faction: Tacoma Freight Local 119
 Status: ENGAGED – MANIPULATED
@@ -309,7 +308,6 @@ Evo trail hidden (publicly).
 Original Evo siphon data copied (privately).
 Escalation potential increased.
 
-
 [SEED: GLASSLINE EXPANSION OFFER]
 Faction: Mara Kovač
 Status: ACTIVATED – ALLIANCE FORMING
@@ -321,17 +319,14 @@ You offered leverage.
 Handshake agreement implied mutual ascent.
 Not formalized yet, but trajectory upward.
 
-
 [SEED: GHOST KEY PROTOCOL]
 Status: DORMANT
 However:
 You now possess Evo-linked siphon data.
 Indirect entanglement risk increased.
 
-
 [SEED: THE NAME BROKER]
 Status: DORMANT
-
 
 ═══════════════════════════════════════════════════════════════════
 CONTACT STATUS — HARD TAGGING
@@ -355,7 +350,6 @@ Lean Man (Erika R4)
 Heavyset (Shock Glove / Sakura Fubuki)
 [Alive][Cautious][Escalation-Aware]
 
-
 ═══════════════════════════════════════════════════════════════════
 FINANCIAL STATE
 ═══════════════════════════════════════════════════════════════════
@@ -374,7 +368,6 @@ Debt:
 25 Karma (structural)
 Not erased.
 Pressure converted to evaluation state.
-
 
 ═══════════════════════════════════════════════════════════════════
 ASSET INVENTORY — ACTIVE
@@ -402,6 +395,96 @@ Access:
 - Building keycard (Freight 119)
 - Knowledge of alarm routing layout
 - Camera architecture familiarity
+
+═══════════════════════════════════════════════════════════════════
+ASSET SEMANTIC TAG EXPANSION PATCH
+═══════════════════════════════════════════════════════════════════
+
+Galen Ledger
+[Union Accounting][Skim Trail][Paper Evidence][Manipulated Copy Exists]
+
+Mirror Drive
+[Union Financial Mirror][Skim Archive][Pre-Edit Copy][Forensic Leverage]
+
+Datachip #1 (Evo-linked)
+[Evo Siphon Routing][2.4M Total Exposure][Corporate Destabilization Proof]
+
+Datachip #2
+[Unknown Content][Pending Decryption][Potential Secondary Channel]
+
+Datachip #3
+[Unknown Content][Pending Review]
+
+Hardware Authentication Token
+[Union System Access][Credential Escalation Tool][Potential Backdoor]
+
+Edited Skim Data
+[Union-Born Narrative][Evo Trail Obscured][Active System Version]
+
+Original Skim Data (Private Copy)
+[Evo-Linked Financial Trail][Blackmail Grade][Strategic Leverage]
+
+Keycard (Freight 119)
+[Physical Access][After-Hours Entry]
+
+Commlinks (Finance Meet x2)
+[Syndicate Layer Contacts][Audit Chain Metadata][Potential Trace Risk]
+
+═══════════════════════════════════════════════════════════════════
+RELATIONAL GRAVITY TAG EXTENSION
+═══════════════════════════════════════════════════════════════════
+
+Mara Kovač
+[Independent Broker][Glassline Stakeholder][Ambition Vector]
+[Potential Power Bloc Co-Founder]
+
+Mr. V
+[Syndicate Auditor][Debt Gatekeeper][Utility Evaluator]
+[Controls Pressure Lever]
+
+Galen Stroud
+[Local 119 Steward][Financially Compromised]
+[Dependent On Player Silence]
+[Maintains Position At Player Discretion]
+
+═══════════════════════════════════════════════════════════════════
+PLAYER STRATEGIC PROFILE SNAPSHOT
+═══════════════════════════════════════════════════════════════════
+
+Operational Pattern Observed:
+- Prefers leverage over violence
+- Escalates only when necessary
+- Preserves assets when controllable
+- Converts pressure into advantage
+
+Current Structural Role:
+[Free Asset Candidate]
+[Leverage Broker]
+[Union-Corp Intermediary Risk]
+
+═══════════════════════════════════════════════════════════════════
+ESCALATION RISK VECTORS
+═══════════════════════════════════════════════════════════════════
+
+If Union Variance Reappears:
+→ Tacoma Syndicate Enforcement Escalation
+Tag: [PD][MAJOR][VISIBLE_DISCIPLINE]
+
+If Evo Detects Routing Disruption:
+→ Corporate Containment Audit
+Tag: [PD][MAJOR][SILENT_ACQUISITION_RESPONSE]
+
+If Galen Panics or Confesses:
+→ Union Floor Instability
+Tag: [PD][MAJOR][LEADERSHIP_COLLAPSE]
+
+If Mara Publicly Moves Against Syndicate:
+→ Glassline Conflict Acceleration
+Tag: [PA→PD SHIFT][CORRIDOR_WAR]
+
+If Player Liquidates ¥184k Rapidly:
+→ Financial Trace Risk
+Tag: [TRACE_VECTOR]
 
 
 ═══════════════════════════════════════════════════════════════════
