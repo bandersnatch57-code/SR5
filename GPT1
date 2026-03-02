@@ -224,10 +224,6 @@ Wants: A runner not owned by the syndicate
 NARRATIVE_MASS_TAG: [PA][MINOR][EXPEDIENT]
 
 =====================================================================
-SESSION SNAPSHOT — HARD LOCK
-Scene: Tacoma Syndicate Finance Safehouse (2nd Floor Office)
-Status: Combat Initiated (Pass 1, Pre-Resolution Checkpoint)
-=====================================================================
 
 === CAMPAIGN THREAD CONTEXT ===
 
@@ -496,6 +492,7 @@ Tacoma Syndicate Consortium:
 
 Glassline Freight Corridor:
 [PA][MAJOR][CONTESTED]
+Escalated due to dual engagement (Syndicate + Mara vector).
 
 Evo (Indirect Engagement via Data):
 [PD][MAJOR][CORPORATE_SHADOWS][DORMANT_PRESSURE]
