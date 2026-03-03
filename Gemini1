@@ -1,0 +1,129 @@
+# ═══════════════════════════════════════════════════════════════════
+# FILE 1: CHARACTER CORE (LIVING IDENTITY)
+# ═══════════════════════════════════════════════════════════════════
+CAMPAIGN TITLE: The Velvet Noose 
+PRIMAL TONE: Corporate Gothic 
+THEMATIC AXES: Ascension / Rot / Complicity
+CITY / REGION: Hong Kong (Free Enterprise Zone) YEAR: 2081
+
+HANDLE: FeiFat           METATYPE: Human        ARCHETYPE: Wired Infiltrator-Hybrid
+ESSENCE: 2.4             EDGE: 5 / 5             
+
+ATTRIBUTES:
+BOD: 5 | AGI: 5 | REA: 2 (4) | STR: 2 | CHA: 6 | INT: 2 | LOG: 4 | WIL: 3
+INITIATIVE: 6 + 3d6 (Wired Reflexes 2)
+
+QUALITIES:
+POSITIVE:
+- First Impression — +2 Dice on Social Tests during first meetings — [ALWAYS ACTIVE]
+- Perceptive (2) — +2 to Perception Tests — [ALWAYS ACTIVE]
+- Catlike — +2 to Sneaking Tests — [ALWAYS ACTIVE]
+
+NEGATIVE:
+- Thrill-Seeker — CHA+WIL (2) to resist risky/flashy actions — [NARRATIVE WEIGHT]
+- Greed (Major) — Must negotiate for more; difficulty resisting bribes — [NARRATIVE WEIGHT]
+
+CYBERWARE / BIOWARE:
+- Wired Reflexes 2 — +2 REA, +2d6 Init Dice — [ALWAYS ACTIVE] [ESSENCE: 3.0]
+- Tailored Pheromones 2 — +2 to CHA-based Social Tests — [ALWAYS ACTIVE] [ESSENCE: 0.4]
+- Datajack — DNI and direct connection — [ALWAYS ACTIVE] [ESSENCE: 0.1]
+- Smartlink — +2 Accuracy, +2 Dice Pool (Internal) — [ALWAYS ACTIVE] [ESSENCE: 0.1]
+
+KNOWLEDGE SKILLS:
+Hong Kong High Society: 4
+Triad Territory/Politics: 3
+Corporate Security Procedures: 3
+Underground Architecture (Vertical Shortcuts): 2
+
+--------------------------- DICE POOLS -----------------------------
+SOCIAL (CHA 6 + Tailored Pheromones 2 = Base 8)
+- Con 4: 12 [BASE] | First Meeting: 14 [SITUATIONAL: First Impression +2]
+- Etiquette 5: 13 [ALWAYS ACTIVE: Pheromones] First Meeting: 16 [SITUATIONAL: First Impression +2]
+- Leadership 5: 13 [ALWAYS ACTIVE: Pheromones]
+- Negotiation 5: 13 [BASE] | Contracts: 15 [SITUATIONAL: Spec +2] First Meeting: 17 [SITUATIONAL: First Impression +2]
+- Intimidation 6: 14 [BASE] | Mental/Visual: 16 [SITUATIONAL: Spec +2] First Meeting: 18 [SITUATIONAL: First Impression +2]
+
+COMBAT (AGI 5)
+- Pistols 6: 11 [BASE] | +Smartlink 2 = 13 [ALWAYS ACTIVE] | +Heavy Pistols 2 = 15 [SITUATIONAL]
+- Unarmed (untrained): 5 [BASE] [DAMAGE: 2S]
+
+STEALTH (AGI 5)
+- Sneaking 5: 10 [BASE] | +Catlike 2 = 12 [ALWAYS ACTIVE] | +Urban 2 = 14 [SITUATIONAL]
+- Disguise 5: 10 [BASE]
+- Palming 5: 10 [BASE]
+
+TECHNICAL (LOG 4 or AGI 5)
+- Hardware 6 (LOG 4): 10 [BASE] | +Biometrics 2 = 12 [SITUATIONAL]
+- Locksmith 6 (AGI 5): 11 [BASE] | +Maglocks 2 = 13 [SITUATIONAL] | +Passkey 4 = 17 [GEAR]
+- Computer 6 (LOG 4): 10 [BASE] | +Data 2 = 12 [SITUATIONAL]
+
+PERCEPTION (INT 2)
+- Perception 6: 8 [BASE] | +Perceptive Quality 2 = 10 [ALWAYS ACTIVE] | +Visual 2 = 12 [SITUATIONAL]
+
+GYMNASTICS / OTHER
+- Gymnastics 1 (AGI 5): 6 [BASE]
+- Pilot Ground Craft 1 (REA 4): 5 [BASE]
+
+CONTACTS:
+- Madame Xiu — Fixer — C:5 L:3 — Teahouse connection — Professional/Leveraged — [PA][CONNECTED][LOYAL][INDEBTED]
+- "Ghost" — Data Broker — C:4 L:2 — Tech support/info — Mutual respect — [PA][TECH_SOURCE]
+- Seven-Fingers — Fence — C:3 L:2 — Moving hot goods — Pragmatic — [PA][STREET_LANE]
+
+KEY GEAR:
+- Savalette Guardian (Heavy Pistol) w/ Smartlink, Concealed Holster
+- Armor Jacket (12)
+- Erika McDermid Commlink (DR 4)
+- Maglock Passkey (R4), Data Taps, Low-light/Thermal Contacts, Audio Earbuds
+- Fake SIN (R4) "Chen Long"
+- LIFESTYLE: Low (Paid for 1 month via startup debt)
+
+# ═══════════════════════════════════════════════════════════════════
+# FILE 2: MECHANICS REFERENCE (TAGGED)
+# ═══════════════════════════════════════════════════════════════════
+COMBAT:
+- Heavy Pistol Attack: 13 [15 w/ Smartlink]
+- Defense Pool (REA+INT): 6
+- Soak Pool (BOD+Armor): 17
+- Physical Condition: 11 | Stun Condition: 10
+
+SOCIAL:
+- Negotiation/Etiquette: 11 [13 w/ Pheromones] [+2 for First Impression]
+- Intimidation: 12 [14 w/ Pheromones]
+
+TECHNICAL:
+- Maglock Picking: 13 [15 w/ Passkey]
+- Matrix Search/Data: 10 [12 w/ Specialization]
+
+--------------------------- DERIVED STATS --------------------------
+INITIATIVE: 8 + 3d6 (REA 4 + INT 2) [ALWAYS ACTIVE: Wired 2]
+COMPOSURE: 8 (WIL 2 + CHA 6)
+JUDGE INTENTIONS: 8 (INT 2 + CHA 6)
+
+LIMITS:
+- Physical: 5 | 6 for Sneaking (Catlike)
+- Mental: 5
+- Social: 7 
+
+--------------------------- COMBAT FLOW ----------------------------
+1. ATTACK: Skill Pool vs. Dodge
+2. DV: Base 8P + Net Hits (Savalette)
+3. AP: -1 (Base) + -4 (APDS) = -5 Total
+4. SOAK: Target Body + (Armor - 5)
+
+-------------------------- ACTIVE COMBAT BLOCK ---------------------
+WEAPON: SAVALETTE GUARDIAN (Heavy Pistol)
+- POOL: 15 (Pistols 6 + Spec 2 + AGI 5 + Smartlink 2)
+- ACCURACY: 7 (Base 5 + Smartlink 2)
+- DAMAGE: 8P (Physical) + net hits
+- AP: -5 (Base -1 + APDS -4)
+- MODES: SA / BF (Burst Fire: -3 to Defense, +1 DV for long burst)
+- RECOIL COMPENSATION: 1 (Base)
+
+DAMAGE FLOW EXAMPLE:
+1. Roll 17 dice vs Target Dodge.
+2. If 3 net hits: Final DV = 11P (8 + 3).
+3. Target Armor is reduced by 5.
+4. Target Soaks with Body + Remaining Armor.
+
+TAG GLOSSARY:
+[PA] Persistent Advantage | [PD] Persistent Disadvantage | [HOT] Under heat/pursued
