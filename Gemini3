@@ -11,19 +11,26 @@ LAST UPDATED: Post-Session 2 (The Terminator / Wan Chai Heist)
 [EFFECT: Increased hostility, police presence, and desperation among the poor.]
 [TRIGGER: Street encounters may escalate faster. Civilians may be more erratic.]
 
+[TAG][WUXING COLLAPSE]: Wuxing's stock is in a terminal dive. The corporation is a cornered animal.
+[EFFECT: Red Samurai deployed. No negotiation. Only sanitization.]
+
 --------------------------- CURRENT STATUS -------------------------
 LOCATION: Bay 44, "Cold Site" Repair Dock (Kowloon Underground)
 CHARACTER: FeiFat (Human Wired Infiltrator-Hybrid)
 
-KARMA: 18
+KARMA: 18 
 NUYEN: 258,500¥ (liquid)
-REPUTATION: Street Cred 3 | Notoriety 2 | Public Awareness 3
-CONDITION: Physical 0/11 (Leg Gunshot Scar) | Stun 0/10 | Edge 5/5
+REPUTATION: Street Cred 8 | Notoriety 5 | Public Awareness 5
+CONDITION: Physical 11/11 | Stun 10/10 | Edge 5/5 
 
 ASSETS ON HAND:
-- [VEHICLE] Wuxing Cloud-Cutter VTOL (scrubbing/repainting in progress)
-  [FUNCTION: FAST INSERTION/EXFIL] [STEALTH: BEING RETROFITTED] [CAN BE: USED, SOLD, HIDDEN]
-
+- [VEHICLE] Wuxing Cloud-Cutter VTOL (The "Sector Shield" Refit)
+  [STATUS: ACTIVE] [SIGNATURE SCRUBBED] [ARMED]
+  [FUNCTION: FAST INSERTION/EXFIL] [STEALTH: -2 to Corporate Tracking rolls]
+  [MODIFICATION: Pulse Emitter: Demolition-grade seismic weapon mounted, slaved to pilot HUD]
+  [TAGS: [FAST INSERTION] [STRUCTURAL THREAT] [KOWLOON AEGIS]]
+  [NARRATIVE MASS: The "Ghost's Wing" — +2 Social Bonus to intimidate corporate security or inspire local riots when overflying a target]
+ 
 - [PRISONERS] 4x Wuxing Combat Engineers — Know Wuxing demolition protocols.
   [FUNCTION: INTEL SOURCE] [CAN BE: INTERROGATED, TRADED TO WUXING, RELEASED FOR REP]
   [WUXING WANTS THEM: SILENCED or RETRIEVED] [TIMER: UNKNOWN]
@@ -72,9 +79,12 @@ ASSETS ON HAND:
 [PA][88TH FLOOR GHOST] — Reputation for "controlled falling." +2 to high-risk infiltration/escape tests. [SITUATIONAL]
 [PA][PROTECTOR OF THE 9TH] — Hero status in Kowloon Sub-Sector 9. Fanatical local loyalty. [NARRATIVE WEIGHT]
 [PA][DRAGON THIEF] — Name whispered in data-havens globally. [REPUTATION]
+[PA][MAJOR][LOYAL] — Shared Liability. Xiu now knows about Vane; you are bound by a mutual secret. Relationship with Xiu is now [COEQUAL], not subordinate.
+[PA][MAJOR][HONORABLE] — Protector of the Walled City. You chose the people over private leverage.
+[PA][SYSTEMIC][EXPEDIENT] — High-velocity decision making has forced Wuxing into a "Cornered Animal" state. They will act rashly.
 
 --------------------------- PERSISTENT DISADVANTAGES ---------------
-[PD][THE GREAT LIE] — Xiu believes Vane is dead. If Vane resurfaces, you are instantly a traitor. [TRIGGER: Vane surfaces]
+[PD][THE GREAT LIE] — [RESOLVED] Xiu now knows Vane is alive. The Lie is gone, but the trust is now bound by [PA][LOYAL] — shared liability.
 [PD][WUXING WARRANT] — Status: [MAXIMUM]. Wanted as terrorist/corporate saboteur. Active manhunt. [ALWAYS ACTIVE]
 [PD][SYNDICATE WEIGHT] — As Li-Hai, the streets expect you to solve their problems, not just your own. [NARRATIVE WEIGHT]
 
@@ -112,11 +122,11 @@ ASSETS ON HAND:
 
 --------------------------- ACTIVE THREATS -------------------------
 WUXING INTERNAL AUDIT
-- Status: [FURY] [HUNTING] [ESCALATING TO HTR]
-- Lost: Hub sanctity, Cloud-Cutter VTOL, demolition team, Lau's absolute loyalty.
-- Intel: Actively tracing bio-signatures from the Spire breach and yacht explosion.
-- Next Action: Deploying High Threat Response teams to known safehouse zones.
-- [TIMER: Unknown, but accelerating]
+- Status: [FURY] [CATASTROPHIC PR FAILURE] [REDLINE ESCALATION]
+- Lost: Hub sanctity, Cloud-Cutter VTOL, demolition team, Lau's loyalty, stock value.
+- Intel: Actively tracing bio-signatures. Have deployed Red Samurai.
+- Next Action: Orbital strike team inbound. Roof of Bay 44.
+- [TIMER: IMMINENT]
 - [TAGS: [HUNTING] [ESCALATED] [NO NEGOTIATION]]
 
 THE SUN-LEE SYNDICATE
@@ -127,11 +137,11 @@ THE SUN-LEE SYNDICATE
 - [TAGS: [SYNDICATE] [TERRITORIAL] [LOYALTY TEST]]
 
 COMMISSIONER LAU
-- Status: [DORMANT] [BLACKMAILED]
-- Intel: FeiFat holds the Lau Dossier—irrefutable proof of corruption.
-- Current Action: Waiting. Lau knows the dossier exists but not where.
-- [TRIGGER: If the dossier is used (for money or leverage), Lau becomes [ACTIVE] and hostile]
-- [TAGS: [CORRUPT] [POLICE] [TIME BOMB]]
+- Status: [DORMANT] [TERRIFIED]
+- Intel: Blackmail dossier has been used. Lau is a "burned" asset.
+- Current Action: Will help or hinder based purely on immediate survival instinct.
+- [TRIGGER: If cornered, he may flip. If protected, he may comply.]
+- [TAGS: [CORRUPT] [POLICE] [UNRELIABLE]]
 
 PROJECT TERMITES (The Clock)
 - Status: [DORMANT] [BUT TICKING]
@@ -140,15 +150,21 @@ PROJECT TERMITES (The Clock)
 - [TIMER: Unknown—but if Wuxing feels cornered, they may pull the trigger]
 - [TAGS: [GENOCIDE PLOT] [WUXING] [KOWLOON]]
 
+WUXING RED SAMURAI
+- Status: [ENGAGED] [ORBITAL DROP IN PROGRESS]
+- Intel: 3x power-armored drop troops. High-altitude signature. Aiming for the roof of Bay 44.
+- Objective: Sanitize the source of the leak. Kill FeiFat. Destroy the Data Tap.
+- [TIMER: SECONDS. They are dropping now.]
+- [TAGS: [ELITE] [POWER ARMOR] [NO MERCY]]
+
 --------------------------- RESUME GAME HERE -------------------------
-Location: Sector 9, Bay 44 (The "Cold Site" Repair Dock)
-Atmosphere: The red emergency strobe of the VTOL pulses like a dying heart. The rain of the Walled City drums against the reinforced roof, a constant, low-frequency reminder of the millions suffering from The Shakes just outside these warded walls.
+Location: The Rooftop of Bay 44
+Atmosphere: The rain is turning to a toxic, yellow-tinged mist as the city's factories react to the chaos. Below you, the streets are starting to glow with the fires of a population realizing they've been poisoned.
 
-Madame Xiu’s hand is still extended. Her eyes are chips of flint.
-"The engineers are in the cells, FeiFat. The VTOL is being scrubbed. But the fire... the fire is in your pocket. Give me the tap. Let the Iron Lotus turn this data into a shield for Kowloon before the Audit finds where we’ve buried their bird."
-
-Behind you, the four zip-tied engineers are silent, their shadows long and jagged against the hangar floor. They are [EVIDENCE: LIVE], and the [WUXING_HTR_TIMER] is ticking.
-The Tap is in your pocket. The engineers are in the cells. The VTOL hums behind you. Vane is out there, somewhere. And the 500,000¥ scrip waits, locked, for a choice you haven't made yet.
+Xiu’s voice is urgent in your ear: "FeiFat, the Mesh is screaming. Wuxing's stock is in a terminal dive, but they aren't retreating. Those high-altitude signatures... they're dropping. Fast. They're coming down like meteors right on top of us."
+Through your smartlink, you track three streaks of fire punching through the clouds. They aren't aiming for the streets; they are aiming for the roof of Bay 44. They are Wuxing "Red Samurai" Pathfinders—orbital drop troops designed to sanitize a site before the truth can take root.
+The Cloud-Cutter hums behind you, armed and ready. The Pulse Emitter is live. The people below are burning. And three meteors are about to land on your head.
 
 What do you do?
 =====================================================================
+
