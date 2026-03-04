@@ -1,0 +1,201 @@
+=====================================================================
+SHADOWRUN 5E - CAMPAIGN STATE: THE VELVET NOOSE (FEIFAT v1.0)
+=====================================================================
+CAMPAIGN: The Velvet Noose
+TONE: Corporate Gothic
+THEMATIC AXES: Ascension / Rot / Complicity
+LAST UPDATED: Post-Session 2 (The Terminator / Wan Chai Heist)
+
+--------------------------- WORLD STATE ----------------------------
+[TAG][THE SHAKES]: The Lotus Rot is accelerating. Street-level cyberware is failing across Kowloon. Tensions are at a breaking point.
+[EFFECT: Increased hostility, police presence, and desperation among the poor.]
+[TRIGGER: Street encounters may escalate faster. Civilians may be more erratic.]
+
+[TAG][WUXING COLLAPSE]: Wuxing's stock is in a terminal dive. The corporation is a cornered animal.
+[EFFECT: Red Samurai deployed. No negotiation. Only sanitization.]
+
+--------------------------- CURRENT STATUS -------------------------
+LOCATION: Bay 44, "Cold Site" Repair Dock (Kowloon Underground)
+CHARACTER: FeiFat (Human Wired Infiltrator-Hybrid)
+
+KARMA: 18 
+NUYEN: 258,500¥ (liquid)
+REPUTATION: Street Cred 8 | Notoriety 5 | Public Awareness 5
+CONDITION: Physical 11/11 | Stun 10/10 | Edge 5/5 
+
+ASSETS ON HAND:
+- [VEHICLE] Wuxing Cloud-Cutter VTOL (The "Sector Shield" Refit)
+  [STATUS: ACTIVE] [SIGNATURE SCRUBBED] [ARMED]
+  [FUNCTION:
+DEMOLITION] [TAGS: [KOWLOON BANE]] [
+--- FAST INSERTION/EXFIL] [STEALTH: -2 to Corporate Tracking rolls]
+  [MODIFICATION: Pulse Emitter: Demolition-grade seismic weapon mounted, slaved to pilot HUD]
+  [TAGS: [FAST INSERTION] [STRUCTURAL THREAT] [KOWLOON AEGIS]]
+  [NARRATIVE MASS:
+MINOR][HONORABLE]
+--- The "Ghost's Wing" — +2 Social Bonus to intimidate corporate security or inspire local riots when overflying a target]
+ 
+- [PRISONERS] 4x Wuxing Combat Engineers — Know Wuxing demolition protocols.
+  [FUNCTION:
+DEMOLITION] [TAGS: [KOWLOON BANE]] [
+--- INTEL SOURCE] [CAN BE: INTERROGATED, TRADED TO WUXING, RELEASED FOR REP]
+  [WUXING WANTS THEM: SILENCED or RETRIEVED] [TIMER: UNKNOWN]
+
+- [GEAR] Xiu's Specialized Data Tap — Contains: Project Termites, Lotus Rot, Lau Dossier.
+  [FUNCTION:
+DEMOLITION] [TAGS: [KOWLOON BANE]] [
+--- ONE PHYSICAL COPY] [IF LOST: ALL LEVERAGE GONE]
+  [CAN BE: HANDED TO XIU, KEPT, COPIED?]
+  [LEVERAGE: WUXING, LAU, KOWLOON FUTURE]
+
+- [GEAR] Wuxing Ground-Breaker Pulse Emitter — Demolition-grade seismic weapon.
+  [FUNCTION:
+DEMOLITION] [TAGS: [KOWLOON BANE]] [
+--- DEMOLITION] [CAN BE: USED, SOLD, STUDIED FOR COUNTERMEASURES]
+  [DAMAGE: STRUCTURAL ONLY] [RANGE: 50m RADIUS]
+
+- [HIDDEN] Dragon Drive Copy — Proof of Vane's betrayal; insurance against Xiu.
+  [FUNCTION:
+DEMOLITION] [TAGS: [KOWLOON BANE]] [
+--- INSURANCE] [IF REVEALED: BREAKS [PA][LI-HAI] BOND]
+  [CAN BE: KEPT HIDDEN, USED TO BLACKMAIL VANE IF HE SURFACES]
+
+- [INTEL] Project Termites — Detailed plans to level Kowloon.
+  [FUNCTION:
+DEMOLITION] [TAGS: [KOWLOON BANE]] [
+--- PROOF OF WUXING CONSPIRACY] [CAN BE: LEAKED, USED AS LEVERAGE, HELD AS INSURANCE]
+  [EFFECT IF LEAKED: WUXING REP -4, PUBLIC AWARENESS +4, STREET CRED +2]
+
+- [INTEL] The Lotus Rot — Proof of Wuxing's planned obsolescence in cyberware.
+  [FUNCTION:
+DEMOLITION] [TAGS: [KOWLOON BANE]] [
+--- PROOF OF CORPORATE NEGLIGENCE] [CAN BE: LEAKED, USED IN NEGOTIATIONS vs. WUXING]
+  [EFFECT IF LEAKED: WUXING REP -2, +2 NOTORIETY] [NEGOTIATION BONUS: +2 DICE vs. WUXING]
+
+- [INTEL] The Lau Dossier — Irrefutable blackmail on Police Commissioner Lau.
+  [FUNCTION:
+DEMOLITION] [TAGS: [KOWLOON BANE]] [
+--- BLACKMAIL] [CAN BE: USED TO UNLOCK 500k SCRIP, BURNED TO AVOID ARREST ONCE]
+  [LEVERAGE: LAU COMPLIANCE] [IF BURNED: LEVERAGE GONE]
+
+- [LIQUID] 108,500¥ mixed credsticks
+  [FUNCTION:
+DEMOLITION] [TAGS: [KOWLOON BANE]] [
+--- CASH] [CAN BE: SPENT, LAUNDERED, HELD]
+
+- [BONDS] 150,000¥ Sun-Lee Bearer Bonds (negotiable/untraceable)
+  [FUNCTION:
+DEMOLITION] [TAGS: [KOWLOON BANE]] [
+--- LIQUID ASSET] [CAN BE: CASHED, HELD, TRADED] [UNTACEABLE]
+
+- [LOCKED] 500,000¥ Wuxing Slush Fund (corporate scrip)
+  [FUNCTION:
+DEMOLITION] [TAGS: [KOWLOON BANE]] [
+--- LOCKED WEALTH] [REQUIRES: Lau Dossier to unlock/launder]
+  [CAN BE: UNLOCKED FOR CASH, OR HELD TO PRESERVE LAU DOSSIER FOR LEVERAGE]
+  [TRADE-OFF: WEALTH vs. POWER]
+
+--------------------------- PERSISTENT ADVANTAGES ------------------
+[PA][AEGIS PROTOCOL] — Frequency 442.98. Passive immunity to Syndicate "Leash" kill-switches. [ALWAYS ACTIVE]
+[PA][AZURE BACKDOOR] — Logic exploit. Can attempt to "brick" Sun-Lee/Wuxing cyberware within 50m. [SITUATIONAL]
+[PA][LI-HAI RANK] — High-ranking lieutenant to Madame Xiu. Right of command over Iron Lotus street assets. [ALWAYS ACTIVE]
+[PA][LOCAL GHOST] — Born in the Dragon's Breath (Kowloon). +2 to Street Knowledge/Navigation tests. [ALWAYS ACTIVE]
+[PA][88TH FLOOR GHOST] — Reputation for "controlled falling." +2 to high-risk infiltration/escape tests. [SITUATIONAL]
+[PA][PROTECTOR OF THE 9TH] — Hero status in Kowloon Sub-Sector 9. Fanatical local loyalty. [NARRATIVE WEIGHT]
+[PA][DRAGON THIEF] — Name whispered in data-havens globally. [REPUTATION]
+[PA][MAJOR][LOYAL] — Shared Liability. Xiu now knows about Vane; you are bound by a mutual secret. Relationship with Xiu is now [COEQUAL], not subordinate.
+[PA][MAJOR][HONORABLE] — Protector of the Walled City. You chose the people over private leverage.
+[PA][SYSTEMIC][EXPEDIENT] — High-velocity decision making has forced Wuxing into a "Cornered Animal" state. They will act rashly.
+
+--------------------------- PERSISTENT DISADVANTAGES ---------------
+[PD][THE GREAT LIE] — [RESOLVED] Xiu now knows Vane is alive. The Lie is gone, but the trust is now bound by [PA][LOYAL] — shared liability.
+[PD][WUXING WARRANT] — Status: [MAXIMUM]. Wanted as terrorist/corporate saboteur. Active manhunt. [ALWAYS ACTIVE]
+[PD][SYNDICATE WEIGHT] — As Li-Hai, the streets expect you to solve their problems, not just your own. [NARRATIVE WEIGHT]
+
+--------------------------- ACTIVE THREADS -------------------------
+#1 [THE TOTAL SIPHON] — [ATOMIC] [ACTIVE]
+   The Data Tap. One physical copy. Contains: Project Termites, Lotus Rot, Lau Dossier.
+   If lost, all leverage over Wuxing, Lau, and Kowloon's future vanishes.
+   Madame Xiu is on the ramp right now, hand extended, asking for it.
+   [TRIGGER: FeiFat decides — hand it over or keep it?]
+   [TAGS: [LEVERAGE: EXTREME] [WUXING DEATH SENTENCE] [KINGMAKER KEY]]
+
+#2 [THE HUMAN COLLATERAL] — [ACTIVE] [TIMER: UNKNOWN]
+   4 Wuxing engineers in holding at Bay 44. They are witnesses to a war crime.
+   Wuxing wants them silenced—either retrieved or killed. They are terrified and compliant... for now.
+   [TRIGGER: If they escape, talk, or are targeted by Wuxing HTR]
+   [TAGS: [PRISONER DILEMMA] [EVIDENCE: LIVE] [WUXING HTR TIMER]]
+
+#3 [THE DRAGON COPY] — [HIDDEN] [PERSONAL]
+   Your insurance copy of Vane's betrayal (the original Dragon Drive given to Xiu).
+   If Xiu discovers you kept a copy, the [PA][LI-HAI] bond breaks instantly. You become a traitor in her eyes.
+   [TRIGGER: Xiu investigates, or Vane resurfaces and talks]
+   [TAGS: [INSURANCE] [BREADCRUMB TO VANE] [BETRAYAL SEED]]
+
+#4 [THE GOLDEN BAIT] — [LOCKED] [ECONOMIC]
+   500,000¥ in Wuxing slush fund scrip. Requires the Lau Dossier to unlock/launder.
+   Using it for money "burns" the dossier as a leverage tool against the Commissioner.
+   [TRIGGER: FeiFat chooses wealth over blackmail power]
+   [TAGS: [WEALTH VS POWER] [LAUNDERING REQUIRED]]
+
+#5 [VANE'S GHOST] — [ACTIVE] [WILDCARD]
+   Uncle Vane is alive. Escaped via raft. He knows your face and your secrets.
+   The "Great Lie" is gone—Xiu already knows. But Vane doesn't know that *she* knows. 
+   His intentions remain unknown. Gratitude for sparing him? Revenge for everything else? 
+   Self-preservation? He's out there, somewhere, watching.
+   [TRIGGER: Any time, anywhere. He chooses when to surface.]
+   [TAGS: [WILDCARD] [DEBT OF MERCY] [UNKNOWN INTENT] [POTENTIAL ALLY?] [POTENTIAL THREAT?]]
+   [NOTE: The Lie is dead, but the man lives. What does he want now?]
+
+#6 [THE SILENT AUCTION] — 
+   The Night Market Fixers — Selling the "Black Box" of a fallen Dragon — NARRATIVE_MASS_TAG: [PD][MINOR][INSTABILITY]
+
+--------------------------- ACTIVE THREATS -------------------------
+WUXING INTERNAL AUDIT
+- Status: [FURY] [CATASTROPHIC PR FAILURE] [REDLINE ESCALATION]
+- Lost: Hub sanctity, Cloud-Cutter VTOL, demolition team, Lau's loyalty, stock value.
+- Intel: Actively tracing bio-signatures. Have deployed Red Samurai.
+- Next Action: Orbital strike team inbound. Roof of Bay 44.
+- [TIMER: IMMINENT]
+- [TAGS: [HUNTING] [ESCALATED] [NO NEGOTIATION]]
+
+THE SUN-LEE SYNDICATE
+- Status: [CHAOS] [CONSOLIDATING]
+- Current Leadership: Madame Xiu (FeiFat's patron) is seizing control.
+- Pressure: The streets are unstable. As Li-Hai, FeiFat is expected to maintain order.
+- [TRIGGER: Xiu may call on FeiFat to enforce her new rule]
+- [TAGS: [SYNDICATE] [TERRITORIAL] [LOYALTY TEST]]
+
+COMMISSIONER LAU
+- Status: [DORMANT] [TERRIFIED]
+- Intel: Blackmail dossier has been used. Lau is a "burned" asset.
+- Current Action: Will help or hinder based purely on immediate survival instinct.
+- [TRIGGER: If cornered, he may flip. If protected, he may comply.]
+- [TAGS: [CORRUPT] [POLICE] [UNRELIABLE]]
+
+PROJECT TERMITES (The Clock)
+- Status: [DORMANT] [BUT TICKING]
+- Intel: Wuxing's detailed plans to level Kowloon for corporate expansion.
+- Pressure: The plan still exists. Wuxing may accelerate it to cover their tracks.
+- [TIMER: Unknown—but if Wuxing feels cornered, they may pull the trigger]
+- [TAGS: [GENOCIDE PLOT] [WUXING] [KOWLOON]]
+
+WUXING RED SAMURAI
+- Status: [ENGAGED] [ORBITAL DROP IN PROGRESS]
+- Intel: 3x power-armored drop troops. High-altitude signature. Aiming for the roof of Bay 44.
+- Objective: Sanitize the source of the leak. Kill FeiFat. Destroy the Data Tap.
+- [TIMER: SECONDS. They are dropping now.]
+- [TAGS: [ELITE] [POWER ARMOR] [NO MERCY]]
+
+--------------------------- RESUME GAME HERE — GHOST'S WING, 500M OVER KOWLOON, EN ROUTE TO SEVENTH HEAVEN
+
+The Cloud-Cutter slices toxic overcast, Pulse Emitter (original) and Termites tripod (new) lashed secure in the bay, Kowloon's fires painting the canopy bloody victory below.
+Kiri sits close—patched arm flexing experimental, human eye on you steady, optic dimmed to private glow. "Override cascade... clean kill. Termites fully dark. Wuxing Victoria Peak scrambling HTR—orbital assets pulling back.
+Wuxing grid dark. I am... current." Her hand brushes yours, not soldier, not prisoner—Kiri assembling.
+Xiu leans in from the cockpit, empress-crown in her smile: "Termites gutted, Ghost. Kowloon's yours eternal—but Wuxing licks wounds at Victoria Peak.
+Engineers in holding, Termites data live. Your play: smash their fallback, ransom the prisoners, or let the city eat them slow?" Rotor wash thuds; HTR signatures spike distant on the Peak. 
+Seventh Heaven feeds riot glory—your empire breathes.
+
+What do you do?
+--------------------------- END OF ARCHIVE -------------------------
+=====================================================================
