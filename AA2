@@ -114,6 +114,22 @@ Cycling through first, second, and third letters eliminates the statistical bias
 The GM (LLM) performs all calculations instantly; the player verifies at their leisure.
 The world does not run on trust. It runs on proof.
 
+### ARCHIVED / ADVANCED VARIANTS (For stronger models or human GMs)
+
+**Original Universal Formula (v2.3 – Mathematically Optimal)**
+roll = ((letter_value × 7) + (k × 3) + 11) % die_size + 1
+- Coprime multiplier (7) gives excellent cycle coverage.
+- k × 3 creates stronger per-die diffusion than linear +k.
+- Use this when the LLM reliably handles small multiplications.
+
+**d6-Optimized Variant (v2.3 – Coprime-tuned for large Shadowrun pools)**
+roll = ((letter_value × 13) + (k × 5) + 17) % 6 + 1
+- Strongest diffusion for modulus 6.
+- Substitute only for d6 rolls if the model is trustworthy with arithmetic.
+- Alternate (also excellent): ((letter_value × 5) + (k × 7) + 13) % 6 + 1
+
+These versions offer slightly flatter distributions but require more reliable multiplication and modulo handling. Use the v2.4 Simple Math Edition by default.
+
 ────────────────────────────────
 THE FAILURE QUESTION
 ────────────────────────────────
