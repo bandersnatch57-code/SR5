@@ -7,21 +7,22 @@ THEMATIC AXES: Ascension / Rot / Complicity
 LAST UPDATED: Post-Session 2 (The Terminator / Wan Chai Heist)
 
 --------------------------- WORLD STATE ----------------------------
-[TAG][THE SHAKES]: The Lotus Rot is accelerating. Street-level cyberware is failing across Kowloon. Tensions are at a breaking point.
-[EFFECT: Increased hostility, police presence, and desperation among the poor.]
-[TRIGGER: Street encounters may escalate faster. Civilians may be more erratic.]
+[TAG][THE SHAKES]: The Lotus Rot is peaking. Street-level cyberware is failing across Kowloon. Riots now target Wuxing enclaves specifically—the truth is out.
+[EFFECT: Increased hostility toward Wuxing assets. Civilians are organized, angry, and worship the "Ghost."]
+[TRIGGER: Street encounters with Wuxing personnel automatically hostile. Local populace may aid FeiFat.]
 
-[TAG][WUXING COLLAPSE]: Wuxing's stock is in a terminal dive. The corporation is a cornered animal.
-[EFFECT: Red Samurai deployed. No negotiation. Only sanitization.]
+[TAG][WUXING COLLAPSE]: Stock in freefall. Termites project exposed and destroyed. Red Samurai Pathfinders zero-for-three. Corporate survival mode engaged.
+[EFFECT: Victoria Peak fallback scrambling HRT teams. Orbital assets pulling back.]
+[TAG: [BROKEN] [BUT NOT DEAD]]
 
 --------------------------- CURRENT STATUS -------------------------
-LOCATION: Bay 44, "Cold Site" Repair Dock (Kowloon Underground)
+LOCATION: Ghost's Wing (Cloud-Cutter VTOL), 500m over Kowloon, en route to Seventh Heaven
 CHARACTER: FeiFat (Human Wired Infiltrator-Hybrid)
 
-KARMA: 18 
+KARMA: 26
 NUYEN: 258,500¥ (liquid)
-REPUTATION: Street Cred 8 | Notoriety 5 | Public Awareness 5
-CONDITION: Physical 11/11 | Stun 10/10 | Edge 5/5 
+REPUTATION: Street Cred 11 | Notoriety 6 | Public Awareness 7
+CONDITION: Physical 11/11 | Stun 10/10 | Edge 5/5
 
 ASSETS ON HAND:
 - [VEHICLE] Wuxing Cloud-Cutter VTOL (The "Sector Shield" Refit)
@@ -71,6 +72,21 @@ ASSETS ON HAND:
   [CAN BE: UNLOCKED FOR CASH, OR HELD TO PRESERVE LAU DOSSIER FOR LEVERAGE]
   [TRADE-OFF: WEALTH vs. POWER]
 
+- [GEAR] Termites Tripod Emitter (Secondary)
+  [STATUS: Damaged but functional]
+  [FUNCTION: DEMOLITION] [DAMAGE: 15S (Structural Only)] [RANGE: 50m radius] [COOLDOWN: 1/minute]
+  [WEIGHT: ~40kg, man-portable tripod] [SLAVED: To pilot HUD]
+  [TAGS: [KOWLOON BANE] [TROPHY]]
+  [NARRATIVE MASS: Termites trophy — +2 Intimidation vs. Wuxing personnel when displayed]
+
+- [CONSUMABLE] Rating 3 Datachip: "Silo Maintenance Overrides"
+  [STATUS: USED on primary emitter] [FUNCTION: +2 Locksmith/Hardware on Wuxing seismic systems]
+  [TAGS: [CONSUMABLE] [ONE-TIME BONUS]]
+
+- [GEAR] Portable Breaching Kit
+  [CONTENTS: 3x R3 Demo Charges, R2 Maglock Emulator (stacks with R4 Passkey), Laser Cutter, 20m Fiberoptic Cable]
+  [FUNCTION: INFILTRATION/DEMOLITION] [TAGS: [PORTABLE] [EXPENDABLE]]
+
 --------------------------- PERSISTENT ADVANTAGES ------------------
 [PA][AEGIS PROTOCOL] — Frequency 442.98. Passive immunity to Syndicate "Leash" kill-switches. [ALWAYS ACTIVE]
 [PA][AZURE BACKDOOR] — Logic exploit. Can attempt to "brick" Sun-Lee/Wuxing cyberware within 50m. [SITUATIONAL]
@@ -82,6 +98,9 @@ ASSETS ON HAND:
 [PA][MAJOR][LOYAL] — Shared Liability. Xiu now knows about Vane; you are bound by a mutual secret. Relationship with Xiu is now [COEQUAL], not subordinate.
 [PA][MAJOR][HONORABLE] — Protector of the Walled City. You chose the people over private leverage.
 [PA][SYSTEMIC][EXPEDIENT] — High-velocity decision making has forced Wuxing into a "Cornered Animal" state. They will act rashly.
+[PA][MAJOR][LOYAL] (Kiri) — Ex-Red Samurai defector. +2 dice to Social/Technical tests vs. Wuxing systems and personnel (ex-insider knowledge). [ALWAYS ACTIVE]
+[PA][SYSTEMIC][HONORABLE] — Protector of Kowloon. Termites slain—riots worship the Ghost. +2 to Street Cred tests in Subsectors 3, 7, 9, and 12. Grace Period active (1 week).
+[PA][TERMITES SLAYER] — Solo'd a Wuxing seismic complex. Reputation as "Ghost of the Silos." Wuxing personnel suffer -1 morale when facing FeiFat directly.
 
 --------------------------- PERSISTENT DISADVANTAGES ---------------
 [PD][THE GREAT LIE] — [RESOLVED] Xiu now knows Vane is alive. The Lie is gone, but the trust is now bound by [PA][LOYAL] — shared liability.
@@ -89,18 +108,16 @@ ASSETS ON HAND:
 [PD][SYNDICATE WEIGHT] — As Li-Hai, the streets expect you to solve their problems, not just your own. [NARRATIVE WEIGHT]
 
 --------------------------- ACTIVE THREADS -------------------------
-#1 [THE TOTAL SIPHON] — [ATOMIC] [ACTIVE]
-   The Data Tap. One physical copy. Contains: Project Termites, Lotus Rot, Lau Dossier.
-   If lost, all leverage over Wuxing, Lau, and Kowloon's future vanishes.
-   Madame Xiu is on the ramp right now, hand extended, asking for it.
-   [TRIGGER: FeiFat decides — hand it over or keep it?]
+#1 [THE TOTAL SIPHON] — [RESOLVED]
+   The Data Tap was handed to Xiu. Leverage distributed. Kowloon armed with truth.
+   [CLOSED: Session 3]
    [TAGS: [LEVERAGE: EXTREME] [WUXING DEATH SENTENCE] [KINGMAKER KEY]]
 
-#2 [THE HUMAN COLLATERAL] — [ACTIVE] [TIMER: UNKNOWN]
-   4 Wuxing engineers in holding at Bay 44. They are witnesses to a war crime.
-   Wuxing wants them silenced—either retrieved or killed. They are terrified and compliant... for now.
-   [TRIGGER: If they escape, talk, or are targeted by Wuxing HTR]
-   [TAGS: [PRISONER DILEMMA] [EVIDENCE: LIVE] [WUXING HTR TIMER]]
+#2 [THE HUMAN COLLATERAL] — [ACTIVE] [TIMER: PAUSED]
+   4 Wuxing engineers moved from Bay 44 to Seventh Heaven holding cells.
+   They remain witnesses to a war crime. Potential trade bait vs. Wuxing.
+   [TRIGGER: Wuxing approaches for hostage exchange, or HTR targets Seventh Heaven]
+   [TAGS: [PRISONER DILEMMA] [EVIDENCE: LIVE] [TRADE BAIT]]
 
 #3 [THE DRAGON COPY] — [HIDDEN] [PERSONAL]
    Your insurance copy of Vane's betrayal (the original Dragon Drive given to Xiu).
@@ -114,26 +131,35 @@ ASSETS ON HAND:
    [TRIGGER: FeiFat chooses wealth over blackmail power]
    [TAGS: [WEALTH VS POWER] [LAUNDERING REQUIRED]]
 
-#5 [VANE'S GHOST] — [ACTIVE] [WILDCARD]
-   Uncle Vane is alive. Escaped via raft. He knows your face and your secrets.
-   The "Great Lie" is gone—Xiu already knows. But Vane doesn't know that *she* knows. 
-   His intentions remain unknown. Gratitude for sparing him? Revenge for everything else? 
-   Self-preservation? He's out there, somewhere, watching.
-   [TRIGGER: Any time, anywhere. He chooses when to surface.]
-   [TAGS: [WILDCARD] [DEBT OF MERCY] [UNKNOWN INTENT] [POTENTIAL ALLY?] [POTENTIAL THREAT?]]
-   [NOTE: The Lie is dead, but the man lives. What does he want now?]
+#5 [VANE'S GHOST] — [DORMANT] [WILDCARD]
+   Uncle Vane is alive. No surface this session. Still watching. Still unknown.
+   [TRIGGER: Any time, anywhere. He chooses when.]
+   [TAGS: [WILDCARD] [DEBT OF MERCY] [UNKNOWN INTENT]]
 
 #6 [THE SILENT AUCTION] — 
    The Night Market Fixers — Selling the "Black Box" of a fallen Dragon — NARRATIVE_MASS_TAG: [PD][MINOR][INSTABILITY]
 
+#7 [KIRI'S ASSEMBLY] — [ACTIVE] [NARRATIVE WEIGHT: MINOR][HONORABLE]
+   Ex-Pathfinder defector, beacon purged, arm patched, now free.
+   Loyalty tether: FeiFat > Wuxing. She is "assembling" a new identity post-corp.
+   [TRIGGER: Moments of genuine connection deepen the bond. Manipulation breaks it.]
+   [TAGS: [DEFECTOR] [LOYAL] [IDENTITY CRISIS] [HUMAN EYE]]
+
 --------------------------- ACTIVE THREATS -------------------------
 WUXING INTERNAL AUDIT
-- Status: [FURY] [CATASTROPHIC PR FAILURE] [REDLINE ESCALATION]
-- Lost: Hub sanctity, Cloud-Cutter VTOL, demolition team, Lau's loyalty, stock value.
-- Intel: Actively tracing bio-signatures. Have deployed Red Samurai.
-- Next Action: Orbital strike team inbound. Roof of Bay 44.
-- [TIMER: IMMINENT]
-- [TAGS: [HUNTING] [ESCALATED] [NO NEGOTIATION]]
+- Status: [FURY] → [BROKEN]
+- Lost: Termites project (exposed/destroyed), Red Samurai Pathfinders (Kiri captured, wingmates slagged), stock freefall, orbital assets pulling back.
+- Current State: Victoria Peak fallback scrambling HTR teams. Corporate survival mode.
+- Next Action: HTR teams spooling at Victoria Peak. Possible retaliation or最后一搏.
+- [TIMER: Unknown — regrouping]
+- [TAGS: [HUNTING] [WOUNDED] [DANGEROUS]]
+
+WUXING VICTORIA PEAK
+- Status: [ACTIVE] [SCRAMBLING]
+- Intel: Wuxing's fallback command. HTR teams spooling. Orbital assets pulling back here.
+- Objective: Regroup, retaliate, or最后一搏 before Kowloon slips entirely.
+- [TIMER: Unknown — but Wuxing is cornered and wounded]
+- [TAGS: [FALLBACK] [HTR] [LAST STAND POTENTIAL]]
 
 THE SUN-LEE SYNDICATE
 - Status: [CHAOS] [CONSOLIDATING]
@@ -149,28 +175,29 @@ COMMISSIONER LAU
 - [TRIGGER: If cornered, he may flip. If protected, he may comply.]
 - [TAGS: [CORRUPT] [POLICE] [UNRELIABLE]]
 
-PROJECT TERMITES (The Clock)
-- Status: [DORMANT] [BUT TICKING]
-- Intel: Wuxing's detailed plans to level Kowloon for corporate expansion.
-- Pressure: The plan still exists. Wuxing may accelerate it to cover their tracks.
-- [TIMER: Unknown—but if Wuxing feels cornered, they may pull the trigger]
+PROJECT TERMITES — [RESOLVED]
+   Primary emitter slagged (cascade failure). Secondary disarmed and recovered as trophy.
+   Kowloon seismic safe. Grace Period: 1 week.
+   [CLOSED: Session 3]
 - [TAGS: [GENOCIDE PLOT] [WUXING] [KOWLOON]]
 
-WUXING RED SAMURAI
-- Status: [ENGAGED] [ORBITAL DROP IN PROGRESS]
-- Intel: 3x power-armored drop troops. High-altitude signature. Aiming for the roof of Bay 44.
-- Objective: Sanitize the source of the leak. Kill FeiFat. Destroy the Data Tap.
-- [TIMER: SECONDS. They are dropping now.]
+WUXING RED SAMURAI — [RESOLVED]
+   Kiri captured and defected. Wingmates slagged by Azure backdoor and Savalette precision.
+   [CLOSED: Session 3]
 - [TAGS: [ELITE] [POWER ARMOR] [NO MERCY]]
 
---------------------------- RESUME GAME HERE -------------------------
-Location: The Rooftop of Bay 44
-Atmosphere: The rain is turning to a toxic, yellow-tinged mist as the city's factories react to the chaos. Below you, the streets are starting to glow with the fires of a population realizing they've been poisoned.
+--------------------------- GRACE PERIODS ACTIVE -------------------
+• Kowloon Seismic Safety: 1 week (Termites destroyed, no imminent demolition threat)
+• Ghost Worship in Subsectors 3/7/9/12: 1 week (+2 Street Cred tests)
 
-Xiu’s voice is urgent in your ear: "FeiFat, the Mesh is screaming. Wuxing's stock is in a terminal dive, but they aren't retreating. Those high-altitude signatures... they're dropping. Fast. They're coming down like meteors right on top of us."
-Through your smartlink, you track three streaks of fire punching through the clouds. They aren't aiming for the streets; they are aiming for the roof of Bay 44. They are Wuxing "Red Samurai" Pathfinders—orbital drop troops designed to sanitize a site before the truth can take root.
-The Cloud-Cutter hums behind you, armed and ready. The Pulse Emitter is live. The people below are burning. And three meteors are about to land on your head.
+--------------------------- RESUME GAME HERE -------------------------
+Location: Ghost's Wing (Cloud-Cutter VTOL), 500m over Kowloon
+Atmosphere: The Cloud-Cutter slices through toxic overcast, Kowloon's fires painting the canopy bloody victory below. The Pulse Emitter (original) and the new Termites tripod are lashed secure in the bay.
+Kiri sits close—patched arm flexing experimental, human eye on you steady, optic dimmed to private glow. "Override cascade... clean kill. Termites fully dark. Wuxing Victoria Peak scrambling HTR—orbital assets pulling back. Wuxing grid dark. I am... current." Her hand brushes yours—not soldier, not prisoner. Kiri, assembling.
+Xiu leans in from the cockpit, empress-crown in her smile: "Termites gutted, Ghost. Kowloon's yours eternal—but Wuxing licks wounds at Victoria Peak. Engineers in holding, Termites data live. Your play: smash their fallback, ransom the prisoners, or let the city eat them slow?"
+Rotor wash thuds. HTR signatures spike distant on the Peak. Seventh Heaven feeds riot glory—your empire breathes. Kiri watches you, waiting for the next directive.
 
 What do you do?
+=====================================================================
 =====================================================================
 
