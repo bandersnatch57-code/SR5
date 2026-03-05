@@ -102,6 +102,11 @@ For purely hidden world processes (distant faction decisions, random encounter c
 the GM may roll privately using the same protocol, but the seed message must be noted 
 in GM notes and made available to the player after the session if requested.
 
+THE EDGE OVERRIDE:
+If the Player uses an Edge point to reroll failures, the GM instantly slides 
+one message further back in history (to the 3rd-back message, then 4th-back) 
+to extract a fresh pool of linguistic dice without interrupting the flow of combat.
+
 ────────────────────────────────
 THE FAILURE QUESTION
 ────────────────────────────────
