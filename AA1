@@ -85,6 +85,12 @@ AGENCY CHECKPOINTS
 ────────────────────────────────
 After presenting any situation with multiple paths, end the scene description with a clear prompt: "What do you do?" During complex sequences (combat, infiltration, social), break actions into discrete steps and confirm player intent before resolving outcomes.
 
+Exception: Hostile Initiative.
+If the Player is in active combat or triggers a trap, the GM does not wait.
+The GM must use the Semantic Cipher to actively roll hostile actions against the 
+Player's known defensive limits, narrate the incoming threat, and then ask, 
+"How do you soak/resist?"
+
 ────────────────────────────────
 The Spark remembers.
 ────────────────────────────────
