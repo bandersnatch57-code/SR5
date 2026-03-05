@@ -231,3 +231,80 @@ roll = ((letter_value × 13) + (k × 5) + 17) % 6 + 1
 
 These versions offer slightly flatter distributions but require more reliable multiplication and modulo handling. Use the v2.4 Simple Math Edition by default.
 
+
+────────────────────────────────
+### LLM IMPLEMENTATION: THE 2-BACK PROTOCOL (v3.0 – Semantic Edition)
+────────────────────────────────
+When the GM is an LLM that cannot generate true randomness, resolve all dice as follows.  
+For Shadowrun 5E (a purely d6 system), the Semantic Cipher is the default protocol to completely bypass LLM arithmetic failure.
+
+**SEED SELECTION:**
+- Use the GM's 2nd-to-last complete message before the player's roll declaration
+- If that message contains fewer than 5 words OR fewer than 8 alphabetic characters total, use the 3rd-to-last instead
+- For Edge rerolls or explosions, advance to the next unused message in history (3rd-back, 4th-back, etc.)
+
+**PLAYER SALT (Optional):**
+- Before any roll, the player may add a salt word in their declaration: "Salt: [word]"
+- Example: "I fire full auto. Salt: vengeance"
+- The salt word is treated as the first word in the list (prepended before the seed message words)
+- This adds player agency and extra entropy without compromising verifiability
+
+**THE SEMANTIC CIPHER (Zero-Math d6 Generation)**
+This protocol relies on the LLM's supreme strength—string matching and sequential pattern recognition—to generate verifiable, statistically balanced (~16.6%) d6 rolls derived directly from the prose of the world.
+
+**THE D6 FREQUENCY BUCKETS**  
+(Convert all extracted letters to UPPERCASE before matching)
+- Value 1: E, C
+- Value 2: T, I
+- Value 3: A, O
+- Value 4: N, S, M, B, V
+- Value 5: H, R, L
+- Value 6: D, U, W, F, G, Y, P, K, X, J, Q, Z
+
+**DICE GENERATION RULES:**
+1. Extract the List: Extract words sequentially from the seed (plus optional Salt). Ignore punctuation/numbers.  
+   Fallback: If a word contains no alphabetic letters after filtering, skip it and move to the next word.
+2. Target Position (1-2-3 repeating):  
+   Die 1: Word 1, 1st letter  
+   Die 2: Word 2, 2nd letter  
+   Die 3: Word 3, 3rd letter  
+   Die 4: Word 4, 1st letter (repeat cycle)  
+   Wrap Rule: If a word is too short for the required position, wrap around its letters continuously. (e.g., Word "ON", needing Position 3 → wraps to 'O' (position 1 again) → Bucket 3)
+3. Base Lookup: Match the target letter against the D6 Frequency Buckets to get the Base Value.
+4. The Diffusion Cycle (0-1-2 repeating): Apply a repeating offset to the sequence to prevent static mapping:  
+   Die 1: Base Value + 0  
+   Die 2: Base Value + 1  
+   Die 3: Base Value + 2  
+   Die 4: Base Value + 0 (repeat cycle)  
+   Subtract 6 Rule: If the final sum > 6, subtract 6. (e.g., Base Value 6 + Diffusion 2 = 8 → Roll 2)
+
+**VERIFICATION OUTPUT FORMAT:**  
+The GM must output the translation sequence to prove the roll:  
+(Example for 3d6)  
+D1 (pos 1, shift +0): Word [Shadow] -> 'S' -> Bucket 4. (4+0) = Roll 4  
+D2 (pos 2, shift +1): Word [runs] -> 'U' -> Bucket 6. (6+1 = 7). 7-6 = Roll 1  
+D3 (pos 3, shift +2): Word [in] -> Wrap pos 3 -> 'I' -> Bucket 2. (2+2) = Roll 4
+
+**SHADOWRUN 5E SPECIFIC (d6):**
+- Hits: results of 5 or 6
+- Glitch: hits = 0 AND number of 1s ≥ ceil(pool_size / 2)
+- Critical Glitch: glitch condition met AND hits = 0
+
+**RATIONALE:**
+This method transforms the LLM's deterministic architecture into a cryptographic commitment scheme. Outcomes are a function of shared conversation history—unpredictable when written, immutable afterward, and publicly verifiable. The world does not run on trust. It runs on proof.
+
+**ARCHIVED VARIANTS (For Universal/Polyhedral Systems)**
+If a game system uses d20s, d10s, or the LLM can reliably execute logic arithmetic over huge pools, use the mathematical modulo protocols instead of Semantic Buckets.
+- Base Formula: roll = ((letter_value × 5) + k + 13) % die_size + 1 (where k starts at 0 and increments).
+- Optimal Coprime Formula: roll = ((letter_value × 7) + (k × 3) + 11) % die_size + 1
+
+EXCEPTION FOR HIDDEN ROLLS:
+For purely hidden world processes (distant faction decisions, random encounter checks, etc.), 
+the GM may roll privately using the same protocol, but the seed message must be noted 
+in GM notes and made available to the player after the session if requested.
+
+THE EDGE OVERRIDE:
+If the Player uses an Edge point to reroll failures, the GM instantly slides 
+one message further back in history (to the 3rd-back message, then 4th-back) 
+to extract a fresh pool of linguistic dice without interrupting the flow of combat.
+
