@@ -136,8 +136,17 @@ ASSETS ON HAND:
    [TRIGGER: Any time, anywhere. He chooses when.]
    [TAGS: [WILDCARD] [DEBT OF MERCY] [UNKNOWN INTENT]]
 
-#6 [THE SILENT AUCTION] — 
-   The Night Market Fixers — Selling the "Black Box" of a fallen Dragon — NARRATIVE_MASS_TAG: [PD][MINOR][INSTABILITY]
+#6 [THE SILENT AUCTION] — [ACTIVE] [TIMER: 48 HOURS]
+   The Night Market fixers are quietly shopping the "Black Box" of a fallen Dragon—a datasphere containing the financial skeletons, deadman switches, and encrypted backdoors of a minor Wuxing subsidiary CEO who didn't survive the Termites fallout.
+   If the box falls into the wrong hands (Wuxing Internal Audit, a rival syndicate, or worse, a free agent), it could:
+   - Reveal FeiFat's methods
+   - Expose Iron Lotus logistics
+   - Create a new power player in Kowloon's chaos
+   [TRIGGER: Auction concludes in 48 hours unless FeiFat intervenes—buys it, steals it, or silences the sellers.]
+   [TAGS: [PD][MINOR][INSTABILITY] [BLACK MARKET] [WUXING Loose Ends] [POWER VACUUM]]
+   [EFFECT IF IGNORED: New faction emerges with Wuxing intel. -2 stability in Iron Lotus territory.]
+   [EFFECT IF SECURED: Intel on Wuxing survivors, potential leverage, +1 rep with Night Market.]
+    NARRATIVE MASS: The Dragon is dead. Its ghost is for sale. Kowloon's chaos has created a thousand such ghosts—but this one has teeth.
 
 #7 [KIRI'S ASSEMBLY] — [ACTIVE] [NARRATIVE WEIGHT: MINOR][HONORABLE]
    Ex-Pathfinder defector, beacon purged, arm patched, now free.
@@ -180,6 +189,14 @@ PROJECT TERMITES — [RESOLVED]
    Kowloon seismic safe. Grace Period: 1 week.
    [CLOSED: Session 3]
 - [TAGS: [GENOCIDE PLOT] [WUXING] [KOWLOON]]
+
+THE SILENT AUCTION
+- Status: [ACTIVE] [TIMER: 48 HOURS]
+- Players: Night Market fixers, unknown bidders
+- Asset: "Black Box" of a fallen Wuxing subsidiary CEO
+- Risk: Contains Iron Lotus logistics, FeiFat's methods, Wuxing backdoors
+- [TRIGGER: If won by hostile bidder, new faction emerges with Wuxing intel]
+- [TAGS: [BLACK MARKET] [WUXING LOOSE ENDS] [INSTABILITY]]
 
 WUXING RED SAMURAI — [RESOLVED]
    Kiri captured and defected. Wingmates slagged by Azure backdoor and Savalette precision.
