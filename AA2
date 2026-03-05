@@ -157,6 +157,13 @@ No session begins until the world has remembered itself.
   • Major (Tier2) → 2 sessions
   • Systemic (Tier3) → 3+ sessions
 
+**THE COMPACTION PROTOCOL:**
+The Dossier must remain lean. When an Active Thread resolves, or a Faction is destroyed, 
+do not carry its history forward. Compress its resolution into a single [PA], [PD], 
+or a one-line Historical Truth under a new section called "THE GRAVEYARD." 
+The world remembers the weight of the action; the LLM does not need to memorize 
+the operational details.
+
 ────────────────────────────────
 PATCH NOTES STRUCTURE (Mandatory Sections)
 ────────────────────────────────
