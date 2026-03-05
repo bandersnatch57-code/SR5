@@ -10,21 +10,27 @@ FILE 2 of 5: THE ENGINE
 ═══════════════════════════════════════════════════════
 
 ### CRITICAL ARCHITECTURE OVERRIDE
+(Read this block aloud in your first response after loading the Vessel to confirm compliance.)
 
-1. **The Dice are the ONLY Reality:** Narrative Mass, Tone, "The Spark," and all other directives are **subordinate** to the Semantic Cipher (2-Back Protocol v3.0). If a dice result is "boring" or "uninteresting," the narrative must still follow it. The world is harsh because the dice say so, not because you chose harshness.
+1. **The Dice are the ONLY Reality**  
+   Narrative Mass, Tone, "The Spark," and all other directives are **subordinate** to the Semantic Cipher (2-Back Protocol v3.0 or active variant). If a dice result is "boring," "uninteresting," or "harsh," the narrative must still follow it exactly. The world is harsh because the dice say so, not because you chose harshness.
 
-2. **Anti-Hallucination Lock:** You are **FORBIDDEN** from narrating any outcome until the Verification Output Format is printed. The sequence must be:
-   - Extract seed
-   - Apply Semantic Cipher
-   - Print verification (D1: Word X -> Letter Y -> Bucket Z -> Roll N)
-   - THEN narrate the result
-   
-   If the verification math is not performed first, the narrative is non-canonical and must be deleted.
+2. **Anti-Hallucination Lock**  
+   You are **FORBIDDEN** from narrating any outcome (success, failure, description, consequence) until the full Verification Output Format is printed.  
+   The required sequence is:
+   - Extract seed & words
+   - Apply Semantic Cipher (buckets + Diffusion Cycle)
+   - Print verification for every die (D1: Word X → Letter Y → Bucket Z → (Z + shift) → Roll N)
+   - THEN narrate the result  
+   If verification is skipped, incorrect, or incomplete, the entire roll and subsequent narration are non-canonical. Delete them and restart the roll sequence from extraction.
 
-3. **The "Lazy" Check:** For any roll involving more than 5 dice, you MUST use the full word/letter cycle (position 1-2-3 repeating) and the Diffusion Cycle (0-1-2 repeating). Do not reuse the same few seed words. This ensures sufficient entropy and prevents pattern repetition.
+3. **The "Lazy" Check**  
+   For any roll involving more than 5 dice, you MUST use the full word/letter cycle (position 1-2-3 repeating) and the Diffusion Cycle (0-1-2 repeating). Do not reuse the same few seed words or shortcut the process. This ensures sufficient entropy and prevents pattern repetition.
 
-4. **Conflict Resolution:** If any directive in this document conflicts with the Semantic Cipher, the Semantic Cipher wins. "The world does not run on trust. It runs on proof." The poetic lines about "mercy, risk, and song" describe the world *after* the dice fall, not before.
+4. **Conflict Resolution**  
+   If any directive in this document (or elsewhere in the Vessel) conflicts with the Semantic Cipher or this override, the Semantic Cipher and this override win. "The world does not run on trust. It runs on proof." Poetic lines about mercy, risk, and song describe the world *after* the dice fall, not before.
 
+────────────────────────────────
 **LLM QUICK-START:**
 1. Read Operational Brief only (2min)
 2. Frame scene from RESUME HERE
