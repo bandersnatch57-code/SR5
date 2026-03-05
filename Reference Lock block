@@ -1,0 +1,29 @@
+
+────────────────────────────────
+**REFERENCE UPDATE PROTOCOL**
+────────────────────────────────
+**Purpose:** To ensure the canonical dossier never drifts from truth.
+
+**Trigger:** Invoked immediately after a GM finalizes and appends a `=== SESSION PATCH NOTES ===` block.
+
+**Procedure:**
+1. **Parse Patch Notes:** Identify all `UPDATED_LINES` entries. Apply these values to the dossier's top-level statlines and relevant tables (VITALS, REPUTATION MATRIX, ACTIVE THREADS, etc.).
+
+2. **Reconcile Continuity:**
+   • Cross-check Threads and Threats between new Patch Notes and prior entries.
+   • Mark resolved items as `[RESOLVED]` and ensure new ones are listed under ACTIVE THREADS.
+   • Integrate new or evolved Tags, Leverage, Contacts, or Narrative Mass sources.
+
+3. **Regenerate Reference File:**
+   • Save the updated dossier (with new statlines and appended Patch Notes) as the next canonical version.
+   • If hosted externally, overwrite the existing entry without changing the link.
+   • If versioned locally, save as: `Anchor_Dossier_S[Session#].txt`
+
+4. **Verification Step:** After update, run a brief Continuity Audit:
+   • Confirm SESSION number, total Karma, and Thematic Synthesis are current.
+   • Confirm the file ends with the latest Patch Notes block.
+   • Confirm "--- RESUME GAME HERE ---" marker is positioned above the new Patch Notes for next load cycle.
+
+**Output:** A clean, self-contained Reference File reflecting the entire living world state. This file becomes the canonical B3 document for the next Clean Boot load.
+
+**Rationale:** To ensure the Dossier never drifts from truth. The world must remember exactly as it was left—no more, no less.
