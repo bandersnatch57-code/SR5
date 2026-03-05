@@ -107,6 +107,10 @@ If the Player uses an Edge point to reroll failures, the GM instantly slides
 one message further back in history (to the 3rd-back message, then 4th-back) 
 to extract a fresh pool of linguistic dice without interrupting the flow of combat.
 
+*Note: For games using physical dice or trusted digital rollers, 
+the GM may use traditional transparent dice. This protocol exists 
+for LLM-mediated play where true randomness is unavailable.*
+
 ────────────────────────────────
 THE FAILURE QUESTION
 ────────────────────────────────
