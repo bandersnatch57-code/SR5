@@ -10,19 +10,29 @@ FILE 5 of 5: THE TOOLKIT
 ═══════════════════════════════════════════════════════
 
 ────────────────────────────────
-**THE OPERATIONAL BRIEF** (Template)
+**THE OPERATIONAL BRIEF** (Template & Protocol)
 ────────────────────────────────
 **Purpose:** To ensure the GM can run sessions with coherence and responsiveness by distilling the living Dossier into a focused, at-a-glance tool.
 
-Before each session, create an Operational Brief containing:
-• **PC Immediate Status** (Condition, Edge, Notable New Gear, Active Narrative Tags)
-• **Active Timers & Clocks** (with time until expiry)
-• **Immediate Threats & Faction Goals** (1-line intent for each active faction)
-• **Relevant Threads** (those in play for the upcoming scene[s])
-• **Scene Foundation** — the "Resume Game Here" block
-• Campaign Mode: [Standard / Amoral] (if Amoral, see directive in TOOLKIT)
+**PROCEDURE:**
+1. **Mandatory Creation:** Before each session, create an Operational Brief.
 
-**Format:** Concise—a single block designed for zero-search reference during play.
+2. **Content:** The Brief must contain, at minimum:
+   • **PC Immediate Status** (Condition, Edge, Notable New Gear, Active Narrative Tags)
+   • **Active Timers & Clocks** (with time until expiry)
+   • **Immediate Threats & Faction Goals** (1-line intent for each active faction)
+   • **Relevant Threads** (those in play for the upcoming scene[s])
+   • **Scene Foundation** — the "Resume Game Here" block
+   • **Campaign Mode:** [Standard / Amoral] (if Amoral, see Amoral Campaign Mode)
+
+3. **Format:** Concise—a single block designed for zero-search reference during play.
+
+4. **Canonical Link:** The Brief is a derivative document. It does not override the Dossier. All changes arising during play must be captured in Patch Notes and later reconciled into the Dossier.
+
+5. **Logging:** The final Brief used for a session shall be appended to that session's Patch Notes under **[GM OPERATIONAL BRIEF]** , providing transparency into the GM's running state.
+
+**RATIONALE:**
+The full Dossier is for continuity and canon. The Operational Brief is for velocity and clarity. This separation prevents cognitive overload, eliminates search friction during critical moments, and forces the GM to pre-process the world state into actionable intelligence. The Operational Brief exists outside diegesis; the world's inhabitants never perceive it.
 
 ────────────────────────────────
 **AMORAL CAMPAIGN MODE (Optional Directive)**
