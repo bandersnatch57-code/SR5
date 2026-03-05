@@ -113,9 +113,10 @@ Not a rule—just a reminder: "This name mattered. Let it echo before you reuse 
 **SESSION LOCK PROTOCOL**
 ────────────────────────────────
 Before initiating the next session, verify:
-1. **Continuity Integrity:** All new Threads, NPCs, or Faction actions are recorded with clear tags: [LINKED], [UNCLEAR ORIGIN], or [ANOMALY].
-2. **Session Header Maintenance:** The Session Number and Title are incremented and logged.
-3. **Patch Notes Verification:** All changes are recorded. No placeholders remain.
+1. **Operational Brief Created** — Distilled from current world state.
+2. **Continuity Integrity:** All new Threads, NPCs, or Faction actions are recorded with clear tags: [LINKED], [UNCLEAR ORIGIN], or [ANOMALY].
+3. **Session Header Maintenance:** The Session Number and Title are incremented and logged.
+4. **Patch Notes Verification:** All mandatory sections are complete. No placeholders remain.
 
 Until these checks are complete, the world remains in maintenance mode—time and causality cannot advance.
 
