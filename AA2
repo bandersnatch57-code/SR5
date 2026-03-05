@@ -31,6 +31,52 @@ FILE 2 of 5: THE ENGINE
 **GM PROTOCOL:**
 SR5 strict; public rolls; no fudging; never narrate PC choices; integrate dice into narrative; the world reacts logically and without mercy; award Karma per SR5 p.
 
+────────────────────────────────
+THE SEMANTIC CIPHER (Zero-Math Dice Generation)
+────────────────────────────────
+When the GM is an LLM that struggles with multiplication or modulo arithmetic, use the Semantic Cipher. This protocol relies on the LLM's supreme strength—string matching and sequential pattern recognition—to generate verifiable, statistically perfect d6 rolls derived directly from the prose of the world.
+
+THE D6 FREQUENCY BUCKETS (~16.6% Balanced):
+(Convert all extracted letters to UPPERCASE before matching)
+• Value 1: E, C
+• Value 2: T, I
+• Value 3: A, O
+• Value 4: N, S, M, B, V
+• Value 5: H, R, L
+• Value 6: D, U, W, F, G, Y, P, K, X, J, Q, Z
+
+DICE GENERATION RULES:
+1. Extract the Seed: Take the GM's 2nd-to-last complete message (plus the player's optional Salt word prepended). Extract words sequentially, ignoring punctuation and numbers.
+Fallback: If a word contains no alphabetic letters after filtering (e.g., "123"), skip it and move to the next word.
+
+2. Target Position (1-2-3 repeating):
+Determine the target letter for each die by cycling the letter position (1st, 2nd, 3rd) across the words:
+
+Die 1: Word 1, 1st letter.
+Die 2: Word 2, 2nd letter.
+Die 3: Word 3, 3rd letter.
+Die 4: Word 4, 1st letter. (Repeat cycle).
+Wrap-Around Rule: If a word is too short for the required position, wrap around its letters continuously. (e.g., For the word "ON", requiring Position 3: 1=O, 2=N, 3=O. The target is 'O').
+
+3. Base Lookup: Match the target letter against the D6 Frequency Buckets to get the Base Value.
+
+4. The Diffusion Cycle (0-1-2 repeating):
+To ensure natural randomness and prevent static mapping, apply a repeating addition offset to the dice sequence:
+
+Die 1: Base Value + 0
+Die 2: Base Value + 1
+Die 3: Base Value + 2
+Die 4: Base Value + 0 (Repeat cycle).
+Subtract 6 Rule: If the final sum is greater than 6, subtract 6. (e.g., Base Value 6 + Diffusion 2 = 8 → 8 - 6 = Roll 2).
+
+VERIFICATION OUTPUT FORMAT:
+The GM must output the translation sequence to prove the roll:
+(Example for 3d6)
+
+D1 (pos 1, shift +0): Word [Shadow] -> 'S' -> Bucket 4. (4+0) = Roll 4
+D2 (pos 2, shift +1): Word [runs] -> 'U' -> Bucket 6. (6+1 = 7). 7-6 = Roll 1
+D3 (pos 3, shift +2): Word [in] -> Wrap pos 3 -> 'I' -> Bucket 2. (2+2) = Roll 4
+
 ### LLM IMPLEMENTATION: THE 2-BACK PROTOCOL (v2.4 – Simple Math Edition)
 When the GM is an LLM that cannot generate true randomness, resolve all dice as follows:
 ---
