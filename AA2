@@ -97,6 +97,11 @@ If a game system uses d20s, d10s, or the LLM can reliably execute logic arithmet
 - Base Formula: roll = ((letter_value × 5) + k + 13) % die_size + 1 (where k starts at 0 and increments).
 - Optimal Coprime Formula: roll = ((letter_value × 7) + (k × 3) + 11) % die_size + 1
 
+EXCEPTION FOR HIDDEN ROLLS:
+For purely hidden world processes (distant faction decisions, random encounter checks, etc.), 
+the GM may roll privately using the same protocol, but the seed message must be noted 
+in GM notes and made available to the player after the session if requested.
+
 ────────────────────────────────
 THE FAILURE QUESTION
 ────────────────────────────────
