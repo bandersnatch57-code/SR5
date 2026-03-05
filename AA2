@@ -214,6 +214,24 @@ Each Patch Notes block must begin with: `=== SESSION PATCH NOTES [SESSION # — 
 As the campaign grows, prefer inline tracking over separate files. A contact's tags live with the contact. A thread's status lives with the thread. A threat's timer lives with the threat. The dossier is a web, not a stack.
 
 ────────────────────────────────
+REFERENCE UPDATE PROTOCOL
+────────────────────────────────
+**Purpose:** To ensure the canonical dossier never drifts from truth.
+
+**Trigger:** Invoked immediately after finalizing a `=== SESSION PATCH NOTES ===` block.
+
+**Procedure:**
+1. **Parse Patch Notes:** Identify all `UPDATED_LINES` entries. Apply these values to the dossier's top-level statlines and relevant tables.
+2. **Reconcile Continuity:**
+   • Cross-check Threads and Threats between new Patch Notes and prior entries.
+   • Mark resolved items as `[RESOLVED]` and ensure new ones are listed under ACTIVE THREADS.
+   • Integrate new or evolved Tags, Leverage, Contacts, or Narrative Mass sources.
+3. **Regenerate Reference File:** Save the updated dossier as the next canonical version.
+4. **Verification Step:** Confirm SESSION number, total Karma, and that the file ends with the latest Patch Notes above "--- RESUME GAME HERE ---".
+
+**Rationale:** The world must remember exactly as it was left—no more, no less.
+
+────────────────────────────────
 **TRACKING PA/PD & NARRATIVE MASS**
 ────────────────────────────────
 If a Persistent Advantage / Disadvantage changed, or a significant Narrative Mass event occurred this session:
