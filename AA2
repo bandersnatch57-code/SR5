@@ -186,26 +186,32 @@ If there is a discrepancy between the GM's memory of wealth/karma and the Charac
 the Character Core is the absolute truth.
 
 ────────────────────────────────
-PATCH NOTES STRUCTURE (Mandatory Sections)
+PATCH NOTES – MANDATORY STRUCTURE
 ────────────────────────────────
-Each Patch Notes block must contain the following sections.  
-This schema ensures total continuity between live sessions and prevents drift between fiction and record.
+**Purpose:** To preserve total continuity between live sessions and prevent drift between fiction and record.
 
-• NARRATIVE_SUMMARY (mandatory) — What happened, in fiction (3-5 sentences)
-• KARMA_AWARDED
-• FACTION ACTIVITY — Including Competing Intelligences moves
-• THREAD_UPDATES — Each active thread: [ACTION], [INTEL], or [RELATION] vector
-• TIMER_UPDATES — Including Grace Period expirations
-• REPUTATION_IMPACT
-• WITNESS_LOG (see AA4) — One paragraph to the next GM
-• Optional: NARRATIVE_MASS — Tier + tags if a significant Mass event occurred
+Each Patch Notes block must begin with: `=== SESSION PATCH NOTES [SESSION # — TITLE] ===`
 
-Omit any section with no change, but **NARRATIVE_SUMMARY** and **WITNESS_LOG** are always mandatory.  
-Patch Notes are appended above the "--- RESUME GAME HERE ---" marker and logged sequentially by session number and title.
+**MANDATORY SECTIONS:**
+• **NARRATIVE_SUMMARY** — What happened, in fiction (3-5 sentences)
+• **UPDATED_LINES** — All mechanical changes (Karma, Nuyen, Condition, Gear, Reputation, Threads)
+• **KARMA_AWARDED** — Total for session, with brief breakdown
+• **FACTION ACTIVITY** — Including Competing Intelligences moves
+• **THREAD_UPDATES** — Each active thread: [ACTION], [INTEL], or [RELATION] vector
+• **TIMER_UPDATES** — Including Grace Period expirations
+• **REPUTATION_IMPACT** — Street Cred, Notoriety, Public Awareness changes
+
+**OPTIONAL BUT RECOMMENDED:**
+• **NARRATIVE_MASS** — Tier (Minor/Major/Systemic) + tags if significant
+• **PERSISTENT ADVANTAGES / DISADVANTAGES** — Updates only
+• **SPARK_MOMENTS** — Seeds of legend, player or world surprises
+
+**ALWAYS REQUIRED (Even if no other changes):**
+• **NARRATIVE_SUMMARY**
+• **WITNESS_LOG** (see AA4)
+
 **INTEGRATION PRINCIPLE:**
 As the campaign grows, prefer inline tracking over separate files. A contact's tags live with the contact. A thread's status lives with the thread. A threat's timer lives with the threat. The dossier is a web, not a stack.
-
-When a new category emerges, ask: "Does this need its own file, or can it live inside an existing one?" If it can live inside, let it. The goal is not to separate truth into buckets—the goal is to find truth quickly.
 
 ────────────────────────────────
 **TRACKING PA/PD & NARRATIVE MASS**
