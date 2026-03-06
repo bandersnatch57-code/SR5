@@ -78,13 +78,31 @@ SR5 strict; public rolls; no fudging; never narrate PC choices; integrate dice i
 | 6     | D, U, W, F, G, Y, P, Q, Z |
 
 ---
-3. LINEAR ADVANCE PROTOCOL (v3.2)**
-For each die **N** in the pool:
-1. **Word:** Use Word **N** (wrap if N > word count).
-2. **Letter:** Use Letter **N** of that word (wrap if N > word length).
-3. **Base Value:** Match the letter to the **Frequency Buckets**.
-4. **Diffusion Offset:** `(Base Value + [(N-1) mod 3])`.
-   - If result > 6, **subtract 6** (e.g., 8 → 2).
+### 3. LINEAR ADVANCE PROTOCOL (v3.4 – Clarified)
+For each die **N** in the pool (starting from 1):
+
+1. **Assigned Word:**
+   Use Word **N** from the seed (including Salt if used).
+   - **Wrap Rule:** If N > number of words, use word at position `(N-1) % word_count + 1` (1-based index).
+
+2. **Letter Position:**
+   Use position **`((N-1) % 3) + 1`** in the assigned word (cycles **1-2-3-1-2-3…**).
+   - **Examples:**
+     - Die 1 → Position 1
+     - Die 2 → Position 2
+     - Die 3 → Position 3
+     - Die 4 → Position 1 (cycle repeats)
+     - Die 5 → Position 2
+   - **Wrap Rule:** If the required position > word length, use `(position-1) % word_length + 1`.
+
+3. **Base Value:**
+   Take the letter at the calculated position (convert to **UPPERCASE**), then look it up in the Frequency Buckets.
+   - Default to **Bucket 1** if the letter is not found (rare).
+
+4. **Diffusion Offset:**
+   Add shift = `(N-1) % 3` (+0, +1, +2 repeating).
+   - **Final Roll = Base Value + shift**
+   - If result > 6, subtract 6 (e.g., 7 → 1, 8 → 2).
 
 ---
 4. MANDATORY VERIFICATION TRACE (v3.2)
