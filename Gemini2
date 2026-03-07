@@ -25,10 +25,10 @@ See FEIFAT3 for Campaign State (assets, contacts, location).
    [TRIGGER: FeiFat chooses wealth over power, or needs Lau's compliance]
    [TAGS: [WEALTH VS POWER] [LAUNDERING REQUIRED]]
 
-#5 [VANE'S GHOST] — [DORMANT] [WILDCARD]
-   Uncle Vane is alive. No surface this session. Still watching. Still unknown.
+#5 [VANE'S GHOST] — [DORMANT] [TIMER: ?]
+   Uncle Vane is alive. No surface since Session 3. Pressure increasing.
    [TRIGGER: Any time, anywhere. He chooses when.]
-   [TAGS: [WILDCARD] [DEBT OF MERCY] [UNKNOWN INTENT]]
+   [TAGS: [WILDCARD] [DEBT OF MERCY] [DORMANT BUT WATCHING]]
 
 #6 [THE SILENT AUCTION] — [RESOLVED]
    Black Box secured. Proxy broken. Submersible stolen. Night Market locked down.
@@ -39,29 +39,29 @@ See FEIFAT3 for Campaign State (assets, contacts, location).
    Kiri's identity crisis resolved. She is now a fully autonomous partner.
    See [PA][MAJOR][LOYAL] (Kiri) in PERSISTENT ADVANTAGES.
 
-#8 [THE BLACK BOX] — [ACTIVE] [ENCRYPTED]
-   Decryption in progress.
-   The Wuxing Black Box contains logistics, backdoors, and Iron Lotus smuggling secrets.
-   [REQUIRES: Decryption by Xiu's deckers]
-   [TRIGGER: When handed to Xiu, decryption begins]
-   [EFFECT WHEN DECRYPTED: Full visibility into Wuxing survivors and remaining assets]
-   [TAGS: [LEVERAGE: EXTREME] [WUXING DEATH SENTENCE]]
+#8 [THE BLACK BOX] — [RESOLVED]
+   Data weaponized. Financials drained, logistics leaked. Personnel list retained.
+   [CLOSED: Session 6]
 
-#9 [THE WHITE CENTIPEDE] — [DORMANT] [OBSERVING]
-   A hyper-wealthy, off-grid synth-drone rigger syndicate.
-   Witnessed FeiFat's methods at the Silent Auction. Neutralized socially, but they remember.
-   They know the "Ghost" operates with sublime physical and social exploits.
-   [TRIGGER: They may approach as patrons, competitors, or threats]
-   [TAGS: [MYSTERY] [POTENTIAL PATRON] [POTENTIAL THREAT] [DEEP POCKETS]]
+#9 [THE WHITE CENTIPEDE] — [INTERESTED]
+   Status escalated from Observing. Now aware of FeiFat's strategic priorities.
+   [TRIGGER: May approach as patron, competitor, or threat]
+   [TAGS: [MYSTERY] [DEEP POCKETS] [DRONE MASTERS] [WATCHING CLOSELY]]
+
+#10 [WUXING PERSONNEL] — [ACTIVE] [LEVERAGE]
+   Retained personnel list from Black Box. Names, positions, vulnerabilities of Wuxing中层 managers.
+   [FUNCTION: Can be used for blackmail, recruitment, or traded]
+   [TRIGGER: When FeiFat chooses to deploy this leverage]
+   [TAGS: [LEVERAGE] [INTEL] [UNUSED]]
 
 --------------------------- ACTIVE THREATS -------------------------
 WUXING (VICTORIA PEAK / INTERNAL AUDIT)
 - Status: [CRIPPLED] [DEFENSIVE] [SURVIVAL MODE]
-- Lost: Foundation structural integrity, HTR hangars, Pathfinders, orbital assets, Proxy's sanity, stock value, public trust.
-- Current State: Desperate localized war against rioting underclass. Iron Lotus besieges the perimeter. Corporate survival mode engaged at Victoria Peak fallback.
-- Next Action: Regroup if possible. Retaliation unlikely in short term. May attempt to negotiate for prisoners (4 engineers) or cut losses.
+- Lost: Financial reserves, public trust, logistics secrecy, Pathfinders, HTR hangars.
+- Current State: Desperate localized survival war. Iron Lotus besieges perimeter.
+- Next Action: Regroup if possible. May attempt to negotiate for prisoners (4 engineers).
 - [TIMER: Unknown — rebuilding from rubble]
-- [TAGS: [BROKEN] [BUT STILL DANGEROUS] [CORNERED ANIMAL] [WUXING]]
+- [TAGS: [BROKEN] [BUT STILL DANGEROUS] [CORNERED ANIMAL]]
 
 THE SUN-LEE SYNDICATE
 - Status: [CHAOS] [CONSOLIDATING]
