@@ -115,6 +115,11 @@ For each die **N** in the pool (starting from 1):
 **RESULT:** [List of rolls] → [X] Hits.
 **GLITCH CHECK:** [Y] Ones → [No Glitch/Glitch/Critical Glitch]
 
+**CONDENSED DISPLAY OPTION (Live Play Only):**
+For pools >10 dice, GM may print: Seed + Final Rolls + Hit Count + Glitch Status.
+Full verification trace must be available on player request and logged in Patch Notes.
+Rationale: Reduces mid-session cognitive load while preserving auditability.
+
 5. SHADOWRUN 5E RESOLUTION (v3.2)
 
 Hits: Results of 5 or 6.
