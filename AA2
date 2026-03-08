@@ -105,20 +105,27 @@ For each die **N** in the pool (starting from 1):
    - If result > 6, subtract 6 (e.g., 7 → 1, 8 → 2).
 
 ---
-4. MANDATORY VERIFICATION TRACE (v3.2)
+4. VERIFICATION DISPLAY (v3.4)
+Default Display (All Sessions):
 
+Seed: [first 3-5 words of source message] → Rolls: 4, 3, 1, 5, 2 → Hits: 2 → Glitch: clean
+If fallback rule activated: Seed: "What do you" [3-back]
+
+Full Trace Format (Reference):
 === DICE ROLL VERIFICATION ===
-**Seed:** "[Exact seed text + Salt]"
-**D1** (Word [W], Letter [L]): Bucket [B] + [Shift] = **Roll [R]**
-**D2** (Word [W], Letter [L]): Bucket [B] + [Shift] = **Roll [R]**
+Seed: "[Exact seed text + Salt]"
+D1 (Word [W], Letter [L]): Bucket [B] + [Shift] = Roll [R]
+D2 (Word [W], Letter [L]): Bucket [B] + [Shift] = Roll [R]
 ...
-**RESULT:** [List of rolls] → [X] Hits.
-**GLITCH CHECK:** [Y] Ones → [No Glitch/Glitch/Critical Glitch]
+RESULT: [List of rolls] → [X] Hits.
+GLITCH CHECK: [Y] Ones → [No Glitch/Glitch/Critical Glitch]
+Full Trace Required For:
 
-**CONDENSED DISPLAY OPTION (Live Play Only):**
-For pools >10 dice, GM may print: Seed + Final Rolls + Hit Count + Glitch Status.
-Full verification trace must be available on player request and logged in Patch Notes.
-Rationale: Reduces mid-session cognitive load while preserving auditability.
+Player request
+Contested rolls
+Critical Glitches
+Catastrophic Success triggers
+Log in Patch Notes when invoked
 
 5. SHADOWRUN 5E RESOLUTION (v3.2)
 
