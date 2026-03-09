@@ -63,6 +63,19 @@ SR5 strict; public rolls; no fudging; never narrate PC choices; integrate dice i
 - **Player Salt (Optional):** Declare `"Salt: [word]"` to prepend a word to the seed.
 - **Edge Rerolls:** Advance to the next unused message (3rd-back, 4th-back, etc.).
 
+POOL EXPANSION RULE:
+
+If the dice pool exceeds the number of available seed
+words, append words from the next earlier GM message
+until the pool can be filled without repeating any
+single word more than twice.
+
+If additional expansion is required, continue stepping
+back through earlier GM messages.
+
+Purpose: Maintain entropy diffusion in large dice pools
+and prevent repeated-word bias.
+
 ENTROPY SAFETY:
 
 If the extracted seed contains fewer than 20 alphabetic
