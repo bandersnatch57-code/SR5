@@ -9,6 +9,13 @@ every heartbeat buys another second of light.
 FILE 3 of 5: THE PRESSURE
 ═══════════════════════════════════════════════════════
 
+WORLD PRESSURE SYSTEM
+────────────────────────────────
+The following mechanics describe how the world
+generates motion and resistance against the player's
+actions. These forces operate continuously to prevent
+the campaign state from becoming static.
+
 ────────────────────────────────
 COMPETING INTELLIGENCES
 ────────────────────────────────
