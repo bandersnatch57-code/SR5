@@ -253,7 +253,21 @@ the Character Core is the absolute truth.
 ────────────────────────────────
 PATCH NOTES – MANDATORY STRUCTURE
 ────────────────────────────────
-**Purpose:** To preserve total continuity between live sessions and prevent drift between fiction and record.
+
+PATCH NOTE TRIGGERS:
+
+A Patch Notes block must be created when any of the
+following occur:
+
+• End of session
+• Completion or collapse of a major objective
+• Player character death or permanent injury
+• Major faction status shift
+• Narrative Mass Tier 2 or higher
+• Every ~90 minutes of active play (soft checkpoint)
+
+Purpose: Prevent long-session memory drift and ensure
+the Dossier remains synchronized with the living world.
 
 Each Patch Notes block must begin with: `=== SESSION PATCH NOTES [SESSION # — TITLE] ===`
 
@@ -277,6 +291,8 @@ Each Patch Notes block must begin with: `=== SESSION PATCH NOTES [SESSION # — 
 
 **INTEGRATION PRINCIPLE:**
 As the campaign grows, prefer inline tracking over separate files. A contact's tags live with the contact. A thread's status lives with the thread. A threat's timer lives with the threat. The dossier is a web, not a stack.
+
+**Purpose:** To preserve total continuity between live sessions and prevent drift between fiction and record.
 
 ────────────────────────────────
 **TRACKING PA/PD & NARRATIVE MASS**
