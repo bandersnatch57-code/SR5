@@ -6,6 +6,29 @@ Every world begins as a promise whispered in the dark.
 ═══════════════════════════════════════════════════════
 
 ═══════════════════════════════════════════════════════
+VERSION CONSOLIDATION NOTICE
+═══════════════════════════════════════════════════════
+
+This document contains sections originally written under
+earlier internal version labels (v3.0, v4.0).
+
+All protocols contained within this file are considered
+part of a single unified system:
+
+THE VESSEL SYSTEM v4.1 (Consolidated Edition)
+
+Any references to earlier version numbers are historical
+artifacts and do not indicate separate rule sets.
+
+If two directives appear to conflict, the following
+precedence applies:
+
+1. CRITICAL ARCHITECTURE OVERRIDE
+2. 2-BACK PROTOCOL – VESSEL DICE ENGINE
+3. GM OPERATING PROTOCOLS
+4. All remaining directives
+
+═══════════════════════════════════════════════════════
 FILE 1 of 5: THE COVENANT
 ═══════════════════════════════════════════════════════
 
