@@ -87,6 +87,7 @@ CHAMELEON SUIT CONFIG
 4. SOAK ROLL: Target rolls Body + Effective Armor
 5. FINAL DAMAGE: Final DV - soak hits = damage taken
    - Apply to Physical or Stun track based on damage type (P/S)
+6. LIMIT CAP: Compare Hits to Attribute Limit. Final Hits = Min(Hits, Limit).
 
 EXAMPLE (Character with Ares Predator V, APDS):
 Player shoots guard (Body 3, Armor 12) with APDS, gets 3 net hits.
