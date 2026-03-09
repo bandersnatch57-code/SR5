@@ -25,6 +25,57 @@ COMPETING INTELLIGENCES
 - This ensures the world feels alive, adaptive, and resistant—an ecosystem of moving parts.
 - Log all opposing actions in Patch Notes under "Faction Activity."
 
+═══════════════════════════════════════════════════════════════════
+FACTION THREATS FORMAT
+═══════════════════════════════════════════════════════════════════
+
+Factions should be tracked ONLY through the ACTIVE THREATS section.
+Do not create separate faction dossiers.
+
+Each faction entry must remain compact and follow this format:
+
+FACTION NAME
+Status: [CURRENT STATE]
+Intent: [WHAT THEY WANT]
+Trigger: [WHAT MAKES THEM ACT NEXT]
+
+Optional:
+Timer: [If a delayed reaction is likely]
+
+Example:
+
+WUXING CORPORATION
+Status: [CRIPPLED] [DEFENSIVE]
+Intent: Identify and retaliate against saboteur
+Trigger: Internal audit stabilization
+
+═══════════════════════════════════════════════════════════════════
+INTERACTION WITH OTHER SYSTEMS
+═══════════════════════════════════════════════════════════════════
+
+Threads represent unresolved situations.
+Threats represent factions or actors capable of creating pressure.
+Persistent Advantages and Disadvantages represent permanent changes
+to the world caused by those actors.
+
+Do not duplicate information between these sections.
+
+If a faction creates a permanent consequence, encode it as PA/PD
+instead of expanding the Threat entry.
+
+═══════════════════════════════════════════════════════════════════
+SIZE RULE
+═══════════════════════════════════════════════════════════════════
+
+Threat entries should remain short.
+Recommended length: 2–4 lines per faction.
+
+If an entry grows larger, convert excess information into:
+• a Thread (unresolved situation)
+• a PA/PD (permanent change)
+
+This keeps the Threat system lightweight and prevents dossier bloat.
+
 ────────────────────────────────
 ENTROPIC RESONANCE
 ────────────────────────────────
