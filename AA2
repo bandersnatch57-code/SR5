@@ -63,6 +63,20 @@ SR5 strict; public rolls; no fudging; never narrate PC choices; integrate dice i
 - **Player Salt (Optional):** Declare `"Salt: [word]"` to prepend a word to the seed.
 - **Edge Rerolls:** Advance to the next unused message (3rd-back, 4th-back, etc.).
 
+ENTROPY SAFETY:
+
+If the extracted seed contains fewer than 20 alphabetic
+characters after cleaning, concatenate the GM's
+2nd-to-last and 3rd-to-last complete messages and use
+the combined text as the seed.
+
+If the combined seed still contains fewer than 20
+alphabetic characters, step back one additional GM
+message until the minimum entropy threshold is reached.
+
+Purpose: Prevent low-information seeds from producing
+predictable dice patterns.
+
 ---
 2. BALANCED FREQUENCY BUCKETS (v3.2)**
 (Convert all letters to **UPPERCASE** before matching.)
