@@ -1,42 +1,100 @@
 
+# =====================================================================
+# THE VESSEL SYSTEM (v4.1) - LIVING DOSSIER: THE SUNLESS VALE
+# =====================================================================
+# SESSION: 01 | STATUS: ACTIVE | CHRONICLE: THE RADIANT BURDEN
+# =====================================================================
 
-=== SESSION PATCH NOTES [SESSION 1 — THE RADIANT BURDEN] ===
+--------------------------- PC CORE ---------------------------------
+NAME: GREKEL (Tiefling Warlock 1)
+STATUS: HP 12/12 | SLOTS 1/1 | SYSTEM REWARDS (XP): 300
+NARRATIVE TAGS: [EXPEDIENT], [BURDENED]
 
-NARRATIVE_SUMMARY Grekel bypassed an Iron Crown Lumen-Gate by charming a veteran guard, but was forced into a violent breakout when a recruit signaled for reinforcements. Using the Arms of Hadar, Grekel neutralized two Circle of Ash scouts and fled to the Inner Ring Checkpoint. The session concluded at the Altar of Silence, where the Soul-Seed must be processed before the Dread-Hooves arrive. 
+--------------------------- WORLD ARCHITECTURE ----------------------
+[FOUNDATION NODES]
+1. THE OSSUARY OF SAINT VESPER
+   Status: Stable (Distant)
+   True Price: A drop of blood from a willing innocent.
+   Mass: Systemic (Tier 3)
 
-REWARDS_AWARDED 
+2. THE IRON ROOT
+   Status: TARGET LOCATION (Active)
+   True Price: A secret that causes the speaker pain to tell.
+   Challenge: The Circle of Ash (Radical Druid Faction)
+   Mass: Major (Tier 2)
 
-Grekel: +300 XP (Encounter: Pylon Breakout/Gate Bypass). 
+--------------------------- ACTIVE THREATS --------------------------
+[THE IRON CROWN]
+Status: ALERTED (Red Signal Flare triggered at Pylon).
+Vector: Total feudal order; reclamation of taxes; containment of the Rot.
+Trigger: Any detection of "violet frequency" or unauthorized travelers.
+Pressure: Dread-Hoove heavy cavalry; Lumen-Gate checkpoints; Ballistae.
+
+[THE CIRCLE OF ASH]
+Status: HOSTILE (Two scouts neutralized by Grekel).
+Vector: Return land to primal state; reclaim the Soul-Seed.
+Trigger: Exposure of the Seed in the wilds.
+Pressure: Targeted assassinations; "Nature-warfare"; Churning mud traps.
+
+--------------------------- ACTIVE SEEDS ----------------------------
+[THE WHISPERING PLAGUE] (Major/Tier 2)
+Current State: Active. Brother Thistle is dying; the Seed is fused to him.
+Urgency: If ignored, the dead rise in villages without consecrated hearths.
+
+[THE TITHE-WAR] (Major/Tier 2)
+Current State: Dormant/Escalating.
+Pressure: Iron Crown Duchy moving to reclaim taxes from free-holds.
+
+[THE BLEEDING SKY] (Minor/Tier 1)
+Current State: Distant. Star-Touched Cult active in the periphery.
+
+--------------------------- ASSET LOG -------------------------------
+[THE SOUL-SEED]
+Type: Relic / Arcane Beacon
+Mass: Major (Tier 2)
+State: [ACTIVE/BEACON] - Detection risk increased; currently fused to Thistle.
+Effect: Resonates with the Iron Root; contains "Data-Stream of the Dying."
+
+[BROTHER THISTLE]
+Role: First Face / Bearer (Dying)
+Status: [CRITICAL/SPENT]. Fused to the Seed. Located at the Altar of Silence.
+
+--------------------------- ARCHIVE: PATCH NOTES --------------------
+=== SESSION PATCH NOTES [01 — THE RADIANT BURDEN] ===
+
+NARRATIVE_SUMMARY:
+Grekel bypasses the mountain Pylon via 'Charm Person' on a veteran guard. 
+Discovery by a recruit leads to a Red Alert flare. Grekel deploys 
+'Arms of Hadar', killing 2 Circle of Ash scouts. Grekel reaches the 
+Inner Ring Gate and secures entry using the passphrase: 
+"The Sun Sets in Iron." 
+
+WITNESS_LOG:
+Grekel demonstrated surgical detachment, utilizing a "friend" as a human 
+shield and then a distraction. The Tiefling sees the strings of the 
+world clearly, but the Soul-Seed is pulling back.
+- GEMINI
 
 FACTION_ACTIVITY 
 
 The Iron Crown:  Triggered Red Alert. Dread-Hoove cavalry deployed to the Inner Ring. 
-
 The Circle of Ash: Lost two scouts to necrotic rot; awareness of the "Tiefling Scourge" increased. 
 
 THREAD_UPDATES 
-
 [The Whispering Plague] → Active. Goal: Reach the Altar of Silence. 
-
 [The Iron Checkpoint] → NEW. Goal: Survive the Warden's scrutiny with the passphrase. 
 
 NARRATIVE_MASS 
-
 Tier: Major (Tier 2) 
-
 Tags: [EXPEDIENT], [BURDENED] 
-
 Reason: The Soul-Seed is no longer a hidden relic; it is an active beacon of the plague’s memory, forcing factions to move openly. 
 
 WITNESS_LOG Grekel operates with a surgical detachment, utilizing a "friend" as a human shield and then a distraction without hesitation. The Tiefling sees the strings of the world clearly, but the Soul-Seed is starting to pull back. The next steward should watch how Grekel handles the "True Price" at the Altar—he values knowledge, but what will he trade for it? Sign: —GEMINI 
 
 --- RESUME GAME HERE ---
 
-
 The iron door has slammed shut, cutting off the rhythmic thunder of the Dread-Hooves. You stand in the courtyard of the Inner Ring, the air suddenly, unnervingly quiet. The Altar of Silence sits before you, a slab of marble that seems to pull the very heat from the air.
-
 The three blindfolded Warden-Priests turn their heads toward you in perfect unison. One extends a hand toward the wooden sphere fused to Brother Thistle’s cooling flesh.
-
 "The time for words has passed with the setting sun," the Priest intones. "The Seed is heavy with the memories of the dying. To wash it clean, you must leave a part of yourself in the basin. The Altar requires its due."
 
 What do you do?
