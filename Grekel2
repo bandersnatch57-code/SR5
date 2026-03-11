@@ -1,0 +1,42 @@
+=====================================================================
+D&D 5E (2024) - MECHANICS REFERENCE: GREKEL (v1.0)
+=====================================================================
+
+--------------------------- MAGIC REPERTOIRE -----------------------
+SPELL ATTACK: +7 | SPELL SAVE DC: 15
+WARLOCK SLOTS: 1 (Level 1) | RECOVERS ON SHORT REST
+
+CANTRIPS:
+- Eldritch Blast (Warlock): 1d10 Force | Range: 120ft | +7 to hit
+- Mind Sliver (Warlock): 1d6 Psychic | Range: 60ft | INT Save or -1d4 to next Save
+- Poison Spray (Species): 1d12 Poison | Range: 30ft | CON Save
+- Guidance (Feat): +1d4 to one Ability Check | Range: Touch
+- Mending (Feat): Repairs small objects | Casting: 1 Minute
+- Friends (Warlock/Optional): Advantage on Charisma checks against non-hostile.
+
+LEVEL 1 SPELLS (PREPARED):
+- Cure Wounds (Feat): 1/day Free. 1d8+5 Healing.
+- Charm Person (Warlock): WIS Save or Charmed.
+- Arms of Hadar (Warlock): 2d6 Necrotic + No Reactions | 10ft Strength Save.
+- Dissonant Whispers (Patron): 3d6 Psychic + Reaction Move | WIS Save.
+- Tasha’s Hideous Laughter (Patron): WIS Save or Prone/Incapacitated.
+
+--------------------------- COMBAT CALCULATIONS --------------------
+OFFENSE:
+- Eldritch Blast: 1d20 + 7 | Damage: 1d10 Force
+- Dagger (Melee/Thrown): 1d20 + 5 | Damage: 1d4 + 3 Piercing
+- Save-Based Magic: DC 15 (WIS/INT/CON/STR depending on spell)
+
+DEFENSE:
+- Armor Class (AC): 14 (Leather Armor 11 + DEX 3)
+- Initiative: +3 (DEX Mod)
+- Saving Throws: Wisdom (+3), Charisma (+7)
+
+--------------------------- DERIVED STATS --------------------------
+HIT POINTS (HP): 12
+HIT DICE: 1d8
+SENSES: Passive Perception 11 | Passive Insight 13 | Darkvision 60ft
+
+--------------------------- SPECIAL ACTIONS ------------------------
+- Awakened Mind (Bonus Action/Free): Establish mental link (30ft).
+- Poison Resistance: Half damage from all Poison sources.
