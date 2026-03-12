@@ -1,0 +1,107 @@
+=====================================================================
+THE VESSEL SYSTEM - CAMPAIGN STATE: THE SUNLESS VALE (v1.0)
+=====================================================================
+CAMPAIGN: The Sunless Vale
+CHRONICLE: The Radiant Burden
+TONE: Gritty, moral weight, systemic pressure
+LAST UPDATED: Post-Session 01
+
+--------------------------- PC STATUS ------------------------------
+NAME: Grekel (Tiefling Warlock 1)
+HP: 12/12 | SPELL SLOTS: 1/1 | XP: 300
+CONDITION: Healthy
+NARRATIVE TAGS: [EXPEDIENT], [BURDENED]
+
+--------------------------- WORLD ARCHITECTURE ----------------------
+[FOUNDATION NODES]
+1. THE OSSUARY OF SAINT VESPER
+   True Price: A drop of blood from a willing innocent.
+   Challenge: The "Lich-Warden" (remnant of old empire)
+   Mass: Systemic (Tier 3)
+   Status: Distant (Stable)
+
+2. THE IRON ROOT (Gargantuan petrified tree-fortress)
+   True Price: A secret that causes the speaker pain to tell.
+   Challenge: The Circle of Ash (Radical Druid Faction)
+   Mass: Major (Tier 2)
+   Status: TARGET LOCATION [ACTIVE]
+
+--------------------------- ACTIVE THREADS -------------------------
+#1 [THE WHISPERING PLAGUE] — Major/Tier 2
+   Status: [ACTIVE] Brother Thistle is dying; the Seed is fused to him.
+   Goal: Reach the Altar of Silence (completed) → Next: Perform the ritual.
+   If Ignored: The dead rise in villages without consecrated hearths.
+   [TAGS: [PLAGUE] [NECROTIC] [TIME SENSITIVE]]
+
+#2 [THE TITHE-WAR] — Major/Tier 2
+   Status: [DORMANT] [ESCALATING]
+   Pressure: Iron Crown Duchy moving to reclaim taxes from free-holds.
+   If Ignored: Siege engines arrive at the Iron Root.
+   [TAGS: [POLITICAL] [FEUDAL] [WAR CLOUDS]]
+
+#3 [THE BLEEDING SKY] — Minor/Tier 1
+   Status: [DISTANT] Star-Touched Cult active in periphery.
+   If Ignored: Local crops wither; animals speak in tongues.
+   [TAGS: [CULT] [COSMIC] [PERIPHERAL]]
+
+--------------------------- ACTIVE THREATS -------------------------
+[THE IRON CROWN]
+- Status: [ALERTED] (Red Signal Flare triggered at Pylon)
+- Goal: Total feudal order; reclamation of taxes; containment of the Rot.
+- Forces: Dread-Hoove heavy cavalry; Lumen-Gate checkpoints; Ballistae.
+- Trigger: Any detection of "violet frequency" or unauthorized travelers.
+- [TAGS: [FEUDAL] [MILITARISTIC] [HUNTING]]
+
+[THE CIRCLE OF ASH]
+- Status: [HOSTILE] (Two scouts neutralized by Grekel)
+- Goal: Return land to primal state; reclaim the Soul-Seed.
+- Methods: Targeted assassinations; "nature-warfare"; Churning mud traps.
+- Trigger: Exposure of the Seed in the wilds.
+- [TAGS: [DRUID] [RADICAL] [TERRITORIAL]]
+
+--------------------------- KEY NPCS --------------------------------
+[BROTHER THISTLE]
+- Role: Seed-Bearer, Dying Monk
+- Status: [CRITICAL] [SPENT] Fused to the Soul-Seed.
+- Location: Altar of Silence (current scene)
+- Description: Ragged, blind. Raspy voice, plant metaphors, talks to unseen things.
+- Wants: To deliver the Seed to the Iron Root before his heart stops.
+- [TAGS: [FIRST FACE] [DYING] [VESSEL]]
+
+[THE THREE WARDEN-PRIESTS]
+- Role: Guardians of the Altar of Silence
+- Status: [PRESENT] Blindfolded, awaiting Grekel's choice.
+- Demand: A sacrifice—"leave a part of yourself in the basin."
+
+--------------------------- ASSETS & BURDENS -----------------------
+[THE SOUL-SEED]
+- Type: Relic / Arcane Beacon
+- State: [ACTIVE/BEACON] Detection risk increased.
+- Currently: Fused to Brother Thistle.
+- Effect: Resonates with the Iron Root; contains "Data-Stream of the Dying."
+- [TAGS: [RELIC] [BEACON] [PLAGUE MEMORY]]
+
+--------------------------- PERSISTENT ADVANTAGES ------------------
+[PA][EXPEDIENT] — Grekel acts without hesitation, using available resources (including people) as tools. +2 to rolls when taking morally questionable shortcuts.
+
+--------------------------- PERSISTENT DISADVANTAGES ---------------
+[PD][BURDENED] — The Soul-Seed's weight presses on Grekel. -1 to social tests when the Seed's presence is known or relevant.
+[PD][BEACON BEARER] — The Seed's violet frequency attracts attention. Enemies have +1 to track or detect the party while the Seed is exposed.
+
+--------------------------- TIMERS ----------------------------------
+⏱️ Brother Thistle's Life: [CRITICAL] — Minutes remain unless the ritual is completed.
+⏱️ Iron Crown Response: [ALERTED] — Dread-Hooves are searching. Unknown when they'll breach the Inner Ring.
+⏱️ Circle of Ash: [HOSTILE] — They know a "Tiefling Scourge" is active. Retaliation imminent.
+
+--------------------------- RESUME GAME HERE -----------------------
+Location: Inner Ring courtyard, before the Altar of Silence
+Atmosphere: The iron door has slammed shut, cutting off the rhythmic thunder of the Dread-Hooves. The air is suddenly, unnervingly quiet. The Altar of Silence sits before you, a slab of marble that seems to pull the very heat from the air.
+
+The three blindfolded Warden-Priests turn their heads toward you in perfect unison. One extends a hand toward the wooden sphere fused to Brother Thistle's cooling flesh.
+
+"The time for words has passed with the setting sun," the Priest intones. "The Seed is heavy with the memories of the dying. To wash it clean, you must leave a part of yourself in the basin. The Altar requires its due."
+
+Brother Thistle shudders but does not speak. The violet light pulses. The basin waits.
+
+What do you do?
+=====================================================================
