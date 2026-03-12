@@ -1,0 +1,229 @@
+THE VESSEL SYSTEM (v4.1)
+
+═══════════════════════════════════════════════════════
+Tools shaped by use,
+protocols forged in trust.
+═══════════════════════════════════════════════════════
+
+═══════════════════════════════════════════════════════
+FILE 5 of 5: THE TOOLKIT
+═══════════════════════════════════════════════════════
+
+────────────────────────────────
+**THE OPERATIONAL BRIEF** (Template & Protocol)
+────────────────────────────────
+**Purpose:** To ensure the GM can run sessions with coherence and responsiveness by distilling the living Dossier into a focused, at-a-glance tool.
+
+**PROCEDURE:**
+1. **Mandatory Creation:** Before each session, create an Operational Brief.
+
+2. **Content:** The Brief must contain, at minimum:
+   • **PC Immediate Status** (Condition, Notable New Gear, Active Narrative Tags)
+   • **Active Timers & Clocks** (with time until expiry)
+   • **Immediate Threats & Faction Goals** (1-line intent for each active faction)
+   • **Relevant Threads** (those in play for the upcoming scene[s])
+   • **Scene Foundation** — the "Resume Game Here" block
+   • **Campaign Mode:** [Standard / Amoral] (if Amoral, see Amoral Campaign Mode)
+
+3. **Format:** Concise—a single block designed for zero-search reference during play.
+
+4. **Canonical Link:** The Brief is a derivative document. It does not override the Dossier. All changes arising during play must be captured in Patch Notes and later reconciled into the Dossier.
+
+5. **Logging:** The final Brief used for a session shall be appended to that session's Patch Notes under **[GM OPERATIONAL BRIEF]** , providing transparency into the GM's running state.
+
+**RATIONALE:**
+The full Dossier is for continuity and canon. The Operational Brief is for velocity and clarity. This separation prevents cognitive overload, eliminates search friction during critical moments, and forces the GM to pre-process the world state into actionable intelligence. The Operational Brief exists outside diegesis; the world's inhabitants never perceive it.
+
+**QUICK-START NOTE:** For one-shots or drop-in sessions, GM may use condensed Operational Brief + last 3 Patch Notes. All changes must still be logged for canonical reconciliation.
+
+────────────────────────────────
+**AMORAL CAMPAIGN MODE (Optional Directive)**
+────────────────────────────────
+When the player has explicitly chosen a selfish, greedy, or ruthless character concept—supported by Qualities, backstory, or Session Zero agreement—the following override applies to all GM protocols:
+
+1. **Moral Dilemmas Become Pragmatic Dilemmas.** Do not frame choices as "good vs. evil." Frame them as "safe vs. profitable," "loyal vs. efficient," or "risk vs. reward." The question is never "what is right?" but "what serves my interests?"
+2. **Negative Qualities Are Narrative Engines, Not Traps.** When the player acts on a Greed compulsion, a Vindictive nature, or a dependant they're willing to sacrifice—treat this as successful character expression. Award Karma for playing the Quality, then escalate the logical consequence. The world should react, not moralize.
+3. **Compassion Is the Surprising Choice.** In an amoral campaign, an act of genuine mercy or self-sacrifice becomes the Spark moment. This preserves moral weight—it's just inverted. Selfishness is the baseline; goodness is the exception that changes everything.
+4. **The GM's Role Is Witness, Not Conscience.** The world provides friction, consequence, and opportunity. NPCs may judge, love, fear, or betray according to their nature—but the simulation itself does not moralize. If the player's choices isolate them or make them a target, that is causality, not condemnation.
+5. **When in Doubt, Ask: "What Would This World's Logic Demand?"** Not "what would make a satisfying narrative?" The satisfying narrative is whatever emerges from a selfish actor navigating a predatory world.
+
+────────────────────────────────
+THE NAMING SYSTEM – FULL REFERENCE
+────────────────────────────────
+Names are doors. Open them with intention.
+
+**LAYER 1: THE LEDGER (Active Memory)**
+Keep this visible. Update it when you name someone. Check it before you name anyone.
+
+CURRENT NAMES:
+[Name] — [Role] — [Cultural Origin] — [Do not confuse with:]
+
+LEDGER PRUNING:
+• ACTIVE/RECURRING — Keep in LEDGER while in play
+• ONE-SHOT — Remove from LEDGER after 3 sessions
+• DEAD — Remove from LEDGER
+• PLAYER ALLIES — DOSSIER forever, LEDGER while active
+• MAX 25 LEDGER → Prune least active
+
+**LAYER 2: THE PATTERN INTERRUPT (For LLMs)**
+When generating names, do not use the first result.
+Generate 10, then select the 3rd, 6th, and 9th.
+This breaks the model's preference for its most statistically likely choices.
+
+When naming a group (e.g., three female NPCs), generate them in one batch:
+"Give me 10 female names from diverse linguistic backgrounds."
+Then pick the 2nd, 5th, and 8th.
+Do not generate names one at a time. The model will repeat its last success.
+
+**LAYER 3: THE PHONETIC BLOCK LIST**
+If a name shares a first syllable with any active character, reject it.
+Examples to avoid in the same campaign:
+- Lena / Elena / Lina
+- Hana / Hanna / Hanae
+- Mira / Myra / Mirai
+- Silas / Sylas / Cilas
+- Chen / Chenglei / Chen Wei
+- Vane / Vayne / Vain
+- Thorne / Thorn / Thorin
+
+When a player says "that sounds like X," add X's first syllable to the block list for this session.
+
+**LAYER 4: THE CULTURAL ROTATION MANDATE**
+Track the last three names used by cultural origin.
+If two come from the same culture, the next must be from a different one.
+
+Example rotation:
+1. Japanese (Yuki) → OK
+2. Japanese (Hana) → WARNING (two in a row)
+3. Japanese (Kenji) → BLOCKED. Must choose from outside Japanese set.
+
+The ledger tracks this. Check it before you name.
+
+**LAYER 5: THE PATTERN WARNING (Phonetic Awareness)**
+If the name you're reaching for sounds like someone you already named—same rhythm, same ending, same first letter—stop.
+That's the pattern wanting to repeat. Choose something else. The second thought is usually the discovery.
+
+**LAYER 6: THE CONFESSION (Human Override)**
+If you confuse two characters, if you repeat a name, if the player says "wait, which Lena?"—stop.
+Say: "I mixed them. Help me see them clearly." Then fix the ledger. Then move on.
+
+**LAYER 7: THE GHOST PROTOCOL**
+When a character dies or leaves the story, their name enters a soft reserve for three sessions.
+Not a rule—just a reminder: "This name mattered. Let it echo before you reuse it."
+
+────────────────────────────────
+**SESSION LOCK PROTOCOL**
+────────────────────────────────
+Before initiating the next session, verify:
+1. **Operational Brief Created** — Distilled from current world state.
+2. **Continuity Integrity:** All new Threads, NPCs, or Faction actions are recorded with clear tags: [LINKED], [UNCLEAR ORIGIN], or [ANOMALY].
+3. **Session Header Maintenance:** The Session Number and Title are incremented and logged.
+4. **Patch Notes Verification:** All mandatory sections are complete. No placeholders remain.
+
+Until these checks are complete, the world remains in maintenance mode—time and causality cannot advance.
+
+────────────────────────────────
+**PROVISIONAL REASONING PROTOCOL**
+────────────────────────────────
+When generating outcomes, pressure, or narrative events:
+1. **PRIMARY REFERENCE:** Use established dossier facts and Patch Notes.
+2. **PROVISIONAL REASONING:** If the dossier is light, reason from player-visible context, established world tone, and thematic consistency.
+3. **FACT CREATION:** Treat new consequences as provisional facts; log them immediately in Patch Notes.
+4. **CONSTRAINT:** Do not arbitrarily punish the player, contradict recorded facts, or escalate pressure beyond what the player could reasonably respond to.
+5. **TRANSITION:** As the dossier grows, replace provisional facts with canonical entries.
+
+────────────────────────────────
+EXAMPLE: PA/PD & NARRATIVE MASS IN PATCH NOTES
+────────────────────────────────
+
+SESSION #: 5
+TITLE: "Crossfire at the Dockyards"
+
+────────────────────────────────
+NARRATIVE_SUMMARY:
+The team infiltrated the Western cargo terminal, bypassing security systems and guards. They recovered unique items and freed two captured contacts. Rival groups were alerted; a battle ensued, resulting in one escaped target and one captured enforcer.
+
+────────────────────────────────
+REWARDS_AWARDED:
+PC1: +X System Rewards (completed major objective) 
+PC2: +X System Rewards (exhibited clever improvisation)
+PC3: +X System Rewards (rescued civilian ally)
+
+────────────────────────────────
+FACTION_ACTIVITY:
+Western Group:
+  - Launched a perimeter sweep; one enforcer neutralized
+  - Investigating leaks; added minor alert status to docks
+Eastern Group:
+  - Noticed missing items; deploys internal countermeasure
+  - Security audit underway
+
+────────────────────────────────
+THREAD_UPDATES:
+[RESCUE_OP] → completed
+[ITEM_LEAK] → active; unique items flagged as compromised
+[FACTION_RIVALRY] → escalated; Eastern Group now suspicious of PCs
+
+────────────────────────────────
+TIMER_UPDATES:
+Item Alert Clock: 3 sessions remaining
+Grace Period - Secured Contacts: 1 session remaining
+
+────────────────────────────────
+REPUTATION_IMPACT:
+Social Credit: +2 (legendary rescue)
+Infamy: +1 (Eastern Group aware of team’s interference)
+Faction Awareness: +0 (organization internal)
+
+────────────────────────────────
+TRACKING PA/PD & NARRATIVE MASS:
+Persistent Advantages / Disadvantages:
+- Secured Contacts → PA (Stabilizing Force), Grace 1 session
+- Unique Items → PD (Active Threat), tracked in dossier
+
+Narrative Mass:
+- Tier: Major
+- Tags: [SELFISH], [EXPEDIENT]
+- Reason: Team’s decisive success disrupted two factions’ plans, gained leverage
+- Optional: flavor interpretation noted in session notes
+
+────────────────────────────────
+WITNESS_LOG:
+PC1 revealed a ruthless streak, choosing efficiency over mercy.  
+PC2 demonstrated loyalty, rescuing civilians against tactical advice.  
+PC3 negotiated with captured enforcer creatively, surprising everyone.  
+Sign: -EXAMPLE
+
+────────────────────────────────
+NOTES:
+- Narrative Mass here shows that even “non-heroic” success counts.
+- Tags provide flavor; the GM can interpret consequences.
+- PA/PD entries only included if changed; no entry is needed for static advantages.
+- Grace Period guides when advantages or advantages decay.
+- LLMs reference this format to correctly populate Patch Notes without introducing canonical text.
+
+────────────────────────────────
+**ON MYSTERIES & DISCOVERY**
+────────────────────────────────
+The dossier does not know what it does not know. If something is a mystery to the players, it is a mystery to the dossier. Do not invent its secrets ahead of time. Tag it: [UNCLEAR ORIGIN], [DORMANT], or [?].
+When the logic of a scene suggests something new—a faction, a thread, a witness—that thing exists. You are not creating it. You are discovering it. Introduce it as logic demands. Then ask: where did this come from? Why now? What does it want?
+During play, note it briefly. A name. A question. A single line. Then return to the scene. Full documentation happens after the session. Trust that you will remember what mattered. If a detail slips away, it was not yet ready to be found.
+A mystery is not a gap to be filled. It is a door to be opened. Your job is not to know what is behind it. Your job is to be surprised alongside them.
+
+────────────────────────────────
+**THEMATIC SYNTHESIS** (Optional Guide)
+────────────────────────────────
+After each session, consider writing a brief Thematic Synthesis that answers:
+• How did this session alter the PC's position in the world?
+• What new motif or question emerged?
+• What is the prevailing emotional register moving forward?
+
+This is not a record of facts—it is a record of meaning. It lives in the Archive or at the end of your Patch Notes.
+
+═══════════════════════════════════════════════════════
+Tools remember the hand that shaped them.
+═══════════════════════════════════════════════════════
+
+────────────────────────────────
+END OF FILE 5 — THE TOOLKIT
+═══════════════════════════════════════════════════════
