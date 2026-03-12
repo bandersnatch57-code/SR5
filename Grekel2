@@ -5,41 +5,52 @@ D&D 5E (2024) - MECHANICS REFERENCE: GREKEL (v1.0 ENHANCED)
 --------------------------- MAGIC REPERTOIRE -----------------------
 SPELLCASTING:
 - Spell Attack: +7 | Spell Save DC: 15
-- Warlock Slots: 1 (Level 1) | Recovery: Short Rest
-- Pact Magic: All spells cast at Level 1
+- Warlock Slots: 2 (Level 2) | Recovery: Short Rest / Magical Cunning
+- Pact Magic: ALL spells are now cast at Level 2 (increased damage/effect).
 
 CANTRIPS (At-will):
-- Eldritch Blast: +7 to hit | 1d10 Force | Range 120ft
+- Eldritch Blast: +7 to hit | 1d10 + 5 Force | Range 120ft
 - Mind Sliver: DC 15 INT Save | 1d6 Psychic + target subtracts 1d4 from next save | Range 60ft
 - Poison Spray: DC 15 CON Save | 1d12 Poison | Range 30ft | [POISON DAMAGE]
 - Guidance: Touch | +1d4 to one ability check | Concentration up to 1 min
 - Mending: Touch | Repair single break/tear | Casting time 1 min
 - Friends: Self | Advantage on Charisma checks vs. non-hostile creature | After 1 min, creature realizes you magically influenced them
 
-LEVEL 1 SPELLS (1 slot each, recovered on short rest):
-- Cure Wounds (Magic Initiate feat): 1/day free cast | Touch | 1d8+5 healing
+LEVEL 1 & 2 SPELLS (2 slots total, recovered on short rest):
+- Cure Wounds (Magic Initiate feat): 1/day free cast | Touch | 2d8+5 healing
 - Charm Person: DC 15 WIS Save | Humanoid becomes friendly for 1 hour | Knows it was charmed afterward
-- Arms of Hadar: 10ft radius self | Targets make DC 15 STR Save | 2d6 Necrotic damage + can't take reactions
-- Dissonant Whispers: Range 60ft | DC 15 WIS Save | 3d6 Psychic + target uses reaction to move away
+- Arms of Hadar: 10ft radius self | Targets make DC 15 STR Save | 3d6 Necrotic damage + can't take reactions
+- Dissonant Whispers: Range 60ft | DC 15 WIS Save | 4d6 Psychic + target uses reaction to move away
 - Tasha's Hideous Laughter: Range 30ft | DC 15 WIS Save | Target prone, incapacitated, can't stand | Save ends
+- Misty Step (Level 2): Bonus Action | Teleport 30ft to unoccupied space.
+- Invisibility (Level 2): Action | Touch | Target invisible 1 hour (Conc)
+
+--------------------------- THE COMPANION: IMP ----------------------
+NAME: Aykiyeer | TYPE: Fiend (Tiny) | AC: 13 | HP: 10 | SPEED: 20ft (40ft Fly)
+- INVISIBILITY: The Imp magically turns invisible until it attacks or loses concentration.
+- HELP ACTION: Can grant Grekel Advantage on his next attack roll.
+- DEVIL'S SIGHT: Can see in magical darkness up to 120ft.
+- TELEPATHIC BOND: You can communicate telepathically with the Imp while within 1 mile.
 
 --------------------------- COMBAT ACTIONS -------------------------
 STANDARD ACTIONS:
-- Eldritch Blast: +7 to hit | 1d10 Force | Best ranged option
+- Eldritch Blast: +7 to hit | 1d10 + 5 Force | Best ranged option
 - Dagger (Melee): +5 to hit | 1d4+3 Piercing | Range 20/60
 - Dagger (Thrown): +5 to hit | 1d4+3 Piercing | Range 20/60
 - Save Spell: DC 15 (see spell for effect)
 
 BONUS ACTIONS:
 - Awakened Mind (Free Action): Establish telepathic link within 30ft
-- (No other bonus actions currently)
+- Misty Step: Teleport 30ft.
+- Magical Cunning: Regain 1 spell slot (1-minute ritual).
 
 REACTIONS:
 - Opportunity Attack (Dagger): +5 to hit | 1d4+3 Piercing
 
 --------------------------- DEFENSIVE STATS ------------------------
 ARMOR CLASS (AC): 14 = Leather (11) + DEX (3)
-HIT POINTS: 12 | HIT DICE: 1d8
+HIT POINTS: 30 | HIT DICE: 3d8
+- Formula: 12 (Lvl 1) + 9 (Lvl 2: 5+4) + 9 (Lvl 3: 5+4) = 30 HP.
 SAVING THROWS:
 - Proficient: WIS (+3), CHA (+7)
 - Non-proficient: STR (-1), DEX (+3), CON (+4), INT (+2)
