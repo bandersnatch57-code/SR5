@@ -1,16 +1,16 @@
 =====================================================================
-THE VESSEL SYSTEM - CAMPAIGN STATE: THE SUNLESS VALE (v1.0)
+THE VESSEL SYSTEM - CAMPAIGN STATE: THE SUNLESS VALE (v1.2)
 =====================================================================
 CAMPAIGN: The Sunless Vale
 CHRONICLE: The Radiant Burden
 TONE: Gritty, moral weight, systemic pressure
-LAST UPDATED: Post-Session 01
+LAST UPDATED: Post-Session 02
 
 --------------------------- PC STATUS ------------------------------
 NAME: Grekel (Tiefling Warlock 1)
-HP: 12/12 | SPELL SLOTS: 1/1 | XP: 300
+HP: 12/12 | SPELL SLOTS: 1/1 | XP: 900
 CONDITION: Healthy
-NARRATIVE TAGS: [EXPEDIENT], [BURDENED]
+NARRATIVE TAGS: [EXPEDIENT], [WITNESS], [ROOT-TOUCHED]
 
 --------------------------- WORLD ARCHITECTURE ----------------------
 [FOUNDATION NODES]
@@ -24,84 +24,104 @@ NARRATIVE TAGS: [EXPEDIENT], [BURDENED]
    True Price: A secret that causes the speaker pain to tell.
    Challenge: The Circle of Ash (Radical Druid Faction)
    Mass: Major (Tier 2)
-   Status: TARGET LOCATION [ACTIVE]
+   Status: SEALED / DORMANT (Root now locked; Thistle within)
 
 --------------------------- ACTIVE THREADS -------------------------
-#1 [THE WHISPERING PLAGUE] — Major/Tier 2
-   Status: [ACTIVE] Brother Thistle is dying; the Seed is fused to him.
-   Goal: Reach the Altar of Silence (completed) → Next: Perform the ritual.
-   If Ignored: The dead rise in villages without consecrated hearths.
-   [TAGS: [PLAGUE] [NECROTIC] [TIME SENSITIVE]]
-
-#2 [THE TITHE-WAR] — Major/Tier 2
+#1 [THE TITHE-WAR] — Major/Tier 2
    Status: [DORMANT] [ESCALATING]
    Pressure: Iron Crown Duchy moving to reclaim taxes from free-holds.
    If Ignored: Siege engines arrive at the Iron Root.
    [TAGS: [POLITICAL] [FEUDAL] [WAR CLOUDS]]
 
-#3 [THE BLEEDING SKY] — Minor/Tier 1
+#2 [THE BLEEDING SKY] — Minor/Tier 1
    Status: [DISTANT] Star-Touched Cult active in periphery.
    If Ignored: Local crops wither; animals speak in tongues.
    [TAGS: [CULT] [COSMIC] [PERIPHERAL]]
 
+#3 [THE SLEEPER STIRS] — Major/Tier 2
+   Status: [ACTIVE] [DEEP] The entity beneath the Iron Root is waking.
+   Goal: Prevent the Circle of Ash from breaching the Root's foundation.
+   If Ignored: The Sleeper feeds; the valley falls.
+   [TAGS: [ANCIENT] [PSYCHIC] [TIME SENSITIVE]]
+
+#4 [THE CIRCLE WATCHES] — Minor/Tier 1
+   Status: [ACTIVE] Circle scouts have located Grekel.
+   Goal: Capture or kill the Root-Touched before he can warn others.
+   If Ignored: Assassins arrive within 2 sessions.
+   [TAGS: [HUNTED] [RADICAL] [IMMINENT]]
+
+--------------------------- RESOLVED THREADS -----------------------
+#0 [THE WHISPERING PLAGUE] — [RESOLVED: SEED PLANTED]
+   Outcome: Brother Thistle carried the Seed to the Iron Root.
+            Seed planted; Thistle transformed into the Root's new heart.
+            Plague ended; villages may now consecrate hearths safely.
+   (See Archive Session 02 for full details)
+
 --------------------------- ACTIVE THREATS -------------------------
 [THE IRON CROWN]
-- Status: [ALERTED] (Red Signal Flare triggered at Pylon)
-- Goal: Total feudal order; reclamation of taxes; containment of the Rot.
+- Status: [ALERTED] [VIGILANT]
+- Goal: Total feudal order; containment of the Sleeper.
 - Forces: Dread-Hoove heavy cavalry; Lumen-Gate checkpoints; Ballistae.
+- Commander: Varith-eil ar'Korath (Last Warden, 300-year vigil)
 - Trigger: Any detection of "violet frequency" or unauthorized travelers.
-- [TAGS: [FEUDAL] [MILITARISTIC] [HUNTING]]
+- [TAGS: [FEUDAL] [MILITARISTIC] [KEEPERS OF THE SLEEP]]
 
 [THE CIRCLE OF ASH]
-- Status: [HOSTILE] (Two scouts neutralized by Grekel)
-- Goal: Return land to primal state; reclaim the Soul-Seed.
-- Methods: Targeted assassinations; "nature-warfare"; Churning mud traps.
-- Trigger: Exposure of the Seed in the wilds.
-- [TAGS: [DRUID] [RADICAL] [TERRITORIAL]]
+- Status: [HOSTILE] [HUNTING]
+- Goal: Wake the Sleeper beneath the Root.
+- Methods: Targeted assassinations; excavation; tracking Root-Touched.
+- Intel: They know the Root has a new heart. They are digging.
+- Trigger: Exposure of Root-Touched individual in the wilds.
+- [TAGS: [DRUID] [RADICAL] [SLEEPER-WORSHIPERS]]
 
 --------------------------- KEY NPCS --------------------------------
 [BROTHER THISTLE]
-- Role: Seed-Bearer, Dying Monk
-- Status: [CRITICAL] [SPENT] Fused to the Soul-Seed.
-- Location: Altar of Silence (current scene)
-- Description: Ragged, blind. Raspy voice, plant metaphors, talks to unseen things.
-- Wants: To deliver the Seed to the Iron Root before his heart stops.
-- [TAGS: [FIRST FACE] [DYING] [VESSEL]]
+- Role: Heart of the Iron Root (transformed)
+- Status: [DREAMING] Fused to the Root; consciousness persists.
+- Location: Within the Iron Root (the "clearing of light")
+- Description: Human-shaped but wrong—roots beneath skin, leaves in hair, eyes like wooden knots. Speaks with a thousand voices layered beneath his own.
+- Connection: Grekel carried him; Thistle gave Grekel the leaf-mark.
+- [TAGS: [FIRST FACE] [TRANSFORMED] [ROOT-HEART]]
 
-[THE THREE WARDEN-PRIESTS]
-- Role: Guardians of the Altar of Silence
-- Status: [PRESENT] Blindfolded, awaiting Grekel's choice.
-- Demand: A sacrifice—"leave a part of yourself in the basin."
-
---------------------------- ASSETS & BURDENS -----------------------
-[THE SOUL-SEED]
-- Type: Relic / Arcane Beacon
-- State: [ACTIVE/BEACON] Detection risk increased.
-- Currently: Fused to Brother Thistle.
-- Effect: Resonates with the Iron Root; contains "Data-Stream of the Dying."
-- [TAGS: [RELIC] [BEACON] [PLAGUE MEMORY]]
+[VARITH-EIL AR'KORATH]
+- Role: Last Warden of the Lumen-Gates, Iron Crown Commander
+- Status: [VIGILANT] [TRUSTS GREKEL]
+- Location: Iron Root perimeter / tunnels below
+- Description: 300+ years, grey cropped hair, winter-sky eyes, faded scar. Cold, calculating, capable of mercy.
+- Wants: To keep the Sleeper asleep. To break three centuries of silence.
+- Connection: Confronted Grekel; tested him; chose to let him live; asked him to warn the world.
+- [TAGS: [WARDEN] [ANCIENT] [BURDENED]]
 
 --------------------------- PERSISTENT ADVANTAGES ------------------
 [PA][EXPEDIENT] — Grekel acts without hesitation, using available resources (including people) as tools. +2 to rolls when taking morally questionable shortcuts.
 
+[PA][ROOT-TOUCHED] — Thistle's gift: a living leaf-mark visible beneath the skin of Grekel's hand. Pulses warmly when the Sleeper is near or reaching. Grants advantage on saving throws vs. psychic influence, possession, or dream intrusion. The Sleeper may contact Grekel in visions. The mark is proof to the Iron Crown that Grekel was accepted by the Root.
+
 --------------------------- PERSISTENT DISADVANTAGES ---------------
-[PD][BURDENED] — The Soul-Seed's weight presses on Grekel. -1 to social tests when the Seed's presence is known or relevant.
-[PD][BEACON BEARER] — The Seed's violet frequency attracts attention. Enemies have +1 to track or detect the party while the Seed is exposed.
+[PD][BURDENED] — The weight of witnessed transformation. -1 to social tests when the events at the Root are relevant. (May fade over time.)
+
+[PD][HUNTED BY THE CIRCLE] — The Circle of Ash knows a Root-Touched exists. +2 to their tracking rolls; encounters become more frequent. Assassins will arrive in 2 sessions unless actively delayed.
 
 --------------------------- TIMERS ----------------------------------
-⏱️ Brother Thistle's Life: [CRITICAL] — Minutes remain unless the ritual is completed.
-⏱️ Iron Crown Response: [ALERTED] — Dread-Hooves are searching. Unknown when they'll breach the Inner Ring.
-⏱️ Circle of Ash: [HOSTILE] — They know a "Tiefling Scourge" is active. Retaliation imminent.
+⏱️ Circle of Ash Assassins: [HUNTING] — Arrive in 2 sessions
+⏱️ Iron Crown Response: [VIGILANT] — Dread-Hooves patrol perimeter
+⏱️ The Sleeper: [STIRRING] — Major events may accelerate awakening
+⏱️ Grace Period (Root-Touched): 1 session remaining (full effects pending)
 
 --------------------------- RESUME GAME HERE -----------------------
-Location: Inner Ring courtyard, before the Altar of Silence
-Atmosphere: The iron door has slammed shut, cutting off the rhythmic thunder of the Dread-Hooves. The air is suddenly, unnervingly quiet. The Altar of Silence sits before you, a slab of marble that seems to pull the very heat from the air.
+The surface.
 
-The three blindfolded Warden-Priests turn their heads toward you in perfect unison. One extends a hand toward the wooden sphere fused to Brother Thistle's cooling flesh.
+Cold air. Pale sun. The Iron Root rises behind you, a mountain of fused metal and petrified wood, silent now, waiting.
 
-"The time for words has passed with the setting sun," the Priest intones. "The Seed is heavy with the memories of the dying. To wash it clean, you must leave a part of yourself in the basin. The Altar requires its due."
+Before you: the Sunless Vale. Villages. Fields. Roads. People who do not know what sleeps beneath their feet.
 
-Brother Thistle shudders but does not speak. The violet light pulses. The basin waits.
+The leaf beneath your skin pulses once. A reminder. A promise.
+
+Somewhere, far below, Thistle dreams.
+
+And somewhere closer, in the shadows at the edge of the forest, something watches. Something with eyes that do not belong to any animal.
+
+The Circle of Ash has found you.
 
 What do you do?
 =====================================================================
