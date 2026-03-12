@@ -25,12 +25,23 @@ LEVEL 1 & 2 SPELLS (2 slots total, recovered on short rest):
 - Misty Step (Level 2): Bonus Action | Teleport 30ft to unoccupied space.
 - Invisibility (Level 2): Action | Touch | Target invisible 1 hour (Conc)
 
---------------------------- THE COMPANION: IMP ----------------------
-NAME: Aykiyeer | TYPE: Fiend (Tiny) | AC: 13 | HP: 10 | SPEED: 20ft (40ft Fly)
-- INVISIBILITY: The Imp magically turns invisible until it attacks or loses concentration.
-- HELP ACTION: Can grant Grekel Advantage on his next attack roll.
-- DEVIL'S SIGHT: Can see in magical darkness up to 120ft.
-- TELEPATHIC BOND: You can communicate telepathically with the Imp while within 1 mile.
+--------------------------- THE COMPANION: AYKIYEER (IMP) -----------
+TYPE: Fiend (Tiny) | ALIGNMENT: Lawful Evil (bound to Grekel)
+AC: 13 | HIT POINTS: 21 | SPEED: 20ft (40ft Fly)
+
+RESISTANCES & IMMUNITIES:
+- Damage Resistances: Cold; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks.
+- Damage Immunities: Fire, Poison.
+- Condition Immunities: Poisoned.
+
+SPECIAL TRAITS:
+- INVISIBILITY (Action): Aykiyeer stays invisible until he attacks or loses concentration.
+- DEVIL'S SIGHT: Sees in magical/nonmagical darkness up to 120ft.
+- MAGIC RESISTANCE: Advantage on saves against spells/magical effects.
+
+COMBAT ACTIONS:
+- STING: +5 to hit | 1d4+3 Piercing + 3d6 Poison (DC 11 CON half).
+- HELP ACTION: Grants Grekel Advantage on his next Eldritch Blast.
 
 --------------------------- COMBAT ACTIONS -------------------------
 STANDARD ACTIONS:
