@@ -1,42 +1,61 @@
 =====================================================================
-D&D 5E (2024) - MECHANICS REFERENCE: GREKEL (v1.0)
+D&D 5E (2024) - MECHANICS REFERENCE: GREKEL (v1.0 ENHANCED)
 =====================================================================
 
 --------------------------- MAGIC REPERTOIRE -----------------------
-SPELL ATTACK: +7 | SPELL SAVE DC: 15
-WARLOCK SLOTS: 1 (Level 1) | RECOVERS ON SHORT REST
+SPELLCASTING:
+- Spell Attack: +7 | Spell Save DC: 15
+- Warlock Slots: 1 (Level 1) | Recovery: Short Rest
+- Pact Magic: All spells cast at Level 1
 
-CANTRIPS:
-- Eldritch Blast (Warlock): 1d10 Force | Range: 120ft | +7 to hit
-- Mind Sliver (Warlock): 1d6 Psychic | Range: 60ft | INT Save or -1d4 to next Save
-- Poison Spray (Species): 1d12 Poison | Range: 30ft | CON Save
-- Guidance (Feat): +1d4 to one Ability Check | Range: Touch
-- Mending (Feat): Repairs small objects | Casting: 1 Minute
-- Friends (Warlock/Optional): Advantage on Charisma checks against non-hostile.
+CANTRIPS (At-will):
+- Eldritch Blast: +7 to hit | 1d10 Force | Range 120ft
+- Mind Sliver: DC 15 INT Save | 1d6 Psychic + target subtracts 1d4 from next save | Range 60ft
+- Poison Spray: DC 15 CON Save | 1d12 Poison | Range 30ft | [POISON DAMAGE]
+- Guidance: Touch | +1d4 to one ability check | Concentration up to 1 min
+- Mending: Touch | Repair single break/tear | Casting time 1 min
+- Friends: Self | Advantage on Charisma checks vs. non-hostile creature | After 1 min, creature realizes you magically influenced them
 
-LEVEL 1 SPELLS (PREPARED):
-- Cure Wounds (Feat): 1/day Free. 1d8+5 Healing.
-- Charm Person (Warlock): WIS Save or Charmed.
-- Arms of Hadar (Warlock): 2d6 Necrotic + No Reactions | 10ft Strength Save.
-- Dissonant Whispers (Patron): 3d6 Psychic + Reaction Move | WIS Save.
-- Tasha’s Hideous Laughter (Patron): WIS Save or Prone/Incapacitated.
+LEVEL 1 SPELLS (1 slot each, recovered on short rest):
+- Cure Wounds (Magic Initiate feat): 1/day free cast | Touch | 1d8+5 healing
+- Charm Person: DC 15 WIS Save | Humanoid becomes friendly for 1 hour | Knows it was charmed afterward
+- Arms of Hadar: 10ft radius self | Targets make DC 15 STR Save | 2d6 Necrotic damage + can't take reactions
+- Dissonant Whispers: Range 60ft | DC 15 WIS Save | 3d6 Psychic + target uses reaction to move away
+- Tasha's Hideous Laughter: Range 30ft | DC 15 WIS Save | Target prone, incapacitated, can't stand | Save ends
 
---------------------------- COMBAT CALCULATIONS --------------------
-OFFENSE:
-- Eldritch Blast: 1d20 + 7 | Damage: 1d10 Force
-- Dagger (Melee/Thrown): 1d20 + 5 | Damage: 1d4 + 3 Piercing
-- Save-Based Magic: DC 15 (WIS/INT/CON/STR depending on spell)
+--------------------------- COMBAT ACTIONS -------------------------
+STANDARD ACTIONS:
+- Eldritch Blast: +7 to hit | 1d10 Force | Best ranged option
+- Dagger (Melee): +5 to hit | 1d4+3 Piercing | Range 20/60
+- Dagger (Thrown): +5 to hit | 1d4+3 Piercing | Range 20/60
+- Save Spell: DC 15 (see spell for effect)
 
-DEFENSE:
-- Armor Class (AC): 14 (Leather Armor 11 + DEX 3)
-- Initiative: +3 (DEX Mod)
-- Saving Throws: Wisdom (+3), Charisma (+7)
+BONUS ACTIONS:
+- Awakened Mind (Free Action): Establish telepathic link within 30ft
+- (No other bonus actions currently)
+
+REACTIONS:
+- Opportunity Attack (Dagger): +5 to hit | 1d4+3 Piercing
+
+--------------------------- DEFENSIVE STATS ------------------------
+ARMOR CLASS (AC): 14 = Leather (11) + DEX (3)
+HIT POINTS: 12 | HIT DICE: 1d8
+SAVING THROWS:
+- Proficient: WIS (+3), CHA (+7)
+- Non-proficient: STR (-1), DEX (+3), CON (+4), INT (+2)
+
+RESISTANCES:
+- Poison: Half damage from all Poison sources [ALWAYS ACTIVE]
 
 --------------------------- DERIVED STATS --------------------------
-HIT POINTS (HP): 12
-HIT DICE: 1d8
-SENSES: Passive Perception 11 | Passive Insight 13 | Darkvision 60ft
+PASSIVE PERCEPTION: 11 (10 + WIS +1)
+PASSIVE INSIGHT: 13 (10 + WIS +1 + Proficiency? Your Insight is +3, so Passive Insight would be 13 — consistent)
+INITIATIVE: +3 (DEX)
+SPEED: 30ft
+DARKVISION: 60ft [ALWAYS ACTIVE]
 
---------------------------- SPECIAL ACTIONS ------------------------
-- Awakened Mind (Bonus Action/Free): Establish mental link (30ft).
-- Poison Resistance: Half damage from all Poison sources.
+--------------------------- SPECIAL ABILITIES ----------------------
+- Awakened Mind [SITUATIONAL]: Telepathic communication within 30ft. Target must share a language.
+- Otherworldly Gaze [SITUATIONAL]: Advantage on Insight checks to identify Aberrations or Fiends.
+- Poison Resilience [ALWAYS ACTIVE]: Resistance to Poison damage; Advantage on saves vs. Poisoned.
+- Heart of the Temple [SITUATIONAL]: Can find free healing/lodging at temples of your faith.
