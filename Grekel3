@@ -101,6 +101,7 @@ NARRATIVE TAGS: [EXPEDIENT], [WITNESS], [ROOT-TOUCHED], [ANCHOR-DISRUPTOR]
 - Status: [ACTIVE] [ALLIED]
 - Skills: Stealth, tracking, terrain knowledge, combat support
 - Connection: Aided in anchor disruption; demonstrated loyalty and skill.
+- Note: Served in anchor disruption; contributed to multiple successful attacks and reconnaissance. Gains potential experience reward alongside Grekel for this session’s actions.
 - [TAGS: [COMPANION] [SCOUT] [LOYAL]]
 
 [FREE-HOLD VILLAGERS]
@@ -125,6 +126,7 @@ NARRATIVE TAGS: [EXPEDIENT], [WITNESS], [ROOT-TOUCHED], [ANCHOR-DISRUPTOR]
 [RITUAL STAKES] — 4 recovered (Road anchor, Barn well, Watchtower, Unplanted stake)
    Status: [DISARMED] [EVIDENCE] [POTENTIAL LEVERAGE]
    Effect: Anchor network temporarily weakened; Sleeper awakening slowed.
+   Note: “The two stakes remain unplanted but retain the Circle’s residual energy; can be used for insight, leverage, or to further disrupt the network.”
 
 [DAGGER (ETCHED WITH RUNES)]
    Status: [RECOVERED] [PARTIALLY DISRUPTED]
