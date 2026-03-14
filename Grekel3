@@ -100,9 +100,11 @@ NARRATIVE TAGS: [EXPEDIENT], [WITNESS], [ROOT-TOUCHED], [ANCHOR-DISRUPTOR]
 - Role: Local scout / fighter / companion
 - Status: [ACTIVE] [ALLIED]
 - Skills: Stealth, tracking, terrain knowledge, combat support
+- Description: lean woodland scout with watchful eyes and travel-worn gear.
+- Demeanor: observant and practical; speaks little but acts decisively.
 - Connection: Aided in anchor disruption; she demonstrated loyalty and skill.
 - Note: Served in anchor disruption; contributed to multiple successful attacks and reconnaissance. Gains potential experience reward alongside Grekel for this session’s actions.
-- [TAGS: [COMPANION] [SCOUT] [LOYAL]]
+- [TAGS: [COMPANION] [SCOUT] [WATCHFUL] [LOYAL]]
 
 [FREE-HOLD VILLAGERS]
 - Role: Loose allies, potential informants
