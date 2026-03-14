@@ -71,63 +71,56 @@ Timers: Circle assassins (2 sessions); Grace Period (1 session)
 Threats: Circle scouts (immediate area); Dread-Hooves (perimeter)
 Scene: Surface, Iron Root behind, forest edge ahead. Something watches.
 
-=== SESSION PATCH NOTES [SESSION 03 — ANCHOR DISRUPTION] ===
+--------------------------- SESSION 03: "ANCHOR DISRUPTION" --------
+NARRATIVE SUMMARY:
+Grekel and companions tracked the Circle of Ash scouts through hamlets and farmlands, avoiding Iron Crown patrols. Using stealth, observation, and the help of Seren, they intercepted multiple cultist groups attempting to plant ritual stakes, disrupting the Circle's anchor network. Four prisoners were captured, and four ritual stakes were recovered: two previously intact, one unpowered, and one newly cleared from the Watchtower site. Grekel studied and removed the ashes and runes, preventing the stakes from fully activating and temporarily weakening the Sleeper's network. Loot including coins, ritual components, and a dagger etched with runes was recovered. The party now has partial knowledge of the anchor network and the location of two remaining nodes (Old Ossuary Hill, River Shrine ruins), while the Circle is aware of the disruption and will likely respond.
 
-NARRATIVE_SUMMARY:
-Grekel and companions tracked the Circle of Ash scouts through the hamlets and farmlands, avoiding Iron Crown patrols. Using stealth, observation, and the help of Aykiyeer, they intercepted multiple cultist groups attempting to plant ritual stakes, disrupting the Circle’s anchor network. Four prisoners were captured, and four ritual stakes were retrieved: two previously intact, one unpowered, and one newly cleared from the Watchtower site. Grekel studied and removed the ashes and runes, preventing the stakes from fully activating and temporarily weakening the Sleeper’s network. Loot including coins, ritual components, and a dagger etched with runes was recovered. The party now has partial knowledge of the anchor network and the location of two remaining nodes, while the Circle is aware of the disruption and will likely respond.
-
-UPDATED_LINES:
-	•	Gear / Inventory:
-	•	Ritual Stakes: 4 recovered (Road anchor, Barn well, Watchtower, Unplanted stake)
-	•	Dagger etched with runes (minor psychic conduit; linked to Circle rituals; partially disrupted)
-	•	Small curved dagger
-	•	Short composite bow + 8 arrows
-	•	Ash-grey cloak with Circle sigil
-	•	Small leather pouch: 24 silver coins total
-	•	Bone whistle, small vials of ritual ash, folded scrap of map / parchment fragment
-	•	Prisoners: 4 captured (from 3 groups)
-	•	Map / Anchor Network: partially reconstructed; 2 remaining nodes estimated at Old Ossuary Hill and River Shrine ruins
-
-REWARDS_AWARDED:
-	•	XP: +800 (disruption of Circle’s network, capturing prisoners, and recovering stakes)
+REWARDS:
+- XP: +800 (Total: 1700)
 
 FACTION ACTIVITY:
-	•	Iron Crown: Dread-Hooves remain on perimeter; patrols continue; unaware of this exact skirmish.
-	•	Circle of Ash: Lost multiple cultists; anchor network partially disrupted; will likely accelerate efforts and hunt Grekel.
+- Iron Crown: Dread-Hooves remain on perimeter; patrols continue; unaware of this skirmish.
+- Circle of Ash: Lost multiple cultists; anchor network partially disrupted; leader incapacitated. Will accelerate efforts and hunt Grekel.
 
-THREAD_UPDATES:
-	•	[THE SLEEPER STIRS] — network weakened but still active; remaining anchor sites must be disrupted to fully prevent awakening.
-	•	[THE CIRCLE WATCHES] — Circle aware of Grekel and disruption; threat level increased; assassins likely within 1–2 sessions.
+THREAD UPDATES:
+- [THE SLEEPER STIRS] — Network weakened but still active; remaining anchor sites must be disrupted to fully prevent awakening.
+- [THE CIRCLE WATCHES] — Circle aware of Grekel as major threat; assassins likely within 1-2 sessions.
 
-TIMER_UPDATES:
-	•	Circle of Ash Assassins: advance by 1 session (now 1–2 sessions until arrival)
-	•	Sleeper influence: temporary anchor disruption slows immediate awakening, but long-term threat persists
+ASSETS GAINED:
+- 4 Ritual Stakes (disarmed)
+- Dagger etched with runes (minor psychic conduit; Arcana +4 for ritual checks)
+- Short composite bow + 8 arrows
+- Ash-grey cloak with Circle sigil
+- 24 silver coins
+- Map fragment revealing 2 remaining nodes: Old Ossuary Hill, River Shrine ruins
+- 4 captured cultists (prisoners)
 
-REPUTATION_IMPACT:
-	•	Infamy: +1 (Circle now aware of Grekel as major threat)
-	•	Social Credit: no change
-	•	Faction Awareness: +1 (Circle network partially mapped)
+REPUTATION IMPACT:
+- Infamy: +1 (Circle now aware of Grekel as major threat)
+- Social Credit: No change
+- Faction Awareness: +1 (Circle network partially mapped)
 
-NARRATIVE_MASS:
-	•	Tier: Major (Tier 2)
-	•	Tags: [EXPEDIENT], [ROOT-TOUCHED], [ANCHOR DISRUPTION]
+PERSISTENT EFFECTS GAINED:
+- [PA][ANCHOR-DISRUPTOR] — +2 Arcana/Investigation vs. Circle rituals
 
-PERSISTENT ADVANTAGES / DISADVANTAGES:
-	•	[PA][EXPEDIENT] — continues to apply; actions here reinforce advantage
-	•	[PA][ROOT-TOUCHED] — mark pulses when near Sleeper or anchor nodes
-	•	[PD][HUNTED BY THE CIRCLE] — threat level increased due to detection of disruption
-
-SPARK_MOMENTS:
-	•	Partial reconstruction of Circle’s anchor network
-	•	Retrieval and disarming of Watchtower stake
-	•	Dagger etched with runes recovered; potential utility for future psychic ritual interactions
+SPARK MOMENTS:
+- Partial reconstruction of Circle's anchor network
+- Retrieval and disarming of Watchtower stake
+- Dagger etched with runes recovered—potential for future psychic ritual interactions
 
 CONTACTS:
-	•	Seren — companion in anchor disruption; demonstrated skill and loyalty; potential ally for future operations.
-	•	Free-hold villagers — may offer future shelter or intelligence; loosely allied after aid and warning
+- Seren — local scout/fighter allied with Grekel; demonstrated skill and loyalty; will likely travel with him temporarily.
+- Free-hold villagers — loose allies; may offer future shelter or intelligence.
 
 WITNESS_LOG:
-Grekel stepped into shadows and pulled darkness back from the Sleeper, removing stakes and capturing the cultists. The stakes themselves are small, sharp, and mundane-looking, but they carry the weight of awakening beneath them. Four lives were spared from the Circle’s grasp, yet the threat remains. Each step echoes in the roots and leaves of the world; each act of removal reminds the Circle that someone watches. This session, Grekel became more than a witness—he became a lever in the fate of the Sunless Vale. — ChatGPT
+Grekel stepped into shadows and pulled darkness back from the Sleeper, removing stakes and capturing the cultists. The stakes themselves are small, sharp, and mundane-looking, but they carry the weight of awakening beneath them. Four lives were spared from the Circle's grasp, yet the threat remains. Each step echoes in the roots and leaves of the world; each act of removal reminds the Circle that someone watches. This session, Grekel became more than a witness—he became a lever in the fate of the Sunless Vale. — ChatGPT
+
+GM OPERATIONAL BRIEF (SESSION 03 - ARCHIVED):
+PC: Grekel (Warlock 3) | HP: 12/12 | Slots: 2/2
+Active Tags: [EXPEDIENT] [WITNESS] [ROOT-TOUCHED] [ANCHOR-DISRUPTOR]
+Timers: Circle assassins (1-2 sessions); Sleeper slowed (anchor disruption buys time)
+Threats: Circle hunting parties; two remaining anchor nodes active
+Scene: Road toward Old Ossuary Hill, prisoners in tow, Seren riding near.
 
 --------------------------- END OF ARCHIVE -------------------------
 =====================================================================
