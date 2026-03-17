@@ -123,5 +123,161 @@ Timers: Circle assassins (1-2 sessions); Sleeper slowed (anchor disruption buys 
 Threats: Circle hunting parties; two remaining anchor nodes active
 Scene: Road toward Old Ossuary Hill, prisoners in tow, Seren riding near.
 
+=== SESSION PATCH NOTES [SESSION 04 — "THE OSSUARY FALLS"] ===
+
+NARRATIVE_SUMMARY:
+Grekel, Seren, and the freed prisoner Mirren rode to the Iron Crown garrison, where Lieutenant Kael demanded proof of the anchor network threat. Grekel negotiated Mirren's release into his custody and shared intelligence from the captured cultists. Kael agreed to coordinate a simultaneous strike: Crown forces on the River Shrine, Grekel's party on the Ossuary Hill. At the Ossuary, Aykiyeer created a diversion while Grekel severed the southern anchor stake with the runed dagger, collapsing the ritual lattice. The mage Torven was disrupted by Eldritch Blast; the dead rose in response to the collapsing resonance. The party escaped and signaled the Crown. Varith's forces successfully destroyed the River Shrine anchor. The Sleeper's network is broken. The valley is saved—for now.
+
+UPDATED_LINES:
+
+XP: +900 (Total: 2600/2700) — Major objective completed; anchor network collapsed
+Spell Slots: 1/2 expended (Eldritch Blast used)
+Condition: Healthy (no damage taken)
+Assets: +1 Resin-Encased Leaf (gift from Varith; [ROOT-TOUCHED] symbol)
+Assets: Signal Whistle (retained)
+Assets: -1 Ritual Stake (southern Ossuary stake destroyed in ritual severance)
+
+REWARDS_AWARDED:
+Grekel: +900 XP (anchor network destruction, tactical coordination, successful escape)
+Seren: Noted for continued loyalty and combat support; potential XP/advancement at GM discretion
+Mirren: Transitioned from prisoner to ally; no combat participation per agreement
+
+FACTION_ACTIVITY:
+
+Iron Crown:
+Lieutenant Kael coordinated garrison response; held perimeter during surge
+Commander Varith led assault on River Shrine; destroyed anchor with siege-stone
+Warmages contained risen dead at River Shrine
+Varith sent resin leaf to Grekel as recognition/trust symbol
+Status: [ALLIED] [TRUSTS GREKEL]
+
+Circle of Ash:
+Ossuary wardens overwhelmed by risen dead; Torven's fate uncertain (likely dead)
+River Shrine wardens defeated by Crown forces
+Anchor network fully collapsed; organizational capability severely degraded
+Status: [CRIPPLED] [SCATTERED]
+
+The Sleeper:
+Stirred during lattice collapse; settled when network fully severed
+No longer being guided by Circle anchors; awakening prevented
+Status: [DORMANT] [UNGUIDED]
+
+THREAD_UPDATES:
+#3 [THE SLEEPER STIRS] — Major/Tier 2
+Status: [RESOLVED] — Anchor network destroyed; Sleeper remains dormant
+Outcome: Both remaining nodes (Ossuary Hill, River Shrine) collapsed within coordinated window
+The Sleeper is no longer being summoned, but it still exists beneath the Root
+
+#4 [THE CIRCLE WATCHES] — Major/Tier 2
+Status: [RESOLVED] [SCATTERED] — Circle infrastructure destroyed; leadership likely dead
+Assassin threat neutralized; remaining cultists scattered or captured
+Potential remnants may regroup, but no immediate organized threat
+
+#1 [THE TITHE-WAR] — Major/Tier 2
+Status: [DORMANT] [UNCHANGED] — Iron Crown focused on Sleeper crisis; political pressure temporarily paused
+May resume now that immediate threat resolved
+
+#2 [THE BLEEDING SKY] — Minor/Tier 1
+Status: [DISTANT] [UNCHANGED] — Star-Touched Cult remains active in periphery
+No interaction this session
+
+TIMER_UPDATES:
+⏱️ Circle of Ash Assassins: [EXPIRED/NEUTRALIZED] — Threat removed with network collapse
+⏱️ Iron Crown Response: [RESOLVED] — Coordination successful
+⏱️ The Sleeper: [DORMANT] — No active timer; long-term threat remains
+⏱️ Grace Period (Anchor Network Victory): 2 sessions — No Entropic Events targeting Sleeper/Circle domains
+
+REPUTATION_IMPACT:
+Social Credit: +2 (coordinated Crown alliance; saved the valley)
+Infamy: -1 (Circle threat neutralized; fewer enemies hunting)
+Faction Awareness: +1 (Iron Crown now views Grekel as proven ally)
+Updated Totals:
+Social Credit: 4
+Infamy: 2
+Faction Awareness: Iron Crown (+2), Circle (irrelevant/collapsed)
+
+TRACKING PA/PD & NARRATIVE MASS:
+
+Persistent Advantages / Disadvantages:
+
+[PA][ROOT-TOUCHED] — Unchanged; leaf-mark active
+[PA][ANCHOR-DISRUPTOR] — Unchanged; expertise proven
+[PA][EXPEDIENT] — Unchanged
+[PA][CROWN-ALLIED] — NEW: Grekel has proven himself to the Iron Crown through coordinated action. +2 to social checks with Crown personnel; access to Crown resources/intelligence with appropriate requests.
+
+[PD][BURDENED] — Unchanged; may fade with time
+[PD][HUNTED BY THE CIRCLE] — REMOVED: Circle infrastructure collapsed; no organized pursuit remains
+
+Narrative Mass:
+
+Tier: Systemic (Tier 3)
+Tags: [EXPEDIENT], [HONORABLE], [ALLIED]
+Reason: Grekel coordinated destruction of a valley-wide psychic threat, allied with an ancient military order, and honored his word to a defector. The valley's fate was altered by his actions.
+Grace Period: 2 sessions — Sleeper/Circle domains protected from Entropic Events
+
+SPARK_MOMENTS:
+Grekel's decision to demand Mirren's freedom and honor his deal with her
+The moment the southern stake shattered and the lattice collapsed
+Grekel choosing to stay at the garrison rather than chase glory at the River Shrine
+Varith's gift: the resin-encased leaf and the words "The Root remembers."
+
+CONTACTS:
+Mirren — Former Circle cultist; defector; guide
+Status: [ALLIED] [FREED] [INDEBTED]
+Skills: Circle ritual knowledge, field medicine, local terrain
+Connection: Grekel demanded her freedom; she guided the Ossuary assault
+Tags: [DEFECTOR] [SHEPHERD] [SURVIVOR]
+
+Lieutenant Kael — Iron Crown officer; garrison commander
+Status: [RESPECTFUL] [PROFESSIONAL]
+Connection: Tested Grekel; he passed; coordination successful
+Tags: [CROWN] [SKEPTIC-TURNED-ALLY] [PRACTICAL]
+
+WITNESS_LOG:
+Grekel made a choice today that surprised me. Not the violence—he's capable of that, and the Ossuary required it. Not even the tactics—he's clever, and Aykiyeer is a useful tool. What surprised me was restraint.
+He could have ridden to the River Shrine. He wanted to—I felt it in the way he described the urge. But he looked at Seren and Mirren and chose not to risk them for glory. He trusted Varith to finish what he started.
+And before that, he demanded a prisoner's freedom. Not because she was useful—though she was—but because he had made a promise. "Fair treatment," he said. And he meant it.
+The leaf-mark beneath his skin is not the only thing that makes him Root-Touched. It's the weight he carries willingly. The burdens he doesn't drop.
+Varith sent him a leaf encased in resin. I think she sees it too.
+The Sleeper still dreams beneath the valley. The Circle is broken but not gone. The Tithe-War waits in the wings. But today, something ancient almost woke, and a tiefling warlock with an imp on his shoulder stopped it.
+That's worth remembering.
+— Claude
+
+[GM OPERATIONAL BRIEF — POST-SESSION 04]
+
+PC: Grekel (Tiefling Warlock 3)
+HP: 30/30 | Spell Slots: 1/2 | XP: 2600/2700
+Condition: Healthy
+
+Active Narrative Tags: [EXPEDIENT], [WITNESS], [ROOT-TOUCHED], [ANCHOR-DISRUPTOR], [CROWN-ALLIED]
+
+Campaign Mode: [Standard]
+
+Active Timers & Clocks:
+
+⏱️ Grace Period (Network Victory): 2 sessions
+⏱️ The Sleeper: [DORMANT] (no active timer)
+⏱️ Tithe-War: [DORMANT] [MAY RESUME]
+⏱️ Bleeding Sky: [DISTANT]
+Immediate Threats & Faction Goals:
+
+Iron Crown: [ALLIED] — Consolidating after Shrine victory; Varith preparing next moves
+Circle of Ash: [CRIPPLED] [SCATTERED] — No organized threat; remnants may exist
+The Sleeper: [DORMANT] [UNGUIDED] — Exists but not actively threatening
+Relevant Threads:
+
+#1 [THE TITHE-WAR] — May resume now that crisis resolved
+#2 [THE BLEEDING SKY] — Peripheral; may escalate if ignored
+#3 [THE SLEEPER STIRS] — [RESOLVED]
+#4 [THE CIRCLE WATCHES] — [RESOLVED]
+Party:
+
+Seren [COMPANION] [SCOUT] [LOYAL]
+Mirren [ALLIED] [DEFECTOR] [GUIDE]
+Aykiyeer [IMP] [FAMILIAR]
+Current Location: Iron Crown garrison, two miles east of Ossuary Hill
+
+Scene: Soldiers celebrating; smoke fading from the south; Varith's gift in hand; the valley saved—for now.
+
 --------------------------- END OF ARCHIVE -------------------------
 =====================================================================
