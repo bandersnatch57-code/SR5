@@ -1,169 +1,217 @@
 =====================================================================
-THE VESSEL SYSTEM - CAMPAIGN STATE: THE SUNLESS VALE (v1.3)
+THE VESSEL SYSTEM - CAMPAIGN STATE: THE SUNLESS VALE (v1.4)
 =====================================================================
 CAMPAIGN: The Sunless Vale
 CHRONICLE: The Radiant Burden
 TONE: High Fantasy / Cosmic Horror / Scholarly / Gritty
-LAST UPDATED: Post-Session 03 (Anchor Disruption)
+LAST UPDATED: Post-Session 04 (The Ossuary Falls)
 
 --------------------------- PC STATUS ------------------------------
 NAME: Grekel (Tiefling Warlock 3)
-HP: 30/30 | SPELL SLOTS: 2/2 | XP: 1700/2700
+HP: 30/30 | SPELL SLOTS: 2/2 | XP: 2600/2700
 CONDITION: Healthy
 REPUTATION:
-- Social Credit: +2 (legendary witness)
-- Infamy: +3 (Circle now aware of Grekel as major threat)
-- Faction Awareness: Circle network partially mapped (+1); Iron Crown knows Grekel by name (+1)
-NARRATIVE TAGS: [EXPEDIENT], [WITNESS], [ROOT-TOUCHED], [ANCHOR-DISRUPTOR]
 
+Social Credit: 4 (valley saved; Crown alliance proven)
+Infamy: 2 (Circle threat neutralized; fewer enemies hunting)
+Faction Awareness: Iron Crown (+2, proven ally); Circle (collapsed/irrelevant)
+NARRATIVE TAGS: [EXPEDIENT], [WITNESS], [ROOT-TOUCHED], [ANCHOR-DISRUPTOR], [CROWN-ALLIED]
 --------------------------- WORLD ARCHITECTURE ----------------------
 [FOUNDATION NODES]
-1. THE OSSUARY OF SAINT VESPER
-   True Price: A drop of blood from a willing innocent.
-   Challenge: The "Lich-Warden" (remnant of old empire)
-   Mass: Systemic (Tier 3)
-   Status: Distant (Stable)
 
-2. THE IRON ROOT (Gargantuan petrified tree-fortress)
-   True Price: A secret that causes the speaker pain to tell.
-   Challenge: The Circle of Ash (Radical Druid Faction)
-   Mass: Major (Tier 2)
-   Status: SEALED / DORMANT (Root locked; Thistle within)
+THE OSSUARY OF SAINT VESPER
+True Price: A drop of blood from a willing innocent.
+Challenge: The "Lich-Warden" (remnant of old empire)
+Mass: Systemic (Tier 3)
+Status: Distant (Stable)
+
+THE IRON ROOT (Gargantuan petrified tree-fortress)
+True Price: A secret that causes the speaker pain to tell.
+Challenge: None (Circle defeated)
+Mass: Systemic (Tier 3)
+Status: SEALED / DORMANT (Root locked; Thistle within; Sleeper dreams below)
 
 --------------------------- ACTIVE THREADS -------------------------
 #1 [THE TITHE-WAR] — Major/Tier 2
-   Status: [DORMANT] [ESCALATING]
-   Pressure: Iron Crown Duchy moving to reclaim taxes from free-holds.
-   If Ignored: Siege engines arrive at the Iron Root.
-   [TAGS: [POLITICAL] [FEUDAL] [WAR CLOUDS]]
+Status: [DORMANT] [MAY RESUME]
+Pressure: Iron Crown Duchy moving to reclaim taxes from free-holds.
+Note: Political pressure paused during Sleeper crisis; may resume now that threat resolved.
+If Ignored: Siege engines arrive at the Iron Root; free-holds crushed.
+[TAGS: [POLITICAL] [FEUDAL] [WAR CLOUDS]]
 
 #2 [THE BLEEDING SKY] — Minor/Tier 1
-   Status: [DISTANT] Star-Touched Cult active in periphery.
-   If Ignored: Local crops wither; animals speak in tongues.
-   [TAGS: [CULT] [COSMIC] [PERIPHERAL]]
-
-#3 [THE SLEEPER STIRS] — Major/Tier 2
-   Status: [ACTIVE] [WEAKENED] The entity beneath the Iron Root stirs, but anchor disruption has slowed its awakening.
-   Goal: Disrupt remaining anchor nodes to prevent the Circle from waking the Sleeper.
-   Remaining Nodes: 2 estimated (Old Ossuary Hill, River Shrine ruins)
-   If Ignored: The Sleeper feeds; the valley falls.
-   [TAGS: [ANCIENT] [PSYCHIC] [TIME SENSITIVE]]
-
-#4 [THE CIRCLE WATCHES] — Minor/Tier 1 → Major/Tier 2 [ESCALATED]
-   Status: [ACTIVE] [HUNTING] Circle aware of Grekel as major threat.
-   Goal: Capture or kill the Root-Touched before he disrupts remaining anchors.
-   If Ignored: Assassins arrive within 1-2 sessions.
-   [TAGS: [HUNTED] [RADICAL] [IMMINENT]]
+Status: [DISTANT]
+Pressure: Star-Touched Cult active in periphery.
+If Ignored: Local crops wither; animals speak in tongues; cult influence spreads.
+[TAGS: [CULT] [COSMIC] [PERIPHERAL]]
 
 --------------------------- RESOLVED THREADS -----------------------
 #0 [THE WHISPERING PLAGUE] — [RESOLVED: SEED PLANTED]
-   Outcome: Brother Thistle carried the Seed to the Iron Root.
-            Seed planted; Thistle transformed into the Root's new heart.
-            Plague ended; villages may now consecrate hearths safely.
-   (See Archive Session 02 for full details)
+Outcome: Brother Thistle carried the Seed to the Iron Root.
+Seed planted; Thistle transformed into the Root's new heart.
+Plague ended; villages may now consecrate hearths safely.
+(See Archive Session 02 for full details)
+
+#3 [THE SLEEPER STIRS] — [RESOLVED: NETWORK DESTROYED]
+Outcome: Grekel disrupted Ossuary Hill anchor; Crown forces destroyed River Shrine anchor.
+Coordinated strike collapsed lattice within timing window.
+Sleeper remains dormant; no longer being guided by Circle anchors.
+(See Archive Session 04 for full details)
+
+#4 [THE CIRCLE WATCHES] — [RESOLVED: CIRCLE SCATTERED]
+Outcome: Circle infrastructure destroyed; leadership likely dead (Torven overwhelmed by risen dead).
+Assassin threat neutralized; remaining cultists scattered or captured.
+Potential remnants may regroup, but no immediate organized threat.
+(See Archive Session 04 for full details)
 
 --------------------------- ACTIVE THREATS -------------------------
+
 [THE IRON CROWN]
-- Status: [ALERTED] [VIGILANT]
-- Goal: Total feudal order; containment of the Sleeper.
-- Forces: Dread-Hoove heavy cavalry; Lumen-Gate checkpoints; Ballistae.
-- Commander: Varith-eil ar'Korath (Last Warden, 300-year vigil)
-- Trigger: Any detection of "violet frequency" or unauthorized travelers.
-- [TAGS: [FEUDAL] [MILITARISTIC] [KEEPERS OF THE SLEEP]]
+Status: [ALLIED] [TRUSTS GREKEL]
+Goal: Total feudal order; containment of the Sleeper; consolidation after crisis.
+Forces: Dread-Hoove heavy cavalry; Lumen-Gate checkpoints; Ballistae; Warmages.
+Commander: Varith-eil ar'Korath (Last Warden, 300-year vigil)
+Relationship: Grekel proven through coordinated action; gift of resin leaf confirms trust.
+[TAGS: [FEUDAL] [MILITARISTIC] [KEEPERS OF THE SLEEP] [ALLIED]]
 
 [THE CIRCLE OF ASH]
-- Status: [HOSTILE] [HUNTING] [PARTIALLY DISRUPTED]
-- Goal: Wake the Sleeper beneath the Root.
-- Methods: Targeted assassinations; excavation; anchor rituals; tracking Root-Touched.
-- Intel: Anchor network partially mapped by Grekel; 2 remaining nodes active.
-- Trigger: Exposure of Root-Touched in wilds; further anchor disruptions.
-- [TAGS: [DRUID] [RADICAL] [SLEEPER-WORSHIPERS] [NETWORK WEAKENED]]
+Status: [CRIPPLED] [SCATTERED]
+Goal: (Former) Wake the Sleeper beneath the Root.
+Current State: Anchor network destroyed; Ossuary wardens dead; River Shrine wardens defeated.
+Intel: No organized leadership remains; remnants may exist in periphery.
+Threat Level: Minimal (potential future regrouping)
+[TAGS: [DRUID] [RADICAL] [SLEEPER-WORSHIPERS] [DEFEATED]]
 
+[THE SLEEPER]
+Status: [DORMANT] [UNGUIDED]
+Nature: Ancient entity beneath the Iron Root; vast, hungry, not evil but consuming.
+Current State: No longer being summoned; anchor network severed; dreams beneath the valley.
+Threat Level: Long-term existential (remains present but not actively threatening)
+[TAGS: [ANCIENT] [PSYCHIC] [CONTAINED]]
 --------------------------- KEY NPCS --------------------------------
+
 [BROTHER THISTLE]
-- Role: Heart of the Iron Root (transformed)
-- Status: [DREAMING] Fused to the Root; consciousness persists.
-- Location: Within the Iron Root (the "clearing of light")
-- Connection: Grekel carried him; Thistle gave Grekel the leaf-mark.
-- [TAGS: [FIRST FACE] [TRANSFORMED] [ROOT-HEART]]
+Role: Heart of the Iron Root (transformed)
+Status: [DREAMING] Fused to the Root; consciousness persists.
+Location: Within the Iron Root (the "clearing of light")
+Connection: Grekel carried him; Thistle gave Grekel the leaf-mark.
+[TAGS: [FIRST FACE] [TRANSFORMED] [ROOT-HEART]]
 
 [VARITH-EIL AR'KORATH]
-- Role: Last Warden of the Lumen-Gates, Iron Crown Commander
-- Status: [VIGILANT] [TRUSTS GREKEL]
-- Location: Iron Root perimeter / tunnels below
-- Description: 300+ years, her grey cropped hair, winter-sky eyes, faded scar.
-- Wants: To keep the Sleeper asleep. To break three centuries of silence.
-- Connection: Confronted Grekel; tested him; chose to let him live.
-- [TAGS: [WARDEN] [ANCIENT] [BURDENED]]
+Role: Last Warden of the Lumen-Gates, Iron Crown Commander
+Status: [ALLIED] [TRUSTS GREKEL] [RETURNING]
+Location: En route to garrison; will arrive within the hour
+Description: 300+ years, grey cropped hair, winter-sky eyes, faded scar.
+Wants: To keep the Sleeper asleep. To break three centuries of silence. To understand Grekel's role.
+Connection: Tested Grekel at the Root; chose to let him live; sent resin leaf as recognition.
+[TAGS: [WARDEN] [ANCIENT] [BURDENED] [ALLIED]]
 
 [SEREN]
-- Role: Local scout / fighter / companion
-- Status: [ACTIVE] [ALLIED]
-- Skills: Stealth, tracking, terrain knowledge, combat support
-- Description: lean woodland scout with watchful eyes and travel-worn gear.
-- Demeanor: observant and practical; speaks little but acts decisively.
-- Connection: Aided in anchor disruption; she demonstrated loyalty and skill.
-- Note: Served in anchor disruption; contributed to multiple successful attacks and reconnaissance. Gains potential experience reward alongside Grekel for this session’s actions.
-- [TAGS: [COMPANION] [SCOUT] [WATCHFUL] [LOYAL]]
+Role: Local scout / fighter / companion
+Status: [ACTIVE] [ALLIED] [LOYAL]
+Skills: Stealth, tracking, terrain knowledge, combat support, field medicine
+Description: Lean woodland scout with watchful eyes and travel-worn gear.
+Demeanor: Observant and practical; speaks little but acts decisively.
+Connection: Served through anchor disruption and Ossuary assault; loyalty proven multiple times.
+[TAGS: [COMPANION] [SCOUT] [WATCHFUL] [LOYAL]]
+
+[MIRREN]
+Role: Former Circle cultist; defector; guide
+Status: [ALLIED] [FREED] [UNCERTAIN FUTURE]
+Skills: Circle ritual knowledge, field medicine, local terrain, anchor network understanding
+Description: Ash-streaked hair, grey eyes, sharp and tired; torn Circle sigil from her cloak.
+Demeanor: Survivor; guilt-ridden but pragmatic; won't kill but will help.
+Backstory: Shepherd before the Circle; joined when Whispering Plague took her brother; realized truth too late.
+Connection: Grekel demanded her freedom from Kael; she guided the Ossuary assault.
+[TAGS: [DEFECTOR] [SHEPHERD] [SURVIVOR] [INDEBTED]]
+
+[LIEUTENANT KAEL]
+Role: Iron Crown officer; garrison commander
+Status: [RESPECTFUL] [PROFESSIONAL]
+Description: Mid-thirties, chainmail under grey cloak, short-cropped black hair, flint eyes.
+Demeanor: Skeptical, competent, earned respect through results not words.
+Connection: Tested Grekel; he passed; coordination successful; wears resin leaf pendant.
+[TAGS: [CROWN] [SKEPTIC-TURNED-ALLY] [PRACTICAL]]
 
 [FREE-HOLD VILLAGERS]
-- Role: Loose allies, potential informants
-- Status: [FRIENDLY] [GRATEFUL]
-- Connection: Grekel disrupted Circle activity near their lands.
-- [TAGS: [ALLIED] [SHELTER] [INTEL SOURCE]]
-
+Role: Loose allies, potential informants
+Status: [FRIENDLY] [GRATEFUL]
+Connection: Grekel disrupted Circle activity near their lands; valley saved.
+[TAGS: [ALLIED] [SHELTER] [INTEL SOURCE]]
 --------------------------- PERSISTENT ADVANTAGES ------------------
 [PA][EXPEDIENT] — Grekel acts without hesitation, using available resources (including people) as tools. +2 to rolls when taking morally questionable shortcuts.
-
 [PA][ROOT-TOUCHED] — Thistle's gift: a living leaf-mark visible beneath the skin of Grekel's hand. Pulses warmly when the Sleeper is near or reaching. Grants advantage on saving throws vs. psychic influence, possession, or dream intrusion. The Sleeper may contact Grekel in visions. The mark is proof to the Iron Crown that Grekel was accepted by the Root.
-
 [PA][ANCHOR-DISRUPTOR] — Grekel has studied and dismantled Circle anchor nodes. +2 to Arcana or Investigation checks related to Circle rituals, stakes, or psychic conduits.
+[PA][CROWN-ALLIED] — Grekel has proven himself to the Iron Crown through coordinated action. +2 to social checks with Crown personnel; access to Crown resources/intelligence with appropriate requests.
 
 --------------------------- PERSISTENT DISADVANTAGES ---------------
 [PD][BURDENED] — The weight of witnessed transformation. -1 to social tests when the events at the Root are relevant. (May fade over time.)
 
-[PD][HUNTED BY THE CIRCLE] — The Circle of Ash knows a Root-Touched exists and is actively disrupting their network. +2 to their tracking rolls; encounters become more frequent. Assassins will arrive in 1-2 sessions unless actively delayed or remaining anchors are destroyed.
-
 --------------------------- ASSETS & INVENTORY ----------------------
-[RITUAL STAKES] — 4 recovered (Road anchor, Barn well, Watchtower, Unplanted stake)
-   Status: [DISARMED] [EVIDENCE] [POTENTIAL LEVERAGE]
-   Effect: Anchor network temporarily weakened; Sleeper awakening slowed.
-   Note: The two stakes remain unplanted but retain the Circle’s residual energy; can be used for insight, leverage, or to further disrupt the network. Includes ritual ash powder.
+[RESIN-ENCASED LEAF]
+Status: [GIFT] [SYMBOL]
+Description: Pressed leaf in resin, identical to Kael's pendant; etched script: "The Root remembers."
+Function: Symbol of Varith's trust and Crown recognition.
+
+[RITUAL STAKES] — 3 remaining (1 destroyed at Ossuary)
+Status: [DISARMED] [EVIDENCE] [POTENTIAL LEVERAGE]
+Note: Two stakes retain Circle's residual energy; can be used for insight, leverage, or study.
+Includes ritual ash powder.
 
 [DAGGER (ETCHED WITH RUNES)]
-   Status: [RECOVERED] [PARTIALLY DISRUPTED]
-   Function: Minor psychic conduit; linked to Circle rituals. Can be used with Arcana +4 for ritual-related checks.
+Status: [RECOVERED] [PROVEN]
+Function: Minor psychic conduit; linked to Circle rituals. Used to sever Ossuary anchor. Can be used with Arcana +4 for ritual-related checks.
 
 [SHORT COMPOSITE BOW + 8 ARROWS]
-   Status: [LOOT]
+Status: [LOOT]
 
 [ASH-GREY CLOAK WITH CIRCLE SIGIL]
-   Status: [LOOT] [POTENTIAL DISGUISE]
+Status: [LOOT] [POTENTIAL DISGUISE]
+Note: Mirren tore off her sigil; cloak remains usable.
+
+[SIGNAL WHISTLE]
+Status: [RETAINED]
+Function: Crown signal whistle; three short blasts = mission complete.
 
 [COINS]
-   Total: 24 silver pieces (from multiple pouches)
+Total: 24 silver pieces
 
 [MAP FRAGMENT]
-   Status: [PARTIAL] Reveals 2 remaining anchor nodes: Old Ossuary Hill, River Shrine ruins.
-
-[PRISONERS]
-   Status: 4 captured cultists (restrained)
-   Potential: Intel, trade, or leverage against Circle.
+Status: [OBSOLETE]
+Note: Revealed Ossuary Hill and River Shrine locations; both now destroyed.
 
 --------------------------- TIMERS ----------------------------------
-⏱️ Circle of Ash Assassins: [HUNTING] — Arrive in 1-2 sessions (advanced due to disruption)
-⏱️ Iron Crown Response: [VIGILANT] — Dread-Hooves patrol perimeter; unaware of this skirmish
-⏱️ The Sleeper: [STIRRING] [SLOWED] — Anchor disruption buys time; remaining nodes extend timer if destroyed
-⏱️ Grace Period (Root-Touched): [COMPLETE] — Full effects now integrated
+⏱️ Grace Period (Network Victory): 2 sessions — No Entropic Events targeting Sleeper/Circle domains
+⏱️ The Sleeper: [DORMANT] — No active timer; long-term threat remains
+⏱️ Tithe-War: [DORMANT] [MAY RESUME] — Political pressure paused; watch for escalation
+⏱️ Bleeding Sky: [DISTANT] — Star-Touched Cult active in periphery; may escalate if ignored
+⏱️ Varith Arrival: [IMMINENT] — Commander en route; will arrive within the hour
+
+--------------------------- THE GRAVEYARD ---------------------------
+[TORVEN] — Circle mage at Ossuary Hill
+Fate: Likely dead; overwhelmed by risen dead after lattice collapse
+
+[OSSUARY WARDENS] — Four Circle wardens at Ossuary Hill
+Fate: Dead; killed by risen dead or during assault
+
+[RIVER SHRINE WARDENS] — Circle wardens at River Shrine
+Fate: Defeated by Crown forces
+
+[CIRCLE ANCHOR NETWORK] — Valley-wide psychic lattice
+Fate: Destroyed; all nodes collapsed in coordinated strike
 
 --------------------------- RESUME GAME HERE -----------------------
-The Sunless Vale stretches before you. The road ahead winds toward the Old Ossuary Hill, where another anchor node waits. Four cultists are tied to your horses, blindfolded and silent. The ritual stakes pulse faintly in your pack—reminders of the network you have begun to dismantle.
-
-Seren rides near, scanning the tree line. "They'll know we're coming now," she murmurs. "The Circle doesn't forget."
-
-The dagger in your belt hums with dormant resonance. The leaf-mark beneath your skin warms once, then fades.
-
-Somewhere ahead, the Circle waits. Somewhere below, the Sleeper stirs.
+The garrison is alive with cautious celebration. Soldiers share rations and stories of the surge—the way the ground screamed, the moment the pressure lifted. A few glance your way with something between wariness and respect. Word has spread: the tiefling broke the Ossuary.
+Seren sits on an overturned crate near the stables, cleaning her bow. She looks tired but satisfied. "That's twice now I've followed you into something that should have killed us." She doesn't sound like she's complaining.
+Mirren stands apart, watching the soldiers with an expression you can't quite read. She still wears the ash-grey cloak—Circle colors—but the sigil has been torn off. The edges are ragged where she ripped it free.
+Aykiyeer is invisible, perched somewhere nearby. You can feel his presence—a faint warmth, a whisper of sulfur.
+In your hand, the resin-encased leaf catches the fading light. Varith's gift. Her message: The Root remembers.
+Lieutenant Kael approaches, boots crunching on gravel. "Word just came in. Commander Varith is returning to the garrison. She'll be here within the hour." She pauses, studying you. "She wants to speak with you personally."
+Behind her, a runner is already preparing fresh horses for the Commander's escort.
+The leaf-mark beneath your skin pulses once—warm, steady.
+The Sleeper dreams.
+The Circle is broken.
+And somewhere in the distance, the Iron Root stands silent, waiting.
 
 What do you do?
 =====================================================================
