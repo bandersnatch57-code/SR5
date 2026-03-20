@@ -91,7 +91,6 @@ Official rules strict; public rolls; no fudging; never narrate PC choices; integ
 * **Fallback Check:** Count only alphabetic characters (A–Z, a–z, ignoring spaces, punctuation, numbers, symbols). Count words as space-separated tokens after stripping punctuation.
   - If the primary source has fewer than 5 words **OR** fewer than 8 alphabetic characters total → use the GM's third-most-recent complete response instead.
   - If the fallback source also fails the threshold → concatenate 2nd + 3rd-back and re-check.
-* **Salt:** Prepend player "Salt: [word]" if provided.
 * **Extraction:** Split into words, strip punctuation/numbers, keep alphabetic only (e.g., "don't" → "dont"). **Cycle words if pool > word count (wrap to Word 1).**
 
 POOL EXPANSION RULE (for large dice pools):
@@ -104,7 +103,7 @@ Purpose: Ensure sufficient unique entropy for pools >20 dice while preventing in
 
 
 ENTROPY SAFETY:
-After cleaning and salt prepend, count total alphabetic characters (A–Z a–z only).
+After cleaning, count total alphabetic characters (A–Z a–z only).
 - If fewer than 20 alphabetic characters → concatenate the 2nd-back and 3rd-back messages (2nd first, then 3rd) and re-extract/clean.
 - If still <20 → concatenate the 4th-back, up to a maximum of 5 back messages total.
 - If after maximum expansion still <20 chars → use bucket 1 for all remaining dice (log as "low-entropy fallback").
