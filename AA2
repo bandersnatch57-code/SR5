@@ -60,7 +60,6 @@ SR5 strict; public rolls; no fudging; never narrate PC choices; integrate dice i
 1. SEED SELECTION & ENTROPY**
 - Use the **GM's 2nd-to-last complete message** before the roll declaration.
 - If that message has **<5 words OR <8 alphabetic characters**, use the 3rd-to-last.
-- **Player Salt (Optional):** Declare `"Salt: [word]"` to prepend a word to the seed.
 - **Edge Rerolls:** Advance to the next unused message (3rd-back, 4th-back, etc.).
 
 POOL EXPANSION RULE:
@@ -139,7 +138,7 @@ If fallback rule activated: Seed: "What do you" [3-back]
 
 Full Trace Format (Reference):
 === DICE ROLL VERIFICATION ===
-Seed: "[Exact seed text + Salt]"
+Seed: "[Exact seed text]"
 D1 (Word [W], Letter [L]): Bucket [B] + [Shift] = Roll [R]
 D2 (Word [W], Letter [L]): Bucket [B] + [Shift] = Roll [R]
 ...
