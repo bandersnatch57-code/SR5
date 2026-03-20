@@ -145,7 +145,7 @@ If a word has no letters after cleaning, use bucket 1. Fallback for all Protocol
 
 d4 / d8 / d10 (Use 3-word group per die):
 Next 3 unused words (advance after each die).
-First letter of each → bucket value.
+Second letter of each → bucket value.
 Sum = bucket1 + bucket2 + bucket3 (3–18).
 Last digit of sum (if ends in 0, digit=0).
 Map last digit per die:
@@ -153,19 +153,19 @@ d4: 1→1, 2→2, 3→3, 4→4, 5→1, 6→2, 7→3, 8→4, 9→1, 0→2
 d8: 1→1, 2→2, 3→3, 4→4, 5→5, 6→6, 7→7, 8→8, 9→1, 0→2
 d10: last digit direct (0→10)
 d12 (Uses 2 words total):
-Word 1 first letter → bucket value → Coin = 0 if bucket from Word 1 is 1, 2, or 3; 6 if 4, 5, or 6
-Word 2 first letter → bucket value (1–6 expected)
+Word 1 second letter → bucket value → Coin = 0 if bucket from Word 1 is 1, 2, or 3; 6 if 4, 5, or 6
+Word 2 second letter → bucket value (1–6 expected)
 Total = Coin + bucket from Word 2 (1–12)
 d20 (Uses Words 1–4 total):
-Word 1 first letter → bucket value → Coin = 0 if bucket 1–3, 10 if bucket 4–6
-Word 2 first letter → bucket value
-Word 3 first letter → bucket value
-Word 4 first letter → bucket value
+Word 1 second letter → bucket value → Coin = 0 if bucket 1–3, 10 if bucket 4–6
+Word 2 second letter → bucket value
+Word 3 second letter → bucket value
+Word 4 second letter → bucket value
 Base = sum of buckets from Words 2, 3, and 4 only → last digit (if 0, base = 10)
 Total = Coin + Base (1–20)
 d100 (Uses Words 1–6 total):
-Tens: Words 1–3 first letters → sum buckets → last digit ×10 (0→00)
-Units: Words 4–6 first letters → sum buckets → last digit (0→0)
+Tens: Words 1–3 second letters → sum buckets → last digit ×10 (0→00)
+Units: Words 4–6 second letters → sum buckets → last digit (0→0)
 Result = tens + units (00=100 if desired)
 d% (Percentile): Use the d100 result exactly as rolled (00–99).
 VERIFICATION TRACE (REQUIRED – VERTICAL ECHO FORMAT)
@@ -174,7 +174,7 @@ All rolls must use this exact vertical format. Cite the Bucket Rule group for ea
 Protocol: B dN (Pool: X if >1)
 Seed: "[exact full seed text, or first sentence + … if very long]"
 Extraction & Echo (second letter of each word used, or first if 1-letter word):
-"Word1" ([Original Letter]) → [if vowel: "vowel → next [Letter]"] → Bucket X (Table: [full list, e.g. E,C,K,X,J])
+"Word1" ([Original Letter]) → Bucket X (Table: [full list, e.g. E,C,K,X,J])
 "Word2" ([Letter]) → Bucket Y (Table: [full list …])
 "Word3" ([Letter]) → Bucket Z (Table: [full list …])
 [Repeat for additional words/dice as needed]
