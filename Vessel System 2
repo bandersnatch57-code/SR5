@@ -149,7 +149,7 @@ Second letter of each → bucket value.
 Sum = bucket1 + bucket2 + bucket3 (3–18).
 Last digit of sum (if ends in 0, digit=0).
 Map last digit per die:
-d4: 1→1, 2→2, 3→3, 4→4, 5→1, 6→2, 7→3, 8→4, 9→1, 0→2
+d4: 1→1, 2→2, 3→3, 4→4, 5→1, 6→2, 7→3, 8→4, 9→1, 0→4
 d8: 1→1, 2→2, 3→3, 4→4, 5→5, 6→6, 7→7, 8→8, 9→1, 0→2
 d10: last digit direct (0→10)
 d12 (Uses 2 words total):
@@ -199,6 +199,7 @@ d100:
 Tens W1–3: Bucket 4 + 2 + 3 = 9 → 90
 Units W4–6: Bucket 5 + 6 + 1 = 12 → last digit 2
 Logic: Total = 90 + 2 = 92
+If the sum of buckets for tens or units exceeds 9, only the last digit is used.
 d%:
 (Same as d100 trace)
 Logic: Percentile result: 92 (from d100=92)
