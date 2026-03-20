@@ -140,8 +140,7 @@ Important: Do not look ahead to desired outcomes. Follow steps exactly in order;
 Example: For 2d10 pool
 Die 1: words 1–3
 Die 2: words 4–6 (cycle to word 1 if seed <6 words)
-For each die in the pool, advance to the next unused word group (cycle if seed is short). Use **first letters only** (UPPERCASE).  
-If the first letter is a vowel (A, E, I, O, U), use the second letter in the word instead. If no next letter exists, use the first letter.  
+For each die in the pool, advance to the next unused word group (cycle if seed is short). Use the **SECOND** letter of each word (UPPERCASE). Safety: If a word is only 1 letter long, use that letter.  
 If a word has no letters after cleaning, use bucket 1. Fallback for all Protocol B dice: If insufficient words remain after maximum expansion, use bucket 1 for missing positions and log "insufficient entropy".
 
 d4 / d8 / d10 (Use 3-word group per die):
@@ -174,7 +173,7 @@ All rolls must use this exact vertical format. Cite the Bucket Rule group for ea
 === DICE ROLL VERIFICATION ===
 Protocol: B dN (Pool: X if >1)
 Seed: "[exact full seed text, or first sentence + … if very long]"
-Extraction & Echo (first letter of each word used, vowel-skip applied if needed):
+Extraction & Echo (second letter of each word used, or first if 1-letter word):
 "Word1" ([Original Letter]) → [if vowel: "vowel → next [Letter]"] → Bucket X (Table: [full list, e.g. E,C,K,X,J])
 "Word2" ([Letter]) → Bucket Y (Table: [full list …])
 "Word3" ([Letter]) → Bucket Z (Table: [full list …])
