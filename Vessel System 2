@@ -151,7 +151,7 @@ Last digit of sum (if ends in 0, digit=0).
 Map last digit per die:
 d4: 1→1, 2→2, 3→3, 4→4, 5→1, 6→2, 7→3, 8→4, 9→1, 0→4
 d8: 1→1, 2→2, 3→3, 4→4, 5→5, 6→6, 7→7, 8→8, 9→1, 0→2
-d10: last digit direct (0→10)
+d10: Last digit used directly (0→10).
 d12 (Uses 2 words total):
 Word 1 second letter → bucket value → Coin = 0 if bucket from Word 1 is 1, 2, or 3; 6 if 4, 5, or 6
 Word 2 second letter → bucket value (1–6 expected)
@@ -185,6 +185,11 @@ Total = 0 + 2 = 2
 or for d100: Tens last digit 5 →50; Units last digit 9 → Total=59]
 FINAL RESULT:[Value(s)][Resolution: e.g. Success DC15 / 3 Hits / Critical Fail (per system rules)]
 Trace Examples (Illustrative — Do NOT copy verbatim into output):
+d10:
+Seed: "The orc swings its axe."
+Words: ["the", "orc", "swings"]
+Second letters: H (Bucket 5), R (Bucket 5), W (Bucket 6)
+Sum: 5 + 5 + 6 = 16 → last digit **6** → Result: **6**
 d12:
 "Word1" (P) → Bucket 6 (Table: D,U,W,F,G,Y,P,Q,Z)
 "Word2" (R) → Bucket 5 (Table: H,R,L)
