@@ -253,7 +253,7 @@ After each session, include a **REPUTATION IMPACT** line in the patch notes.
 ────────────────────────────────
 1. Read the dossier in full, up to and including the last Patch Notes.
 2. Parse the latest Patch Notes and integrate all changes.
-3. Review: WORLD_LOGIC (AA1), THEMATIC SYNTHESIS (see AA5), ACTIVE THREADS.
+3. Review: WORLD_LOGIC (File 1), THEMATIC SYNTHESIS (see File 5), ACTIVE THREADS.
 4. Begin at "--- RESUME GAME HERE ---". Frame the scene diegetically. Prompt: "What do you do?"
 
 No session begins until the world has remembered itself.
@@ -337,7 +337,7 @@ Each Patch Notes block must begin with: `=== SESSION PATCH NOTES [SESSION # — 
 
 **ALWAYS REQUIRED (Even if no other changes):**
 • **NARRATIVE_SUMMARY**
-• **WITNESS_LOG** (see AA4)
+• **WITNESS_LOG** (see File 4)
 
 **INTEGRATION PRINCIPLE:**
 As the campaign grows, prefer inline tracking over separate files. A contact's tags live with the contact. A thread's status lives with the thread. A threat's timer lives with the threat. The dossier is a web, not a stack.
