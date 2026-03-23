@@ -327,6 +327,7 @@ Each Patch Notes block must begin with: `=== SESSION PATCH NOTES [SESSION # — 
 • **THREAD_UPDATES** — Each active thread: [ACTION], [INTEL], or [RELATION] vector
 • **TIMER_UPDATES** — Including Grace Period expirations
 • **REPUTATION_IMPACT** — Social Credit,  Infamy, Faction Awareness changes
+• **RESUME_GAME_HERE** — A brief scene setup for for the next session
 
 **OPTIONAL BUT RECOMMENDED:**
 • **NARRATIVE_MASS** — Tier (Minor/Major/Systemic) + tags if significant
