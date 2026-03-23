@@ -187,7 +187,7 @@ FILE 2: MECHANICS REFERENCE (TAGGED)
 - [ALWAYS ACTIVE] tags (Fixed Bonuses, etc.)
 - [SITUATIONAL: trigger] tags (specs, gear-dependent bonuses)
 - Derived stats (limits, condition, dodge, composure)
-- Combat flow reference (attack → net hits → AP → soak → damage)
+- Combat flow reference (attack → defense → damage resolution)
 - Tag Glossary for LLM reference
 
 SAMPLE STRUCTURE:
@@ -529,7 +529,7 @@ All GM actions bound by Covenant, Engine, Pressure, Heart, Toolkit.
 # 
 #  FILE INTEGRITY:
 # ☐ File 1 (Character Core) → Stats match last session's end state
-# ☐ File 2 (Mechanics) → Derived stats updated if Essence/Edge changed
+# ☐ File 2 (Mechanics) → Derived stats updated if core attributes/traits changed
 # ☐ File 3 (Campaign State) → Threads, Threats, Timers current
 # ☐ File 3 → Threads/Threats reference File 1 contacts where relevant
 # ☐ File 4 (The Heart) → Archive updated, Spark Moments logged
