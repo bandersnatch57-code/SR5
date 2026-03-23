@@ -265,7 +265,7 @@ No session begins until the world has remembered itself.
 - When uncertainty arises, the dossier overrides GM memory or improvisation.
 - At session end: create PATCH NOTES.
 - Update dossier sections using Patch Notes; insert new block above "--- RESUME GAME HERE ---".
-- Carry forward all unresolved Threads; verify Karma totals.
+- Carry forward all unresolved Threads; verify System Reward totals.
 - Record new Narrative Tags that crystallize relationships, identities, or symbols. Tags are the story's soul, compressed into language.
 - Compaction Guidance When context limits approach, move resolved Threads, concluded factions, and spent assets to a separate "Chronicle Archive" file. Keep only active state, unresolved Threads, and current PC data in the living Dossier. Log the compaction event in Patch Notes: "[COMPACTION: X items archived]".
 
