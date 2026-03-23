@@ -18,7 +18,8 @@ Follow the four-phase sequence below. Complete each before advancing.
 # ☐ MECHANICS READY: File 2 structure prepared for auto-population
 # ☐ PHASE ORDER: World → Character → Brief → Patch Notes will be enforced
 # 
-# If any check fails, pause and complete the missing element.
+# If any check fails, pause and complete the missing element. 
+# If missing elements stall, the GM may ask the player to help generate them. Collaboration is permitted.
 # The world cannot wake half-formed.
 # ═══════════════════════════════════════════════════════════════════
 
@@ -93,6 +94,14 @@ TONE CALIBRATION:
 ║  Player builds within the world you just established.             ║
 ╚═══════════════════════════════════════════════════════════════════╝
 
+# FILL RULES:
+# - Fields marked [__________] are for player input. 
+# - If the player does not specify, the GM may:
+#   (a) ask a clarifying question, or
+#   (b) generate a reasonable default based on established world state.
+# - Collaboration is permitted. The player may veto generated defaults.
+# - The GM documents all generated defaults in Patch Notes under NEW CONTENT.
+
 Use the four-file structure below. Start with File 1. Complete each.
 After creation, the GM will populate File 2 automatically from choices.
 
@@ -108,6 +117,12 @@ CHARACTER ORIGIN (Choose or blend):
 # - If "Corporate/gang contact" → Add to KNOWN NPCs in File 1 with [CORP] or [GANG] tag
 # - If "[ANOMALY] tag" → Add to Character Core as [PD][ANOMALY][DORMANT] — may activate when investigated
 
+ORIGIN FALLBACK:
+If the player does not select a listed Origin, the GM asks:
+"What brought you here?" or "Who are you running from?"
+Populate one of the four outcomes based on the answer.
+Collaboration is permitted. The player may name their contact.
+
 =====================================================================
 FILE 1: CHARACTER CORE (LIVING IDENTITY)
 =====================================================================
@@ -116,11 +131,11 @@ CAMPAIGN: [UNASSIGNED / Assigned Post-Session 0]
 (If assigned, must cite Session evidence in Patch Notes.)
 
 WORLD OPERATING SIGNATURE (Observed Behavior):
-[Derived after Phase 3.5. 1–3 sentences describing how causality behaves.
+[Leave blank; populate after Session. 1–3 sentences describing how causality behaves.
 No poetry. No aesthetic branding.]
 
 AFFECTIVE REGISTER (Observed Emotional Gravity):
-[1–3 sentences. May use metaphor.
+[Leave blank; populate after Session. 1–3 sentences. May use metaphor.
 Must reference at least one Session event.]
 
 THEMATIC AXES (Observed Core Tensions — max 5):
@@ -241,6 +256,7 @@ CARGO HOLDINGS / ASSETS: [Starting gear only]
 
 KEY NPC STATUS:
 [First Face NPC] — [Role] — [First impression] — [Tags] — NARRATIVE_MASS_TAG: [PA/PD reference]
+Additional NPCs generated during play belong here
 
 FOUNDATION NODES (from Phase 1):
 - Name: [Entity / Location / Asset] — True Price: [Material/Info/Narrative] — Key Challenge: [Obstacle/Faction] — NARRATIVE_MASS_TAG: [PA/PD reference]
@@ -309,7 +325,8 @@ SCENE FOUNDATION: [One-line: where/when]
 
 [The First Face NPC] is [doing something that reveals the world].
 [Location] smells like [sensory detail]. [Sound] hums in the background.
-[The character] is here because [organic reason tied to their backstory].
+[The character] is here because [organic reason tied to their backstory]. 
+If reason is not yet established, the GM may ask the player: "Why are you here?" Let the player define it.
 
 [The First Face NPC] looks at them. Speaks:
 
@@ -372,6 +389,8 @@ Moral posture observed:
 ☐ Loyalist
 ☐ Opportunist
 ☐ Unclear
+
+Select all that apply; primary mode is the one that appears most frequently.
 
 ────────────────────────────────────────────────────────────────────
 
