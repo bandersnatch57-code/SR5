@@ -200,7 +200,7 @@ Logic: Coin: Bucket 6 is 4–6 → 6; Word2 Bucket 5 → Total = 6 + 5 = 11
 d20:
 "Word1" (T) → Bucket 2 (Table: T,I)
 "Word2" (H) → Bucket 5 (Table: H,R,L)
-"Word3" (E) → vowel → next (N) → Bucket 4 (Table: N,S,M,B,V)
+"Word3" (N) → Bucket 4 (Table: N,S,M,B,V)
 "Word4" (R) → Bucket 5 (Table: H,R,L)
 Logic: Coin: Bucket 2 is 1–3 → 0; Base sum = 5+4+5 = 14 → last digit 4; Total = 0 + 4 = 4
 d100:
