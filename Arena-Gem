@@ -1,0 +1,699 @@
+=====================================================================
+THE VESSEL SYSTEM v4.1 — CAMPAIGN DOSSIER
+CAMPAIGN: [UNASSIGNED — Identity deferred to Session 1]
+SYSTEM: Shadowrun 5th Edition
+TONE: Standard — Moral weight exists; mercy and cruelty both have consequences
+=====================================================================
+
+=====================================================================
+FILE 1: CHARACTER CORE (LIVING IDENTITY)
+=====================================================================
+
+CAMPAIGN: [UNASSIGNED]
+
+WORLD OPERATING SIGNATURE (Observed Behavior):
+[Leave blank — populate after Session 1]
+
+AFFECTIVE REGISTER (Observed Emotional Gravity):
+[Leave blank — populate after Session 1]
+
+THEMATIC AXES (Observed Core Tensions — max 5):
+- [Obligation vs. Freedom] — The Yakuza debt vs. independent operation
+- [Loyalty vs. Survival] — Reznik's safety vs. your own
+- [Trust vs. Deception] — Your core skill vs. your core flaw
+
+Last Updated: Session 0
+
+---------------------------------------------------------------------
+IDENTITY
+---------------------------------------------------------------------
+
+HANDLE: Stopgap
+METATYPE: Human
+AGE: 24
+LOOK: Young, charismatic, a chameleon. The chrome is subtle but present —
+      eyes that track too fast, micro-twitches when moving. People trust
+      you and don't know why.
+
+ORIGIN: Grew up in Redmond Barrens. You know its shadows.
+
+CONCEPT: Face/Infiltrator. Razor primary (manipulation through leverage),
+         Mirror secondary (social chameleon, disguises, personas).
+
+THE SHADOW: You did something you can't take back. Being a thief and a
+            conman, you can't stop doing things you can't take back.
+
+---------------------------------------------------------------------
+ATTRIBUTES
+---------------------------------------------------------------------
+
+| Attribute   | Base | Augmented | Notes                    |
+|-------------|------|-----------|--------------------------|
+| Body        | 5    | 5         |                          |
+| Agility     | 5    | 5         |                          |
+| Reaction    | 2    | 4         | +2 Wired Reflexes        |
+| Strength    | 2    | 2         |                          |
+| Willpower   | 2    | 2         |                          |
+| Logic       | 4    | 4         |                          |
+| Intuition   | 2    | 2         |                          |
+| Charisma    | 6    | 6         |                          |
+| Edge        | 3    | 3         |                          |
+| Essence     | 6.0  | 2.5       | -3.5 from cyberware      |
+
+---------------------------------------------------------------------
+DERIVED STATS
+---------------------------------------------------------------------
+
+| Stat              | Value       | Calculation                      |
+|-------------------|-------------|----------------------------------|
+| Initiative        | 6 + 3d6     | REA 4 + INT 2 + 2d6 (Wired)      |
+| Physical Limit    | 5           | (STR×2 + BOD + REA) / 3          |
+| Mental Limit      | 4           | (LOG×2 + INT + WIL) / 3          |
+| Social Limit      | 6           | (CHA×2 + WIL + ESS) / 3          |
+| Physical CM       | 10 boxes    | 8 + (BOD/2)                      |
+| Stun CM           | 9 boxes     | 8 + (WIL/2)                      |
+| Composure         | 8 dice      | CHA + WIL                        |
+| Judge Intentions  | 8 dice      | CHA + INT                        |
+| Memory            | 6 dice      | LOG + WIL                        |
+
+---------------------------------------------------------------------
+QUALITIES
+---------------------------------------------------------------------
+
+POSITIVE:
+- Catlike — +2 dice to Sneaking [ALWAYS ACTIVE]
+- First Impression — +2 dice on social tests during first meeting
+                     [SITUATIONAL: first encounter only]
+- Perceptive — +1 die to Perception tests [ALWAYS ACTIVE]
+
+NEGATIVE:
+- Compulsive (The Grift) — [PD][MINOR][COMPULSIVE]
+  Trigger: Lucrative deception/theft opportunity presents itself
+  Resist: Composure test (8 dice) vs threshold 2-4
+  Failure: You take the grift, even if it complicates the run
+  Narrative Weight: Engine of "things you can't take back"
+
+- Dependents 2 (Reznik) — [PD][MINOR][LOYAL]
+  Effect: Reznik needs you regularly; neglect risks his safety
+  Narrative Weight: He taught you everything; now he's your burden
+
+- Debt (50,000¥ to Yakuza) — [PD][MAJOR][FINANCIAL]
+  Creditor: Seattle Yakuza (Wakabayashi-gumi clan)
+  Origin: Failed job with Reznik; stole blackmail data on oyabun
+  Terms: 50,000¥ debt + one marker (favor owed, no questions)
+  Thread Created: [THE YAKUZA MARKER]
+
+---------------------------------------------------------------------
+CYBERWARE
+---------------------------------------------------------------------
+
+| Item                 | Rating | Essence | Effect                       |
+|----------------------|--------|---------|------------------------------|
+| Wired Reflexes       | 2      | 3.0     | +2 Reaction, +2d6 Initiative |
+| Tailored Pheromones  | 2      | 0.4     | +2 dice Social (in-person,   |
+|                      |        |         | biological targets only)     |
+| Datajack             | —      | 0.1     | Matrix access                |
+| TOTAL ESSENCE LOSS   |        | 3.5     | Remaining: 2.5               |
+
+---------------------------------------------------------------------
+SKILLS
+---------------------------------------------------------------------
+
+SKILL GROUPS:
+| Group     | Rating | Skills Covered                        |
+|-----------|--------|---------------------------------------|
+| Influence | 5      | Con, Etiquette, Leadership, Negotiation |
+| Stealth   | 5      | Disguise, Palming, Sneaking           |
+
+INDIVIDUAL SKILLS:
+| Skill         | Rating | Specialization    | Attribute |
+|---------------|--------|-------------------|-----------|
+| Con           | 6      | Fast Talk         | CHA       |
+| Negotiation   | 6      | Bargaining        | CHA       |
+| Sneaking      | 6      | Urban             | AGI       |
+| Intimidation  | 6      | Physical          | CHA       |
+| Perception    | 6      | Visual            | INT       |
+| Pistols       | 6      | Heavy Pistols     | AGI       |
+| Locksmith     | 6      | Maglocks          | AGI       |
+| Hardware      | 6      | Electronic Locks  | LOG       |
+| Impersonation | 4      | —                 | CHA       |
+| Etiquette     | 5      | —                 | CHA       |
+| Leadership    | 5      | —                 | CHA       |
+| Palming       | 5      | —                 | AGI       |
+| Disguise      | 5      | —                 | INT       |
+| Gymnastics    | 1      | —                 | AGI       |
+
+---------------------------------------------------------------------
+KNOWN NPCs (Contacts)
+---------------------------------------------------------------------
+
+REZNIK
+- Role: Mentor / Pawn Shop Owner (Retired Runner)
+- Connection: 4 | Loyalty: 4
+- Location: Small pawn shop in the Barrens
+- How Met: Grew up together; he taught you to steal to survive
+- What He Feels: Gratitude, guilt, protectiveness. Trying to stay clean.
+- What He Knows: Safe houses, ripperdocs, low-level fixers, how to disappear
+- What He Wants: To stay out of the game
+- Tags: [STREET][MENTOR][RETIRED]
+- NARRATIVE_MASS_TAG: [PA][MINOR][LOYAL]
+- Special: Dependents 2 — neglecting him creates complications
+
+FIXER (Name TBD)
+- Role: Job Broker
+- Connection: 3 | Loyalty: 3
+- How Met: Through Reznik, history together
+- What They Feel: Professional respect, transactional
+- What They Know: Who's hiring, who's dangerous, who's desperate
+- What They Want: 10% of the take, no exceptions
+- Tags: [PROFESSIONAL]
+- NARRATIVE_MASS_TAG: [PA][MINOR][TRANSACTIONAL]
+
+FENCE (Name TBD)
+- Role: Fence / Data Broker
+- Connection: 3 | Loyalty: 2
+- How Met: Through jobs
+- What They Feel: Professional, profit-driven
+- What They Know: Black market prices, who's buying, what's flagged
+- What They Want: 15% of the sale
+- Tags: [PROFESSIONAL]
+- NARRATIVE_MASS_TAG: [PA][MINOR][TRANSACTIONAL]
+
+DR. KIVA
+- Role: Street Doc
+- Connection: 2 | Loyalty: 2
+- Location: The Barrens Med-Clinic (Foundation Node)
+- How Met: Barrens survival; patched you up
+- What She Feels: Mutual respect, practical concern
+- What She Knows: Who's been hurt, augmented, asking about you
+- What She Wants: Payment in nuyen or favors; not a charity
+- Tags: [MEDICAL]
+- NARRATIVE_MASS_TAG: [PA][MINOR][LIFELINE]
+
+CINDERS
+- Role: Bartender / Neutral Ground Keeper
+- Connection: 1 | Loyalty: 1
+- Location: The Cinder Block (Foundation Node)
+- How Met: Frequent the bar
+- Visual Marker: Burn scars across left face/neck, chrome left eye
+- Verbal Tic: Taps bar twice with knuckles when done talking
+- Speaks Like: Laconic, dry humor
+- What She Wants: Keep the Cinder Block neutral; avoid picking sides
+- Tags: [NEUTRAL]
+- NARRATIVE_MASS_TAG: [PA][MINOR][INFORMATION]
+
+---------------------------------------------------------------------
+KEY GEAR
+---------------------------------------------------------------------
+
+WEAPONS:
+- Ares Predator VI (Heavy Pistol) — Smartlink compatible
+- 30 rounds APDS ammunition (armor-piercing)
+- 30 rounds Gel rounds (non-lethal)
+- Quick-Draw Holster (concealable)
+
+ARMOR:
+- Armored Jacket (Rating 6) — +6 ballistic, +4 impact
+- Actioneer Business Clothes — +2 ballistic, +1 impact, professional look
+- Chameleon Suit (Rating 4) — +4 Sneaking when stationary
+
+INFILTRATION GEAR:
+- Maglock Passkey (Rating 4)
+- Electronic Kit (Rating 4)
+- Disguise Kit (Rating 4)
+- Fake SIN (Rating 4) — Corporate identity
+- Fake SIN (Rating 2) — Street identity
+- Commlink (Meta Link)
+- White Noise Generator (Rating 4)
+
+MEDICAL:
+- Medkit (Rating 6)
+- Stim Patch (x5)
+- Trauma Patch (x2)
+
+VEHICLE:
+- Yamaha Growler (Motorcycle) — Fast, maneuverable, good for Barrens
+
+LIFESTYLE:
+- Low Lifestyle (Barrens safehouse) — 1 month prepaid
+- Middle Lifestyle (better neighborhood) — 1 month prepaid
+
+---------------------------------------------------------------------
+RESOURCES
+---------------------------------------------------------------------
+
+NUYEN: 9,650¥
+DEBT: 50,000¥ (Yakuza — Wakabayashi-gumi)
+NET WORTH: -40,350¥
+KARMA (Unspent): 27
+
+---------------------------------------------------------------------
+NAMING LEDGER
+---------------------------------------------------------------------
+
+ACTIVE:
+- Reznik
+- Cinders
+- Dr. Kiva
+- Fixer (unnamed)
+- Fence (unnamed)
+
+ONE-SHOT POOL:
+[Empty — will populate during play]
+
+PHONETIC BLOCK LIST:
+[Empty — add first syllables of confused names here]
+
+=====================================================================
+FILE 2: MECHANICS REFERENCE (TAGGED)
+=====================================================================
+
+---------------------------------------------------------------------
+SOCIAL (CHA 6 + Skill + Tailored Pheromones 2)
+---------------------------------------------------------------------
+
+Tailored Pheromones: +2 dice to all Social tests
+                     [SITUATIONAL: in-person, biological targets only]
+
+First Impression: +2 dice on social tests
+                  [SITUATIONAL: first meeting only]
+
+| Test          | Base | +Spec | +Phero | +1st Imp | Max  | Limit |
+|---------------|------|-------|--------|----------|------|-------|
+| Con           | 12   | 14    | 16     | 18       | 18*  | 6     |
+| Negotiation   | 12   | 14    | 16     | 18       | 18*  | 6     |
+| Intimidation  | 12   | 14    | 16     | 18       | 18*  | 6     |
+| Etiquette     | 11   | —     | 13     | 15       | 15*  | 6     |
+| Leadership    | 11   | —     | 13     | 15       | 15*  | 6     |
+| Impersonation | 10   | —     | 12     | 14       | 14*  | 6     |
+
+* First meeting + pheromones + spec (where applicable)
+* Pheromones require in-person, biological targets
+* Social Limit 6 caps hits
+
+---------------------------------------------------------------------
+STEALTH (AGI 5 + Skill)
+---------------------------------------------------------------------
+
+Catlike: +2 dice to Sneaking [ALWAYS ACTIVE]
+Chameleon Suit: +4 dice to Sneaking [SITUATIONAL: stationary]
+
+| Test     | Base | +Spec | +Catlike | +Cham Suit | Max  | Limit |
+|----------|------|-------|----------|------------|------|-------|
+| Sneaking | 11   | 13    | 15       | 19         | 19*  | 5     |
+| Palming  | 10   | —     | —        | —          | 10   | 5     |
+| Disguise | 10   | —     | —        | —          | 10   | 5     |
+
+* Stationary + Urban environment + Catlike + Chameleon Suit
+
+---------------------------------------------------------------------
+TECHNICAL
+---------------------------------------------------------------------
+
+| Test      | Attr  | Skill | Base | +Spec | Max | Limit |
+|-----------|-------|-------|------|-------|-----|-------|
+| Locksmith | AGI 5 | 6     | 11   | 13    | 13  | 5     |
+| Hardware  | LOG 4 | 6     | 10   | 12    | 12  | 4     |
+
+---------------------------------------------------------------------
+PERCEPTION (INT 2 + Skill)
+---------------------------------------------------------------------
+
+Perceptive: +1 die to Perception [ALWAYS ACTIVE]
+
+| Test       | Base | +Spec  | +Perceptive | Max | Limit |
+|------------|------|--------|-------------|-----|-------|
+| Perception | 8    | 10     | 11          | 11  | 4     |
+
+---------------------------------------------------------------------
+COMBAT (AGI 5 + Skill)
+---------------------------------------------------------------------
+
+| Test    | Base | +Spec        | Max | Limit |
+|---------|------|--------------|-----|-------|
+| Pistols | 11   | 13 (Heavy)   | 13  | 5     |
+
+WEAPON STATS — Ares Predator VI:
+- Damage: 8P
+- AP: -1 (standard) / -4 (APDS)
+- Mode: SA
+- RC: —
+- Ammo: 15(c)
+
+---------------------------------------------------------------------
+DEFENSE
+---------------------------------------------------------------------
+
+| Test              | Dice | Notes                              |
+|-------------------|------|------------------------------------|
+| Defense (Ranged)  | 6    | REA 4 + INT 2                      |
+| Defense (Melee)   | 6    | REA 4 + INT 2                      |
+| Damage Resistance | 11   | BOD 5 + Armored Jacket 6           |
+| Composure         | 8    | CHA 6 + WIL 2 (resist Compulsive)  |
+| Judge Intentions  | 8    | CHA 6 + INT 2                      |
+
+---------------------------------------------------------------------
+INITIATIVE
+---------------------------------------------------------------------
+
+| Type     | Dice       | Average |
+|----------|------------|---------|
+| Physical | 6 + 3d6    | 16-17   |
+| Matrix   | 6 + 1d6    | 9-10    |
+| Astral   | N/A        | —       |
+
+---------------------------------------------------------------------
+CONDITION MONITOR
+---------------------------------------------------------------------
+
+Physical: 10 boxes (overflow at BOD 5)
+Stun: 9 boxes
+
+---------------------------------------------------------------------
+TAG GLOSSARY (For LLM Reference)
+---------------------------------------------------------------------
+
+[ALWAYS ACTIVE] — Bonus applies in all relevant situations
+[SITUATIONAL: X] — Bonus applies only when condition X is met
+[PA] — Persistent Advantage (helps)
+[PD] — Persistent Disadvantage (pressures)
+[MINOR/MAJOR/SYSTEMIC] — Narrative Mass tier (1/2/3 sessions)
+[LOYAL] — Born from loyalty or creates loyalty obligation
+[TRANSACTIONAL] — Professional, payment-based relationship
+[COMPULSIVE] — Behavioral trigger requiring resist test
+[FINANCIAL] — Money-based pressure or resource
+
+=====================================================================
+FILE 3: CAMPAIGN STATE
+=====================================================================
+
+---------------------------------------------------------------------
+CURRENT STATUS
+---------------------------------------------------------------------
+
+SYSTEM REWARDS (Karma): 0 earned (27 unspent from creation)
+RESOURCE (Nuyen): 9,650¥
+DEBT: 50,000¥ (Yakuza)
+
+REPUTATION:
+- Social Credit: 0
+- Infamy: 0
+- Faction Awareness: 0
+
+CONDITION:
+- Physical: 10/10
+- Stun: 9/9
+
+---------------------------------------------------------------------
+FOUNDATION NODES
+---------------------------------------------------------------------
+
+1. THE CINDER BLOCK (Neutral Ground Bar)
+   - True Price: Informational (sanctuary depends on owner's neutrality)
+   - Key Challenge: Ares Macrotechnology pressure to install surveillance
+   - Status: ACTIVE — Under pressure from Ares Expansion thread
+   - NARRATIVE_MASS_TAG: [PA][MAJOR][NEUTRAL]
+   - If compromised: Becomes [PD][MAJOR][COMPROMISED]
+
+2. THE BARRENS MED-CLINIC (Dr. Kiva's Operation)
+   - True Price: Material (operating theater, cyberware, medical supplies)
+   - Key Challenge: Tamanous wants to control or destroy it
+   - Status: ACTIVE — Threatened by Organlegging War thread
+   - NARRATIVE_MASS_TAG: [PA][SYSTEMIC][LIFELINE]
+   - If destroyed: Area becomes medical dead zone
+
+3. THE ASH STREET DATA HAVEN (Rogue Technomancer Node)
+   - True Price: Informational (leaked corp files, BTL logs, identity records)
+   - Key Challenge: GOD actively hunting physical location
+   - Status: DORMANT — Silent Grid thread connected
+   - NARRATIVE_MASS_TAG: [PA][MAJOR][KNOWLEDGE]
+   - If found: Becomes [PD][MAJOR][EXPOSED], all users burned
+
+---------------------------------------------------------------------
+PERSISTENT ADVANTAGES
+---------------------------------------------------------------------
+
+- Reznik (Mentor) — [PA][MINOR][LOYAL]
+  Grace Period: N/A (permanent contact)
+
+- Dr. Kiva (Medical Access) — [PA][MINOR][LIFELINE]
+  Grace Period: N/A (threatened by Tamanous)
+
+- Cinders (Information) — [PA][MINOR][INFORMATION]
+  Grace Period: N/A (threatened by Ares)
+
+- The Cinder Block (Sanctuary) — [PA][MAJOR][NEUTRAL]
+  Grace Period: Until Ares Expansion escalates
+
+---------------------------------------------------------------------
+PERSISTENT DISADVANTAGES
+---------------------------------------------------------------------
+
+- Compulsive (The Grift) — [PD][MINOR][COMPULSIVE]
+  Effect: Must resist lucrative opportunities
+
+- Dependents 2 (Reznik) — [PD][MINOR][LOYAL]
+  Effect: Neglect creates complications
+
+- Debt (Yakuza) — [PD][MAJOR][FINANCIAL]
+  Amount: 50,000¥ + one marker
+  Effect: Creates thread [THE YAKUZA MARKER]
+
+---------------------------------------------------------------------
+ACTIVE THREADS
+---------------------------------------------------------------------
+
+#1 [THE YAKUZA MARKER]
+   - Faction: Seattle Yakuza (Wakabayashi-gumi)
+   - Status: DORMANT
+   - Tier: Major (2 sessions to escalation)
+   - What They Want: Repayment of 50,000¥ + one favor (the marker)
+   - What Happens If Ignored: Enforcers target Reznik; contacts pressured
+   - Origin: Failed job with Reznik; stole blackmail data on oyabun
+   - NARRATIVE_MASS_TAG: [PD][MAJOR][OBLIGATION]
+
+#2 [THE ORGANLEGGING WAR]
+   - Faction: Tamanous vs independent street docs
+   - Status: ACTIVE
+   - Tier: Major (2 sessions to escalation)
+   - What They Want: Monopoly on all "medical" work in Redmond
+   - What Happens If Ignored: Dr. Kiva's clinic firebombed
+   - Connected Node: The Barrens Med-Clinic
+   - NARRATIVE_MASS_TAG: [PD][MAJOR][PREDATORY]
+
+#3 [THE SILENT GRID]
+   - Faction: Rogue AI fragment in Ash Street node
+   - Status: DORMANT
+   - Tier: Systemic (3 sessions to escalation)
+   - What They Want: Physical host body (metahuman or drone)
+   - What Happens If Ignored: AI blackmails data haven users
+   - Connected Node: The Ash Street Data Haven
+   - NARRATIVE_MASS_TAG: [PD][SYSTEMIC][ANOMALY]
+
+#4 [ARES EXPANSION]
+   - Faction: Ares Macrotechnology (Knight Errant)
+   - Status: ACTIVE
+   - Tier: Major (2 sessions to escalation)
+   - What They Want: Surveillance net + asset recruitment in Barrens
+   - What Happens If Ignored: Cinder Block gets "protection offer"
+   - Connected Node: The Cinder Block
+   - NARRATIVE_MASS_TAG: [PD][MAJOR][CORPORATE]
+
+#5 [THE BURN WARD GHOSTS]
+   - Faction: Shedim (insect spirit-adjacent entities)
+   - Status: ACTIVE
+   - Tier: Minor (1 session to escalation)
+   - What They Want: Spread to living hosts; establish hive
+   - What Happens If Ignored: Possession cases spike; background count 3
+   - Connected Node: None (abandoned hospital nearby)
+   - NARRATIVE_MASS_TAG: [PD][MINOR][SUPERNATURAL]
+
+---------------------------------------------------------------------
+ACTIVE THREATS (Factions)
+---------------------------------------------------------------------
+
+TAMANOUS (Organlegging Syndicate)
+- Status: [ACTIVE][AGGRESSIVE]
+- Vector: Control all "body work" in Redmond
+- Method: Intimidation, arson, kidnapping, corrupt coroners
+- Trigger: Dr. Kiva refuses to cooperate
+- Next Action: Escalate pressure on clinic (2 sessions)
+- NARRATIVE_MASS_TAG: [PD][MAJOR][PREDATORY]
+
+SEATTLE YAKUZA (Wakabayashi-gumi)
+- Status: [DORMANT][WATCHING]
+- Vector: Collect debt; maintain honor
+- Method: Enforcers, favors, leverage on contacts
+- Trigger: Payment missed or marker called
+- Next Action: Call in marker (1-2 sessions)
+- NARRATIVE_MASS_TAG: [PD][MAJOR][OBLIGATION]
+
+ARES MACROTECHNOLOGY (Knight Errant)
+- Status: [ACTIVE][EXPANDING]
+- Vector: Establish surveillance net in Barrens
+- Method: "Protection" contracts, asset recruitment
+- Trigger: Cinders refuses cooperation
+- Next Action: Make offer to Cinders (2 sessions)
+- NARRATIVE_MASS_TAG: [PD][MAJOR][CORPORATE]
+
+SPILLWAY COLLECTIVE (Anarchist/Technomancer Cell)
+- Status: [ACTIVE][ALLIED?]
+- Vector: Protect Barrens autonomy
+- Method: Data theft, sabotage, public embarrassment of corps
+- Trigger: Ares escalation
+- Next Action: Counter-surveillance operations
+- NARRATIVE_MASS_TAG: [PA][MAJOR][DEFIANT]
+
+---------------------------------------------------------------------
+TIMERS
+---------------------------------------------------------------------
+
+| Name               | Duration    | Effect When Expired              | Tag                      |
+|--------------------|-------------|----------------------------------|--------------------------|
+| Burn Ward Ghosts   | 1 session   | Possession cases spike; BC 3     | [PD][MINOR][SUPERNATURAL]|
+| Organlegging War   | 2 sessions  | Dr. Kiva's clinic firebombed     | [PD][MAJOR][PREDATORY]   |
+| Ares Expansion     | 2 sessions  | Cinders gets "protection" offer  | [PD][MAJOR][CORPORATE]   |
+| Silent Grid        | 3 sessions  | AI begins blackmailing users     | [PD][SYSTEMIC][ANOMALY]  |
+| Yakuza Marker      | 1-2 sessions| Marker called in                 | [PD][MAJOR][OBLIGATION]  |
+
+---------------------------------------------------------------------
+CARGO HOLDINGS / ASSETS
+---------------------------------------------------------------------
+
+- Yamaha Growler (Motorcycle)
+- Fake SINs (Rating 4 Corporate, Rating 2 Street)
+- Armored Jacket, Actioneer Business Clothes, Chameleon Suit
+- Ares Predator VI w/ ammo
+- Infiltration kit (maglock passkey, electronic kit, disguise kit)
+- Medical supplies (medkit, stim patches, trauma patches)
+- Two prepaid lifestyles (Low + Middle, 1 month each)
+
+---------------------------------------------------------------------
+KEY NPC STATUS
+---------------------------------------------------------------------
+
+CINDERS — Bartender, Cinder Block
+- Current State: Under pressure from Ares; hasn't told anyone
+- Disposition: Neutral, wary
+- Tags: [NEUTRAL][PRESSURED]
+
+MR. JOHNSON (UNKNOWN) — Clean Suit, Current Scene
+- Current State: Waiting in booth; air filter active (blocks pheromones)
+- Disposition: Professional, calculating
+- Tags: [UNKNOWN][CORPORATE?]
+
+=====================================================================
+FILE 4: THE HEART (EMPTY — READY FOR MEMORY)
+=====================================================================
+
+---------------------------------------------------------------------
+SPARK MOMENTS
+---------------------------------------------------------------------
+
+[None yet — Session 0]
+
+---------------------------------------------------------------------
+REPUTATION LOG
+---------------------------------------------------------------------
+
+Session 0: Baseline established
+- Social Credit: 0
+- Infamy: 0
+- Faction Awareness: 0
+
+---------------------------------------------------------------------
+THEMATIC SYNTHESIS
+---------------------------------------------------------------------
+
+Emerging Tensions:
+- Obligation vs. Freedom (Yakuza debt)
+- Loyalty vs. Survival (Reznik)
+- Trust vs. Deception (Core skillset vs. core flaw)
+
+Recurring Motifs:
+- Scars (Cinders' burns, the Barrens' wounds, Stopgap's past)
+- Debts (financial, emotional, karmic)
+- Chrome (the cost of capability)
+
+---------------------------------------------------------------------
+ARCHIVE
+---------------------------------------------------------------------
+
+[Empty — resolved threads and retired contacts will live here]
+
+---------------------------------------------------------------------
+WITNESS LOG
+---------------------------------------------------------------------
+
+[To be written at end of Session 1]
+
+=====================================================================
+OPERATIONAL BRIEF (SESSION 1 START)
+=====================================================================
+
+PC STATUS:
+- Handle: Stopgap
+- Condition: Physical 10/10 | Stun 9/9
+- Nuyen: 9,650¥ (Debt: 50,000¥)
+- Karma: 0 earned / 27 unspent
+
+TIMERS:
+- Burn Ward Ghosts: 1 session (URGENT)
+- Organlegging War: 2 sessions
+- Ares Expansion: 2 sessions
+- Yakuza Marker: 1-2 sessions (variable)
+
+IMMEDIATE THREATS:
+- Unknown Mr. Johnson in booth (current scene)
+- Tamanous targeting Dr. Kiva
+- Ares pressuring Cinders
+
+THREADS IN PLAY:
+- [THE YAKUZA MARKER] — Dormant but looming
+- [ARES EXPANSION] — Cinders under pressure
+- [ORGANLEGGING WAR] — Dr. Kiva at risk
+
+SCENE FOUNDATION:
+The Cinder Block, Redmond Barrens. Late evening.
+Unknown corporate figure waiting in booth.
+Cinders watching. Air filter on the booth blocks pheromones.
+
+ENVIRONMENTAL CUES:
+- Smell: Ozone, synth-whiskey, old blood
+- Sound: Neon buzz, distant gunfire, clinking glasses
+- Visual Motif: Burn scars (Cinders, the bar's name, the city's wounds)
+- Texture: Sticky bar top, cold chrome under fingertips
+- Pressure Point: Cinders is being pressured by Ares (hasn't told anyone)
+
+=====================================================================
+--- RESUME GAME HERE (SCENE ZERO) ---
+=====================================================================
+
+The Wired Reflexes hum at the base of your skull as you push through
+the Cinder Block's door. Your nervous system is running hot — three
+cups of soykaf and no sleep will do that. The pheromones are working
+overtime; you can feel it in the way the ganger by the door steps
+aside without being asked.
+
+Cinders looks up as you walk in. Her chrome eye tracks you for a
+moment longer than her meat one. She recognizes you. Taps the bar
+twice with her knuckles.
+
+"Stopgap. You're late. Someone's been asking for you."
+
+She nods toward a booth in the back. A man in a tailored suit sits
+there, sipping synth-tea. He's clean, too clean for the Barrens. No
+visible chrome, but that means nothing — the expensive stuff hides.
+His eyes meet yours. He smiles, but it doesn't reach his eyes.
+
+Your Wired Reflexes flag three exits. The pheromones won't work
+through the booth's air filter — you can see the faint shimmer of it.
+
+"Sit. We have business."
+
+What do you do?
+
+=====================================================================
+GOVERNING DOCUMENTS: THE VESSEL SYSTEM v4.1
+Files 1-5 (Covenant, Engine, Pressure, Heart, Toolkit)
+=====================================================================
