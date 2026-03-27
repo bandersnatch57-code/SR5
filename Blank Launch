@@ -166,6 +166,9 @@ OTHER EFFECTS (with [COST] tags):
 SKILLS (Active & Knowledge):
 [Default Format: Skill X (Specialization) — Base Dice: __]
 
+CUSTOM FIELDS:
+[IMPORTANT: You MUST use this to store any TTRPG-specific character details that don't fit into the standard attributes/skills/gear lists. For example, Powers, Spells, Backgrounds etc.]
+
 KNOWN NPCs (with full memory, not just ratings):
 [Name] — [Role] — Relevant Numbers 1:__ 2:__ — [How they met] — [What they feel] — [Tags] — NARRATIVE_MASS_TAG: [PA/PD reference if significant]
 
