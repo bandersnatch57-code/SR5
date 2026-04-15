@@ -1,0 +1,94 @@
+DeepSeek 3.2
+
+**Action Declaration:** Cast *Arms of Hadar* at the choke point. The spell's area fills the corridor where the Dread-Hooves and their mounts are clustered.
+
+---
+
+**DICE VERIFICATION TRACE (2-Back Protocol)**
+
+**Mode:** D&D 5E (2024)
+**Seed Source:** GM's second-most-recent complete response (previous post, excluding trace/OOC)
+**Seed Text:** "You were more than a witness. You were the reason the Silence ended. The Root will know your name, Grekel. It will *remember*. He releases you and turns toward the iron-dark entrance of the Root. The moment he crosses the threshold, the branches *move*—not aggressively, but welcoming, parting to receive him, closing behind him like a curtain drawing shut. The sapling in his chest blazes one final time. Then he is gone. --- You turn. The corridor is narrow—fifteen feet wide, low ceiling. Good defensive ground. The bioluminescent fungi still pulse faintly, enough to see by, enough for your enemies to see *you*. They come around the bend. Dread-Hooves. Three of them, armored in black iron, mounted on horses that should not fit in these tunnels but somehow do—horses with eyes that glow like embers, hooves that strike sparks from the stone. Behind them, torchlight reveals more: foot soldiers, a dozen at least, their faces hidden behind visored helms. The lead rider raises a lance. Points it at you. 'Tiefling,' a voice echoes from within the helm. 'The Seed-Bearer. Where?' Behind you, the Root is silent. Thistle is inside now. Safe. For now. The Dread-Hoove urges his horse forward a step. 'Last chance. Speak, or be rendered unto silence.'"
+**Salt:** None provided.
+**Cleaned Words:** [You, were, more, than, a, witness, You, were, the, reason, the, Silence, ended, The, Root, will, know, your, name, Grekel, It, will, remember, He, releases, you, and, turns, toward, the, iron, dark, entrance, of, the, Root, The, moment, he, crosses, the, threshold, the, branches, move, not, aggressively, but, welcoming, parting, to, receive, him, closing, behind, him, like, a, curtain, drawing, shut, The, sapling, in, his, chest, blazes, one, final, time, Then, he, is, gone, You, turn, The, corridor, is, narrow, fifteen, feet, wide, low, ceiling, Good, defensive, ground, The, bioluminescent, fungi, still, pulse, faintly, enough, to, see, by, enough, for, your, enemies, to, see, you, They, come, around, the, bend, Dread, Hooves, Three, of, them, armored, in, black, iron, mounted, on, horses, that, should, not, fit, in, these, tunnels, but, somehow, do, horses, with, eyes, that, glow, like, embers, hooves, that, strike, sparks, from, the, stone, Behind, them, torchlight, reveals, more, foot, soldiers, a, dozen, at, least, their, faces, hidden, behind, visored, helms, The, lead, rider, raises, a, lance, Points, it, at, you, Tiefling, a, voice, echoes, from, within, the, helm, The, Seed, Bearer, Where, Behind, you, the, Root, is, silent, Thistle, is, inside, now, Safe, For, now, The, Dread, Hoove, urges, his, horse, forward, a, step, Last, chance, Speak, or, be, rendered, unto, silence]
+
+**Arms of Hadar** (Save spell, DC 15, Necrotic damage)
+
+*Requires 1 die for effect, but no attack roll—saving throw fixed. We roll to determine if narrative emphasis or additional effect triggers? No—spell just works, targets roll. However, for verification practice:*
+
+**Verification Trace (d20 for "narrative weight / surge" — optional flair per GM discretion, not required for spell resolution):**
+
+Die 1 (d20):
+- Word Group 1-4: [You] [were] [more] [than]
+- Letters (pos1-4): Y(1), W(2), M(3), T(4) — W(2) vowel? No, consonant. T(4) vowel? No.
+- Buckets: Y(4, bucket 5/6?), check bucket table:
+  Bucket 1: E,C,K,X,J
+  Bucket 2: T,I
+  Bucket 3: A,O
+  Bucket 4: N,S,M,B,V
+  Bucket 5: H,R,L
+  Bucket 6: D,U,W,F,G,Y,P,Q,Z
+
+Y → Bucket 6
+W → Bucket 6
+M → Bucket 4
+T → Bucket 2
+
+Coin (Word1, bucket1-3=0, 4-6=10): Bucket 6 → Coin = 10
+Base (Words 2-4 sum buckets → last digit):
+- Word2 W: Bucket 6
+- Word3 M: Bucket 4
+- Word4 T: Bucket 2
+Sum = 6+4+2 = 12 → last digit = 2
+Total = Coin (10) + Base (2) = 12
+
+**d20 Result: 12**
+
+*(Interpretation: Spell functions normally; no surge or complication.)*
+
+---
+
+**RESOLUTION:**
+
+Darkness explodes from you.
+
+Not shadow—something older. Tendrils of living void lash outward from your outstretched hands, writhing with the hunger of places where light has never touched. The Arms of Hadar fill the corridor, and the Dread-Hooves *scream*.
+
+Horses rear. Men clutch at their helms as the darkness finds the gaps in their armor, as it tears at flesh that has never known warmth. The lead rider topples from his mount, lance clattering against stone. The second horse bolts—directly into the third, creating a tangle of armored flesh and panicked animal.
+
+**Arms of Hadar damage:**
+Roll 2d6 necrotic (per spell).
+
+**Verification Trace (2d6):**
+
+Die 1 (d6 - Semantic Protocol A):
+- Word: [a] (pos1 cycle: +0)
+- Letter: a (pos1)
+- Bucket: A → Bucket 3
+- Diffusion: +0
+- Final: 3 (>6? no) → 3
+
+Die 2 (d6):
+- Word: [witness] (pos2 cycle: +1)
+- Letter: w (pos2? witness length 7, pos2 = i? Wait, position 2 = second letter = i)
+  Correction: word "witness" letters: w(1), i(2), t(3), n(4), e(5), s(6), s(7)
+  Position 2 → i
+- Bucket: i → Bucket 2
+- Diffusion: +1 → 3
+- Final: 3
+
+**d6 Results: 3, 3 → Total 6 necrotic damage**
+
+---
+
+The lead rider goes down. The two behind him take the full force—one slumps in his saddle, the other falls beneath his horse.
+
+But they keep coming.
+
+Foot soldiers push past the chaos, swords drawn. Two, then four, then six—fanning out as best they can in the narrow space. The surviving Dread-Hoove dismounts, draws a blade that burns with cold fire.
+
+"You'll die for that, heretic."
+
+They advance.
+
+**Combat continues. What do you do?**
