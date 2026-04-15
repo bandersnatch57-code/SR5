@@ -1,0 +1,196 @@
+
+Trace Corrections:
+
+Verification Trace (d12 damage):
+
+Die 1 (d12):
+
+Word 1 first letter → Coin: [The] → T → Bucket 2 → Coin = 0
+Word 2 first letter → Bucket: [shimmering] → s → Bucket 4
+Total = Coin (0) + Bucket (4) = 4
+d12 Damage Result: 4
+
+Eldritch Blast (Spell attack: +7 to hit, 1d10 force)
+
+Verification Trace (d20 to hit):
+
+Die 1 (d20):
+
+Word Group 1-4: [Darkness] [exploded] [from] [you]
+Letters: D(1), e(2), f(3), y(4)
+Buckets:
+D → Bucket 6
+e → Bucket 1
+f → Bucket 6
+y → Bucket 6
+Coin (Word1 bucket1-3=0, 4-6=10): Bucket 6 → Coin = 10
+Base (Words 2-4 sum buckets → last digit):
+Word2 e: Bucket 1
+Word3 f: Bucket 6
+Word4 y: Bucket 6
+Sum = 1+6+6 = 13 → last digit = 3
+Total = Coin (10) + Base (3) = 13
+d20 Result: 13
+Total Attack Roll: 13 + 7 = 20 vs. AC
+
+Verification Trace (d10 damage):
+
+Die 1 (d10 - Protocol B):
+
+Word Group 1-3: [Not] [shadow] [something]
+Letters: N, s, s
+Buckets:
+N → Bucket 4
+s → Bucket 4
+s → Bucket 4
+Sum = 4+4+4 = 12 → last digit = 2
+d10 mapping: 2 → 2
+d10 Damage Result: 2
+
+Arms of Hadar damage:
+Roll 2d6 necrotic (per spell).
+
+Verification Trace (2d6):
+
+Die 1 (d6 - Semantic Protocol A):
+
+Word: [a] (pos1 cycle: +0)
+Letter: a (pos1)
+Bucket: A → Bucket 3
+Diffusion: +0
+Final: 3 (>6? no) → 3
+Die 2 (d6):
+
+Word: [witness] (pos2 cycle: +1)
+Letter: w (pos2? witness length 7, pos2 = i? Wait, position 2 = second letter = i)
+Correction: word "witness" letters: w(1), i(2), t(3), n(4), e(5), s(6), s(7)
+Position 2 → i
+Bucket: i → Bucket 2
+Diffusion: +1 → 3
+Final: 3
+d6 Results: 3, 3 → Total 6 necrotic damage
+
+Eldritch Blast (Spell attack: +7 to hit, 1d10 force)
+
+Verification Trace (d20 to hit):
+
+Die 1 (d20):
+
+Word Group 1-4: [You] [thrust] [your] [hand]
+Letters: Y(1), t(2), y(3), h(4)
+Buckets:
+Y → Bucket 6
+t → Bucket 2
+y → Bucket 6
+h → Bucket 5
+Coin (Word1 bucket1-3=0, 4-6=10): Bucket 6 → Coin = 10
+Base (Words 2-4 sum buckets → last digit):
+Word2 t: Bucket 2
+Word3 y: Bucket 6
+Word4 h: Bucket 5
+Sum = 2+6+5 = 13 → last digit = 3
+Total = Coin (10) + Base (3) = 13
+d20 Result: 13
+Total Attack Roll: 13 + 7 = 20 vs. AC
+
+Verification Trace (d10 damage):
+
+Die 1 (d10):
+
+Word Group 1-3: [forward] [crystal] [blazing]
+Letters: f, c, b
+Buckets:
+f → Bucket 6
+c → Bucket 1
+b → Bucket 4
+Sum = 6+1+4 = 11 → last digit = 1
+d10 mapping: 1 → 1
+d10 Damage Result: 1
+
+
+Another Model:
+
+=== HOSTILE INITIATIVE ===
+
+The skeleton swings a rusted blade at you as you pass.
+
+=== DICE ROLL VERIFICATION ===
+Protocol: B d20 (Skeleton Attack Roll)
+Seed: "An ancient skeleton lurches into your path burial shroud hanging in tatters empty sockets fixed on you"
+
+Extraction & Echo:
+"An" (A) → vowel → next (N) → Bucket 4 (Table: N,S,M,B,V)
+"ancient" (A) → vowel → next (N) → Bucket 4 (Table: N,S,M,B,V)
+"skeleton" (S) → Bucket 4 (Table: N,S,M,B,V)
+"lurches" (L) → Bucket 5 (Table: H,R,L)
+
+Logic:
+Coin: Bucket 4 is 4–6 → 10
+Base sum = 4 + 4 + 5 = 13 → last digit 3
+Total = 10 + 3 = 13
+
+FINAL RESULT: 13 vs AC 14
+
+MISS.
+
+=== DICE ROLL VERIFICATION ===
+Protocol: B d20 (Eldritch Blast Attack Roll)
+Seed: "You raise your free hand arcane energy coiling between your fingers The leaf mark beneath your skin pulses once a heartbeat of warmth and then the blast screams toward Torven"
+
+Extraction & Echo:
+"You" (Y) → Bucket 6 (Table: D,U,W,F,G,Y,P,Q,Z)
+"raise" (R) → Bucket 5 (Table: H,R,L)
+"your" (Y) → Bucket 6 (Table: D,U,W,F,G,Y,P,Q,Z)
+"free" (F) → Bucket 6 (Table: D,U,W,F,G,Y,P,Q,Z)
+
+Logic:
+Coin: Bucket 6 is 4–6 → 10
+Base sum = 5 + 6 + 6 = 17 → last digit 7
+Total = 10 + 7 = 17
+
+FINAL RESULT: 17 + 7 (Spell Attack) = 24 | vs Torven's AC
+
+
+=== DICE ROLL VERIFICATION ===
+Protocol: A d10 (Eldritch Blast Damage)
+Seed: "The bolt of crackling force strikes Torven square in the chest Hes thrown backward silver circlet flying from his brow his concentration shattered"
+
+Extraction & Echo (cycling words, letter positions 1-2-3):
+Die 1: "The" → Position 1 → T → Bucket 2 (Table: T,I)
+Diffusion: +0
+Final: 2
+
+Die 2: "bolt" → Position 2 → O → Bucket 3 (Table: A,O)
+Diffusion: +1 → 3 + 1 = 4
+Final: 4
+
+Die 3: "of" → Position 3 → word length 2 < position 3 → Last Letter: F → Bucket 6 (Table: D,U,W,F,G,Y,P,Q,Z)
+Diffusion: +2 → 6 + 2 = 8 → 8 - 6 = 2
+Final: 2
+
+Wait—Eldritch Blast is 1d10, not d6 pool.
+
+Let me recalculate using Protocol B for d10:
+
+=== DICE ROLL VERIFICATION ===
+Protocol: B d10 (Eldritch Blast Damage)
+Seed: "The bolt of crackling force strikes Torven square in the chest Hes thrown backward silver circlet flying from his brow his concentration shattered"
+
+Extraction & Echo (3 words per die):
+"The" (T) → Bucket 2 (Table: T,I)
+"bolt" (B) → Bucket 4 (Table: N,S,M,B,V)
+"of" (O) → vowel → next (F) → Bucket 6 (Table: D,U,W,F,G,Y,P,Q,Z)
+
+Logic:
+Sum = 2 + 4 + 6 = 12 → last digit 2
+d10 mapping: 2 → 2
+
+FINAL RESULT: 2 + 5 (Agonizing Blast) = 7 Force damage
+
+Third model:
+
+AUDITOR RECALL STEP (PROTOCOL B)
+BUCKET TABLE (UPPERCASE) 1: E, C, K, X, J 2: T, I 3: A, O 4: N, S, M, B, V 5: H, R, L 6: D, U, W, F, G, Y, P, Q, Z
+
+=== DICE ROLL VERIFICATION ===
+Protocol: B d20 (Stealth Check) Seed: "Brother Thistle is...
