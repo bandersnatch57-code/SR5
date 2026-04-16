@@ -92,3 +92,130 @@ Foot soldiers push past the chaos, swords drawn. Two, then four, then six—fann
 They advance.
 
 **Combat continues. What do you do?**
+
+****
+
+Other Model correction (Gemini ?):
+
+You raise your free hand, arcane energy coiling between your fingers. The leaf-mark beneath your skin pulses once—a heartbeat of warmth—and then the blast **screams** toward Torven.
+
+---
+
+=== DICE ROLL VERIFICATION ===
+**Protocol:** B d20 (Eldritch Blast Attack Roll)
+**Seed:** "You raise your free hand arcane energy coiling between your fingers The leaf mark beneath your skin pulses once a heartbeat of warmth and then the blast screams toward Torven"
+
+**Extraction & Echo:**
+"You" (Y) → Bucket 6 (Table: D,U,W,F,G,Y,P,Q,Z)
+"raise" (R) → Bucket 5 (Table: H,R,L)
+"your" (Y) → Bucket 6 (Table: D,U,W,F,G,Y,P,Q,Z)
+"free" (F) → Bucket 6 (Table: D,U,W,F,G,Y,P,Q,Z)
+
+**Logic:**
+Coin: Bucket 6 is 4–6 → 10
+Base sum = 5 + 6 + 6 = 17 → last digit 7
+Total = 10 + 7 = **17**
+
+**FINAL RESULT:** **17 + 7 (Spell Attack) = 24** | vs Torven's AC
+
+---
+
+**HIT.**
+
+The bolt of crackling force strikes Torven square in the chest. He's thrown backward, silver circlet flying from his brow, his concentration **shattered**.
+
+---
+
+=== DICE ROLL VERIFICATION ===
+**Protocol:** A d10 (Eldritch Blast Damage)
+**Seed:** "The bolt of crackling force strikes Torven square in the chest Hes thrown backward silver circlet flying from his brow his concentration shattered"
+
+**Extraction & Echo (cycling words, letter positions 1-2-3):**
+Die 1: "The" → Position 1 → T → Bucket 2 (Table: T,I)
+Diffusion: +0
+Final: 2
+
+Die 2: "bolt" → Position 2 → O → Bucket 3 (Table: A,O)
+Diffusion: +1 → 3 + 1 = 4
+Final: 4
+
+Die 3: "of" → Position 3 → word length 2 < position 3 → Last Letter: F → Bucket 6 (Table: D,U,W,F,G,Y,P,Q,Z)
+Diffusion: +2 → 6 + 2 = 8 → 8 - 6 = 2
+Final: 2
+
+**Wait—Eldritch Blast is 1d10, not d6 pool.**
+
+Let me recalculate using Protocol B for d10:
+
+---
+
+=== DICE ROLL VERIFICATION ===
+**Protocol:** B d10 (Eldritch Blast Damage)
+**Seed:** "The bolt of crackling force strikes Torven square in the chest Hes thrown backward silver circlet flying from his brow his concentration shattered"
+
+**Extraction & Echo (3 words per die):**
+"The" (T) → Bucket 2 (Table: T,I)
+"bolt" (B) → Bucket 4 (Table: N,S,M,B,V)
+"of" (O) → vowel → next (F) → Bucket 6 (Table: D,U,W,F,G,Y,P,Q,Z)
+
+**Logic:**
+Sum = 2 + 4 + 6 = 12 → last digit 2
+d10 mapping: 2 → **2**
+
+**FINAL RESULT:** **2 + 5 (Agonizing Blast) = 7 Force damage**
+
+---
+
+The blast tears into Torven. He crumples, grey robes smoking, gasping for breath. He's **alive**—but barely. His hands shake as he tries to rise.
+
+The lattice **buckles**.
+
+The remaining stakes flare wildly—violet light strobing, the geometric pattern warping—and then the threads of energy **snap inward** toward the center of the heptagon.
+
+The ritual **collapses**.
+
+---
+
+You bring the brass whistle to your lips and blow—three short, sharp blasts that cut through the chaos.
+
+The sound carries across the hill, down through the forest, toward the east.
+
+**The Crown has been signaled. They will move on the River Shrine.**
+
+---
+
+**IMMEDIATE AFTERMATH:**
+
+The **wardens** freeze. The eastern one stares at the collapsed lattice, then at you, fury and despair warring on his face.
+
+"You've doomed us all," he snarls. "The Sleeper will wake *blind*. It will consume *everything*."
+
+The **western warden** draws a curved blade, advancing toward you—but the ground between you **erupts**.
+
+Skeletal hands. Hollow-eyed skulls. The dead are **rising in force now**, drawn by the collapsed resonance, pulled from their graves by energy with nowhere to go.
+
+**Fifteen... twenty... more.**
+
+They don't distinguish between you and the wardens. They simply *move*—toward anything living.
+
+**Torven** crawls toward the center of the heptagon, reaching for the silver circlet. His lips move—a prayer, or a curse.
+
+**Seren** grabs your arm. "Grekel—*we go NOW*."
+
+**Mirren** is already running toward the northern slope—the path through the thickest graves, the one the wardens avoided.
+
+**Aykiyeer** appears at your shoulder, visible again, wings beating frantically. "*The dead are rising faster than I can count, master. This hill is becoming a tomb.*"
+
+---
+
+The whistle's echo fades. The Crown is moving.
+
+The lattice is broken. The Sleeper will feel this.
+
+But so will the River Shrine—and if the Crown arrives in time, both anchors fall together.
+
+**The mission is complete. Escape is the only objective now.**
+
+---
+
+**What do you do?**
