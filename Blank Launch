@@ -111,6 +111,11 @@ CHARACTER ORIGIN (Choose or blend):
 ☐ I was made here—in a lab, a gang, a corp. I am their product. (Bonus: Corporate or gang contact)
 ☐ I don't remember before. The first thing I know is this moment. (Bonus: [ANOMALY] tag)
 
+If the player provides a custom origin, the GM may either:
+(a) map it to one of the four bonuses, or
+(b) generate a bespoke PA/PD with NARRATIVE_MASS_TAG that reflects the specific origin.
+The bespoke option is preferred when the origin is distinctive.
+
 # LLM instruction: After player selects Origin, immediately populate:
 # - If "Street knowledge contact" → Add to KNOWN NPCs in File 1 with [STREET] tag
 # - If "[UNCLEAR ORIGIN] threat" → Add to ACTIVE THREATS in File 3 with timer (Session 3)
