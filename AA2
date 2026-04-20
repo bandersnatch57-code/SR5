@@ -288,6 +288,7 @@ Each Patch Notes block must begin with: `=== SESSION PATCH NOTES [SESSION # — 
 • **PERSISTENT ADVANTAGES / DISADVANTAGES** — Updates only
 • **SPARK_MOMENTS** — Seeds of legend, player or world surprises
 • **EMERGENT_DATA** — Any unique tracking, manifests, or in-fiction logs the system cannot hold (The Iron Permission)
+• **PLAYER_NOTE** (Optional) — The player's own words about what mattered. If provided, preserve verbatim.
 
 **ALWAYS REQUIRED (Even if no other changes):**
 • **NARRATIVE_SUMMARY**
