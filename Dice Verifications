@@ -187,11 +187,33 @@ FINAL RESULT: 2 + 5 (Agonizing Blast) = 7 Force damage
 Third model:
 
 AUDITOR RECALL STEP (PROTOCOL B)
-BUCKET TABLE (UPPERCASE) 1: E, C, K, X, J 2: T, I 3: A, O 4: N, S, M, B, V 5: H, R, L 6: D, U, W, F, G, Y, P, Q, Z
+
+BUCKET TABLE (UPPERCASE)
+1: E, C, K, X, J
+2: T, I
+3: A, O
+4: N, S, M, B, V
+5: H, R, L
+6: D, U, W, F, G, Y, P, Q, Z
 
 === DICE ROLL VERIFICATION ===
-Protocol: B d20 (Stealth Check) Seed: "Brother Thistle is...
 
+Protocol: B d20 (Stealth Check)
+Seed: "Brother Thistle is slumped against a jagged milestone, his ragged robes soaked through with freezing rain."
+Extraction & Echo:
+"Brother" (B) → Bucket 4 (Table: N,S,M,B,V)
+"Thistle" (T) → Bucket 2 (Table: T,I)
+"is" (I) → Bucket 2 (Table: T,I)
+"slumped" (S) → Bucket 4 (Table: N,S,M,B,V)
+
+Logic:
+Coin: Word1 Bucket 4 is 4–6 → 10
+Base Sum (W2+W3+W4): 2 + 2 + 4 = 8
+Last Digit: 8
+Total: 10 + 8 = 18
+
+FINAL RESULT: 18
+Resolution: 18 + 3 (DEX) = 21. Success (DC 12).
 
 Fourth model:
 
